@@ -1113,3 +1113,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-started-with-video-editing-on-mac-os-x-yosemite-a-quick-start-guide/"><u>Updated 2024 Approved Get Started with Video Editing on Mac OS X Yosemite A Quick Start Guide</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Audit of Sound Forge Capabilities
-date: 2024-05-05T03:12:47.568Z
-updated: 2024-05-06T03:12:47.568Z
+date: 2024-05-20T00:03:41.563Z
+updated: 2024-05-21T00:03:41.563Z
 tags: 
   - audio editing software
   - audio editing
@@ -1247,4 +1247,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-uue-adobe-lightroom-color-grading/"><u>New 2024 Approved How to Uue Adobe Lightroom Color Grading</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/mastering-mobile-aspect-ratio-a-guide-to-vertical-content-for-2024/"><u>Mastering Mobile Aspect Ratio A Guide to Vertical Content for 2024</u></a></li>
 </ul></div>
+
 

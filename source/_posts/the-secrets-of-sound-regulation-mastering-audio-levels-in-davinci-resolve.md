@@ -1,7 +1,7 @@
 ---
 title: The Secrets of Sound Regulation Mastering Audio Levels in DaVinci Resolve
-date: 2024-05-05T03:16:20.144Z
-updated: 2024-05-06T03:16:20.144Z
+date: 2024-05-20T00:03:48.123Z
+updated: 2024-05-21T00:03:48.123Z
 tags: 
   - audio editing software
   - audio editing
@@ -959,4 +959,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-15-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 15 SIM Lock 4 Easy Methods</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unlock-great-sound-a-comprehensive-guide-to-fcp-audio-editing/"><u>New In 2024, Unlock Great Sound A Comprehensive Guide to FCP Audio Editing</u></a></li>
 </ul></div>
+
 

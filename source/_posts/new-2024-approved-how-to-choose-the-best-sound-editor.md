@@ -1259,3 +1259,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-the-math-behind-pixels-calculating-aspect-ratios-and-resolutions/"><u>New The Math Behind Pixels Calculating Aspect Ratios and Resolutions</u></a></li>
 </ul></div>
 
+

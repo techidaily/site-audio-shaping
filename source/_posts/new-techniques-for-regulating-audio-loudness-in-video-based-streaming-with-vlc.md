@@ -1,7 +1,7 @@
 ---
 title: New Techniques for Regulating Audio Loudness in Video-Based Streaming with VLC
-date: 2024-05-05T03:36:36.818Z
-updated: 2024-05-06T03:36:36.818Z
+date: 2024-05-20T00:04:26.842Z
+updated: 2024-05-21T00:04:26.842Z
 tags: 
   - audio editing software
   - audio editing
@@ -1298,4 +1298,5 @@ Different platforms are available for high-quality sound effects for podcast sho
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y100i-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y100i Is Unlocked</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-x5-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco X5 Pro and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -752,3 +752,4 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 
+

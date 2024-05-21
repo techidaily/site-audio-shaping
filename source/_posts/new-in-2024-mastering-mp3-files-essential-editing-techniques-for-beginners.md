@@ -1178,3 +1178,4 @@ For macOS 10.12 or later
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor X50i | Dr.fone</u></a></li>
 </ul></div>
 
+

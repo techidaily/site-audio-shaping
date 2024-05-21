@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Balance Your Stream Sound with OBS Audio Ducking?
-date: 2024-05-05T03:20:19.918Z
-updated: 2024-05-06T03:20:19.918Z
+date: 2024-05-20T00:03:56.416Z
+updated: 2024-05-21T00:03:56.416Z
 tags: 
   - audio editing software
   - audio editing
@@ -1384,4 +1384,5 @@ Listening to your favorite Music at your ease is the best thing in the world. Es
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Oppo Reno 10 Pro 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A24 | Dr.fone</u></a></li>
 </ul></div>
+
 

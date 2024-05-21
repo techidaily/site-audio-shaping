@@ -1340,3 +1340,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-smart-8-hd-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Smart 8 HD Lock Screen Password</u></a></li>
 </ul></div>
 
+

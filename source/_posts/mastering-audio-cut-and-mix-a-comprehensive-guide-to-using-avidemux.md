@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Cut and Mix A Comprehensive Guide to Using Avidemux
-date: 2024-05-05T03:14:36.475Z
-updated: 2024-05-06T03:14:36.475Z
+date: 2024-05-20T00:03:44.671Z
+updated: 2024-05-21T00:03:44.671Z
 tags: 
   - audio editing software
   - audio editing
@@ -957,4 +957,5 @@ Follow @Liza Brown
 <li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-asus-rog-phone-8-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Asus ROG Phone 8 FRP</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
+
 

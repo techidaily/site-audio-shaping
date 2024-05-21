@@ -1427,3 +1427,4 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 12 devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

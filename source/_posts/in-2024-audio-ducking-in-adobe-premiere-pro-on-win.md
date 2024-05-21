@@ -1,7 +1,7 @@
 ---
 title: In 2024, Audio Ducking in Adobe Premiere Pro on Win
-date: 2024-05-05T03:19:29.512Z
-updated: 2024-05-06T03:19:29.512Z
+date: 2024-05-20T00:03:54.703Z
+updated: 2024-05-21T00:03:54.703Z
 tags: 
   - audio editing software
   - audio editing
@@ -1714,4 +1714,5 @@ The article above talked in detail about 5 interesting voice changers for phone 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C12 Pro PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Tecno Pop 7 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

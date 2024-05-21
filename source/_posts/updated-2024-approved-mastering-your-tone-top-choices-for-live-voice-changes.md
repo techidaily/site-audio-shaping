@@ -1083,3 +1083,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-txt-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .txt file document electronically</u></a></li>
 </ul></div>
 
+

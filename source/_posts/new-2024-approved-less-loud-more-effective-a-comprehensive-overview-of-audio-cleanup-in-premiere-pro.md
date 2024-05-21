@@ -1492,3 +1492,4 @@ There are high chances of audio sound not being in the required pitch or volume.
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-itel-p40plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel P40+ – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
 
+

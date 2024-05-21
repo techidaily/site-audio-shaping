@@ -1294,3 +1294,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-note-13-pro-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi Note 13 Pro 5G to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering PC Sound Capture An Audacity Guide
-date: 2024-05-05T03:30:52.330Z
-updated: 2024-05-06T03:30:52.330Z
+date: 2024-05-20T00:04:15.649Z
+updated: 2024-05-21T00:04:15.649Z
 tags: 
   - audio editing software
   - audio editing
@@ -900,4 +900,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/new-have-you-ever-heard-of-the-video-format-for-powerpoint-allow-us-to-help-you-learn-more-about-powerpoint-it-will-help-you-make-an-impression-by-making-go/"><u>New Have You Ever Heard of the Video Format for PowerPoint? Allow Us to Help You Learn More About PowerPoint. It Will Help You Make an Impression by Making Good Slides</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 13 Pro Max</u></a></li>
 </ul></div>
+
 

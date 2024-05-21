@@ -928,3 +928,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-before-and-after-editing-trick-wondershare-filmora-tutorial/"><u>New 2024 Approved Before & After Editing Trick | Wondershare Filmora Tutorial</u></a></li>
 </ul></div>
 
+

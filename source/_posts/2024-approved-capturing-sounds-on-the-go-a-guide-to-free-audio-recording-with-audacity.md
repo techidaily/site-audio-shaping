@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Capturing Sounds on the Go A Guide to Free Audio Recording with Audacity
-date: 2024-05-05T03:21:20.918Z
-updated: 2024-05-06T03:21:20.918Z
+date: 2024-05-20T00:03:58.517Z
+updated: 2024-05-21T00:03:58.517Z
 tags: 
   - audio editing software
   - audio editing
@@ -1642,4 +1642,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-tiktok-slow-zoom-create-your-slow-zoom-tiktok-in-minutes/"><u>Updated 2024 Approved TikTok Slow Zoom | Create Your Slow Zoom TikTok in Minutes</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s21-fe-5g-2023-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy S21 FE 5G (2023) support MKV video files?</u></a></li>
 </ul></div>
+
 

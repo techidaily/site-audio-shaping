@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Silent Segment Creation Leveraging Audio Duck in PowerDirector to Quiet Music During Transitions for 2024
-date: 2024-05-05T03:37:50.742Z
-updated: 2024-05-06T03:37:50.742Z
+date: 2024-05-20T00:04:28.901Z
+updated: 2024-05-21T00:04:28.901Z
 tags: 
   - audio editing software
   - audio editing
@@ -1260,4 +1260,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-driven-video-production.techidaily.com/brighten-up-best-video-editing-apps-for-mobile-devices-for-2024/"><u>Brighten Up Best Video Editing Apps for Mobile Devices for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-note-12-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi Note 12 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

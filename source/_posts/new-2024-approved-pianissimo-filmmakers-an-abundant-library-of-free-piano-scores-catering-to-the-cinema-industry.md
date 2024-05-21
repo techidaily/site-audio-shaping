@@ -1547,3 +1547,4 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-editing.techidaily.com/new-premiere-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>New Premiere or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
 </ul></div>
 
+

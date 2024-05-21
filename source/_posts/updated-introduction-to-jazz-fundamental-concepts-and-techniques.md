@@ -1,7 +1,7 @@
 ---
 title: Updated Introduction to Jazz Fundamental Concepts and Techniques
-date: 2024-05-05T03:29:33.896Z
-updated: 2024-05-06T03:29:33.896Z
+date: 2024-05-20T00:04:13.390Z
+updated: 2024-05-21T00:04:13.390Z
 tags: 
   - audio editing software
   - audio editing
@@ -1238,4 +1238,5 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 14 Pro Max Activation Lock</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y78t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y78t Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

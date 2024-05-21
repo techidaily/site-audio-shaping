@@ -1,7 +1,7 @@
 ---
 title: Try Audio Ducking to Help Sound Better
-date: 2024-05-05T03:12:17.689Z
-updated: 2024-05-06T03:12:17.689Z
+date: 2024-05-20T00:03:40.562Z
+updated: 2024-05-21T00:03:40.562Z
 tags: 
   - audio editing software
   - audio editing
@@ -1302,4 +1302,5 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-google-pixel-8-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Google Pixel 8</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
 </ul></div>
+
 

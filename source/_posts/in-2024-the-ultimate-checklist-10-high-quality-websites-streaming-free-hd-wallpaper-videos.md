@@ -2185,3 +2185,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-a05s-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy A05s? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
 
+

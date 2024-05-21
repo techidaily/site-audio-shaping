@@ -1065,3 +1065,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-voice-clone.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
 </ul></div>
 
+

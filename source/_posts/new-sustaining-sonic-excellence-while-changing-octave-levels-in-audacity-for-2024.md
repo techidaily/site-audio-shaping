@@ -948,3 +948,4 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-note-30i-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Note 30i Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

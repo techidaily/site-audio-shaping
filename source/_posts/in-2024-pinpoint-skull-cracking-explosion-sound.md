@@ -1,7 +1,7 @@
 ---
 title: In 2024, Pinpoint Skull-Cracking Explosion Sound
-date: 2024-05-05T03:32:55.219Z
-updated: 2024-05-06T03:32:55.219Z
+date: 2024-05-20T00:04:19.770Z
+updated: 2024-05-21T00:04:19.770Z
 tags: 
   - audio editing software
   - audio editing
@@ -1225,4 +1225,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-15-adobe-premiere-plugins-for-effects-and-transitions/"><u>Updated In 2024, Top 15 Adobe Premiere Plugins for Effects and Transitions</u></a></li>
 </ul></div>
+
 

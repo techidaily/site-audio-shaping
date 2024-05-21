@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Easing Audio Levels Keyframe Control in Filmora for Mac Users
-date: 2024-05-05T03:36:53.722Z
-updated: 2024-05-06T03:36:53.722Z
+date: 2024-05-20T00:04:27.196Z
+updated: 2024-05-21T00:04:27.196Z
 tags: 
   - audio editing software
   - audio editing
@@ -1095,4 +1095,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/remove-the-lock-of-poco-c65-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Poco C65</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-effortless-video-editing-how-to-add-effects-in-fcp-x-in-3-steps/"><u>New 2024 Approved Effortless Video Editing How to Add Effects in FCP X in 3 Steps</u></a></li>
 </ul></div>
+
 

@@ -1349,3 +1349,4 @@ Numerous effects, footage and audio.
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

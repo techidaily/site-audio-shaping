@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Normalization with DaVinci Resolve An In-Depth Tutorial
-date: 2024-05-05T03:14:37.769Z
-updated: 2024-05-06T03:14:37.769Z
+date: 2024-05-20T00:03:44.695Z
+updated: 2024-05-21T00:03:44.695Z
 tags: 
   - audio editing software
   - audio editing
@@ -889,4 +889,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-c53-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme C53 to iPad | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nokia-c300-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nokia C300 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

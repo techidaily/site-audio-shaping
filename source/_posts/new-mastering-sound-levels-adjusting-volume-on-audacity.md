@@ -1,7 +1,7 @@
 ---
 title: New Mastering Sound Levels Adjusting Volume on Audacity
-date: 2024-05-05T03:30:59.594Z
-updated: 2024-05-06T03:30:59.594Z
+date: 2024-05-20T00:04:15.855Z
+updated: 2024-05-21T00:04:15.855Z
 tags: 
   - audio editing software
   - audio editing
@@ -1712,4 +1712,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini without Losing Anything? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-script-to-screen-8-essential-mac-movie-creator-tools/"><u>Updated In 2024, From Script to Screen 8 Essential Mac Movie Creator Tools</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Zoom Sound Off Disabling Video Chat Volume on All Devices
-date: 2024-05-05T03:17:18.215Z
-updated: 2024-05-06T03:17:18.215Z
+date: 2024-05-20T00:03:50.062Z
+updated: 2024-05-21T00:03:50.062Z
 tags: 
   - audio editing software
   - audio editing
@@ -1828,4 +1828,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-optimize-your-thumbnails-sizes-templates-and-proven-strategies/"><u>In 2024, Optimize Your Thumbnails Sizes, Templates, and Proven Strategies</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-art-of-color-correction-in-final-cut-pro-2023/"><u>Updated The Art of Color Correction in Final Cut Pro 2023</u></a></li>
 </ul></div>
+
 

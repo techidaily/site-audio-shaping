@@ -1,7 +1,7 @@
 ---
 title: Updated Exploring Depth of Field for Giant Audio Waves
-date: 2024-05-05T03:26:21.722Z
-updated: 2024-05-06T03:26:21.722Z
+date: 2024-05-20T00:04:06.560Z
+updated: 2024-05-21T00:04:06.560Z
 tags: 
   - audio editing software
   - audio editing
@@ -878,4 +878,5 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/updated-unlocking-virtual-reality-how-to-convert-regular-videos-with-ease/"><u>Updated Unlocking Virtual Reality How to Convert Regular Videos with Ease</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-aspect-ratio-made-simple-the-best-online-calculators/"><u>2024 Approved Aspect Ratio Made Simple The Best Online Calculators</u></a></li>
 </ul></div>
+
 

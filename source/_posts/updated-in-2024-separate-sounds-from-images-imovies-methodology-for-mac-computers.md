@@ -1385,3 +1385,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/detailed-steps-to-resize-video-in-davinci-resolve-for-2024/"><u>Detailed Steps to Resize Video in Davinci Resolve for 2024</u></a></li>
 </ul></div>
 
+

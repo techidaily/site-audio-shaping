@@ -1,7 +1,7 @@
 ---
 title: In 2024, Dive Into Sound Design An Overview of Fundamental Wave Editor Features
-date: 2024-05-05T03:23:44.249Z
-updated: 2024-05-06T03:23:44.249Z
+date: 2024-05-20T00:04:02.750Z
+updated: 2024-05-21T00:04:02.750Z
 tags: 
   - audio editing software
   - audio editing
@@ -1158,4 +1158,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-k70e-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi K70E to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-6s-plus-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 6s Plus to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

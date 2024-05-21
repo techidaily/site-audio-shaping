@@ -1,7 +1,7 @@
 ---
 title: Reviews, Features and Tutorial of Lexis Audio Editor
-date: 2024-05-05T03:15:23.716Z
-updated: 2024-05-06T03:15:23.716Z
+date: 2024-05-20T00:03:46.352Z
+updated: 2024-05-21T00:03:46.352Z
 tags: 
   - audio editing software
   - audio editing
@@ -1451,4 +1451,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-m6-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco M6 Pro 4G Location Settings | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-xs-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone XS and iPad Securely | Dr.fone</u></a></li>
 </ul></div>
+
 

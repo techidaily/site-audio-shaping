@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fishy Tones A Guide to Using Discords Clownfish Vocal Effect for 2024
-date: 2024-05-05T03:31:11.265Z
-updated: 2024-05-06T03:31:11.265Z
+date: 2024-05-20T00:04:16.182Z
+updated: 2024-05-21T00:04:16.182Z
 tags: 
   - audio editing software
   - audio editing
@@ -1343,4 +1343,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-tools.techidaily.com/say-goodbye-to-shaky-videos-top-free-android-stabilizers-for-2024/"><u>Say Goodbye to Shaky Videos Top Free Android Stabilizers for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-there-we-introduce-you-3-simple-options-for-recording-video-games-with-ease/"><u>New In 2024, There We Introduce You 3 Simple Options for Recording Video Games with Ease</u></a></li>
 </ul></div>
+
 

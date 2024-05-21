@@ -1,7 +1,7 @@
 ---
 title: Sonic Design Lab Pioneering Audio Manipulation in Sony Vegas Pro
-date: 2024-05-05T03:15:37.729Z
-updated: 2024-05-06T03:15:37.729Z
+date: 2024-05-20T00:03:46.929Z
+updated: 2024-05-21T00:03:46.929Z
 tags: 
   - audio editing software
   - audio editing
@@ -2469,4 +2469,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-g2-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from G2.</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/in-2024-the-top-rated-video-editing-tools-for-mac-users/"><u>In 2024, The Top-Rated Video Editing Tools for Mac Users</u></a></li>
 </ul></div>
+
 

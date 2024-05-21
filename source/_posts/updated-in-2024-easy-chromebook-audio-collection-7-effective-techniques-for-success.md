@@ -1076,3 +1076,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/the-math-behind-pixels-calculating-aspect-ratios-and-resolutions-for-2024/"><u>The Math Behind Pixels Calculating Aspect Ratios and Resolutions for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects
-date: 2024-05-05T03:36:52.957Z
-updated: 2024-05-06T03:36:52.957Z
+date: 2024-05-20T00:04:27.185Z
+updated: 2024-05-21T00:04:27.185Z
 tags: 
   - audio editing software
   - audio editing
@@ -1353,4 +1353,5 @@ Vimeo Video Size Ratio and other requirements to upload your video to the Vimeo 
 <li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S17 | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-top-video-smoothening-apps-for-mobile-devices-for-2024/"><u>New Top Video Smoothening Apps for Mobile Devices for 2024</u></a></li>
 </ul></div>
+
 

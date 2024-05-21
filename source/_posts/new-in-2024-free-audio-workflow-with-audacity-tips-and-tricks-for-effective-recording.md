@@ -1469,3 +1469,4 @@ Numerous effects, footage and audio.
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6 to Samsung Galaxy S20? | Dr.fone</u></a></li>
 </ul></div>
 
+

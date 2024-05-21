@@ -1187,3 +1187,4 @@ Follow @Shanoon Cox
 <li><a href="https://video-creation-software.techidaily.com/new-unlocking-perfect-proportions-5-interesting-facts-about-16x9-ratio-tools/"><u>New Unlocking Perfect Proportions 5 Interesting Facts About 16X9 Ratio Tools</u></a></li>
 </ul></div>
 
+

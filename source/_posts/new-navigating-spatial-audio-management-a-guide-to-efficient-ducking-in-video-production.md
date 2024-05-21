@@ -1,7 +1,7 @@
 ---
 title: New Navigating Spatial Audio Management A Guide to Efficient Ducking in Video Production
-date: 2024-05-05T03:32:02.120Z
-updated: 2024-05-06T03:32:02.120Z
+date: 2024-05-20T00:04:18.121Z
+updated: 2024-05-21T00:04:18.121Z
 tags: 
   - audio editing software
   - audio editing
@@ -998,4 +998,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 15 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a58-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo A58 4G FRP Bypass</u></a></li>
 </ul></div>
+
 

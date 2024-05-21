@@ -1,7 +1,7 @@
 ---
 title: Commanding Attention Techniques for Higher Pitched Voice in Digital Storytelling
-date: 2024-05-05T03:12:46.282Z
-updated: 2024-05-06T03:12:46.282Z
+date: 2024-05-20T00:03:41.506Z
+updated: 2024-05-21T00:03:41.506Z
 tags: 
   - audio editing software
   - audio editing
@@ -1677,4 +1677,5 @@ We have talked about the different ways to record using the sound recorder andro
 <li><a href="https://video-creation-software.techidaily.com/new-youtube-audio-made-easy-a-quick-start-guide-to-downloading-for-2024/"><u>New YouTube Audio Made Easy A Quick Start Guide to Downloading for 2024</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-x-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone X Activation Lock</u></a></li>
 </ul></div>
+
 

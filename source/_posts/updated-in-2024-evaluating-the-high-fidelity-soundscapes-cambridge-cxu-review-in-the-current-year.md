@@ -1292,3 +1292,4 @@ For macOS 10.14 or later
 <li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2000-stellar-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2000 | Stellar</u></a></li>
 </ul></div>
 
+

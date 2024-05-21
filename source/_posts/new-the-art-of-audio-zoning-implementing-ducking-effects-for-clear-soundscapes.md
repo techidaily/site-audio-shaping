@@ -1,7 +1,7 @@
 ---
 title: New The Art of Audio Zoning Implementing Ducking Effects for Clear Soundscapes
-date: 2024-05-05T03:36:51.163Z
-updated: 2024-05-06T03:36:51.163Z
+date: 2024-05-20T00:04:27.141Z
+updated: 2024-05-21T00:04:27.141Z
 tags: 
   - audio editing software
   - audio editing
@@ -1295,4 +1295,5 @@ We have come forward with great resources to download soft background music for 
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS without Losing Anything? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-honor-90-lite-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor 90 Lite Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1075,3 +1075,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vsdc-video-editor-not-on-mac-no-problem-here-are-the-alternatives/"><u>Updated 2024 Approved VSDC Video Editor Not on Mac? No Problem! Here Are the Alternatives</u></a></li>
 </ul></div>
 
+

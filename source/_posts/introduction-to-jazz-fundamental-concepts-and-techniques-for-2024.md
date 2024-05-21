@@ -1,7 +1,7 @@
 ---
 title: Introduction to Jazz Fundamental Concepts and Techniques for 2024
-date: 2024-05-05T03:29:33.373Z
-updated: 2024-05-06T03:29:33.373Z
+date: 2024-05-20T00:04:13.378Z
+updated: 2024-05-21T00:04:13.378Z
 tags: 
   - audio editing software
   - audio editing
@@ -1039,4 +1039,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/new-paid-and-free-online-video-editing-solutions-with-audio-capabilities-for-2024/"><u>New Paid and Free Online Video Editing Solutions with Audio Capabilities for 2024</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

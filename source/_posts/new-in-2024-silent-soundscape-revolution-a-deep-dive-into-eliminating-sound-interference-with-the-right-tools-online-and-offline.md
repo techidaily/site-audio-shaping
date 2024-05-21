@@ -1190,3 +1190,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/hard-resetting-an-tecno-spark-20c-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Spark 20C Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

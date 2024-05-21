@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Recording Your System Sounds with Audacity
-date: 2024-05-05T03:34:06.746Z
-updated: 2024-05-06T03:34:06.746Z
+date: 2024-05-20T00:04:22.061Z
+updated: 2024-05-21T00:04:22.061Z
 tags: 
   - audio editing software
   - audio editing
@@ -1052,4 +1052,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-find-three-best-alternatives-to-subtitle-edit-on-mac-all-are-free-and-include-the-same-exact-functions-as-subtitle-edit/"><u>2024 Approved Find Three Best Alternatives to Subtitle Edit on Mac - All Are Free and Include the Same Exact Functions as Subtitle Edit</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Install and Uninstall Audacity on Ubuntu
-date: 2024-05-05T03:28:36.922Z
-updated: 2024-05-06T03:28:36.922Z
+date: 2024-05-20T00:04:11.608Z
+updated: 2024-05-21T00:04:11.608Z
 tags: 
   - audio editing software
   - audio editing
@@ -1284,4 +1284,5 @@ We have provided you with the best apps with the best settings for equalizer. Yo
 <li><a href="https://ai-vdieo-software.techidaily.com/facebook-to-mp3-best-online-conversion-tools-ranked-for-2024/"><u>Facebook to MP3 Best Online Conversion Tools Ranked for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

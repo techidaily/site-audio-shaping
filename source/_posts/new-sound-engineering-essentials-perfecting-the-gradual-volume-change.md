@@ -1,7 +1,7 @@
 ---
 title: New Sound Engineering Essentials Perfecting the Gradual Volume Change
-date: 2024-05-05T03:35:27.913Z
-updated: 2024-05-06T03:35:27.913Z
+date: 2024-05-20T00:04:24.810Z
+updated: 2024-05-21T00:04:24.810Z
 tags: 
   - audio editing software
   - audio editing
@@ -819,4 +819,5 @@ For macOS 10.12 or later
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to other iPhone 14 devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-jaycut-101-how-to-edit-videos-online-for-free-for-2024/"><u>Updated Jaycut 101 How to Edit Videos Online for Free for 2024</u></a></li>
 </ul></div>
+
 

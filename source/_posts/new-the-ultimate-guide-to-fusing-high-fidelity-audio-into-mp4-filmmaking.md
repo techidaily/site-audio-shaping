@@ -1279,3 +1279,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-word-2000-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to Word 2000</u></a></li>
 </ul></div>
 
+

@@ -902,3 +902,4 @@ Follow @Shanoon Cox
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pova-5-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pova 5 to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

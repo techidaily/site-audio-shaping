@@ -1,7 +1,7 @@
 ---
 title: The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio
-date: 2024-05-05T03:16:00.616Z
-updated: 2024-05-06T03:16:00.616Z
+date: 2024-05-20T00:03:47.797Z
+updated: 2024-05-21T00:03:47.797Z
 tags: 
   - audio editing software
   - audio editing
@@ -880,4 +880,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-y27-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo Y27 4G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-best-free-3d-animation-apps-for-mobile-for-2024/"><u>Updated Unleash Your Creativity Best Free 3D Animation Apps for Mobile for 2024</u></a></li>
 </ul></div>
+
 

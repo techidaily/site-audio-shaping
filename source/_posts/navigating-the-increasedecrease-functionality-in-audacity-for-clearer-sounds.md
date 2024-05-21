@@ -1,7 +1,7 @@
 ---
 title: Navigating the Increase/Decrease Functionality in Audacity for Clearer Sounds
-date: 2024-05-05T03:14:58.605Z
-updated: 2024-05-06T03:14:58.605Z
+date: 2024-05-20T00:03:45.329Z
+updated: 2024-05-21T00:03:45.329Z
 tags: 
   - audio editing software
   - audio editing
@@ -1661,4 +1661,5 @@ After all these things, you can easily figure out how to add music to IGTV video
 <li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-14-pro-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 14 Pro with iTunes</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-itel-a05s-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Itel A05s | Dr.fone</u></a></li>
 </ul></div>
+
 

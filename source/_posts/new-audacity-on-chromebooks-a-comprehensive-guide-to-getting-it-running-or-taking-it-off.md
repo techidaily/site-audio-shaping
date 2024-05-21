@@ -1,7 +1,7 @@
 ---
 title: New Audacity on Chromebooks A Comprehensive Guide to Getting It Running or Taking It Off
-date: 2024-05-05T03:19:18.082Z
-updated: 2024-05-06T03:19:18.082Z
+date: 2024-05-20T00:03:54.408Z
+updated: 2024-05-21T00:03:54.408Z
 tags: 
   - audio editing software
   - audio editing
@@ -1014,4 +1014,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-8-plus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 8 Plus to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-guide-to-free-online-glitch-effect-makers-2023-edition/"><u>2024 Approved The Ultimate Guide to Free Online Glitch Effect Makers (2023 Edition)</u></a></li>
 </ul></div>
+
 

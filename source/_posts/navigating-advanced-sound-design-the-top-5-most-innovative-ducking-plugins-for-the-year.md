@@ -1,7 +1,7 @@
 ---
 title: Navigating Advanced Sound Design The Top 5 Most Innovative Ducking Plugins for the Year
-date: 2024-05-05T03:14:57.307Z
-updated: 2024-05-06T03:14:57.307Z
+date: 2024-05-20T00:03:45.258Z
+updated: 2024-05-21T00:03:45.258Z
 tags: 
   - audio editing software
   - audio editing
@@ -1614,4 +1614,5 @@ Follow @Liza Brown
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-free-video-editors-for-ubuntu-users/"><u>Updated 2024 Approved The Ultimate List 10 Best Free Video Editors for Ubuntu Users</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-editing-on-mac-os-x-yosemite-a-comprehensive-beginners-guide/"><u>New 2024 Approved Video Editing on Mac OS X Yosemite A Comprehensive Beginners Guide</u></a></li>
 </ul></div>
+
 

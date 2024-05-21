@@ -1,7 +1,7 @@
 ---
 title: Updated Soundtracking Fear Ranking Websites Specializing in Scary Sounds and Effects
-date: 2024-05-05T03:35:36.521Z
-updated: 2024-05-06T03:35:36.521Z
+date: 2024-05-20T00:04:25.073Z
+updated: 2024-05-21T00:04:25.073Z
 tags: 
   - audio editing software
   - audio editing
@@ -1640,4 +1640,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-tools.techidaily.com/updated-best-video-highlight-makers-for-pc-mac-android-and-ios-for-2024/"><u>Updated Best Video Highlight Makers for PC, Mac, Android, and iOS for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-best-movie-makers-for-windows-10-free-and-paid/"><u>New 2024 Approved Best Movie Makers for Windows 10 Free and Paid</u></a></li>
 </ul></div>
+
 

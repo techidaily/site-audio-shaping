@@ -1,7 +1,7 @@
 ---
 title: New Lexis Audio Mastery 101 An Entry-Level Editors Primer
-date: 2024-05-05T03:29:57.856Z
-updated: 2024-05-06T03:29:57.856Z
+date: 2024-05-20T00:04:14.164Z
+updated: 2024-05-21T00:04:14.164Z
 tags: 
   - audio editing software
   - audio editing
@@ -1350,4 +1350,5 @@ For macOS 10.14 or later
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-s23-fe-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy S23 FE Phone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/best-htc-frp-bypass-guide-by-drfone-android/"><u>Best HTC FRP Bypass Guide</u></a></li>
 </ul></div>
+
 

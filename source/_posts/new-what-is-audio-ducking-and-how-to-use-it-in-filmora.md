@@ -1,7 +1,7 @@
 ---
 title: New What Is Audio Ducking and How to Use It in Filmora
-date: 2024-05-05T03:19:30.553Z
-updated: 2024-05-06T03:19:30.553Z
+date: 2024-05-20T00:03:54.781Z
+updated: 2024-05-21T00:03:54.781Z
 tags: 
   - audio editing software
   - audio editing
@@ -1245,4 +1245,5 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nubia-z50s-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nubia Z50S Pro to iPod | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50s-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50S Pro Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

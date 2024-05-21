@@ -778,3 +778,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-guide-to-aspect-ratio-editing-in-final-cut-pro/"><u>In 2024, The Ultimate Guide to Aspect Ratio Editing in Final Cut Pro</u></a></li>
 </ul></div>
 
+

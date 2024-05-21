@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Change Audio Speed and Pitch in Adobe Rush
-date: 2024-05-05T03:28:22.327Z
-updated: 2024-05-06T03:28:22.327Z
+date: 2024-05-20T00:04:11.015Z
+updated: 2024-05-21T00:04:11.015Z
 tags: 
   - audio editing software
   - audio editing
@@ -1183,4 +1183,5 @@ Wondershare Filmora has all the options to denoise audio or save a video's vocal
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-poco-m6-pro-4g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Poco M6 Pro 4G has been deleted.</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-effortless-4k-video-editing-the-top-8-proxy-video-editors/"><u>In 2024, Effortless 4K Video Editing The Top 8 Proxy Video Editors</u></a></li>
 </ul></div>
+
 

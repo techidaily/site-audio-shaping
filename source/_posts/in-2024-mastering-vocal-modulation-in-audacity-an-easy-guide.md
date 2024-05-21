@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Vocal Modulation in Audacity An Easy Guide
-date: 2024-05-05T03:31:21.409Z
-updated: 2024-05-06T03:31:21.409Z
+date: 2024-05-20T00:04:16.476Z
+updated: 2024-05-21T00:04:16.476Z
 tags: 
   - audio editing software
   - audio editing
@@ -1283,4 +1283,5 @@ So, in this article, we learned a lot about normalizing volumes, why and how it 
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 System? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/live-stream-on-youtube-using-zoom-for-2024/"><u>Live Stream on YouTube Using Zoom for 2024</u></a></li>
 </ul></div>
+
 

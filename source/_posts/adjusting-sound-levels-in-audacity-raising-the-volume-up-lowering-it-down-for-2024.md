@@ -1,7 +1,7 @@
 ---
 title: Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down for 2024
-date: 2024-05-05T03:18:38.700Z
-updated: 2024-05-06T03:18:38.700Z
+date: 2024-05-20T00:03:53.237Z
+updated: 2024-05-21T00:03:53.237Z
 tags: 
   - audio editing software
   - audio editing
@@ -966,4 +966,5 @@ Overall, make sure you read the pros and cons attached to using each method so y
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-zte-blade-a73-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From ZTE Blade A73 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oneplus-nord-n30-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from OnePlus Nord N30 5G</u></a></li>
 </ul></div>
+
 

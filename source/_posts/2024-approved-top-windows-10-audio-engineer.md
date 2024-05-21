@@ -1623,3 +1623,4 @@ For macOS 10.12 or later
 <li><a href="https://meme-emoji.techidaily.com/new-how-to-make-memoji-talk-make-memoji-video-on-your-own/"><u>New How to Make Memoji Talk-Make Memoji Video On Your Own</u></a></li>
 </ul></div>
 
+

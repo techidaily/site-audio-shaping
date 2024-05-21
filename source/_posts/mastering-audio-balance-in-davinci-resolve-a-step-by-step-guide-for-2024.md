@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Balance in DaVinci Resolve A Step-by-Step Guide for 2024
-date: 2024-05-05T03:30:25.721Z
-updated: 2024-05-06T03:30:25.721Z
+date: 2024-05-20T00:04:15.036Z
+updated: 2024-05-21T00:04:15.036Z
 tags: 
   - audio editing software
   - audio editing
@@ -1122,4 +1122,5 @@ Follow @Benjamin Arango
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 13 mini Without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-neon-typography-made-easy-9-best-online-text-generator-tools/"><u>2024 Approved Neon Typography Made Easy 9 Best Online Text Generator Tools</u></a></li>
 </ul></div>
+
 

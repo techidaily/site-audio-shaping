@@ -1,7 +1,7 @@
 ---
 title: How To Normalize Volume in VLC
-date: 2024-05-05T03:15:02.238Z
-updated: 2024-05-06T03:15:02.238Z
+date: 2024-05-20T00:03:45.469Z
+updated: 2024-05-21T00:03:45.469Z
 tags: 
   - audio editing software
   - audio editing
@@ -373,4 +373,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-cut-videos-on-mac-without-using-ffmpeg/"><u>Updated How to Cut Videos on Mac without Using FFmpeg?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 System Issues? | Dr.fone</u></a></li>
 </ul></div>
+
 

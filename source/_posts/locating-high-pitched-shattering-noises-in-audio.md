@@ -1,7 +1,7 @@
 ---
 title: Locating High-Pitched Shattering Noises in Audio
-date: 2024-05-05T03:14:32.612Z
-updated: 2024-05-06T03:14:32.612Z
+date: 2024-05-20T00:03:44.519Z
+updated: 2024-05-21T00:03:44.519Z
 tags: 
   - audio editing software
   - audio editing
@@ -1194,4 +1194,5 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-dvr-showdown-tivo-takes-on-comcast/"><u>New 2024 Approved DVR Showdown TiVo Takes on Comcast</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-infinix-note-30-vip-racing-edition-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Infinix Note 30 VIP Racing Edition Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

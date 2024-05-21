@@ -1842,3 +1842,4 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-p55plus-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel P55+ Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

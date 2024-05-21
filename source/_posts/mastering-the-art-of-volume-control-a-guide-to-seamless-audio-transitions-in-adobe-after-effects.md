@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2024-05-05T03:14:47.729Z
-updated: 2024-05-06T03:14:47.729Z
+date: 2024-05-20T00:03:44.916Z
+updated: 2024-05-21T00:03:44.916Z
 tags: 
   - audio editing software
   - audio editing
@@ -1187,4 +1187,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-tools.techidaily.com/new-unleash-the-power-of-high-definition-best-video-enhancement-software/"><u>New Unleash the Power of High-Definition Best Video Enhancement Software</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-freeze-frame-to-your-video-from-any-device-for-2024/"><u>New How to Add Freeze Frame to Your Video From Any Device for 2024</u></a></li>
 </ul></div>
+
 

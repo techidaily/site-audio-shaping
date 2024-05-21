@@ -1,7 +1,7 @@
 ---
 title: New The Complete Pexels Primer Knowledge Essential for Graphic Designers and Marketers
-date: 2024-05-05T03:37:20.659Z
-updated: 2024-05-06T03:37:20.659Z
+date: 2024-05-20T00:04:28.158Z
+updated: 2024-05-21T00:04:28.158Z
 tags: 
   - audio editing software
   - audio editing
@@ -880,4 +880,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-apps.techidaily.com/os-x-mavericks-video-editing-101-from-beginner-to-pro-for-2024/"><u>OS X Mavericks Video Editing 101 From Beginner to Pro for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-oneplus-12r-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus 12R Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

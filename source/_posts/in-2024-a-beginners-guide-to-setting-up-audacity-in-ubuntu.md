@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Beginners Guide to Setting Up Audacity in Ubuntu
-date: 2024-05-05T03:17:52.171Z
-updated: 2024-05-06T03:17:52.171Z
+date: 2024-05-20T00:03:51.564Z
+updated: 2024-05-21T00:03:51.564Z
 tags: 
   - audio editing software
   - audio editing
@@ -1203,4 +1203,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro with a Mask On</u></a></li>
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor X50 GT? | Dr.fone</u></a></li>
 </ul></div>
+
 

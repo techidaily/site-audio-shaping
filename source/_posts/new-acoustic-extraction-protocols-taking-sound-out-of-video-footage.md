@@ -1,7 +1,7 @@
 ---
 title: New Acoustic Extraction Protocols Taking Sound Out of Video Footage
-date: 2024-05-05T03:18:27.608Z
-updated: 2024-05-06T03:18:27.608Z
+date: 2024-05-20T00:03:52.894Z
+updated: 2024-05-21T00:03:52.894Z
 tags: 
   - audio editing software
   - audio editing
@@ -1181,4 +1181,5 @@ All in all, Audacity does an excellent job at audio editing. If you simply need 
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevch265-files-on-samsung-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Samsung ?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 11 Pro</u></a></li>
 </ul></div>
+
 

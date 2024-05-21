@@ -924,3 +924,4 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-create-and-add-an-adjustment-layer-in-final-cut-pro/"><u>In 2024, How to Create and Add an Adjustment Layer in Final Cut Pro</u></a></li>
 </ul></div>
 
+

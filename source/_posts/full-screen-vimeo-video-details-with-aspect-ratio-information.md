@@ -1,7 +1,7 @@
 ---
 title: Full Screen Vimeo Video Details with Aspect Ratio Information
-date: 2024-05-05T03:13:56.607Z
-updated: 2024-05-06T03:13:56.607Z
+date: 2024-05-20T00:03:43.528Z
+updated: 2024-05-21T00:03:43.528Z
 tags: 
   - audio editing software
   - audio editing
@@ -1949,4 +1949,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-se-2020-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) When We Dont Have Apple ID or Password?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nubia-red-magic-9-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nubia Red Magic 9 Pro Phone Screen?</u></a></li>
 </ul></div>
+
 

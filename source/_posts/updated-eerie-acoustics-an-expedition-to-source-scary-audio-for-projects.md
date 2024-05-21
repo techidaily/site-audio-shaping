@@ -1,7 +1,7 @@
 ---
 title: Updated Eerie Acoustics An Expedition to Source Scary Audio for Projects
-date: 2024-05-05T03:24:04.579Z
-updated: 2024-05-06T03:24:04.579Z
+date: 2024-05-20T00:04:03.113Z
+updated: 2024-05-21T00:04:03.113Z
 tags: 
   - audio editing software
   - audio editing
@@ -1214,4 +1214,5 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-final-cut-pro-essentials-how-to-add-picture-in-picture-effects-to-your-projects/"><u>New 2024 Approved Final Cut Pro Essentials How to Add Picture-in-Picture Effects to Your Projects</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-lava-yuva-3-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Lava Yuva 3 for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

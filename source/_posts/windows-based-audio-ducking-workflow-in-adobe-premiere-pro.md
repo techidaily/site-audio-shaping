@@ -1,7 +1,7 @@
 ---
 title: Windows-Based Audio Ducking Workflow in Adobe Premiere Pro
-date: 2024-05-05T03:17:15.059Z
-updated: 2024-05-06T03:17:15.059Z
+date: 2024-05-20T00:03:49.927Z
+updated: 2024-05-21T00:03:49.927Z
 tags: 
   - audio editing software
   - audio editing
@@ -1182,4 +1182,5 @@ Overall, make sure you read the pros and cons attached to using each method so y
 <li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 13 mini | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Infinix Hot 40</u></a></li>
 </ul></div>
+
 

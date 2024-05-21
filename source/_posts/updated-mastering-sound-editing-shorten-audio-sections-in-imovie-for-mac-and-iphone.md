@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone
-date: 2024-05-05T03:30:58.814Z
-updated: 2024-05-06T03:30:58.814Z
+date: 2024-05-20T00:04:15.845Z
+updated: 2024-05-21T00:04:15.845Z
 tags: 
   - audio editing software
   - audio editing
@@ -1209,4 +1209,5 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-play-40c-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor Play 40C Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 with a Mask On</u></a></li>
 </ul></div>
+
 

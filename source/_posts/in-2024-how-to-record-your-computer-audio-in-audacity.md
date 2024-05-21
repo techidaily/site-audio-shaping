@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Record Your Computer Audio in Audacity
-date: 2024-05-05T03:28:21.543Z
-updated: 2024-05-06T03:28:21.543Z
+date: 2024-05-20T00:04:10.975Z
+updated: 2024-05-21T00:04:10.975Z
 tags: 
   - audio editing software
   - audio editing
@@ -865,4 +865,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g24-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G24 Phone without PIN</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-unleash-your-creativity-the-best-free-online-video-invite-generators/"><u>2024 Approved Unleash Your Creativity The Best Free Online Video Invite Generators</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Normalizing Audio in DaVinci Resolve A Step-by-Step Guide for 2024
-date: 2024-05-05T03:32:23.922Z
-updated: 2024-05-06T03:32:23.922Z
+date: 2024-05-20T00:04:18.650Z
+updated: 2024-05-21T00:04:18.650Z
 tags: 
   - audio editing software
   - audio editing
@@ -1088,4 +1088,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-6s-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 6s Plus Passcode not Working? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Infinix Hot 30 5G?</u></a></li>
 </ul></div>
+
 

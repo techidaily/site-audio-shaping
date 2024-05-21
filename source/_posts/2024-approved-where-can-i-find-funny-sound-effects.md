@@ -1273,3 +1273,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-image-dimensions-made-simple-how-to-use-a-ratio-calculator/"><u>New 2024 Approved Image Dimensions Made Simple How to Use a Ratio Calculator</u></a></li>
 </ul></div>
 
+

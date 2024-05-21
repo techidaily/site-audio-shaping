@@ -1772,3 +1772,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-video-formatting-made-easy-shape-size-and-aspect-ratio/"><u>2024 Approved Video Formatting Made Easy Shape, Size, and Aspect Ratio</u></a></li>
 </ul></div>
 
+

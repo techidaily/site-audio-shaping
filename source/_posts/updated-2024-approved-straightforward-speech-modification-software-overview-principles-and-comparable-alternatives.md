@@ -1508,3 +1508,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-science-of-youtube-thumbnails-sizes-templates-and-psychological-triggers-for-2024/"><u>Updated The Science of YouTube Thumbnails Sizes, Templates, and Psychological Triggers for 2024</u></a></li>
 </ul></div>
 
+

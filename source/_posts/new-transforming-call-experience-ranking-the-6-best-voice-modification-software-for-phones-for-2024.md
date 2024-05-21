@@ -1748,3 +1748,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-lava-blaze-curve-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Lava Blaze Curve 5G to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

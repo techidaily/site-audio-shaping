@@ -1055,3 +1055,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel A60 | Dr.fone</u></a></li>
 </ul></div>
 
+

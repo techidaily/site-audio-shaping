@@ -1989,3 +1989,4 @@ For macOS 10.14 or later
 <li><a href="https://techidaily.com/how-to-reset-apple-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 8 Without iTunes? | Dr.fone</u></a></li>
 </ul></div>
 
+

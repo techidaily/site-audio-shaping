@@ -1,7 +1,7 @@
 ---
 title: New Podcast Editing 101 How to Edit a Podcasta Beginners Guide
-date: 2024-05-05T03:28:32.750Z
-updated: 2024-05-06T03:28:32.750Z
+date: 2024-05-20T00:04:11.393Z
+updated: 2024-05-21T00:04:11.393Z
 tags: 
   - audio editing software
   - audio editing
@@ -1468,4 +1468,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-online-video-rotation-made-easy-top-free-tools/"><u>New In 2024, Online Video Rotation Made Easy Top Free Tools</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v27-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V27 to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

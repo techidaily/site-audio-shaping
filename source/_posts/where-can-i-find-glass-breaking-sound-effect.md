@@ -1,7 +1,7 @@
 ---
 title: Where Can I Find Glass Breaking Sound Effect?
-date: 2024-05-05T03:17:13.736Z
-updated: 2024-05-06T03:17:13.736Z
+date: 2024-05-20T00:03:49.908Z
+updated: 2024-05-21T00:03:49.908Z
 tags: 
   - audio editing software
   - audio editing
@@ -893,4 +893,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-lyric-video-magic-top-online-tools-to-bring-your-songs-to-life/"><u>Updated 2024 Approved Lyric Video Magic Top Online Tools to Bring Your Songs to Life</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-vn-editor-a-prominent-option-for-adding-luts-for-video-editing-for-2024/"><u>Updated VN Editor A Prominent Option for Adding Luts for Video Editing for 2024</u></a></li>
 </ul></div>
+
 

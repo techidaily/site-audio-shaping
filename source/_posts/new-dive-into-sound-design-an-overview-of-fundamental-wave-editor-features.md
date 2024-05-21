@@ -1,7 +1,7 @@
 ---
 title: New Dive Into Sound Design An Overview of Fundamental Wave Editor Features
-date: 2024-05-05T03:23:44.774Z
-updated: 2024-05-06T03:23:44.774Z
+date: 2024-05-20T00:04:02.772Z
+updated: 2024-05-21T00:04:02.772Z
 tags: 
   - audio editing software
   - audio editing
@@ -1277,4 +1277,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-make-em-laugh-best-video-dubbing-tools-for-humorous-edits/"><u>2024 Approved Make Em Laugh Best Video Dubbing Tools for Humorous Edits</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-spark-10c-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Spark 10C</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Sculpting Silence and Sound Advanced Techniques of Audio Ducking for Visual Storytellers
-date: 2024-05-05T03:34:38.216Z
-updated: 2024-05-06T03:34:38.216Z
+date: 2024-05-20T00:04:23.441Z
+updated: 2024-05-21T00:04:23.441Z
 tags: 
   - audio editing software
   - audio editing
@@ -1015,4 +1015,5 @@ Follow @Liza Brown
 <li><a href="https://video-content-creator.techidaily.com/new-upload-ps4-screenshots-to-social-media-a-beginners-tutorial/"><u>New Upload PS4 Screenshots to Social Media A Beginners Tutorial</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y100-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y100 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2024-05-05T03:17:05.055Z
-updated: 2024-05-06T03:17:05.055Z
+date: 2024-05-20T00:03:49.616Z
+updated: 2024-05-21T00:03:49.616Z
 tags: 
   - audio editing software
   - audio editing
@@ -1381,4 +1381,5 @@ For macOS 10.12 or later
 <li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-13-pro-max-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 13 Pro Max? Fixed | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

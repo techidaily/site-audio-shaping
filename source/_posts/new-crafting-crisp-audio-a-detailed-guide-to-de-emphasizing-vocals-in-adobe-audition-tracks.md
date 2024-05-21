@@ -1,7 +1,7 @@
 ---
 title: New Crafting Crisp Audio A Detailed Guide to De-Emphasizing Vocals in Adobe Audition Tracks
-date: 2024-05-05T03:22:11.998Z
-updated: 2024-05-06T03:22:11.998Z
+date: 2024-05-20T00:03:59.971Z
+updated: 2024-05-21T00:03:59.971Z
 tags: 
   - audio editing software
   - audio editing
@@ -1582,4 +1582,5 @@ For macOS 10.12 or later
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-top-video-smoothening-apps-for-mobile-devices-for-2024/"><u>New Top Video Smoothening Apps for Mobile Devices for 2024</u></a></li>
 </ul></div>
+
 

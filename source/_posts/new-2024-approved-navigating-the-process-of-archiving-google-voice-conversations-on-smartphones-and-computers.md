@@ -1226,3 +1226,4 @@ Follow @Richard Bennett
 <li><a href="https://animation-videos.techidaily.com/most-popular-tips-on-learning-animate-rigging/"><u>Most Popular Tips on Learning Animate Rigging</u></a></li>
 </ul></div>
 
+

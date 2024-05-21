@@ -1244,3 +1244,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-lenovo-thinkphone-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Lenovo ThinkPhone Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1552,3 +1552,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-measure-and-modify-image-size/"><u>Updated In 2024, Measure and Modify Image Size</u></a></li>
 </ul></div>
 
+

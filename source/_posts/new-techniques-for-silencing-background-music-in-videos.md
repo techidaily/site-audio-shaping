@@ -1,7 +1,7 @@
 ---
 title: New Techniques for Silencing Background Music in Videos
-date: 2024-05-05T03:36:37.332Z
-updated: 2024-05-06T03:36:37.332Z
+date: 2024-05-20T00:04:26.851Z
+updated: 2024-05-21T00:04:26.851Z
 tags: 
   - audio editing software
   - audio editing
@@ -1270,4 +1270,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-lumetri-color-in-after-effects/"><u>New How to Use Lumetri Color in After Effects</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/mastering-time-manipulation-in-fcpx-for-2024/"><u>Mastering Time Manipulation in FCPX for 2024</u></a></li>
 </ul></div>
+
 

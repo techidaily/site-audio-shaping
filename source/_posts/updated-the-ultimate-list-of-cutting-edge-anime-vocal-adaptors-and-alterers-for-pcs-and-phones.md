@@ -1164,3 +1164,4 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-take-your-videos-to-the-next-level-mastering-the-ken-burns-effect-in-final-cut-pro/"><u>In 2024, Take Your Videos to the Next Level Mastering the Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
 
+

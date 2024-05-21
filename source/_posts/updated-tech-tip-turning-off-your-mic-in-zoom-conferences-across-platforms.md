@@ -1,7 +1,7 @@
 ---
 title: Updated Tech Tip Turning Off Your Mic in Zoom Conferences Across Platforms
-date: 2024-05-05T03:36:32.850Z
-updated: 2024-05-06T03:36:32.850Z
+date: 2024-05-20T00:04:26.744Z
+updated: 2024-05-21T00:04:26.744Z
 tags: 
   - audio editing software
   - audio editing
@@ -1166,4 +1166,5 @@ If you are worried about a Chrome audio recorder, then this article must help yo
 <li><a href="https://meme-emoji.techidaily.com/how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video/"><u>How to Record and Edit an Animoji or Memoji Karaoke Music Video?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-poco-c51-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Poco C51 to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

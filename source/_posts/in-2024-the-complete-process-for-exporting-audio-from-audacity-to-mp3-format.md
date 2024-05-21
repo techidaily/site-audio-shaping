@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Complete Process for Exporting Audio From Audacity to MP3 Format
-date: 2024-05-05T03:37:20.916Z
-updated: 2024-05-06T03:37:20.916Z
+date: 2024-05-20T00:04:28.161Z
+updated: 2024-05-21T00:04:28.161Z
 tags: 
   - audio editing software
   - audio editing
@@ -1933,4 +1933,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/new-add-a-miniature-effect-on-your-video-for-filmy-looks-to-add-this-effect-read-the-complete-guide-and-make-your-video-cinematic-by-wondershare-filmora/"><u>New Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-minitool-movie-maker-in-depth-review-tutorial-and-top-alternatives/"><u>Updated Minitool Movie Maker In-Depth Review, Tutorial, and Top Alternatives</u></a></li>
 </ul></div>
+
 

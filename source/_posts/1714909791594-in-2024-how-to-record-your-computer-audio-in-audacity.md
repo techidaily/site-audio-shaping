@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Record Your Computer Audio in Audacity
-date: 2024-05-05T03:28:41.838Z
-updated: 2024-05-06T03:28:41.838Z
+date: 2024-05-20T00:04:11.735Z
+updated: 2024-05-21T00:04:11.735Z
 tags: 
   - audio editing software
   - audio editing
@@ -1111,4 +1111,5 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-infinix-smart-8-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Infinix Smart 8.</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unbiased-avs-video-editor-review-what-to-expect/"><u>New In 2024, Unbiased AVS Video Editor Review What to Expect</u></a></li>
 </ul></div>
+
 

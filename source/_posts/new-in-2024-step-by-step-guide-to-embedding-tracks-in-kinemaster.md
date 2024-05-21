@@ -1940,3 +1940,4 @@ Numerous effects and resources.
 <li><a href="https://ai-video-editing.techidaily.com/updated-practical-way-to-resize-video-in-handbrake/"><u>Updated Practical Way to Resize Video in Handbrake</u></a></li>
 </ul></div>
 
+

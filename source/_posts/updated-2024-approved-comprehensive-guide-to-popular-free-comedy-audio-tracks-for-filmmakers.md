@@ -1969,3 +1969,4 @@ For macOS 10.12 or later
 <li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-13-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 13 Pro Max to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

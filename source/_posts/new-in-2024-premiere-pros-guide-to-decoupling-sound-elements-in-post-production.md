@@ -1790,3 +1790,4 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/undelete-lost-call-logs-from-vivo-g2-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Vivo G2</u></a></li>
 </ul></div>
 
+

@@ -1165,3 +1165,4 @@ Music controls are features that we can't miss here. You can have only basic con
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-lava-agni-2-5g-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Lava Agni 2 5G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 </ul></div>
 
+

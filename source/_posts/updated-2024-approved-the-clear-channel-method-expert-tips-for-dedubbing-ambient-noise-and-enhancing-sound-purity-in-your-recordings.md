@@ -1230,3 +1230,4 @@ Music controls are features that we can't miss here. You can have only basic con
 <li><a href="https://smart-video-creator.techidaily.com/updated-mavericks-video-editors-handbook-a-step-by-step-guide/"><u>Updated Mavericks Video Editors Handbook A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

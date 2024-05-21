@@ -1179,3 +1179,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y100t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y100t to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

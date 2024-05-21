@@ -921,3 +921,4 @@ This article will help you in resolving various audio waveform issues in Premier
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-hot-40i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Hot 40i Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

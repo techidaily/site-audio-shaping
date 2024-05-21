@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Enhancing Your Recordings Additional Layers of Voice Processing in Audacity Using Plugins
-date: 2024-05-05T03:25:03.441Z
-updated: 2024-05-06T03:25:03.441Z
+date: 2024-05-20T00:04:04.365Z
+updated: 2024-05-21T00:04:04.365Z
 tags: 
   - audio editing software
   - audio editing
@@ -1595,4 +1595,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-turn-your-photos-into-a-movie-a-beginners-tutorial/"><u>Updated Turn Your Photos Into a Movie A Beginners Tutorial</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/in-2024-chromebooks-best-kept-secret-free-video-editing-software/"><u>In 2024, Chromebooks Best Kept Secret Free Video Editing Software</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Elevate Your Video Edits Mastering the Art of Live Audio Dampening with Final Cut Pro Xs AutoDuck Capabilities
-date: 2024-05-05T03:24:21.595Z
-updated: 2024-05-06T03:24:21.595Z
+date: 2024-05-20T00:04:03.454Z
+updated: 2024-05-21T00:04:03.454Z
 tags: 
   - audio editing software
   - audio editing
@@ -1515,4 +1515,5 @@ Wondershare Filmora has all the options to denoise audio or save a video's vocal
 <li><a href="https://location-social.techidaily.com/how-to-change-oppo-find-n3-flip-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Find N3 Flip Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S24? | Dr.fone</u></a></li>
 </ul></div>
+
 

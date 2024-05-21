@@ -1,7 +1,7 @@
 ---
 title: Mastering OBS Audio Levels Techniques for Dynamic Ducking and Lifting
-date: 2024-05-05T03:14:42.509Z
-updated: 2024-05-06T03:14:42.509Z
+date: 2024-05-20T00:03:44.832Z
+updated: 2024-05-21T00:03:44.832Z
 tags: 
   - audio editing software
   - audio editing
@@ -1228,4 +1228,5 @@ Having learned how and where to download bird sound effects and the ease of doin
 <li><a href="https://animation-videos.techidaily.com/updated-top-15-greatest-claymation-movies-of-all-time/"><u>Updated Top 15 Greatest Claymation Movies of All Time</u></a></li>
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

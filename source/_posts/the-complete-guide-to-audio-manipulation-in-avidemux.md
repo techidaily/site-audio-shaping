@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Audio Manipulation in Avidemux
-date: 2024-05-05T03:16:02.430Z
-updated: 2024-05-06T03:16:02.430Z
+date: 2024-05-20T00:03:47.822Z
+updated: 2024-05-21T00:03:47.822Z
 tags: 
   - audio editing software
   - audio editing
@@ -1272,4 +1272,5 @@ We have come forward with great resources to download soft background music for 
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-poco-x6-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Poco X6 Pro in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-s17t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo S17t Location | Dr.fone</u></a></li>
 </ul></div>
+
 

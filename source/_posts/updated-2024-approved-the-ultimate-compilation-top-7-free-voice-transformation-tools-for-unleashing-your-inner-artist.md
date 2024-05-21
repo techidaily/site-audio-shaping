@@ -1757,3 +1757,4 @@ For macOS 10.14 or later
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-have-you-ever-wondered-how-to-add-camera-shake-to-video-in-adobe-after-effects-let-us-share-with-you-some-tips-and-tricks-on-how-to-do-just-/"><u>Updated In 2024, Have You Ever Wondered How to Add Camera Shake to Video in Adobe After Effects? Let Us Share with You some Tips and Tricks on How to Do Just That</u></a></li>
 </ul></div>
 
+

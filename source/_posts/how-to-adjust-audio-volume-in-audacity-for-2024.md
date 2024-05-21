@@ -1,7 +1,7 @@
 ---
 title: How to Adjust Audio Volume in Audacity for 2024
-date: 2024-05-05T03:28:21.028Z
-updated: 2024-05-06T03:28:21.028Z
+date: 2024-05-20T00:04:10.933Z
+updated: 2024-05-21T00:04:10.933Z
 tags: 
   - audio editing software
   - audio editing
@@ -744,4 +744,5 @@ Follow @Benjamin Arango
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s21-fe-5g-2023-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy S21 FE 5G (2023) support MKV video files?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo A58 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

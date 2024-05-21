@@ -1849,3 +1849,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/do-you-want-to-add-an-adjustment-layer-to-your-video-for-easier-editing-read-this-article-to-find-out-how-to-efficiently-add-an-adjustment-layer-in-after-ef/"><u>Do You Want to Add an Adjustment Layer to Your Video for Easier Editing? Read This Article to Find Out How to Efficiently Add an Adjustment Layer in After Effects</u></a></li>
 </ul></div>
 
+

@@ -1376,3 +1376,4 @@ Using Wondershare Filmora can help you create better quality gifs with sound. Th
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-13c-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi 13C to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Decibel Diplomacy A Detailed Exploration of Audio Normalization in Media
-date: 2024-05-05T03:12:58.669Z
-updated: 2024-05-06T03:12:58.669Z
+date: 2024-05-20T00:03:41.890Z
+updated: 2024-05-21T00:03:41.890Z
 tags: 
   - audio editing software
   - audio editing
@@ -1950,4 +1950,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

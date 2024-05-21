@@ -1,7 +1,7 @@
 ---
 title: How to Convert AIFF to MP3
-date: 2024-05-05T03:12:49.884Z
-updated: 2024-05-06T03:12:49.884Z
+date: 2024-05-20T00:03:41.637Z
+updated: 2024-05-21T00:03:41.637Z
 tags: 
   - audio editing software
   - audio editing
@@ -1285,4 +1285,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Others Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-7-hd-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 7 HD To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

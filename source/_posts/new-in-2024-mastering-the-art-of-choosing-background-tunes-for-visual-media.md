@@ -1596,3 +1596,4 @@ Thus, you had a detailed discussion about **Audio ducking**. Choose the applicat
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-15-best-capcut-templates-for-slow-motion-editing/"><u>In 2024, 15 Best CapCut Templates for Slow Motion Editing</u></a></li>
 </ul></div>
 
+

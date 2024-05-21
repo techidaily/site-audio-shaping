@@ -840,3 +840,4 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
 
+

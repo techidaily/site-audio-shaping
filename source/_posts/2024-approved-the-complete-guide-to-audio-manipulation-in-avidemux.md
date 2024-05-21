@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Complete Guide to Audio Manipulation in Avidemux
-date: 2024-05-05T03:37:16.318Z
-updated: 2024-05-06T03:37:16.318Z
+date: 2024-05-20T00:04:28.098Z
+updated: 2024-05-21T00:04:28.098Z
 tags: 
   - audio editing software
   - audio editing
@@ -1033,4 +1033,5 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-honor-90-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Honor 90?</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-revolutionize-your-video-editing-top-15-adobe-premiere-plugins/"><u>Updated 2024 Approved Revolutionize Your Video Editing Top 15 Adobe Premiere Plugins</u></a></li>
 </ul></div>
+
 

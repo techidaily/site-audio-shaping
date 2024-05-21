@@ -1,7 +1,7 @@
 ---
 title: New Jazz 101 Key Elements You Must Understand
-date: 2024-05-05T03:29:39.615Z
-updated: 2024-05-06T03:29:39.615Z
+date: 2024-05-20T00:04:13.538Z
+updated: 2024-05-21T00:04:13.538Z
 tags: 
   - audio editing software
   - audio editing
@@ -1681,4 +1681,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-turn-text-into-a-podcast/"><u>2024 Approved How to Turn Text Into a Podcast</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-google-pixel-8-pro-lock-screen-password-by-drfone-android/"><u>How To Change Google Pixel 8 Pro Lock Screen Password?</u></a></li>
 </ul></div>
+
 

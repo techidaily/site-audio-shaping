@@ -1,7 +1,7 @@
 ---
 title: Capturing Your Computers Audio Spectrum with Audacity
-date: 2024-05-05T03:12:41.647Z
-updated: 2024-05-06T03:12:41.647Z
+date: 2024-05-20T00:03:41.339Z
+updated: 2024-05-21T00:03:41.339Z
 tags: 
   - audio editing software
   - audio editing
@@ -1478,4 +1478,5 @@ Numerous effects to choose from.
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-13-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 13 Pro Apple ID and Apple Pay</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-nokia-c22-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Nokia C22 Phone that is Locked?</u></a></li>
 </ul></div>
+
 

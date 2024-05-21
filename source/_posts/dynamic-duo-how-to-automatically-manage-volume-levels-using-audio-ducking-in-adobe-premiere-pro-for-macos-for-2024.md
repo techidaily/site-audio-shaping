@@ -1,7 +1,7 @@
 ---
 title: Dynamic Duo How to Automatically Manage Volume Levels Using Audio Ducking in Adobe Premiere Pro for macOS for 2024
-date: 2024-05-05T03:23:49.502Z
-updated: 2024-05-06T03:23:49.502Z
+date: 2024-05-20T00:04:02.886Z
+updated: 2024-05-21T00:04:02.886Z
 tags: 
   - audio editing software
   - audio editing
@@ -1166,4 +1166,5 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nubia Red Magic 8S Pro+</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Note 30 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

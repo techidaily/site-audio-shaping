@@ -1,7 +1,7 @@
 ---
 title: In 2024, Audacity Tutorial Boost or Mute Your Sound Effectively
-date: 2024-05-05T03:19:19.892Z
-updated: 2024-05-06T03:19:19.892Z
+date: 2024-05-20T00:03:54.432Z
+updated: 2024-05-21T00:03:54.432Z
 tags: 
   - audio editing software
   - audio editing
@@ -1291,4 +1291,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/unlock-locked-iphone-8-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 8 by restoring it to default settings</u></a></li>
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

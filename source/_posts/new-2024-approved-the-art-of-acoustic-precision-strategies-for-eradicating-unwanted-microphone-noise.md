@@ -1352,3 +1352,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-aspect-ratio-made-simple-a-beginners-guide-to-calculating-image-sizes/"><u>New 2024 Approved Aspect Ratio Made Simple A Beginners Guide to Calculating Image Sizes</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: New Setting Up and Disabling Audacity for Enhanced Sound Editing on Your Chromebook
-date: 2024-05-05T03:34:56.177Z
-updated: 2024-05-06T03:34:56.177Z
+date: 2024-05-20T00:04:23.841Z
+updated: 2024-05-21T00:04:23.841Z
 tags: 
   - audio editing software
   - audio editing
@@ -990,4 +990,5 @@ So, in this article, we have learned about audio normalization, we have answered
 <li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-ace-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus Ace 2 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

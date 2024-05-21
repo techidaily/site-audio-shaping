@@ -1,7 +1,7 @@
 ---
 title: Audio Precision Step-by-Step Guide to Muting Unnecessary Sounds in After Effects
-date: 2024-05-05T03:12:20.265Z
-updated: 2024-05-06T03:12:20.265Z
+date: 2024-05-20T00:03:40.684Z
+updated: 2024-05-21T00:03:40.684Z
 tags: 
   - audio editing software
   - audio editing
@@ -1212,4 +1212,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

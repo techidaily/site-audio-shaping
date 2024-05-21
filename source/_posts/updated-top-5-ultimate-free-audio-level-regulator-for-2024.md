@@ -1705,3 +1705,4 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Smart 8 Plus | Dr.fone</u></a></li>
 </ul></div>
 
+

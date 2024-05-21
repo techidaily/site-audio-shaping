@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Transition Techniques with Keyframes A Mac-Based Filmorians Handbook
-date: 2024-05-05T03:19:50.661Z
-updated: 2024-05-06T03:19:50.661Z
+date: 2024-05-20T00:03:55.388Z
+updated: 2024-05-21T00:03:55.388Z
 tags: 
   - audio editing software
   - audio editing
@@ -1128,4 +1128,5 @@ That does it for this list, but I'm sure you could think of many other great mon
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-70-lite-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor 70 Lite 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-14-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 14 Pro?</u></a></li>
 </ul></div>
+
 

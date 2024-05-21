@@ -1,7 +1,7 @@
 ---
 title: A Beginners Guide to Setting Up Audacity in Ubuntu for 2024
-date: 2024-05-05T03:17:52.429Z
-updated: 2024-05-06T03:17:52.429Z
+date: 2024-05-20T00:03:51.567Z
+updated: 2024-05-21T00:03:51.567Z
 tags: 
   - audio editing software
   - audio editing
@@ -2187,4 +2187,5 @@ For macOS 10.14 or later
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y100-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y100</u></a></li>
 </ul></div>
+
 

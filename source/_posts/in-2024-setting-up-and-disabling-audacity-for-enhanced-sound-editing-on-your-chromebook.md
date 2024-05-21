@@ -1,7 +1,7 @@
 ---
 title: In 2024, Setting Up and Disabling Audacity for Enhanced Sound Editing on Your Chromebook
-date: 2024-05-05T03:34:55.918Z
-updated: 2024-05-06T03:34:55.918Z
+date: 2024-05-20T00:04:23.836Z
+updated: 2024-05-21T00:04:23.836Z
 tags: 
   - audio editing software
   - audio editing
@@ -1006,4 +1006,5 @@ Follow @Shanoon Cox
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 13 Pro Max? | Stellar</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/compress-videos-for-free-10-best-online-tools-with-no-downloads-for-2024/"><u>Compress Videos for Free 10 Best Online Tools with No Downloads for 2024</u></a></li>
 </ul></div>
+
 

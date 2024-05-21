@@ -1,7 +1,7 @@
 ---
 title: New The Complete Guide to Audio Manipulation in Avidemux
-date: 2024-05-05T03:37:16.571Z
-updated: 2024-05-06T03:37:16.571Z
+date: 2024-05-20T00:04:28.100Z
+updated: 2024-05-21T00:04:28.100Z
 tags: 
   - audio editing software
   - audio editing
@@ -984,4 +984,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-s18e-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo S18e</u></a></li>
 </ul></div>
+
 

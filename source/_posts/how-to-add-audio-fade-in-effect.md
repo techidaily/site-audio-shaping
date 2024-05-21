@@ -1,7 +1,7 @@
 ---
 title: How to Add Audio Fade In Effect
-date: 2024-05-05T03:12:18.975Z
-updated: 2024-05-06T03:12:18.975Z
+date: 2024-05-20T00:03:40.653Z
+updated: 2024-05-21T00:03:40.653Z
 tags: 
   - audio editing software
   - audio editing
@@ -681,4 +681,5 @@ Follow @Shanoon Cox
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-15-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 15 Plus Making It Possible</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Windows Audio Level Automation Using Adobe Premiere
-date: 2024-05-05T03:17:14.794Z
-updated: 2024-05-06T03:17:14.794Z
+date: 2024-05-20T00:03:49.924Z
+updated: 2024-05-21T00:03:49.924Z
 tags: 
   - audio editing software
   - audio editing
@@ -969,4 +969,5 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-online-video-editing-software-with-music-and-transitions/"><u>2024 Approved Online Video Editing Software with Music and Transitions</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1205,3 +1205,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-things-you-need-to-know-about-color-grading-in-photography/"><u>New In 2024, Things You Need to Know About Color Grading in Photography</u></a></li>
 </ul></div>
 
+

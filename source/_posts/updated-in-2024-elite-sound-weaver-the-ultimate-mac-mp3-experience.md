@@ -1323,3 +1323,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-driven-video-production.techidaily.com/the-image-ratio-handbook-calculation-adjustment-and-best-practices-for-2024/"><u>The Image Ratio Handbook Calculation, Adjustment, and Best Practices for 2024</u></a></li>
 </ul></div>
 
+

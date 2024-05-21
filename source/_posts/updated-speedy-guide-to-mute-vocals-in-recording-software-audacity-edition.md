@@ -1,7 +1,7 @@
 ---
 title: Updated Speedy Guide to Mute Vocals in Recording Software – Audacity Edition
-date: 2024-05-05T03:35:40.198Z
-updated: 2024-05-06T03:35:40.198Z
+date: 2024-05-20T00:04:25.142Z
+updated: 2024-05-21T00:04:25.142Z
 tags: 
   - audio editing software
   - audio editing
@@ -1717,4 +1717,5 @@ Follow @Liza Brown
 <li><a href="https://video-content-creator.techidaily.com/updated-final-cut-pro-tutorial-fading-in-and-out-of-audio-like-a-pro-for-2024/"><u>Updated Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro for 2024</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-liven-up-your-animate-website-on-scroll/"><u>New In 2024, How to Liven Up Your Animate Website on Scroll</u></a></li>
 </ul></div>
+
 

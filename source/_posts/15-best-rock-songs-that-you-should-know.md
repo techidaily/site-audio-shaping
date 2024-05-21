@@ -1,7 +1,7 @@
 ---
 title: 15 Best Rock Songs That You Should Know
-date: 2024-05-05T03:15:25.530Z
-updated: 2024-05-06T03:15:25.530Z
+date: 2024-05-20T00:03:46.410Z
+updated: 2024-05-21T00:03:46.410Z
 tags: 
   - audio editing software
   - audio editing
@@ -1016,4 +1016,5 @@ For macOS 10.12 or later
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Magic 5 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo Find N3 | Dr.fone</u></a></li>
 </ul></div>
+
 

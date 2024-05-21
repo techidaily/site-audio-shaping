@@ -1442,3 +1442,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-a2-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo A2 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

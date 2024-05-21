@@ -1,7 +1,7 @@
 ---
 title: Finding Auditory Representations of Steel Trumpets
-date: 2024-05-05T03:13:46.247Z
-updated: 2024-05-06T03:13:46.247Z
+date: 2024-05-20T00:03:43.246Z
+updated: 2024-05-21T00:03:43.246Z
 tags: 
   - audio editing software
   - audio editing
@@ -1410,4 +1410,5 @@ Pexels allows you to use its images for personal and commercial reasons if you a
 <li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-fcp-hack-flipping-clips-in-just-4-clicks/"><u>Updated The Ultimate FCP Hack Flipping Clips in Just 4 Clicks</u></a></li>
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

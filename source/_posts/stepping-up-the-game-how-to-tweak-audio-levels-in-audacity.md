@@ -1,7 +1,7 @@
 ---
 title: Stepping Up the Game How to Tweak Audio Levels in Audacity
-date: 2024-05-05T03:15:43.715Z
-updated: 2024-05-06T03:15:43.715Z
+date: 2024-05-20T00:03:47.084Z
+updated: 2024-05-21T00:03:47.084Z
 tags: 
   - audio editing software
   - audio editing
@@ -1379,4 +1379,5 @@ Using Wondershare Filmora can help you create better quality gifs with sound. Th
 <li><a href="https://android-unlock.techidaily.com/best-lava-agni-2-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lava Agni 2 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-pop-7-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Pop 7 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 

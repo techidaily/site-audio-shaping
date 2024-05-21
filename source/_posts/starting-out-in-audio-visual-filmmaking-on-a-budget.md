@@ -1,7 +1,7 @@
 ---
 title: Starting Out in Audio-Visual Filmmaking on a Budget
-date: 2024-05-05T03:15:41.364Z
-updated: 2024-05-06T03:15:41.364Z
+date: 2024-05-20T00:03:47.037Z
+updated: 2024-05-21T00:03:47.037Z
 tags: 
   - audio editing software
   - audio editing
@@ -1378,4 +1378,5 @@ For macOS 10.14 or later
 <li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y27s | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-z-fold-5-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy Z Fold 5 Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

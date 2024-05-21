@@ -1,7 +1,7 @@
 ---
 title: Steps to Quieten Ambient Soundtracks in Films
-date: 2024-05-05T03:15:44.499Z
-updated: 2024-05-06T03:15:44.499Z
+date: 2024-05-20T00:03:47.094Z
+updated: 2024-05-21T00:03:47.094Z
 tags: 
   - audio editing software
   - audio editing
@@ -899,4 +899,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-detailed-steps-to-rotate-videos-in-lightworks/"><u>In 2024, Detailed Steps to Rotate Videos in Lightworks</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-funny-content-ideas-for-youtube-videos/"><u>New Funny Content Ideas for YouTube Videos</u></a></li>
 </ul></div>
+
 

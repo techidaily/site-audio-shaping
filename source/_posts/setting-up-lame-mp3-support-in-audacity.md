@@ -1,7 +1,7 @@
 ---
 title: Setting Up Lame MP3 Support in Audacity
-date: 2024-05-05T03:15:31.759Z
-updated: 2024-05-06T03:15:31.759Z
+date: 2024-05-20T00:03:46.705Z
+updated: 2024-05-21T00:03:46.705Z
 tags: 
   - audio editing software
   - audio editing
@@ -1479,4 +1479,5 @@ Follow @Liza Brown
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-top-list-best-5-tools-for-creating-talking-avatars/"><u>Updated 2024 Approved Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find X7? | Dr.fone</u></a></li>
 </ul></div>
+
 

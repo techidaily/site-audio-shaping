@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Essential Guide to Equalizing Audio Volumes in VLC Media Player
-date: 2024-05-05T03:37:43.037Z
-updated: 2024-05-06T03:37:43.037Z
+date: 2024-05-20T00:04:28.684Z
+updated: 2024-05-21T00:04:28.684Z
 tags: 
   - audio editing software
   - audio editing
@@ -1158,4 +1158,5 @@ Thus, you had an interesting discussion about the availability of fart sounds in
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-get-professional-results-for-free-top-mod-video-editors/"><u>Updated Get Professional Results for Free Top MOD Video Editors</u></a></li>
 <li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-gionee-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Gionee</u></a></li>
 </ul></div>
+
 

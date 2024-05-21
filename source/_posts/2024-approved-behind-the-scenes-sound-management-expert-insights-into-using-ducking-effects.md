@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Behind-the-Scenes Sound Management Expert Insights Into Using Ducking Effects
-date: 2024-05-05T03:20:30.668Z
-updated: 2024-05-06T03:20:30.668Z
+date: 2024-05-20T00:03:56.632Z
+updated: 2024-05-21T00:03:56.632Z
 tags: 
   - audio editing software
   - audio editing
@@ -1480,4 +1480,5 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 12</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-edit-like-a-pro-top-rated-video-editing-software-for-mac/"><u>New 2024 Approved Edit Like a Pro Top-Rated Video Editing Software for Mac</u></a></li>
 </ul></div>
+
 

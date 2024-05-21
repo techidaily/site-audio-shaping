@@ -1054,3 +1054,4 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-basic-to-brilliant-enhancing-your-lower-thirds-in-fcpx/"><u>2024 Approved From Basic to Brilliant Enhancing Your Lower Thirds in FCPX</u></a></li>
 </ul></div>
 
+

@@ -1300,3 +1300,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/ps4-screen-capture-and-share-a-beginners-guide/"><u>PS4 Screen Capture and Share A Beginners Guide</u></a></li>
 </ul></div>
 
+

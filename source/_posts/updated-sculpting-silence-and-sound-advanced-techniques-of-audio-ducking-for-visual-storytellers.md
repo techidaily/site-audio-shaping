@@ -1,7 +1,7 @@
 ---
 title: Updated Sculpting Silence and Sound Advanced Techniques of Audio Ducking for Visual Storytellers
-date: 2024-05-05T03:34:38.475Z
-updated: 2024-05-06T03:34:38.475Z
+date: 2024-05-20T00:04:23.451Z
+updated: 2024-05-21T00:04:23.451Z
 tags: 
   - audio editing software
   - audio editing
@@ -1067,4 +1067,5 @@ Creative professionals like music artists need software that allows them to reco
 <li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 6 to Android | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-converting-webm-to-mp3-top-tools-for-2024/"><u>New The Ultimate Guide to Converting WebM to MP3 Top Tools for 2024</u></a></li>
 </ul></div>
+
 

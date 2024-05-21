@@ -1,7 +1,7 @@
 ---
 title: New Balancing the Scales Normalizing Sound Volume for Optimal Viewing with VLC
-date: 2024-05-05T03:20:20.181Z
-updated: 2024-05-06T03:20:20.181Z
+date: 2024-05-20T00:03:56.419Z
+updated: 2024-05-21T00:03:56.419Z
 tags: 
   - audio editing software
   - audio editing
@@ -1179,4 +1179,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-of-the-best-10-animated-text-tools-to-elevate-your-brand/"><u>In 2024, The Best of the Best 10 Animated Text Tools to Elevate Your Brand</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Enhancing Project Focus Extracting Audio From Video in iMovie on Mac
-date: 2024-05-05T03:24:57.223Z
-updated: 2024-05-06T03:24:57.223Z
+date: 2024-05-20T00:04:04.174Z
+updated: 2024-05-21T00:04:04.174Z
 tags: 
   - audio editing software
   - audio editing
@@ -1130,4 +1130,5 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-solve-avidemux-no-audio-problem-quick-and-easy-fixes/"><u>New 2024 Approved Solve Avidemux No Audio Problem Quick and Easy Fixes</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-rated-gaming-intro-creators-to-watch/"><u>Updated 2024 Approved Top-Rated Gaming Intro Creators to Watch</u></a></li>
 </ul></div>
+
 

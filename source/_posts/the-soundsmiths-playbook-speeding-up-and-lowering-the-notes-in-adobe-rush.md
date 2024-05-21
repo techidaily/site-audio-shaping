@@ -1,7 +1,7 @@
 ---
 title: The Soundsmiths Playbook Speeding Up and Lowering the Notes in Adobe Rush
-date: 2024-05-05T03:16:21.968Z
-updated: 2024-05-06T03:16:21.968Z
+date: 2024-05-20T00:03:48.168Z
+updated: 2024-05-21T00:03:48.168Z
 tags: 
   - audio editing software
   - audio editing
@@ -1298,4 +1298,5 @@ The best audio editing software for Mac users is Adobe Audition, as it provides 
 <li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-11-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 11 Pro Max without iCloud Password or Apple ID?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-x6-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco X6</u></a></li>
 </ul></div>
+
 

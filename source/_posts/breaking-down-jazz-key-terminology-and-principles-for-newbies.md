@@ -1,7 +1,7 @@
 ---
 title: Breaking Down Jazz Key Terminology and Principles for Newbies
-date: 2024-05-05T03:12:38.556Z
-updated: 2024-05-06T03:12:38.556Z
+date: 2024-05-20T00:03:41.267Z
+updated: 2024-05-21T00:03:41.267Z
 tags: 
   - audio editing software
   - audio editing
@@ -1546,4 +1546,5 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 12 Pro Max | Stellar</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-best-pdf-to-gif-converters-for-2024/"><u>Updated Best PDF to GIF Converters for 2024</u></a></li>
 </ul></div>
+
 

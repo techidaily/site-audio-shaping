@@ -1,7 +1,7 @@
 ---
 title: How to Separate Audio From Video in iMovie on Mac?
-date: 2024-05-05T03:15:30.464Z
-updated: 2024-05-06T03:15:30.464Z
+date: 2024-05-20T00:03:46.630Z
+updated: 2024-05-21T00:03:46.630Z
 tags: 
   - audio editing software
   - audio editing
@@ -1396,4 +1396,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-x-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone X Without a Passcode</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy S23 Ultra?</u></a></li>
 </ul></div>
+
 

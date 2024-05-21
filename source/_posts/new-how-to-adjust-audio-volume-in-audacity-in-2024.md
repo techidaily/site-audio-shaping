@@ -1293,3 +1293,4 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
 
+

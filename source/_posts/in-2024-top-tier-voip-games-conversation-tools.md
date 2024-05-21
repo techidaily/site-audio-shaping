@@ -1906,3 +1906,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-t2-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo T2 5G Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

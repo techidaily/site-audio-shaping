@@ -1542,3 +1542,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2003-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2003 file is not in recognizable format</u></a></li>
 </ul></div>
 
+

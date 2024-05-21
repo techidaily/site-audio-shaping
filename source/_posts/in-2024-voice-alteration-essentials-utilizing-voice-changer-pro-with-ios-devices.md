@@ -1378,3 +1378,4 @@ Numerous effects to choose from.
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi 14 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

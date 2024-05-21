@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering OBS Audio Levels Techniques for Dynamic Ducking and Lifting
-date: 2024-05-05T03:30:52.073Z
-updated: 2024-05-06T03:30:52.073Z
+date: 2024-05-20T00:04:15.646Z
+updated: 2024-05-21T00:04:15.646Z
 tags: 
   - audio editing software
   - audio editing
@@ -1472,4 +1472,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30FRP Lock</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-s23plus-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy S23+ Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

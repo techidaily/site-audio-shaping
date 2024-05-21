@@ -1,7 +1,7 @@
 ---
 title: New Adobe After Effects Sound Design Incorporating Audio Into Your Animations
-date: 2024-05-05T03:18:38.957Z
-updated: 2024-05-06T03:18:38.957Z
+date: 2024-05-20T00:03:53.240Z
+updated: 2024-05-21T00:03:53.240Z
 tags: 
   - audio editing software
   - audio editing
@@ -1176,4 +1176,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-editor-in-2024/"><u>Updated What Is an AI Editor, In 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-vintage-film-effect-1920s-how-to-make-for-2024/"><u>New Vintage Film Effect 1920S - How to Make for 2024</u></a></li>
 </ul></div>
+
 

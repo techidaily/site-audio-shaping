@@ -1,7 +1,7 @@
 ---
 title: In 2024, DIY Sound Capture How to Use Audacity Free of Charge
-date: 2024-05-05T03:23:45.298Z
-updated: 2024-05-06T03:23:45.298Z
+date: 2024-05-20T00:04:02.783Z
+updated: 2024-05-21T00:04:02.783Z
 tags: 
   - audio editing software
   - audio editing
@@ -1401,4 +1401,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video.techidaily.com/updated-2024-approved-everything-you-want-to-know-about-kapwing-video-translation/"><u>updated 2024 Approved Everything You Want To Know About Kapwing Video Translation</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-make-well-done-animated-gif/"><u>Updated Make Well Done Animated GIF</u></a></li>
 </ul></div>
+
 

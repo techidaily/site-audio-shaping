@@ -1,7 +1,7 @@
 ---
 title: New Find Glass Breaking Sound Effect
-date: 2024-05-05T03:27:41.875Z
-updated: 2024-05-06T03:27:41.875Z
+date: 2024-05-20T00:04:09.553Z
+updated: 2024-05-21T00:04:09.553Z
 tags: 
   - audio editing software
   - audio editing
@@ -1195,4 +1195,5 @@ For macOS 10.14 or later
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-nubia-red-magic-9-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Nubia Red Magic 9 Pro Devices</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-best-flv-editor-for-windows-8-effortless-video-editing-software/"><u>New 2024 Approved Best FLV Editor for Windows 8 Effortless Video Editing Software</u></a></li>
 </ul></div>
+
 

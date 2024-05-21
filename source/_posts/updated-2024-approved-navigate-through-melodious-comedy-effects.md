@@ -874,3 +874,4 @@ This article will help you in resolving various audio waveform issues in Premier
 <li><a href="https://ai-video-editing.techidaily.com/updated-what-is-a-transparent-logo-and-why-do-you-need-it/"><u>Updated What Is a Transparent Logo and Why Do You Need It</u></a></li>
 </ul></div>
 
+

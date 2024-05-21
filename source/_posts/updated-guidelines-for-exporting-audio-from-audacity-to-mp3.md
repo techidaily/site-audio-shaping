@@ -1,7 +1,7 @@
 ---
 title: Updated Guidelines for Exporting Audio From Audacity to MP3
-date: 2024-05-05T03:27:47.817Z
-updated: 2024-05-06T03:27:47.817Z
+date: 2024-05-20T00:04:09.822Z
+updated: 2024-05-21T00:04:09.822Z
 tags: 
   - audio editing software
   - audio editing
@@ -1360,4 +1360,5 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-oppo-a78-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Oppo A78 using Video Repair Utility on Windows? </u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-realme-12-proplus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 12 Pro+ 5G phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

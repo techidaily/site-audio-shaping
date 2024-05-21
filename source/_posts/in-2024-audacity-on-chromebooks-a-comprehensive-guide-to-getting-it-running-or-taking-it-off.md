@@ -1,7 +1,7 @@
 ---
 title: In 2024, Audacity on Chromebooks A Comprehensive Guide to Getting It Running or Taking It Off
-date: 2024-05-05T03:19:17.822Z
-updated: 2024-05-06T03:19:17.822Z
+date: 2024-05-20T00:03:54.391Z
+updated: 2024-05-21T00:03:54.391Z
 tags: 
   - audio editing software
   - audio editing
@@ -1149,4 +1149,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-mac-video-editing-studio-avs-editor-for-creative-projects/"><u>In 2024, Mac Video Editing Studio AVS Editor for Creative Projects</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-vn-video-editor-review-the-good-the-bad-and-the-ugly/"><u>New 2024 Approved VN Video Editor Review The Good, the Bad, and the Ugly</u></a></li>
 </ul></div>
+
 

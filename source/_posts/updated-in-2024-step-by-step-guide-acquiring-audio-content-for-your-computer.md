@@ -980,3 +980,4 @@ These are some key tips regarding the usage of the YouTube audio library classic
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-create-a-freeze-frame-sequence-effect/"><u>Updated In 2024, How to Create a Freeze Frame Sequence Effect</u></a></li>
 </ul></div>
 
+

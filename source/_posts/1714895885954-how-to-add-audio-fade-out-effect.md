@@ -1,7 +1,7 @@
 ---
 title: How to Add Audio Fade Out Effect?
-date: 2024-05-05T03:14:08.086Z
-updated: 2024-05-06T03:14:08.086Z
+date: 2024-05-20T00:03:43.828Z
+updated: 2024-05-21T00:03:43.828Z
 tags: 
   - audio editing software
   - audio editing
@@ -1074,4 +1074,5 @@ Using sound effects that make a scene relatable is nothing less than art. This a
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-defy-2-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola Defy 2 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-itel-s23-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel S23 Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

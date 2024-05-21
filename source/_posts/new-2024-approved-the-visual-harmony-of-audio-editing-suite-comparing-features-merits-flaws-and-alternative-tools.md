@@ -1720,3 +1720,4 @@ For macOS 10.12 or later
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
 
+

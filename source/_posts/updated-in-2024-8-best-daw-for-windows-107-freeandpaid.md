@@ -1730,3 +1730,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-samsung-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on Samsung</u></a></li>
 </ul></div>
 
+

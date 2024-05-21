@@ -1,7 +1,7 @@
 ---
 title: New Converting Audacity Projects to MP3 Format
-date: 2024-05-05T03:22:03.671Z
-updated: 2024-05-06T03:22:03.671Z
+date: 2024-05-20T00:03:59.757Z
+updated: 2024-05-21T00:03:59.757Z
 tags: 
   - audio editing software
   - audio editing
@@ -1536,4 +1536,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-a2-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi A2 Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-spark-20-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Spark 20 Pro</u></a></li>
 </ul></div>
+
 

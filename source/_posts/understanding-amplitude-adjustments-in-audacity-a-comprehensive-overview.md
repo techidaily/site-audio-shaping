@@ -1,7 +1,7 @@
 ---
 title: Understanding Amplitude Adjustments in Audacity A Comprehensive Overview
-date: 2024-05-05T03:16:56.154Z
-updated: 2024-05-06T03:16:56.154Z
+date: 2024-05-20T00:03:49.276Z
+updated: 2024-05-21T00:03:49.276Z
 tags: 
   - audio editing software
   - audio editing
@@ -2016,4 +2016,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-driven-video-production.techidaily.com/maximize-your-reach-a-guide-to-optimizing-social-media-aspect-ratios/"><u>Maximize Your Reach A Guide to Optimizing Social Media Aspect Ratios</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

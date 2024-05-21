@@ -1,7 +1,7 @@
 ---
 title: Exploring the Hidden Gems of Jazz Musics Fundamentals
-date: 2024-05-05T03:13:41.594Z
-updated: 2024-05-06T03:13:41.594Z
+date: 2024-05-20T00:03:43.113Z
+updated: 2024-05-21T00:03:43.113Z
 tags: 
   - audio editing software
   - audio editing
@@ -1559,4 +1559,5 @@ For macOS 10.12 or later
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-6s-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 6s Plus Lock Screen with Notifications?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/vivo-y36-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y36 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
+
 

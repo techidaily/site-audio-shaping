@@ -1489,3 +1489,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-change-aspect-ratio-of-video/"><u>Updated In 2024, Change Aspect Ratio of Video</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: New Cataloging the Symphony of Crickets An Acoustic Collection
-date: 2024-05-05T03:21:23.768Z
-updated: 2024-05-06T03:21:23.768Z
+date: 2024-05-20T00:03:58.600Z
+updated: 2024-05-21T00:03:58.600Z
 tags: 
   - audio editing software
   - audio editing
@@ -658,4 +658,5 @@ There are high chances of audio sound not being in the required pitch or volume.
 <li><a href="https://ai-editing-video.techidaily.com/learn-about-open-broadcaster-software-and-how-to-perform-obs-color-correction-also-explore-the-various-aspects-of-color-correction-like-contrast-brightness-/"><u>Learn About Open Broadcaster Software and How to Perform Obs Color Correction. Also, Explore the Various Aspects of Color Correction Like Contrast, Brightness, Saturation, Among Others</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-some-leading-ai-tools-to-replace-sky-backgrounds-for-2024/"><u>Updated Some Leading AI Tools to Replace Sky Backgrounds for 2024</u></a></li>
 </ul></div>
+
 

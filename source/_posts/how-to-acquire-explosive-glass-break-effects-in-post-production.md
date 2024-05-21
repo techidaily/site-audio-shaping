@@ -1,7 +1,7 @@
 ---
 title: How to Acquire Explosive Glass Break Effects in Post-Production
-date: 2024-05-05T03:14:07.558Z
-updated: 2024-05-06T03:14:07.558Z
+date: 2024-05-20T00:03:43.819Z
+updated: 2024-05-21T00:03:43.819Z
 tags: 
   - audio editing software
   - audio editing
@@ -1170,4 +1170,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-130-music-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia 130 Music | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-in-2024-waht-is-ai-pixel-art-generator/"><u>Updated In 2024, Waht Is AI Pixel Art Generator?</u></a></li>
 </ul></div>
+
 

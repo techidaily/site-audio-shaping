@@ -1,7 +1,7 @@
 ---
 title: Updated Techniques for Converting Audacity Projects Into MP3 Format
-date: 2024-05-05T03:36:34.761Z
-updated: 2024-05-06T03:36:34.761Z
+date: 2024-05-20T00:04:26.785Z
+updated: 2024-05-21T00:04:26.785Z
 tags: 
   - audio editing software
   - audio editing
@@ -1646,4 +1646,5 @@ For macOS 10.14 or later
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus Ace 3 | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-imovie-alternatives-for-windows-10-users-for-2024/"><u>New The Ultimate Guide to iMovie Alternatives for Windows 10 Users for 2024</u></a></li>
 </ul></div>
+
 

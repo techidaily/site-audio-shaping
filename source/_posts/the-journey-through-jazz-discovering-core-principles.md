@@ -1,7 +1,7 @@
 ---
 title: The Journey Through Jazz Discovering Core Principles
-date: 2024-05-05T03:16:14.412Z
-updated: 2024-05-06T03:16:14.412Z
+date: 2024-05-20T00:03:47.999Z
+updated: 2024-05-21T00:03:47.999Z
 tags: 
   - audio editing software
   - audio editing
@@ -1486,4 +1486,5 @@ Follow @Benjamin Arango
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-gt-10-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix GT 10 Pro Phones with/without a PC</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Poco F5 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

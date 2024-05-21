@@ -1,7 +1,7 @@
 ---
 title: New 5 Top Free Open-Source Audio Editor Windows
-date: 2024-05-05T03:32:29.135Z
-updated: 2024-05-06T03:32:29.135Z
+date: 2024-05-20T00:04:18.980Z
+updated: 2024-05-21T00:04:18.980Z
 tags: 
   - audio editing software
   - audio editing
@@ -1315,4 +1315,5 @@ So, in this article, we learned one or two things about normalizing volumes and 
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-free-avi-video-editors/"><u>Updated Top 5 Free AVI Video Editors</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

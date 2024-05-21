@@ -1,7 +1,7 @@
 ---
 title: New How to Fade In and Fade Out Audio in Adobe After Effects Effortlessly
-date: 2024-05-05T03:26:47.631Z
-updated: 2024-05-06T03:26:47.631Z
+date: 2024-05-20T00:04:07.967Z
+updated: 2024-05-21T00:04:07.967Z
 tags: 
   - audio editing software
   - audio editing
@@ -1846,4 +1846,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-transform-your-videos-into-90s-vhs-nostalgia-for-free-learn-where-to-get-overlays-and-use-filmoras-built-in-presets-dive-into-the-retro-realm-now/"><u>In 2024, Transform Your Videos Into 90S VHS Nostalgia for Free! Learn Where to Get Overlays and Use Filmoras Built-In Presets. Dive Into the Retro Realm Now</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713942873695-in-2024-guide-to-slowing-down-videos-in-snapchat-discussing-the-details/"><u>In 2024, Guide To Slowing Down Videos in Snapchat Discussing the Details</u></a></li>
 </ul></div>
+
 

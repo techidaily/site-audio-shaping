@@ -1,7 +1,7 @@
 ---
 title: First Edition of LexiEdit Training Building Your Base in Audio Editing
-date: 2024-05-05T03:13:48.057Z
-updated: 2024-05-06T03:13:48.057Z
+date: 2024-05-20T00:03:43.290Z
+updated: 2024-05-21T00:03:43.290Z
 tags: 
   - audio editing software
   - audio editing
@@ -1176,4 +1176,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/repair-corrupt-pdf-v17-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF v1.7 File using PDF Repair Tool | Stellar</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-and-easy-video-editing-software-for-beginners/"><u>In 2024, Free and Easy Video Editing Software for Beginners</u></a></li>
 </ul></div>
+
 

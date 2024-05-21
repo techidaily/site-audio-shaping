@@ -1274,3 +1274,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-5-tips-to-freeze-frame-in-after-effects/"><u>New In 2024, Top 5 Tips to Freeze-Frame in After Effects</u></a></li>
 </ul></div>
 
+

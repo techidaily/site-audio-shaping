@@ -1,7 +1,7 @@
 ---
 title: Guideline for Beginners About Lexis Audio Editor
-date: 2024-05-05T03:14:30.561Z
-updated: 2024-05-06T03:14:30.561Z
+date: 2024-05-20T00:03:44.490Z
+updated: 2024-05-21T00:03:44.490Z
 tags: 
   - audio editing software
   - audio editing
@@ -1699,4 +1699,5 @@ So, it’s done – now you know a whole lot more about audio normalization, its
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-art-of-audio-fading-2-expert-tips-for-final-cut-pro-users/"><u>New 2024 Approved The Art of Audio Fading 2 Expert Tips for Final Cut Pro Users</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-best-public-domain-images-online-for-2024/"><u>The Ultimate List Best Public Domain Images Online for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Editing A Step-by-Step Approach for Isolating Vocals with Audacity
-date: 2024-05-05T03:14:36.992Z
-updated: 2024-05-06T03:14:36.992Z
+date: 2024-05-20T00:03:44.683Z
+updated: 2024-05-21T00:03:44.683Z
 tags: 
   - audio editing software
   - audio editing
@@ -1165,4 +1165,5 @@ Increasing the volume of a video to make the dialogues sound properly and amplif
 <li><a href="https://video-creation-software.techidaily.com/streamline-your-videos-compress-mpeg2-with-virtualdub-for-2024/"><u>Streamline Your Videos Compress MPEG2 with VirtualDub for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-13-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 13 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
+
 

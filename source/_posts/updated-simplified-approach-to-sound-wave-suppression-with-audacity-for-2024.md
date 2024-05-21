@@ -1199,3 +1199,4 @@ By paying attention to all these details, you can easily figure out the best fin
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40i-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40i to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

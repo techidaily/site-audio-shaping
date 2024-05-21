@@ -2011,3 +2011,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/bricked-your-infinix-smart-7-hd-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Smart 7 HD? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
 
+

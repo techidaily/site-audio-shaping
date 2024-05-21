@@ -1,7 +1,7 @@
 ---
 title: The Audio Wizards Handbook Navigating Complex Editing Tasks with Sony Vegas Pro
-date: 2024-05-05T03:16:00.355Z
-updated: 2024-05-06T03:16:00.355Z
+date: 2024-05-20T00:03:47.794Z
+updated: 2024-05-21T00:03:47.794Z
 tags: 
   - audio editing software
   - audio editing
@@ -2192,4 +2192,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/3-in-camera-transitions-tricks-to-make-videos-for-2024/"><u>3 In-Camera Transitions Tricks To Make Videos for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-unlock-the-power-of-mp3-conversion-why-this-article-matters/"><u>Updated Unlock the Power of Mp3 Conversion Why This Article Matters</u></a></li>
 </ul></div>
+
 

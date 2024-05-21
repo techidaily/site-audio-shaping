@@ -1,7 +1,7 @@
 ---
 title: New The Art of Smooth Transitions Between Film Cuts
-date: 2024-05-05T03:36:58.094Z
-updated: 2024-05-06T03:36:58.094Z
+date: 2024-05-20T00:04:27.319Z
+updated: 2024-05-21T00:04:27.319Z
 tags: 
   - audio editing software
   - audio editing
@@ -1074,4 +1074,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-are-you-seeking-free-lumetri-presets-to-enhance-your-videos-find-out-all-about-lumetri-color-presets-and-how-to-use-them-in-presenting-proper-/"><u>2024 Approved Are You Seeking Free Lumetri Presets to Enhance Your Videos? Find Out All About Lumetri Color Presets and How to Use Them in Presenting Proper Color Grading</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

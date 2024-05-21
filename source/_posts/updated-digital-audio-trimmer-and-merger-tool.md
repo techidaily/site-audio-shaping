@@ -1,7 +1,7 @@
 ---
 title: Updated Digital Audio Trimmer and Merger Tool
-date: 2024-05-05T03:22:57.499Z
-updated: 2024-05-06T03:22:57.499Z
+date: 2024-05-20T00:04:01.154Z
+updated: 2024-05-21T00:04:01.154Z
 tags: 
   - audio editing software
   - audio editing
@@ -856,4 +856,5 @@ Filmora can help you create professional-like montage videos that flow well. The
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-razr-40-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Razr 40 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-compress-mpeg2-files-with-virtualdub-a-step-by-step-guide/"><u>In 2024, Compress MPEG2 Files with VirtualDub A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Adjusting Decibels Fine-Tuning Sound on Audacity
-date: 2024-05-05T03:18:38.444Z
-updated: 2024-05-06T03:18:38.444Z
+date: 2024-05-20T00:03:53.234Z
+updated: 2024-05-21T00:03:53.234Z
 tags: 
   - audio editing software
   - audio editing
@@ -1454,4 +1454,5 @@ Numerous effects to choose from.
 <li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-xs-max-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone XS Max Waze | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/do-you-also-use-android-to-create-and-edit-videos-read-about-the-efectum-video-effects-editor-which-is-available-in-your-app-stores-for-seamless-editing-for/"><u>Do You Also Use Android to Create and Edit Videos? Read About the Efectum Video Effects Editor, Which Is Available in Your App Stores for Seamless Editing for 2024</u></a></li>
 </ul></div>
+
 

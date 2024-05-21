@@ -1,7 +1,7 @@
 ---
 title: New Detect Clapping Impact Soundscape
-date: 2024-05-05T03:22:54.115Z
-updated: 2024-05-06T03:22:54.115Z
+date: 2024-05-20T00:04:01.054Z
+updated: 2024-05-21T00:04:01.054Z
 tags: 
   - audio editing software
   - audio editing
@@ -1252,4 +1252,5 @@ Numerous effects to choose from.
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-s-top-rated-video-editing-software-for-music-and-video-production/"><u>Updated 2024 Approved S Top-Rated Video Editing Software for Music and Video Production</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-find-and-make-animated-christmas-gifs/"><u>New In 2024, How to Find & Make Animated Christmas GIFs?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Elevating and Dimming Audio in Audacity A Step-by-Step Approach
-date: 2024-05-05T03:24:22.114Z
-updated: 2024-05-06T03:24:22.114Z
+date: 2024-05-20T00:04:03.460Z
+updated: 2024-05-21T00:04:03.460Z
 tags: 
   - audio editing software
   - audio editing
@@ -1144,4 +1144,5 @@ Follow @Liza Brown
 <li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-stunning-videos-microsoft-video-editor-tips-and-tricks-for-windows/"><u>New 2024 Approved Make Stunning Videos Microsoft Video Editor Tips and Tricks for Windows</u></a></li>
 </ul></div>
+
 

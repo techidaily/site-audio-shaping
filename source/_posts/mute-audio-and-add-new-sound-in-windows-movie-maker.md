@@ -1,7 +1,7 @@
 ---
 title: Mute Audio and Add New Sound in Windows Movie Maker
-date: 2024-05-05T03:14:56.535Z
-updated: 2024-05-06T03:14:56.535Z
+date: 2024-05-20T00:03:45.247Z
+updated: 2024-05-21T00:03:45.247Z
 tags: 
   - audio editing software
   - audio editing
@@ -1656,4 +1656,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-11-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
 </ul></div>
+
 

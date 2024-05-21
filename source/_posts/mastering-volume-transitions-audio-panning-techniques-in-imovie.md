@@ -1,7 +1,7 @@
 ---
 title: Mastering Volume Transitions Audio Panning Techniques in iMovie
-date: 2024-05-05T03:14:48.768Z
-updated: 2024-05-06T03:14:48.768Z
+date: 2024-05-20T00:03:44.963Z
+updated: 2024-05-21T00:03:44.963Z
 tags: 
   - audio editing software
   - audio editing
@@ -900,4 +900,5 @@ Admittedly, there are countless other apps in the store that can do the job of c
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nokia-c12-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nokia C12 Pro without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-introductory-video-editing-software-a-beginners-guide/"><u>Updated In 2024, Introductory Video Editing Software A Beginners Guide</u></a></li>
 </ul></div>
+
 

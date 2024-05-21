@@ -1,7 +1,7 @@
 ---
 title: Find Scary Sound Effect for 2024
-date: 2024-05-05T03:34:36.652Z
-updated: 2024-05-06T03:34:36.652Z
+date: 2024-05-20T00:04:23.383Z
+updated: 2024-05-21T00:04:23.383Z
 tags: 
   - audio editing software
   - audio editing
@@ -1449,4 +1449,5 @@ Music controls are features that we can't miss here. You can have only basic con
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-take-control-of-your-video-playback-vlc-slow-motion-tutorial/"><u>New 2024 Approved Take Control of Your Video Playback VLC Slow Motion Tutorial</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-s23-fe-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy S23 FE Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

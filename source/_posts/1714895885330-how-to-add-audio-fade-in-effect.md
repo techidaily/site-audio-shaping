@@ -1,7 +1,7 @@
 ---
 title: How to Add Audio Fade In Effect?
-date: 2024-05-05T03:14:07.822Z
-updated: 2024-05-06T03:14:07.822Z
+date: 2024-05-20T00:03:43.825Z
+updated: 2024-05-21T00:03:43.825Z
 tags: 
   - audio editing software
   - audio editing
@@ -1136,4 +1136,5 @@ Increasing the volume of a video to make the dialogues sound properly and amplif
 <li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo S17e | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor V Purse? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Adjust Audio Volume in Audacity, In 2024
-date: 2024-05-05T03:28:20.766Z
-updated: 2024-05-06T03:28:20.766Z
+date: 2024-05-20T00:04:10.903Z
+updated: 2024-05-21T00:04:10.903Z
 tags: 
   - audio editing software
   - audio editing
@@ -1361,4 +1361,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme C67 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>2024 Approved The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
 </ul></div>
+
 

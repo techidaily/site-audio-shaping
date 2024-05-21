@@ -1,7 +1,7 @@
 ---
 title: The Soundtrack for Aspiring Reporters A 15 Piece Selection of News-Centric Melodies
-date: 2024-05-05T03:16:22.230Z
-updated: 2024-05-06T03:16:22.230Z
+date: 2024-05-20T00:03:48.172Z
+updated: 2024-05-21T00:03:48.172Z
 tags: 
   - audio editing software
   - audio editing
@@ -1379,4 +1379,5 @@ For macOS 10.12 or later
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 6 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

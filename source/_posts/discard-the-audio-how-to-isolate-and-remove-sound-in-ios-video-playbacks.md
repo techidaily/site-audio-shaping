@@ -1,7 +1,7 @@
 ---
 title: Discard the Audio How to Isolate and Remove Sound in iOS Video Playbacks
-date: 2024-05-05T03:13:04.099Z
-updated: 2024-05-06T03:13:04.099Z
+date: 2024-05-20T00:03:42.062Z
+updated: 2024-05-21T00:03:42.062Z
 tags: 
   - audio editing software
   - audio editing
@@ -1426,4 +1426,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/updated-uncomplicate-your-edit-simple-video-editing-solutions-for-2024/"><u>Updated Uncomplicate Your Edit Simple Video Editing Solutions for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-cut-videos-on-mac-without-using-ffmpeg-for-2024/"><u>How to Cut Videos on Mac without Using FFmpeg for 2024</u></a></li>
 </ul></div>
+
 

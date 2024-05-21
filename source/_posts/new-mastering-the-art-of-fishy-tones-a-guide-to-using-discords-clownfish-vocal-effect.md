@@ -1,7 +1,7 @@
 ---
 title: New Mastering the Art of Fishy Tones A Guide to Using Discords Clownfish Vocal Effect
-date: 2024-05-05T03:31:11.526Z
-updated: 2024-05-06T03:31:11.526Z
+date: 2024-05-20T00:04:16.220Z
+updated: 2024-05-21T00:04:16.220Z
 tags: 
   - audio editing software
   - audio editing
@@ -1495,4 +1495,5 @@ So, in this article, we have learned about audio normalization, we have answered
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo G2 | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-tips-and-tricks-flipping-clips-with-ease-4-steps-for-2024/"><u>Updated Final Cut Pro Tips and Tricks Flipping Clips with Ease (4 Steps) for 2024</u></a></li>
 </ul></div>
+
 

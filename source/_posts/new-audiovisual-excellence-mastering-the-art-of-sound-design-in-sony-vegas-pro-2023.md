@@ -1,7 +1,7 @@
 ---
 title: New Audiovisual Excellence Mastering the Art of Sound Design in Sony Vegas Pro 2023
-date: 2024-05-05T03:20:02.128Z
-updated: 2024-05-06T03:20:02.128Z
+date: 2024-05-20T00:03:55.753Z
+updated: 2024-05-21T00:03:55.753Z
 tags: 
   - audio editing software
   - audio editing
@@ -1636,4 +1636,5 @@ Numerous effects to choose from.
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-20-slideshow-makers-for-winmaconline-review/"><u>New In 2024, Top 20 Slideshow Makers for Win/Mac/Online Review</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y100 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

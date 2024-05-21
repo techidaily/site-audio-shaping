@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Discover Creepy Decibel Effects
-date: 2024-05-05T03:23:07.908Z
-updated: 2024-05-06T03:23:07.908Z
+date: 2024-05-20T00:04:01.462Z
+updated: 2024-05-21T00:04:01.462Z
 tags: 
   - audio editing software
   - audio editing
@@ -1980,4 +1980,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s23plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S23+ to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-poco-m6-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco M6 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

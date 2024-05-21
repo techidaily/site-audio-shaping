@@ -1,7 +1,7 @@
 ---
 title: Mastering Audacity A Comprehensive Guide to Podcast Production
-date: 2024-05-05T03:14:35.700Z
-updated: 2024-05-06T03:14:35.700Z
+date: 2024-05-20T00:03:44.612Z
+updated: 2024-05-21T00:03:44.612Z
 tags: 
   - audio editing software
   - audio editing
@@ -1152,4 +1152,5 @@ Follow @Benjamin Arango
 <li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-10-must-have-video-editing-tools-for-2024/"><u>The Ultimate List 10 Must-Have Video Editing Tools for 2024</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/2024-approved-unlocking-global-audiences-top-video-language-converters/"><u>2024 Approved Unlocking Global Audiences Top Video Language Converters</u></a></li>
 </ul></div>
+
 

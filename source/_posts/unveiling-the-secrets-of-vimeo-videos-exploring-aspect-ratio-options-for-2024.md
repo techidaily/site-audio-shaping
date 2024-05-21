@@ -1191,3 +1191,4 @@ Follow @Shanoon Cox
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y36i-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y36i Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

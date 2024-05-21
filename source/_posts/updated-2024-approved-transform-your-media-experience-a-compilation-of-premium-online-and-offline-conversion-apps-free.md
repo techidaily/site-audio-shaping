@@ -2189,3 +2189,4 @@ If we talk about its features, you will never turn back to ordinary editors. The
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-animate-designs-with-canva-gif-for-2024/"><u>Updated How to Animate Designs With Canva GIF for 2024</u></a></li>
 </ul></div>
 
+

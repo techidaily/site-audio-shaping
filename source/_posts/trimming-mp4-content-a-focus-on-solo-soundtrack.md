@@ -1,7 +1,7 @@
 ---
 title: Trimming MP4 Content A Focus on Solo Soundtrack
-date: 2024-05-05T03:16:51.716Z
-updated: 2024-05-06T03:16:51.716Z
+date: 2024-05-20T00:03:49.128Z
+updated: 2024-05-21T00:03:49.128Z
 tags: 
   - audio editing software
   - audio editing
@@ -708,4 +708,5 @@ So, in this article, we learned a lot about normalizing volumes, why and how it 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-cut-crop-and-create-the-best-mobile-video-editing-software-for-iphone-and-android/"><u>2024 Approved Cut, Crop, and Create The Best Mobile Video Editing Software for iPhone and Android</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-7-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 7? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Introduction to Jazz Fundamental Concepts and Techniques
-date: 2024-05-05T03:29:33.634Z
-updated: 2024-05-06T03:29:33.634Z
+date: 2024-05-20T00:04:13.381Z
+updated: 2024-05-21T00:04:13.381Z
 tags: 
   - audio editing software
   - audio editing
@@ -1729,4 +1729,5 @@ The voice recorder software is the need of the hour as they help manipulate the 
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y27-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y27 4G Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Unavailable Issue With Ease</u></a></li>
 </ul></div>
+
 

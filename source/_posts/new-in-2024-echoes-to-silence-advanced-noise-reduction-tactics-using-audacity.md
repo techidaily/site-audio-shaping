@@ -870,3 +870,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/updated-8-tips-to-apply-cinematic-color-grading-to-your-videos-for-2024/"><u>Updated 8 Tips to Apply Cinematic Color Grading to Your Videos for 2024</u></a></li>
 </ul></div>
 
+

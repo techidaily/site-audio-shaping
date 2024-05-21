@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Essential Guide to Volume Manipulation in Audacity
-date: 2024-05-05T03:37:45.869Z
-updated: 2024-05-06T03:37:45.869Z
+date: 2024-05-20T00:04:28.788Z
+updated: 2024-05-21T00:04:28.788Z
 tags: 
   - audio editing software
   - audio editing
@@ -2030,4 +2030,5 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Spark 20 | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-and-paid-imovie-equivalents-for-windows-10-users/"><u>Updated In 2024, Free and Paid iMovie Equivalents for Windows 10 Users</u></a></li>
 </ul></div>
+
 

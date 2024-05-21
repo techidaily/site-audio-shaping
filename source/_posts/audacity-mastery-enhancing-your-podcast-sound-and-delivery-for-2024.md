@@ -1,7 +1,7 @@
 ---
 title: Audacity Mastery Enhancing Your Podcast Sound and Delivery for 2024
-date: 2024-05-05T03:19:17.045Z
-updated: 2024-05-06T03:19:17.045Z
+date: 2024-05-20T00:03:54.381Z
+updated: 2024-05-21T00:03:54.381Z
 tags: 
   - audio editing software
   - audio editing
@@ -1539,4 +1539,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-must-have-iphone-apps-the-complete-roundup/"><u>New 2024 Approved Must-Have iPhone Apps The Complete Roundup</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c12-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C12 and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

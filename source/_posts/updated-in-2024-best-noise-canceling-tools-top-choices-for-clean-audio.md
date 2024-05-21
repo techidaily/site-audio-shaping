@@ -1322,3 +1322,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-sony-vegas-alternatives-for-windows/"><u>The Ultimate Guide to Sony Vegas Alternatives for Windows</u></a></li>
 </ul></div>
 
+

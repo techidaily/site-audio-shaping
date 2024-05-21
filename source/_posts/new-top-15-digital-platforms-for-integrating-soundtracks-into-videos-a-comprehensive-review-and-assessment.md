@@ -2132,3 +2132,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-easyhdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>New EasyHDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
 </ul></div>
 
+

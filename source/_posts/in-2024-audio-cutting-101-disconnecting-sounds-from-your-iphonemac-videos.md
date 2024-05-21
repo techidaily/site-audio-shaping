@@ -1,7 +1,7 @@
 ---
 title: In 2024, Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos
-date: 2024-05-05T03:19:27.686Z
-updated: 2024-05-06T03:19:27.686Z
+date: 2024-05-20T00:03:54.644Z
+updated: 2024-05-21T00:03:54.644Z
 tags: 
   - audio editing software
   - audio editing
@@ -1191,4 +1191,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-the-power-of-dvd-creation-a-beginners-guide-to-movie-making-software/"><u>New Unlock the Power of DVD Creation A Beginners Guide to Movie Making Software</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia C12 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

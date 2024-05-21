@@ -2254,3 +2254,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-g2-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo G2 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
 
+

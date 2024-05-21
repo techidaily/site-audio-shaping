@@ -1386,3 +1386,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-easy-guide-to-apply-slow-zoom-effects-to-videos/"><u>New 2024 Approved Easy Guide to Apply Slow Zoom Effects to Videos</u></a></li>
 </ul></div>
 
+

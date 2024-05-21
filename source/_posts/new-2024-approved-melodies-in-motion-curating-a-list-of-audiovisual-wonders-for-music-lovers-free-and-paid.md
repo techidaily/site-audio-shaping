@@ -1300,3 +1300,4 @@ For macOS 10.12 or later
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
 
+

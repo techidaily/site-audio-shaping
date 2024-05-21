@@ -1,7 +1,7 @@
 ---
 title: New Rapid Method for Silencing Audio in Audacity Essential Tips
-date: 2024-05-05T03:33:59.479Z
-updated: 2024-05-06T03:33:59.479Z
+date: 2024-05-20T00:04:21.755Z
+updated: 2024-05-21T00:04:21.755Z
 tags: 
   - audio editing software
   - audio editing
@@ -1092,4 +1092,5 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-instagram-video-specs-get-the-most-out-of-your-content/"><u>New 2024 Approved Instagram Video Specs Get the Most Out of Your Content</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-speed-up-or-slow-down-best-video-editing-software/"><u>In 2024, Speed Up or Slow Down Best Video Editing Software</u></a></li>
 </ul></div>
+
 

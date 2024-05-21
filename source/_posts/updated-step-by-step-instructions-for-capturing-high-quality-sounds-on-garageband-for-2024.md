@@ -1776,3 +1776,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-note-12-pro-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi Note 12 Pro 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

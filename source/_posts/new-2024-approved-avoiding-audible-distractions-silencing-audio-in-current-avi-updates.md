@@ -1207,3 +1207,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-voice-clone.techidaily.com/updated-talking-photo-feature/"><u>Updated Talking Photo Feature</u></a></li>
 </ul></div>
 
+

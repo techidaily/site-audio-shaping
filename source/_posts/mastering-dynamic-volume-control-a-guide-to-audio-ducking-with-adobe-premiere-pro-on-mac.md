@@ -1,7 +1,7 @@
 ---
 title: Mastering Dynamic Volume Control A Guide to Audio Ducking with Adobe Premiere Pro on Mac
-date: 2024-05-05T03:14:40.142Z
-updated: 2024-05-06T03:14:40.142Z
+date: 2024-05-20T00:03:44.757Z
+updated: 2024-05-21T00:03:44.757Z
 tags: 
   - audio editing software
   - audio editing
@@ -1070,4 +1070,5 @@ Increasing the volume of a video to make the dialogues sound properly and amplif
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-should-you-buy-videopad-an-honest-review-and-recommendation/"><u>In 2024, Should You Buy Videopad? An Honest Review and Recommendation</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme V30 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Silence Disabling Sound in Videos
-date: 2024-05-05T03:14:43.815Z
-updated: 2024-05-06T03:14:43.815Z
+date: 2024-05-20T00:03:44.852Z
+updated: 2024-05-21T00:03:44.852Z
 tags: 
   - audio editing software
   - audio editing
@@ -977,4 +977,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-nokia-c12-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Nokia C12.</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-text-to-video-for-2024/"><u>New How to Add Text to Video for 2024</u></a></li>
 </ul></div>
+
 

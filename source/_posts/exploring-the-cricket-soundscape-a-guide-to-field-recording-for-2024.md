@@ -1,7 +1,7 @@
 ---
 title: Exploring the Cricket Soundscape A Guide to Field Recording for 2024
-date: 2024-05-05T03:26:35.326Z
-updated: 2024-05-06T03:26:35.326Z
+date: 2024-05-20T00:04:06.889Z
+updated: 2024-05-21T00:04:06.889Z
 tags: 
   - audio editing software
   - audio editing
@@ -1028,4 +1028,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-15-proipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 15 Pro/iPad Without Computer</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/in-2024-zero-cost-video-editing-best-options-for-newcomers/"><u>In 2024, Zero-Cost Video Editing Best Options for Newcomers</u></a></li>
 </ul></div>
+
 

@@ -1234,3 +1234,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-subtitle-editing-on-mac-alternatives-to-subtitle-edit/"><u>New The Ultimate Guide to Subtitle Editing on Mac Alternatives to Subtitle Edit</u></a></li>
 </ul></div>
 
+

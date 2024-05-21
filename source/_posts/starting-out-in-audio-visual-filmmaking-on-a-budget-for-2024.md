@@ -1,7 +1,7 @@
 ---
 title: Starting Out in Audio-Visual Filmmaking on a Budget for 2024
-date: 2024-05-05T03:35:44.144Z
-updated: 2024-05-06T03:35:44.144Z
+date: 2024-05-20T00:04:25.265Z
+updated: 2024-05-21T00:04:25.265Z
 tags: 
   - audio editing software
   - audio editing
@@ -1198,4 +1198,5 @@ Follow @Benjamin Arango
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-x90s-by-drfone-android/"><u>How to Bypass FRP on Vivo X90S?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-8-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 8</u></a></li>
 </ul></div>
+
 

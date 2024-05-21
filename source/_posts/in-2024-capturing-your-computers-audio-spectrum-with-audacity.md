@@ -1,7 +1,7 @@
 ---
 title: In 2024, Capturing Your Computers Audio Spectrum with Audacity
-date: 2024-05-05T03:21:22.474Z
-updated: 2024-05-06T03:21:22.474Z
+date: 2024-05-20T00:03:58.549Z
+updated: 2024-05-21T00:03:58.549Z
 tags: 
   - audio editing software
   - audio editing
@@ -766,4 +766,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/best-phantom-slow-mo-camera-for-recording-slow-motion-videos-for-2024/"><u>Best Phantom Slow-Mo Camera For Recording Slow Motion Videos for 2024</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-online-video-cutting-made-easy-a-kapwing-editor-tutorial-for-2024/"><u>New Online Video Cutting Made Easy A Kapwing Editor Tutorial for 2024</u></a></li>
 </ul></div>
+
 

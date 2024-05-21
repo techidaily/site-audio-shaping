@@ -1,7 +1,7 @@
 ---
 title: New Exploring Sources of High-Frequency Glass Disintegration Sounds
-date: 2024-05-05T03:26:28.528Z
-updated: 2024-05-06T03:26:28.528Z
+date: 2024-05-20T00:04:06.740Z
+updated: 2024-05-21T00:04:06.740Z
 tags: 
   - audio editing software
   - audio editing
@@ -1515,4 +1515,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-apps.techidaily.com/updated-glitch-your-way-to-viral-top-10-video-editing-apps-for-ios-and-android-for-2024/"><u>Updated Glitch Your Way to Viral Top 10 Video Editing Apps for iOS and Android for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-12-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme 12 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

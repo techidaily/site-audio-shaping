@@ -1392,3 +1392,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-professionally-blur-the-background-in-your-video-read-this-article-to-find-out-the-easiest-way-to-blur-the-background-in-videos/"><u>2024 Approved Do You Want to Professionally Blur the Background in Your Video? Read This Article to Find Out the Easiest Way to Blur the Background in Videos Using Adobe After Effects</u></a></li>
 </ul></div>
 
+

@@ -1437,3 +1437,4 @@ Follow @Shanoon Cox
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

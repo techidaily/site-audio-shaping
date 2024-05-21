@@ -1,7 +1,7 @@
 ---
 title: New 7 Types of Audio Effects You Should Know
-date: 2024-05-05T03:19:32.378Z
-updated: 2024-05-06T03:19:32.378Z
+date: 2024-05-20T00:03:54.868Z
+updated: 2024-05-21T00:03:54.868Z
 tags: 
   - audio editing software
   - audio editing
@@ -1732,4 +1732,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone XS Max | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A1 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

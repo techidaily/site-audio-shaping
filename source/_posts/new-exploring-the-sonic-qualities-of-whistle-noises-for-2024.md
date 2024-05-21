@@ -1125,3 +1125,4 @@ The article above is all you need in today's world, where you cannot survive wit
 <li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-pro-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 Pro 4G Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

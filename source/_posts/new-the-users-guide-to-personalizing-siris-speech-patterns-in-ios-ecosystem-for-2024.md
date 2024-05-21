@@ -1592,3 +1592,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-magic-v2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor Magic V2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering the Art of Fishy Tones A Guide to Using Discords Clownfish Vocal Effect
-date: 2024-05-05T03:31:11.005Z
-updated: 2024-05-06T03:31:11.005Z
+date: 2024-05-20T00:04:16.179Z
+updated: 2024-05-21T00:04:16.179Z
 tags: 
   - audio editing software
   - audio editing
@@ -1563,4 +1563,5 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-a1x-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo A1x 5G to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-redmi-note-12-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Redmi Note 12 5G FRP</u></a></li>
 </ul></div>
+
 

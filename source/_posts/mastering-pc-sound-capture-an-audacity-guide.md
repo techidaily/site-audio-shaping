@@ -1,7 +1,7 @@
 ---
 title: Mastering PC Sound Capture An Audacity Guide
-date: 2024-05-05T03:14:42.770Z
-updated: 2024-05-06T03:14:42.770Z
+date: 2024-05-20T00:03:44.838Z
+updated: 2024-05-21T00:03:44.838Z
 tags: 
   - audio editing software
   - audio editing
@@ -1376,4 +1376,5 @@ In conclusion, you have now gone through the list of the perfect options for you
 <li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-free-whiteboard-animation-software-for-windows-mac-and-beyond/"><u>Updated The Ultimate List of Free Whiteboard Animation Software for Windows, Mac, and Beyond</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-poco-x5-phone-by-drfone-android/"><u>How to Reset a Locked Poco X5 Phone</u></a></li>
 </ul></div>
+
 

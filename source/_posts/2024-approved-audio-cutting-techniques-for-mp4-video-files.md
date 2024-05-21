@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Audio Cutting Techniques for MP4 Video Files
-date: 2024-05-05T03:19:28.474Z
-updated: 2024-05-06T03:19:28.474Z
+date: 2024-05-20T00:03:54.690Z
+updated: 2024-05-21T00:03:54.690Z
 tags: 
   - audio editing software
   - audio editing
@@ -1700,4 +1700,5 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/best-3-google-pixel-8-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Google Pixel 8 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-ultimate-list-10-vegas-pro-alternatives-for-mac-video-editing-enthusiasts/"><u>2024 Approved The Ultimate List 10 Vegas Pro Alternatives for Mac Video Editing Enthusiasts</u></a></li>
 </ul></div>
+
 

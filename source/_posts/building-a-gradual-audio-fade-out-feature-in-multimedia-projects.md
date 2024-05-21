@@ -1,7 +1,7 @@
 ---
 title: Building a Gradual Audio Fade-Out Feature in Multimedia Projects
-date: 2024-05-05T03:12:39.587Z
-updated: 2024-05-06T03:12:39.587Z
+date: 2024-05-20T00:03:41.299Z
+updated: 2024-05-21T00:03:41.299Z
 tags: 
   - audio editing software
   - audio editing
@@ -963,4 +963,5 @@ Although there are many different places to find sad background music, you will 
 <li><a href="https://animation-videos.techidaily.com/new-how-to-create-animated-video-on-canva-for-2024/"><u>New How to Create Animated Video on Canva for 2024</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/wav-converter-essentials-a-complete-beginners-guide/"><u>Wav Converter Essentials A Complete Beginners Guide</u></a></li>
 </ul></div>
+
 
