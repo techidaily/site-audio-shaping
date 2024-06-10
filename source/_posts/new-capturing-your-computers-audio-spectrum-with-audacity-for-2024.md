@@ -1,7 +1,7 @@
 ---
 title: New Capturing Your Computers Audio Spectrum with Audacity for 2024
-date: 2024-05-05T03:48:51.756Z
-updated: 2024-05-06T03:48:51.756Z
+date: 2024-06-09T17:04:00.689Z
+updated: 2024-06-10T17:04:00.689Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Capturing Your Computers Audio Spectrum with Audacity for 2024
 excerpt: This Article Describes New Capturing Your Computers Audio Spectrum with Audacity for 2024
 keywords: capturing your computers sounds a guide to using audacity,beginners journey into freeware audio capture with audacity,harnessing audacity for zero cost audio capture from pc speakers,elevate your audio altering speech pitch with audacity,how to audacity recording computer audio,how to record your computer audio in audacity,capturing your computers audio spectrum with audacity
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## Capturing Your Computer's Audio Spectrum with Audacity

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Record Audio with Audacity for Free?
-date: 2024-05-20T00:04:11.698Z
-updated: 2024-05-21T00:04:11.698Z
+date: 2024-06-09T17:03:51.121Z
+updated: 2024-06-10T17:03:51.121Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, How to Record Audio with Audacity for Free?
 excerpt: This Article Describes In 2024, How to Record Audio with Audacity for Free?
 keywords: how to use autotune in audacity with plugins for free,how to record your computer audio in audacity,record audio with audacity free,how to record audio with audacity for free,we will introduce you how to record your computer audio in audacity.,how to audacity recording computer audio,free audio workflow with audacity tips and tricks for effective recording
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How to Record Audio with Audacity for Free?

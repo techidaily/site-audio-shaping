@@ -1,7 +1,7 @@
 ---
 title: Updated How to Mute Audio in Windows Movie Maker, In 2024
-date: 2024-05-05T03:57:27.227Z
-updated: 2024-05-06T03:57:27.227Z
+date: 2024-06-09T17:03:52.146Z
+updated: 2024-06-10T17:03:52.146Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated How to Mute Audio in Windows Movie Maker, In 2024
 excerpt: This Article Describes Updated How to Mute Audio in Windows Movie Maker, In 2024
 keywords: how to mute audio in windows movie maker,how to fade music and audio in imovie on mac,mute remove audio in windows movie maker,mute movie tracks steps to strip audio from mov files in windows and mac os,beginners guide to making audio integrated movies without costs,ultimate audio cleaner for videos windows mac edition 2024 update,ultimate tutorial how to record audio on windows 10
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## How to Mute Audio in Windows Movie Maker?

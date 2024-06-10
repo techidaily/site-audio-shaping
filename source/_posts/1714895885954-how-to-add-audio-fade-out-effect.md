@@ -1,7 +1,7 @@
 ---
 title: How to Add Audio Fade Out Effect?
-date: 2024-05-20T00:03:43.828Z
-updated: 2024-05-21T00:03:43.828Z
+date: 2024-06-09T17:03:53.526Z
+updated: 2024-06-10T17:03:53.526Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Add Audio Fade Out Effect?
 excerpt: This Article Describes How to Add Audio Fade Out Effect?
 keywords: how to add audio fade in effect,how to fade in and fade out audio in adobe after effects,add echo to audio,add audio effects to video,fade out in audio after effects,how to add audio fade out effect,how to fade in out audio in adobe rush
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## How to Add Audio Fade Out Effect?

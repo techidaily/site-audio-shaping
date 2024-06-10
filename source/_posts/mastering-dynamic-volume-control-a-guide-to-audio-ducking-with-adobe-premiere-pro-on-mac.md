@@ -1,7 +1,7 @@
 ---
 title: Mastering Dynamic Volume Control A Guide to Audio Ducking with Adobe Premiere Pro on Mac
-date: 2024-05-20T00:03:44.757Z
-updated: 2024-05-21T00:03:44.757Z
+date: 2024-06-09T17:03:53.401Z
+updated: 2024-06-10T17:03:53.401Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Mastering Dynamic Volume Control A Guide to Audio Ducking with Adobe Premiere Pro on Mac
 excerpt: This Article Describes Mastering Dynamic Volume Control A Guide to Audio Ducking with Adobe Premiere Pro on Mac
 keywords: mastering volume control the art of audio ducking with powerdirector,unleashing your creative potential the comprehensive guide to volume automation and ducking with adobe premiere pro mac edition,the ultimate guide to automatic volume reduction audio ducking tips in adobe premiere pro on macos,mastering dynamic volume control using audio ducking in adobe premiere pro windows edition,mastering dynamic volume control a guide to audio ducking with adobe premiere pro on mac,mastering volume controls with adobe premiere pro on windows,optimizing audio levels a guide to dynamic ducking in windows edition of adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## Mastering Dynamic Volume Control: A Guide to Audio Ducking with Adobe Premiere Pro on Mac

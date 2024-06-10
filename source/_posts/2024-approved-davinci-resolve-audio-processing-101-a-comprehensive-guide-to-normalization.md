@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization
-date: 2024-05-20T00:04:00.644Z
-updated: 2024-05-21T00:04:00.644Z
+date: 2024-06-09T17:03:55.094Z
+updated: 2024-06-10T17:03:55.094Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization
 excerpt: This Article Describes 2024 Approved DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization
 keywords: from novice to pro comprehensive guidelines on iphone audio recording,a comprehensive tutorial on audio standardization in davinci resolve,streamlining audio dynamics a comprehensive approach to volume normalization with vlc,synchronize your tracks a guide to normalizing audio with davinci resolve,davinci resolve audio processing 101 a comprehensive guide to normalization,comprehensive guide to vocal isolation in adobe audition a six step process,davinci resolves aural alchemy transforming unprocessed audio through normalization
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## "DaVinci Resolve Audio Processing 101: A Comprehensive Guide to Normalization"

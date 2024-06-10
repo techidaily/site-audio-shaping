@@ -1,7 +1,7 @@
 ---
 title: Silence the Microphone A Complete Blueprint to Remove Vocals From Tracks in Adobe Audition
-date: 2024-05-20T00:03:46.716Z
-updated: 2024-05-21T00:03:46.716Z
+date: 2024-06-09T17:04:04.071Z
+updated: 2024-06-10T17:04:04.071Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Silence the Microphone A Complete Blueprint to Remove Vocals From Tracks in Adobe Audition
 excerpt: This Article Describes Silence the Microphone A Complete Blueprint to Remove Vocals From Tracks in Adobe Audition
 keywords: silence the microphone a complete blueprint to remove vocals from tracks in adobe audition,crafting crisp audio a detailed guide to de emphasizing vocals in adobe audition tracks,voice eradication made simple a comprehensive guide to deleting singers from audio files in audacity,the silent song methods to extract and remove vocal tracks from audio sequences in audacity,voice free soundscapes a comprehensive tutorial on eliminating vocals with adobe audition,practical steps to remove voice tracks from the latest mkv editions,chrome compatible audio capture the most advanced microphones ranked
-thumbnail: https://www.lifewire.com/thmb/YDOkX4KOrU-1Gfk6Kj7DPlg333E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows11contextmenu-f4d6ebb14db4444d851b4338aa553e21.png
+thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
 ## Silence the Microphone: A Complete Blueprint to Remove Vocals From Tracks in Adobe Audition
