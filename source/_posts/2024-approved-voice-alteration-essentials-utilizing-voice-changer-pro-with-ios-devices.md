@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Voice Alteration Essentials Utilizing Voice Changer Pro with iOS Devices
-date: 2024-05-05T03:43:18.643Z
-updated: 2024-05-06T03:43:18.643Z
+date: 2024-06-18T16:12:45.558Z
+updated: 2024-06-19T16:12:45.558Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Voice Alteration Essentials Utilizing Voice Changer Pro with iOS Devices
 excerpt: This Article Describes 2024 Approved Voice Alteration Essentials Utilizing Voice Changer Pro with iOS Devices
 keywords: in depth tips utilizing voxacells voice change functionality for a more dynamic discord interaction,dive into digital alteration mastering voice change apps in ios,revolutionize phone calls with these 6 premier voice altering apps for android ios devices,mastering iphone a guide to voice transformation with voice changer pro app,professional audio editing essentials voice suppression and video quality improvement,voice alteration essentials utilizing voice changer pro with ios devices,revolutionizing public speaking introducing av voice alteration devices and their alternatives
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## "Voice Alteration Essentials: Utilizing Voice Changer Pro with iOS Devices"
@@ -98,7 +98,7 @@ With Voice Changer Plus, you can save your file, just hit the ‘Save’ button 
 
 Voice Changer Plus is a perfect choice for iPhone and iPad users, but there are some other voice changers as well that offer some exciting functionalities. If you want to learn about 2 popular and impressive alternatives for Voice Changer Plus, then let's get started!
 
-### 1\. [Voice Changer – Audio Effects](https://apps.apple.com/us/app/voice-changer-audio-effects/id1469967561)
+### 1\. Voice Changer – Audio Effects
 
 The voice changer changes your voice, and you can enjoy listening to your modified voice with Voice Changer – Audio Effects, which works across both iPhone and iPad. The application offers cool animations and has more than 25 voice effects, including zombie, alien, devil, helium, robot, chipmunk, telephone, fan, and whatnot!
 
@@ -106,7 +106,7 @@ Voice Changer – Audio Effects has a futuristic design that attracts users. Mor
 
 ![voice changer audio effects](https://images.wondershare.com/filmora/article-images/2022/voice-changer-plus-6.jpg)
 
-### 2\. [Celebrity Voice Changer Parody](https://apps.apple.com/us/app/celebrity-voice-changer-parody/id1111710488)
+### 2\. Celebrity Voice Changer Parody
 
 This voice changer is famous among all iPhone and iPad users and has a 4-star rating. Celebrity Voice Changer Parody is a brilliant application that changes your voice to your favorite celebrity voice within seconds. The application allows you to save your recordings and share them on your favorite platform. For using this application, you only need a good internet connection.
 
@@ -204,7 +204,7 @@ With Voice Changer Plus, you can save your file, just hit the ‘Save’ button 
 
 Voice Changer Plus is a perfect choice for iPhone and iPad users, but there are some other voice changers as well that offer some exciting functionalities. If you want to learn about 2 popular and impressive alternatives for Voice Changer Plus, then let's get started!
 
-### 1\. [Voice Changer – Audio Effects](https://apps.apple.com/us/app/voice-changer-audio-effects/id1469967561)
+### 1\. Voice Changer – Audio Effects
 
 The voice changer changes your voice, and you can enjoy listening to your modified voice with Voice Changer – Audio Effects, which works across both iPhone and iPad. The application offers cool animations and has more than 25 voice effects, including zombie, alien, devil, helium, robot, chipmunk, telephone, fan, and whatnot!
 
@@ -212,7 +212,7 @@ Voice Changer – Audio Effects has a futuristic design that attracts users. Mor
 
 ![voice changer audio effects](https://images.wondershare.com/filmora/article-images/2022/voice-changer-plus-6.jpg)
 
-### 2\. [Celebrity Voice Changer Parody](https://apps.apple.com/us/app/celebrity-voice-changer-parody/id1111710488)
+### 2\. Celebrity Voice Changer Parody
 
 This voice changer is famous among all iPhone and iPad users and has a 4-star rating. Celebrity Voice Changer Parody is a brilliant application that changes your voice to your favorite celebrity voice within seconds. The application allows you to save your recordings and share them on your favorite platform. For using this application, you only need a good internet connection.
 
@@ -310,7 +310,7 @@ With Voice Changer Plus, you can save your file, just hit the ‘Save’ button 
 
 Voice Changer Plus is a perfect choice for iPhone and iPad users, but there are some other voice changers as well that offer some exciting functionalities. If you want to learn about 2 popular and impressive alternatives for Voice Changer Plus, then let's get started!
 
-### 1\. [Voice Changer – Audio Effects](https://apps.apple.com/us/app/voice-changer-audio-effects/id1469967561)
+### 1\. Voice Changer – Audio Effects
 
 The voice changer changes your voice, and you can enjoy listening to your modified voice with Voice Changer – Audio Effects, which works across both iPhone and iPad. The application offers cool animations and has more than 25 voice effects, including zombie, alien, devil, helium, robot, chipmunk, telephone, fan, and whatnot!
 
@@ -318,7 +318,7 @@ Voice Changer – Audio Effects has a futuristic design that attracts users. Mor
 
 ![voice changer audio effects](https://images.wondershare.com/filmora/article-images/2022/voice-changer-plus-6.jpg)
 
-### 2\. [Celebrity Voice Changer Parody](https://apps.apple.com/us/app/celebrity-voice-changer-parody/id1111710488)
+### 2\. Celebrity Voice Changer Parody
 
 This voice changer is famous among all iPhone and iPad users and has a 4-star rating. Celebrity Voice Changer Parody is a brilliant application that changes your voice to your favorite celebrity voice within seconds. The application allows you to save your recordings and share them on your favorite platform. For using this application, you only need a good internet connection.
 
@@ -416,7 +416,7 @@ With Voice Changer Plus, you can save your file, just hit the ‘Save’ button 
 
 Voice Changer Plus is a perfect choice for iPhone and iPad users, but there are some other voice changers as well that offer some exciting functionalities. If you want to learn about 2 popular and impressive alternatives for Voice Changer Plus, then let's get started!
 
-### 1\. [Voice Changer – Audio Effects](https://apps.apple.com/us/app/voice-changer-audio-effects/id1469967561)
+### 1\. Voice Changer – Audio Effects
 
 The voice changer changes your voice, and you can enjoy listening to your modified voice with Voice Changer – Audio Effects, which works across both iPhone and iPad. The application offers cool animations and has more than 25 voice effects, including zombie, alien, devil, helium, robot, chipmunk, telephone, fan, and whatnot!
 
@@ -424,7 +424,7 @@ Voice Changer – Audio Effects has a futuristic design that attracts users. Mor
 
 ![voice changer audio effects](https://images.wondershare.com/filmora/article-images/2022/voice-changer-plus-6.jpg)
 
-### 2\. [Celebrity Voice Changer Parody](https://apps.apple.com/us/app/celebrity-voice-changer-parody/id1111710488)
+### 2\. Celebrity Voice Changer Parody
 
 This voice changer is famous among all iPhone and iPad users and has a 4-star rating. Celebrity Voice Changer Parody is a brilliant application that changes your voice to your favorite celebrity voice within seconds. The application allows you to save your recordings and share them on your favorite platform. For using this application, you only need a good internet connection.
 
@@ -492,9 +492,7 @@ In case you are interested in editing videos by using mobile devices, you can co
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -510,7 +508,7 @@ While adding a song to a video, the most important thing is the timeline. In cas
 
 ##### Step3 Edit Music Files
 
-![Edit Audio Files ](https://images.wondershare.com/filmora/guide/audio-rendering-window.jpg)
+![Edit Audio Files](https://images.wondershare.com/filmora/guide/audio-rendering-window.jpg)
 
 In case you feel the requirement of some audio edits during how add song in video procedure, it can be possible as well. You should double click the audio file and you can proceed as you want with equalizer. While editing the music files, you should be careful. One wrong change or mistake can ruin your audio tracks and spoil the entire video.
 
@@ -522,19 +520,19 @@ After all the changes and adjustments, you can proceed by saving the changes and
 
 ##### Step1 Video Selection
 
-![Import or select videos ](https://images.wondershare.com/filmora/article-images/2022/02/igtv-music-1.png)
+![Import or select videos](https://images.wondershare.com/filmora/article-images/2022/02/igtv-music-1.png)
 
 If you want to know how to add song to video in mobile, you should proceed by installing and launching Filmora. In the application, you can see the “CREATE NEW VIDEO” button. You can pick the desired video from mobile and go with the ‘ADD’ button.
 
 ##### Step2 Add Audio
 
-![Add audio to video ](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-1.png)
+![Add audio to video](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-1.png)
 
 Now, it’s the second step for understanding how to add song for video on mobile. You should click on the ‘MUSIC’ button that you can see in the right toolbar. Here, you should choose the desired audio and for confirmation, you can play it as well. You should not boost the procedure by skipping any testing or confirmation step. It can lead to bad results only.
 
 ##### Step3 Export
 
-![Export ](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-2.png)
+![Export](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-2.png)
 
 After all these things, you can easily figure out how can I add song to my video. If your video is finalized, you can proceed by exporting it. While exporting the files, you should be properly aware of the format and all related factors. Try to choose the video format that supports your system and serves your purpose easily.
 
@@ -552,11 +550,11 @@ Now, you can start editing the audio file after completing the how to add song t
 
 ● Separating existing audio files from video
 
-![Detach audio ](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach audio](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 ● Make adjustments in audio settings
 
-![Audio adjustments ](https://images.wondershare.com/filmora/guide/remove-audio-noise-from-video.jpg)
+![Audio adjustments](https://images.wondershare.com/filmora/guide/remove-audio-noise-from-video.jpg)
 
 ● Remove background noise
 
@@ -570,7 +568,7 @@ These are some major features, you can use for editing audio.
 
 ##### Step3 Save The Changes
 
-![Save changes ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Save changes](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 While proceeding with how to add song on a video or audio editing process, you should not forget to save the changes. In case you exit the app and don’t save changes, you will lose the complete hard work.
 
@@ -620,9 +618,7 @@ In case you are interested in editing videos by using mobile devices, you can co
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -638,7 +634,7 @@ While adding a song to a video, the most important thing is the timeline. In cas
 
 ##### Step3 Edit Music Files
 
-![Edit Audio Files ](https://images.wondershare.com/filmora/guide/audio-rendering-window.jpg)
+![Edit Audio Files](https://images.wondershare.com/filmora/guide/audio-rendering-window.jpg)
 
 In case you feel the requirement of some audio edits during how add song in video procedure, it can be possible as well. You should double click the audio file and you can proceed as you want with equalizer. While editing the music files, you should be careful. One wrong change or mistake can ruin your audio tracks and spoil the entire video.
 
@@ -650,19 +646,19 @@ After all the changes and adjustments, you can proceed by saving the changes and
 
 ##### Step1 Video Selection
 
-![Import or select videos ](https://images.wondershare.com/filmora/article-images/2022/02/igtv-music-1.png)
+![Import or select videos](https://images.wondershare.com/filmora/article-images/2022/02/igtv-music-1.png)
 
 If you want to know how to add song to video in mobile, you should proceed by installing and launching Filmora. In the application, you can see the “CREATE NEW VIDEO” button. You can pick the desired video from mobile and go with the ‘ADD’ button.
 
 ##### Step2 Add Audio
 
-![Add audio to video ](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-1.png)
+![Add audio to video](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-1.png)
 
 Now, it’s the second step for understanding how to add song for video on mobile. You should click on the ‘MUSIC’ button that you can see in the right toolbar. Here, you should choose the desired audio and for confirmation, you can play it as well. You should not boost the procedure by skipping any testing or confirmation step. It can lead to bad results only.
 
 ##### Step3 Export
 
-![Export ](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-2.png)
+![Export](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-2.png)
 
 After all these things, you can easily figure out how can I add song to my video. If your video is finalized, you can proceed by exporting it. While exporting the files, you should be properly aware of the format and all related factors. Try to choose the video format that supports your system and serves your purpose easily.
 
@@ -680,11 +676,11 @@ Now, you can start editing the audio file after completing the how to add song t
 
 ● Separating existing audio files from video
 
-![Detach audio ](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach audio](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 ● Make adjustments in audio settings
 
-![Audio adjustments ](https://images.wondershare.com/filmora/guide/remove-audio-noise-from-video.jpg)
+![Audio adjustments](https://images.wondershare.com/filmora/guide/remove-audio-noise-from-video.jpg)
 
 ● Remove background noise
 
@@ -698,7 +694,7 @@ These are some major features, you can use for editing audio.
 
 ##### Step3 Save The Changes
 
-![Save changes ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Save changes](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 While proceeding with how to add song on a video or audio editing process, you should not forget to save the changes. In case you exit the app and don’t save changes, you will lose the complete hard work.
 
@@ -748,9 +744,7 @@ In case you are interested in editing videos by using mobile devices, you can co
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -766,7 +760,7 @@ While adding a song to a video, the most important thing is the timeline. In cas
 
 ##### Step3 Edit Music Files
 
-![Edit Audio Files ](https://images.wondershare.com/filmora/guide/audio-rendering-window.jpg)
+![Edit Audio Files](https://images.wondershare.com/filmora/guide/audio-rendering-window.jpg)
 
 In case you feel the requirement of some audio edits during how add song in video procedure, it can be possible as well. You should double click the audio file and you can proceed as you want with equalizer. While editing the music files, you should be careful. One wrong change or mistake can ruin your audio tracks and spoil the entire video.
 
@@ -778,19 +772,19 @@ After all the changes and adjustments, you can proceed by saving the changes and
 
 ##### Step1 Video Selection
 
-![Import or select videos ](https://images.wondershare.com/filmora/article-images/2022/02/igtv-music-1.png)
+![Import or select videos](https://images.wondershare.com/filmora/article-images/2022/02/igtv-music-1.png)
 
 If you want to know how to add song to video in mobile, you should proceed by installing and launching Filmora. In the application, you can see the “CREATE NEW VIDEO” button. You can pick the desired video from mobile and go with the ‘ADD’ button.
 
 ##### Step2 Add Audio
 
-![Add audio to video ](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-1.png)
+![Add audio to video](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-1.png)
 
 Now, it’s the second step for understanding how to add song for video on mobile. You should click on the ‘MUSIC’ button that you can see in the right toolbar. Here, you should choose the desired audio and for confirmation, you can play it as well. You should not boost the procedure by skipping any testing or confirmation step. It can lead to bad results only.
 
 ##### Step3 Export
 
-![Export ](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-2.png)
+![Export](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-2.png)
 
 After all these things, you can easily figure out how can I add song to my video. If your video is finalized, you can proceed by exporting it. While exporting the files, you should be properly aware of the format and all related factors. Try to choose the video format that supports your system and serves your purpose easily.
 
@@ -808,11 +802,11 @@ Now, you can start editing the audio file after completing the how to add song t
 
 ● Separating existing audio files from video
 
-![Detach audio ](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach audio](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 ● Make adjustments in audio settings
 
-![Audio adjustments ](https://images.wondershare.com/filmora/guide/remove-audio-noise-from-video.jpg)
+![Audio adjustments](https://images.wondershare.com/filmora/guide/remove-audio-noise-from-video.jpg)
 
 ● Remove background noise
 
@@ -826,7 +820,7 @@ These are some major features, you can use for editing audio.
 
 ##### Step3 Save The Changes
 
-![Save changes ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Save changes](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 While proceeding with how to add song on a video or audio editing process, you should not forget to save the changes. In case you exit the app and don’t save changes, you will lose the complete hard work.
 
@@ -876,9 +870,7 @@ In case you are interested in editing videos by using mobile devices, you can co
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
@@ -894,7 +886,7 @@ While adding a song to a video, the most important thing is the timeline. In cas
 
 ##### Step3 Edit Music Files
 
-![Edit Audio Files ](https://images.wondershare.com/filmora/guide/audio-rendering-window.jpg)
+![Edit Audio Files](https://images.wondershare.com/filmora/guide/audio-rendering-window.jpg)
 
 In case you feel the requirement of some audio edits during how add song in video procedure, it can be possible as well. You should double click the audio file and you can proceed as you want with equalizer. While editing the music files, you should be careful. One wrong change or mistake can ruin your audio tracks and spoil the entire video.
 
@@ -906,19 +898,19 @@ After all the changes and adjustments, you can proceed by saving the changes and
 
 ##### Step1 Video Selection
 
-![Import or select videos ](https://images.wondershare.com/filmora/article-images/2022/02/igtv-music-1.png)
+![Import or select videos](https://images.wondershare.com/filmora/article-images/2022/02/igtv-music-1.png)
 
 If you want to know how to add song to video in mobile, you should proceed by installing and launching Filmora. In the application, you can see the “CREATE NEW VIDEO” button. You can pick the desired video from mobile and go with the ‘ADD’ button.
 
 ##### Step2 Add Audio
 
-![Add audio to video ](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-1.png)
+![Add audio to video](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-1.png)
 
 Now, it’s the second step for understanding how to add song for video on mobile. You should click on the ‘MUSIC’ button that you can see in the right toolbar. Here, you should choose the desired audio and for confirmation, you can play it as well. You should not boost the procedure by skipping any testing or confirmation step. It can lead to bad results only.
 
 ##### Step3 Export
 
-![Export ](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-2.png)
+![Export](https://images.wondershare.com/filmora/article-images/2022/02/edit-song-free-2.png)
 
 After all these things, you can easily figure out how can I add song to my video. If your video is finalized, you can proceed by exporting it. While exporting the files, you should be properly aware of the format and all related factors. Try to choose the video format that supports your system and serves your purpose easily.
 
@@ -936,11 +928,11 @@ Now, you can start editing the audio file after completing the how to add song t
 
 ● Separating existing audio files from video
 
-![Detach audio ](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
+![Detach audio](https://images.wondershare.com/filmora/guide/find-detach-option1.jpg)
 
 ● Make adjustments in audio settings
 
-![Audio adjustments ](https://images.wondershare.com/filmora/guide/remove-audio-noise-from-video.jpg)
+![Audio adjustments](https://images.wondershare.com/filmora/guide/remove-audio-noise-from-video.jpg)
 
 ● Remove background noise
 
@@ -954,7 +946,7 @@ These are some major features, you can use for editing audio.
 
 ##### Step3 Save The Changes
 
-![Save changes ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Save changes](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 While proceeding with how to add song on a video or audio editing process, you should not forget to save the changes. In case you exit the app and don’t save changes, you will lose the complete hard work.
 

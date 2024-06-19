@@ -1,7 +1,7 @@
 ---
 title: The Comprehensive Guide to Lexis Audio Editor Reviews, Innovations, and How-Tos for 2024
-date: 2024-05-20T00:04:28.288Z
-updated: 2024-05-21T00:04:28.288Z
+date: 2024-06-18T16:12:58.694Z
+updated: 2024-06-19T16:12:58.694Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Comprehensive Guide to Lexis Audio Editor Reviews, Innovations, and How-Tos for 2024
 excerpt: This Article Describes The Comprehensive Guide to Lexis Audio Editor Reviews, Innovations, and How-Tos for 2024
 keywords: the comprehensive guide to lexis audio editor reviews innovations and how tos,exploring the leading free audio editors a comprehensive guide to windows based software,comprehensive guide to attaching audios in magix movie editor 2023,unveiling the artistic audio editor a comprehensive review with pros cons and alternatives 2024 edition,ai audio editing top 8 digital audio workstation choices for mac users comprehensive 2024 reviews,top 15 innovative solutions for synching audios to videos a comprehensive list,a comprehensive guide to adobe auditions tools and functionalities
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## The Comprehensive Guide to Lexis Audio Editor: Reviews, Innovations, and How-To's
@@ -114,7 +114,7 @@ Once all the editing is completed, and you are satisfied, save the edited audio 
 
 Are you satisfied with Lexis Audio Editor? If you are not satisfied with the application, we are discussing alternatives for it. The alternatives discussed in the following section are both for Android and iOS users. Should we start? Without any further delay, let’s get started!
 
-### [Audio Editor - Music Editor](https://apps.apple.com/pk/app/audio-editor-music-editor/id1493256837?platform=iphone) (iOS)
+### Audio Editor - Music Editor
 
 Average Rating: 4.6/5
 
@@ -124,7 +124,7 @@ This audio editor has a built-in equalizer. It also has effects like distortion,
 
 ![audio editor music editor interface](https://images.wondershare.com/filmora/article-images/2022/lexis-audio-editor-7.jpg)
 
-### [Music Editor](https://play.google.com/store/apps/details?id=com.binghuo.audioeditor.mp3editor.musiceditor) (Android)
+### Music Editor
 
 Average Rating: 4.4/5
 
@@ -238,7 +238,7 @@ Once all the editing is completed, and you are satisfied, save the edited audio 
 
 Are you satisfied with Lexis Audio Editor? If you are not satisfied with the application, we are discussing alternatives for it. The alternatives discussed in the following section are both for Android and iOS users. Should we start? Without any further delay, let’s get started!
 
-### [Audio Editor - Music Editor](https://apps.apple.com/pk/app/audio-editor-music-editor/id1493256837?platform=iphone) (iOS)
+### Audio Editor - Music Editor
 
 Average Rating: 4.6/5
 
@@ -248,7 +248,7 @@ This audio editor has a built-in equalizer. It also has effects like distortion,
 
 ![audio editor music editor interface](https://images.wondershare.com/filmora/article-images/2022/lexis-audio-editor-7.jpg)
 
-### [Music Editor](https://play.google.com/store/apps/details?id=com.binghuo.audioeditor.mp3editor.musiceditor) (Android)
+### Music Editor
 
 Average Rating: 4.4/5
 
@@ -362,7 +362,7 @@ Once all the editing is completed, and you are satisfied, save the edited audio 
 
 Are you satisfied with Lexis Audio Editor? If you are not satisfied with the application, we are discussing alternatives for it. The alternatives discussed in the following section are both for Android and iOS users. Should we start? Without any further delay, let’s get started!
 
-### [Audio Editor - Music Editor](https://apps.apple.com/pk/app/audio-editor-music-editor/id1493256837?platform=iphone) (iOS)
+### Audio Editor - Music Editor
 
 Average Rating: 4.6/5
 
@@ -372,7 +372,7 @@ This audio editor has a built-in equalizer. It also has effects like distortion,
 
 ![audio editor music editor interface](https://images.wondershare.com/filmora/article-images/2022/lexis-audio-editor-7.jpg)
 
-### [Music Editor](https://play.google.com/store/apps/details?id=com.binghuo.audioeditor.mp3editor.musiceditor) (Android)
+### Music Editor
 
 Average Rating: 4.4/5
 
@@ -486,7 +486,7 @@ Once all the editing is completed, and you are satisfied, save the edited audio 
 
 Are you satisfied with Lexis Audio Editor? If you are not satisfied with the application, we are discussing alternatives for it. The alternatives discussed in the following section are both for Android and iOS users. Should we start? Without any further delay, let’s get started!
 
-### [Audio Editor - Music Editor](https://apps.apple.com/pk/app/audio-editor-music-editor/id1493256837?platform=iphone) (iOS)
+### Audio Editor - Music Editor
 
 Average Rating: 4.6/5
 
@@ -496,7 +496,7 @@ This audio editor has a built-in equalizer. It also has effects like distortion,
 
 ![audio editor music editor interface](https://images.wondershare.com/filmora/article-images/2022/lexis-audio-editor-7.jpg)
 
-### [Music Editor](https://play.google.com/store/apps/details?id=com.binghuo.audioeditor.mp3editor.musiceditor) (Android)
+### Music Editor
 
 Average Rating: 4.4/5
 
@@ -554,31 +554,31 @@ The raw footage produced by all digital cameras contains sound, but more often t
 
 Each of the online tools presented in this article has a video size limit, which is why you need to make sure that the video file doesn’t exceed the size limit set by the platform. Furthermore, how long the upload is going to last depends on the size of the file, so it is advisable to choose a video that is small in size in order to avoid wasting a lot of time on waiting for the file to upload. Here’s how you can remove audio from videos online.
 
-#### 2. [AudioRemover](https://www.audioremover.com/)
+#### 2. AudioRemover
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/audioremover-online-audio-remover.jpg)
 
 This platform offers a lot of video and audio editing tools for free, and it enables you to stabilize videos, change their size or to extract audio from video. The AudioRemover tool is quite simple to use, as you just have to click on the **Browse button** to select the video you’d like to upload and then click on the **Upload Video button** to start removing the audio from video. The entire process is automatic, so once the upload is over you can just click on the **Download File link** to save the new file to your computer. You can’t upload files larger than **500MB** to AudioRemover which can potentially reduce the number of options you have at your disposal. The platform replaces the entire audio of a video clip and it doesn’t allow you to remove only a part of the video’s original sound.
 
-#### 3. [Audio-Extractor](http://audio-extractor.net/)
+#### 3. Audio-Extractor
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/audio-extractor-online-audio-remover.jpg)
 
 If you would like to separate the audio from a video, the Audio-Extractor tool is one of the best options available on the Internet. You just have to **upload a video file** to the platform from your computer or from the Google Drive, **select MP3, FLAC or OGG** output audio format and click on the **Extract Audio button**. You can then save the audio file on **Google Drive, Dropbox** or download it to your computer. The 123apps platform also offers Audio Cutter, Audio Converter and Voice Recorder tools you can use to edit an audio file online or add narration to your videos. However, Audio-Extractor isn’t the best option for removing audio from videos, since it only allows you to save audio files, which means that you can’t create a video that doesn’t contain sound with this tool.
 
-#### 4. [Kapwing](https://www.kapwing.com/mute-video)
+#### 4. Kapwing
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/kapwing-remove-audio-from-video.jpg)
 
 Kapwing is an online video editing platform that lets you add text or music to videos, change the playback speed of a video or create memes and stop-motion animations. The Mute Video tool reduces the video’s audio volume to zero automatically, which for all practical purposes is the same as removing an audio file from a video. After you upload a video to the platform, you’ll be able to preview it without sound, and if you like the result you can click on the **Create button**. Generating a muted file can take a while, depending on how long is the video, but once the process is completed, you can click on the **Download button** to save the video to your computer or the **Edit button** if you want to go through all the steps of muting a video again. All tools on the Kapwing platform are free, but the **videos you mute will be watermarked** unless you pay a small fee to remove the watermark.
 
-#### 5. [Remove Sound From Videos Online](http://removesoundfromvideosonline.blogspot.com/)
+#### 5. Remove Sound From Videos Online
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/removesoundfromvideosonline.jpg)
 
 The wide range of supported audio and video formats make this platform a reliable option for anyone who wants to extract an audio file from a video or remove the original audio from the video completely. Click on the **Choose File button** and then select either **Remove Sound or Extract Sound** option. If you want to **Extract Sound** the platform lets you choose from **MP3, iPhone ringtone or wav** output audio file formats. Click on the **Upload&Convert** button and wait for the video file to be processed. When the file is converted you can save the new video or audio file to a destination on your hard drive. However, the platform requests your **mobile phone number** before you can download a file and it **displays ads** after you click on the **Download button**, which can be quite frustrating if you want to remove audio from a video clip quickly.
 
-#### 6. Using [YouTube](https://youtube.com) to Remove Audio From Videos
+#### 6. Using YouTube
 
 Although YouTube is not famous for its video or audio editing tools, you can still remove audio from videos in the platform’s **Creator Studio**. Select the video you’d like to mute and then go the **Creator Studio’s Video tab**. Once the options Video tab has to offer are displayed on the screen you should click on the **Audio tab**, that is located at the top of the screen next to **Enhancements and End Screen and Annotations tabs**. When the new tab opens you’ll notice that there is no option to remove audio from a video, but you can change the **Featured Tracks** option to **Ambient** and then select one of the available tracks in the menu below. The **Favor Original Audio** slider that is located below the preview window lets you control how much the new track is going to impact the video’s original sound. **Drag the slider all the way to the right** in order to avoid bringing back the original audio and then click on **the Position Audio option** to gain access to **the audio waveform**. **Drag the slider located on the right side of the waveform all the way to the left to trim the duration of the new audio to approximately one second** and the video will no longer have sound. **This audio editing technique won’t work if you trim the new audio to zero**, which is why it is important to **carefully set the duration of the new audio track** you added to the video. Click on the **Save as New Video option** to confirm the changes you’ve made and that’s it you successfully used YouTube to remove audio from a video.
 
@@ -608,31 +608,31 @@ The raw footage produced by all digital cameras contains sound, but more often t
 
 Each of the online tools presented in this article has a video size limit, which is why you need to make sure that the video file doesn’t exceed the size limit set by the platform. Furthermore, how long the upload is going to last depends on the size of the file, so it is advisable to choose a video that is small in size in order to avoid wasting a lot of time on waiting for the file to upload. Here’s how you can remove audio from videos online.
 
-#### 2. [AudioRemover](https://www.audioremover.com/)
+#### 2. AudioRemover
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/audioremover-online-audio-remover.jpg)
 
 This platform offers a lot of video and audio editing tools for free, and it enables you to stabilize videos, change their size or to extract audio from video. The AudioRemover tool is quite simple to use, as you just have to click on the **Browse button** to select the video you’d like to upload and then click on the **Upload Video button** to start removing the audio from video. The entire process is automatic, so once the upload is over you can just click on the **Download File link** to save the new file to your computer. You can’t upload files larger than **500MB** to AudioRemover which can potentially reduce the number of options you have at your disposal. The platform replaces the entire audio of a video clip and it doesn’t allow you to remove only a part of the video’s original sound.
 
-#### 3. [Audio-Extractor](http://audio-extractor.net/)
+#### 3. Audio-Extractor
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/audio-extractor-online-audio-remover.jpg)
 
 If you would like to separate the audio from a video, the Audio-Extractor tool is one of the best options available on the Internet. You just have to **upload a video file** to the platform from your computer or from the Google Drive, **select MP3, FLAC or OGG** output audio format and click on the **Extract Audio button**. You can then save the audio file on **Google Drive, Dropbox** or download it to your computer. The 123apps platform also offers Audio Cutter, Audio Converter and Voice Recorder tools you can use to edit an audio file online or add narration to your videos. However, Audio-Extractor isn’t the best option for removing audio from videos, since it only allows you to save audio files, which means that you can’t create a video that doesn’t contain sound with this tool.
 
-#### 4. [Kapwing](https://www.kapwing.com/mute-video)
+#### 4. Kapwing
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/kapwing-remove-audio-from-video.jpg)
 
 Kapwing is an online video editing platform that lets you add text or music to videos, change the playback speed of a video or create memes and stop-motion animations. The Mute Video tool reduces the video’s audio volume to zero automatically, which for all practical purposes is the same as removing an audio file from a video. After you upload a video to the platform, you’ll be able to preview it without sound, and if you like the result you can click on the **Create button**. Generating a muted file can take a while, depending on how long is the video, but once the process is completed, you can click on the **Download button** to save the video to your computer or the **Edit button** if you want to go through all the steps of muting a video again. All tools on the Kapwing platform are free, but the **videos you mute will be watermarked** unless you pay a small fee to remove the watermark.
 
-#### 5. [Remove Sound From Videos Online](http://removesoundfromvideosonline.blogspot.com/)
+#### 5. Remove Sound From Videos Online
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/removesoundfromvideosonline.jpg)
 
 The wide range of supported audio and video formats make this platform a reliable option for anyone who wants to extract an audio file from a video or remove the original audio from the video completely. Click on the **Choose File button** and then select either **Remove Sound or Extract Sound** option. If you want to **Extract Sound** the platform lets you choose from **MP3, iPhone ringtone or wav** output audio file formats. Click on the **Upload&Convert** button and wait for the video file to be processed. When the file is converted you can save the new video or audio file to a destination on your hard drive. However, the platform requests your **mobile phone number** before you can download a file and it **displays ads** after you click on the **Download button**, which can be quite frustrating if you want to remove audio from a video clip quickly.
 
-#### 6. Using [YouTube](https://youtube.com) to Remove Audio From Videos
+#### 6. Using YouTube
 
 Although YouTube is not famous for its video or audio editing tools, you can still remove audio from videos in the platform’s **Creator Studio**. Select the video you’d like to mute and then go the **Creator Studio’s Video tab**. Once the options Video tab has to offer are displayed on the screen you should click on the **Audio tab**, that is located at the top of the screen next to **Enhancements and End Screen and Annotations tabs**. When the new tab opens you’ll notice that there is no option to remove audio from a video, but you can change the **Featured Tracks** option to **Ambient** and then select one of the available tracks in the menu below. The **Favor Original Audio** slider that is located below the preview window lets you control how much the new track is going to impact the video’s original sound. **Drag the slider all the way to the right** in order to avoid bringing back the original audio and then click on **the Position Audio option** to gain access to **the audio waveform**. **Drag the slider located on the right side of the waveform all the way to the left to trim the duration of the new audio to approximately one second** and the video will no longer have sound. **This audio editing technique won’t work if you trim the new audio to zero**, which is why it is important to **carefully set the duration of the new audio track** you added to the video. Click on the **Save as New Video option** to confirm the changes you’ve made and that’s it you successfully used YouTube to remove audio from a video.
 
@@ -662,31 +662,31 @@ The raw footage produced by all digital cameras contains sound, but more often t
 
 Each of the online tools presented in this article has a video size limit, which is why you need to make sure that the video file doesn’t exceed the size limit set by the platform. Furthermore, how long the upload is going to last depends on the size of the file, so it is advisable to choose a video that is small in size in order to avoid wasting a lot of time on waiting for the file to upload. Here’s how you can remove audio from videos online.
 
-#### 2. [AudioRemover](https://www.audioremover.com/)
+#### 2. AudioRemover
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/audioremover-online-audio-remover.jpg)
 
 This platform offers a lot of video and audio editing tools for free, and it enables you to stabilize videos, change their size or to extract audio from video. The AudioRemover tool is quite simple to use, as you just have to click on the **Browse button** to select the video you’d like to upload and then click on the **Upload Video button** to start removing the audio from video. The entire process is automatic, so once the upload is over you can just click on the **Download File link** to save the new file to your computer. You can’t upload files larger than **500MB** to AudioRemover which can potentially reduce the number of options you have at your disposal. The platform replaces the entire audio of a video clip and it doesn’t allow you to remove only a part of the video’s original sound.
 
-#### 3. [Audio-Extractor](http://audio-extractor.net/)
+#### 3. Audio-Extractor
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/audio-extractor-online-audio-remover.jpg)
 
 If you would like to separate the audio from a video, the Audio-Extractor tool is one of the best options available on the Internet. You just have to **upload a video file** to the platform from your computer or from the Google Drive, **select MP3, FLAC or OGG** output audio format and click on the **Extract Audio button**. You can then save the audio file on **Google Drive, Dropbox** or download it to your computer. The 123apps platform also offers Audio Cutter, Audio Converter and Voice Recorder tools you can use to edit an audio file online or add narration to your videos. However, Audio-Extractor isn’t the best option for removing audio from videos, since it only allows you to save audio files, which means that you can’t create a video that doesn’t contain sound with this tool.
 
-#### 4. [Kapwing](https://www.kapwing.com/mute-video)
+#### 4. Kapwing
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/kapwing-remove-audio-from-video.jpg)
 
 Kapwing is an online video editing platform that lets you add text or music to videos, change the playback speed of a video or create memes and stop-motion animations. The Mute Video tool reduces the video’s audio volume to zero automatically, which for all practical purposes is the same as removing an audio file from a video. After you upload a video to the platform, you’ll be able to preview it without sound, and if you like the result you can click on the **Create button**. Generating a muted file can take a while, depending on how long is the video, but once the process is completed, you can click on the **Download button** to save the video to your computer or the **Edit button** if you want to go through all the steps of muting a video again. All tools on the Kapwing platform are free, but the **videos you mute will be watermarked** unless you pay a small fee to remove the watermark.
 
-#### 5. [Remove Sound From Videos Online](http://removesoundfromvideosonline.blogspot.com/)
+#### 5. Remove Sound From Videos Online
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/removesoundfromvideosonline.jpg)
 
 The wide range of supported audio and video formats make this platform a reliable option for anyone who wants to extract an audio file from a video or remove the original audio from the video completely. Click on the **Choose File button** and then select either **Remove Sound or Extract Sound** option. If you want to **Extract Sound** the platform lets you choose from **MP3, iPhone ringtone or wav** output audio file formats. Click on the **Upload&Convert** button and wait for the video file to be processed. When the file is converted you can save the new video or audio file to a destination on your hard drive. However, the platform requests your **mobile phone number** before you can download a file and it **displays ads** after you click on the **Download button**, which can be quite frustrating if you want to remove audio from a video clip quickly.
 
-#### 6. Using [YouTube](https://youtube.com) to Remove Audio From Videos
+#### 6. Using YouTube
 
 Although YouTube is not famous for its video or audio editing tools, you can still remove audio from videos in the platform’s **Creator Studio**. Select the video you’d like to mute and then go the **Creator Studio’s Video tab**. Once the options Video tab has to offer are displayed on the screen you should click on the **Audio tab**, that is located at the top of the screen next to **Enhancements and End Screen and Annotations tabs**. When the new tab opens you’ll notice that there is no option to remove audio from a video, but you can change the **Featured Tracks** option to **Ambient** and then select one of the available tracks in the menu below. The **Favor Original Audio** slider that is located below the preview window lets you control how much the new track is going to impact the video’s original sound. **Drag the slider all the way to the right** in order to avoid bringing back the original audio and then click on **the Position Audio option** to gain access to **the audio waveform**. **Drag the slider located on the right side of the waveform all the way to the left to trim the duration of the new audio to approximately one second** and the video will no longer have sound. **This audio editing technique won’t work if you trim the new audio to zero**, which is why it is important to **carefully set the duration of the new audio track** you added to the video. Click on the **Save as New Video option** to confirm the changes you’ve made and that’s it you successfully used YouTube to remove audio from a video.
 
@@ -716,31 +716,31 @@ The raw footage produced by all digital cameras contains sound, but more often t
 
 Each of the online tools presented in this article has a video size limit, which is why you need to make sure that the video file doesn’t exceed the size limit set by the platform. Furthermore, how long the upload is going to last depends on the size of the file, so it is advisable to choose a video that is small in size in order to avoid wasting a lot of time on waiting for the file to upload. Here’s how you can remove audio from videos online.
 
-#### 2. [AudioRemover](https://www.audioremover.com/)
+#### 2. AudioRemover
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/audioremover-online-audio-remover.jpg)
 
 This platform offers a lot of video and audio editing tools for free, and it enables you to stabilize videos, change their size or to extract audio from video. The AudioRemover tool is quite simple to use, as you just have to click on the **Browse button** to select the video you’d like to upload and then click on the **Upload Video button** to start removing the audio from video. The entire process is automatic, so once the upload is over you can just click on the **Download File link** to save the new file to your computer. You can’t upload files larger than **500MB** to AudioRemover which can potentially reduce the number of options you have at your disposal. The platform replaces the entire audio of a video clip and it doesn’t allow you to remove only a part of the video’s original sound.
 
-#### 3. [Audio-Extractor](http://audio-extractor.net/)
+#### 3. Audio-Extractor
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/audio-extractor-online-audio-remover.jpg)
 
 If you would like to separate the audio from a video, the Audio-Extractor tool is one of the best options available on the Internet. You just have to **upload a video file** to the platform from your computer or from the Google Drive, **select MP3, FLAC or OGG** output audio format and click on the **Extract Audio button**. You can then save the audio file on **Google Drive, Dropbox** or download it to your computer. The 123apps platform also offers Audio Cutter, Audio Converter and Voice Recorder tools you can use to edit an audio file online or add narration to your videos. However, Audio-Extractor isn’t the best option for removing audio from videos, since it only allows you to save audio files, which means that you can’t create a video that doesn’t contain sound with this tool.
 
-#### 4. [Kapwing](https://www.kapwing.com/mute-video)
+#### 4. Kapwing
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/kapwing-remove-audio-from-video.jpg)
 
 Kapwing is an online video editing platform that lets you add text or music to videos, change the playback speed of a video or create memes and stop-motion animations. The Mute Video tool reduces the video’s audio volume to zero automatically, which for all practical purposes is the same as removing an audio file from a video. After you upload a video to the platform, you’ll be able to preview it without sound, and if you like the result you can click on the **Create button**. Generating a muted file can take a while, depending on how long is the video, but once the process is completed, you can click on the **Download button** to save the video to your computer or the **Edit button** if you want to go through all the steps of muting a video again. All tools on the Kapwing platform are free, but the **videos you mute will be watermarked** unless you pay a small fee to remove the watermark.
 
-#### 5. [Remove Sound From Videos Online](http://removesoundfromvideosonline.blogspot.com/)
+#### 5. Remove Sound From Videos Online
 
 ![online audio remover.jpg](https://images.wondershare.com/filmora/article-images/removesoundfromvideosonline.jpg)
 
 The wide range of supported audio and video formats make this platform a reliable option for anyone who wants to extract an audio file from a video or remove the original audio from the video completely. Click on the **Choose File button** and then select either **Remove Sound or Extract Sound** option. If you want to **Extract Sound** the platform lets you choose from **MP3, iPhone ringtone or wav** output audio file formats. Click on the **Upload&Convert** button and wait for the video file to be processed. When the file is converted you can save the new video or audio file to a destination on your hard drive. However, the platform requests your **mobile phone number** before you can download a file and it **displays ads** after you click on the **Download button**, which can be quite frustrating if you want to remove audio from a video clip quickly.
 
-#### 6. Using [YouTube](https://youtube.com) to Remove Audio From Videos
+#### 6. Using YouTube
 
 Although YouTube is not famous for its video or audio editing tools, you can still remove audio from videos in the platform’s **Creator Studio**. Select the video you’d like to mute and then go the **Creator Studio’s Video tab**. Once the options Video tab has to offer are displayed on the screen you should click on the **Audio tab**, that is located at the top of the screen next to **Enhancements and End Screen and Annotations tabs**. When the new tab opens you’ll notice that there is no option to remove audio from a video, but you can change the **Featured Tracks** option to **Ambient** and then select one of the available tracks in the menu below. The **Favor Original Audio** slider that is located below the preview window lets you control how much the new track is going to impact the video’s original sound. **Drag the slider all the way to the right** in order to avoid bringing back the original audio and then click on **the Position Audio option** to gain access to **the audio waveform**. **Drag the slider located on the right side of the waveform all the way to the left to trim the duration of the new audio to approximately one second** and the video will no longer have sound. **This audio editing technique won’t work if you trim the new audio to zero**, which is why it is important to **carefully set the duration of the new audio track** you added to the video. Click on the **Save as New Video option** to confirm the changes you’ve made and that’s it you successfully used YouTube to remove audio from a video.
 

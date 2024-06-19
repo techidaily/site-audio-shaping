@@ -1,7 +1,7 @@
 ---
 title: How to Remove Audio From Video
-date: 2024-05-20T00:03:46.297Z
-updated: 2024-05-21T00:03:46.297Z
+date: 2024-06-18T16:12:47.980Z
+updated: 2024-06-19T16:12:47.980Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Remove Audio From Video
 excerpt: This Article Describes How to Remove Audio From Video
 keywords: remove audio from video,how to remove audio from video online,how to remove audio from mkv,how to remove audio from avi,how to remove audio from mp4 video,how to mute audio from video,how to remove audio from a video in imovie
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## How to Remove Audio From Video
@@ -370,7 +370,7 @@ Since many people nowadays produce videos in MP4 due to its wide range of suppor
 
 Being one of the most versatile post-production tools preferred by many professional editors worldwide, Filmora comes with a variety of audio formats from all the three categories discussed above. Furthermore, Filmora also displays relevant information about each of the file types it offers.
 
-![ Filmora9 Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-export-settings-window.jpg)
+![Filmora9 Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-export-settings-window.jpg)
 
 The following table shows a list of formats and the details that Filmora supports:
 
@@ -527,7 +527,7 @@ Since many people nowadays produce videos in MP4 due to its wide range of suppor
 
 Being one of the most versatile post-production tools preferred by many professional editors worldwide, Filmora comes with a variety of audio formats from all the three categories discussed above. Furthermore, Filmora also displays relevant information about each of the file types it offers.
 
-![ Filmora9 Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-export-settings-window.jpg)
+![Filmora9 Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-export-settings-window.jpg)
 
 The following table shows a list of formats and the details that Filmora supports:
 
@@ -684,7 +684,7 @@ Since many people nowadays produce videos in MP4 due to its wide range of suppor
 
 Being one of the most versatile post-production tools preferred by many professional editors worldwide, Filmora comes with a variety of audio formats from all the three categories discussed above. Furthermore, Filmora also displays relevant information about each of the file types it offers.
 
-![ Filmora9 Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-export-settings-window.jpg)
+![Filmora9 Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-export-settings-window.jpg)
 
 The following table shows a list of formats and the details that Filmora supports:
 
@@ -841,7 +841,7 @@ Since many people nowadays produce videos in MP4 due to its wide range of suppor
 
 Being one of the most versatile post-production tools preferred by many professional editors worldwide, Filmora comes with a variety of audio formats from all the three categories discussed above. Furthermore, Filmora also displays relevant information about each of the file types it offers.
 
-![ Filmora9 Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-export-settings-window.jpg)
+![Filmora9 Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-export-settings-window.jpg)
 
 The following table shows a list of formats and the details that Filmora supports:
 

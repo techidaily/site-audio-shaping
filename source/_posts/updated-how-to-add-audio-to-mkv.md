@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Audio to MKV
-date: 2024-05-20T00:04:10.808Z
-updated: 2024-05-21T00:04:10.808Z
+date: 2024-06-18T16:12:43.910Z
+updated: 2024-06-19T16:12:43.910Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated How to Add Audio to MKV
 excerpt: This Article Describes Updated How to Add Audio to MKV
 keywords: how to add audio to mp4 mpeg mpg video,add audio to mkv,how to add music audio to a gif on mac,how to add audio to video,how to add audio to your video,how to add audio to mkv,how to add audio to avi
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## Mastering Audio Integration in Updated MKV Formats
@@ -285,11 +285,9 @@ Well, you can do a good deal of work altogether with Wondershre Filmora. So, you
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -376,11 +374,9 @@ Well, you can do a good deal of work altogether with Wondershre Filmora. So, you
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -467,11 +463,9 @@ Well, you can do a good deal of work altogether with Wondershre Filmora. So, you
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -558,11 +552,9 @@ Well, you can do a good deal of work altogether with Wondershre Filmora. So, you
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 **AI Portrait – The best feature of Wondershare Filmora for gameplay editing**
 
@@ -636,7 +628,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -644,7 +636,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -670,7 +662,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -678,7 +670,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -686,7 +678,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -758,7 +750,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -766,7 +758,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -792,7 +784,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -800,7 +792,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -808,7 +800,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -880,7 +872,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -888,7 +880,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -914,7 +906,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -922,7 +914,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -930,7 +922,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -1002,7 +994,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -1010,7 +1002,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -1036,7 +1028,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -1044,7 +1036,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -1052,7 +1044,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
