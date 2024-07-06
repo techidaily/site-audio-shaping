@@ -1,7 +1,7 @@
 ---
 title: Sonic Design Lab Pioneering Audio Manipulation in Sony Vegas Pro
-date: 2024-05-20T00:03:46.929Z
-updated: 2024-05-21T00:03:46.929Z
+date: 2024-07-05T14:22:16.510Z
+updated: 2024-07-06T14:22:16.510Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Sonic Design Lab Pioneering Audio Manipulation in Sony Vegas Pro
 excerpt: This Article Describes Sonic Design Lab Pioneering Audio Manipulation in Sony Vegas Pro
 keywords: sonic innovation unleashed navigating through the seventh wave of audio manipulation,sonic design lab pioneering audio manipulation in sony vegas pro,excellence in audio manipulation ios devices top selection,harmonyhack pro v3 next gen audio manipulation for singers,navigating internet based audio manipulation techniques,sourcing eerie audio manipulations,audiovisual excellence mastering the art of sound design in sony vegas pro 2023
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Sonic Design Lab: Pioneering Audio Manipulation in Sony Vegas Pro
@@ -70,7 +70,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -78,7 +78,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -94,7 +94,7 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 #### Section 5: Noise Removal
 
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
 
 Or check this video tutorial below:
 
@@ -104,7 +104,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -112,7 +112,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -120,7 +120,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -192,7 +192,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -200,7 +200,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -216,7 +216,7 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 #### Section 5: Noise Removal
 
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
 
 Or check this video tutorial below:
 
@@ -226,7 +226,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -234,7 +234,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -242,7 +242,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -314,7 +314,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -322,7 +322,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -338,7 +338,7 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 #### Section 5: Noise Removal
 
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
 
 Or check this video tutorial below:
 
@@ -348,7 +348,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -356,7 +356,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -364,7 +364,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -436,7 +436,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -444,7 +444,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -460,7 +460,7 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 #### Section 5: Noise Removal
 
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
 
 Or check this video tutorial below:
 
@@ -470,7 +470,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -478,7 +478,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -486,7 +486,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 

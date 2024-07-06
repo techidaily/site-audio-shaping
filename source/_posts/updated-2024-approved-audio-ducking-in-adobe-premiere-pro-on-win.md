@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Audio Ducking in Adobe Premiere Pro on Win
-date: 2024-05-05T03:46:36.671Z
-updated: 2024-05-06T03:46:36.671Z
+date: 2024-07-05T14:22:11.165Z
+updated: 2024-07-06T14:22:11.165Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Audio Ducking in Adobe Premiere Pro on Win
 excerpt: This Article Describes Updated 2024 Approved Audio Ducking in Adobe Premiere Pro on Win
 keywords: windows based audio ducking workflow in adobe premiere pro,optimizing audio levels a guide to dynamic ducking in windows edition of adobe premiere pro,adobe premiere pro audio ducking tutorial mac,advanced audio editing implementing real time ducking in windows version of adobe premiere pro,how to use audio ducking in adobe premiere pro on win,tutorial on audio ducking in adobe premiere pro on mac,audio ducking ptemiere pro win
-thumbnail: https://www.lifewire.com/thmb/Dp9islCb9GD3RtQaIU23WoKYMSs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-92c9bcd3792548908be32c420bc4fa27.jpg
+thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997cdcaec1704f07c09aed014e.jpg
 ---
 
 ## How to Use Audio Ducking in Adobe Premiere Pro on Win
@@ -437,7 +437,7 @@ Thus, this article had given valuable insights on ****audio ducking Premiere Pro
 
  With all new and advanced features, it is also possible to use CXU like all in one digital hub solution with HDMI input availability. Users can also transfer signals via three USB inputs, Coaxial audio inputs, digital optical etc that makes all connections possible with external world. Users can enjoy effective up-sampling for content to ensure impressive audio-video experience during playbacks. Its front HDMI input also extends support to MHL so this CXU is proven to be best solution for all kind of audio-video entertainment needs. When users connect this device with Pure audio mode active then all video processing is automatically stopped so that audio signal may not find any disturbance.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-2.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01592ZNEQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01592ZNEQ&linkId=cfdcf0954a234d3575a15a5f15fde6a1)
 
@@ -447,7 +447,7 @@ Thus, this article had given valuable insights on ****audio ducking Premiere Pro
 
  The control unit is designed with highly durable material and you will find its controls pretty fine with nice hold. The soft finish makes its handling easier and buttons always offer satisfying operation as they respond to every swift with ease. You will be glad to know that this device also possesses backlit feature that leads to awesome performance in darkened cinema room.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-1.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-1.jpg)
 
 ## Connections and Control
 
@@ -455,7 +455,7 @@ Thus, this article had given valuable insights on ****audio ducking Premiere Pro
 
  For a while, if we keep an eye on audio connections then CXU has specialized optical digital input as well as one coaxial digital input. Similarly, you will also find one optical digital output over here with coaxial digital output. Further, it possesses 7\. Channel analogue outputs that follow Phono/RCA based connections. One thing that is missing in this product is balanced XLR stereo output. Besides all these basic controls, you will also find a well designed front panel on this player. It can be easily controlled via remote connectivity. The controller is well designed with soft rubber back and a brushed metal effect of black colour is also created to make it more attractive. Users find this remote comfortable to handle as positioning of buttons is perfect over it. In simple words, Cambridge Audio system has all great features that users demand from a Blu-ray player.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-3.jpg)
 
 ## Video Performance
 
@@ -465,7 +465,7 @@ Thus, this article had given valuable insights on ****audio ducking Premiere Pro
 
  If you want to play DVDs on this device then also it offers natural color balance along with punchy contrast. Noise is well eliminated from scenes and details use to be highly stable and crisp. This device falls in the category of classic Blu-ray players with all outstanding features and lively as well as natural picture elements. Cambridge is stunningly crisper and subtler with deep details on every aspect.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-4.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-4.jpg)
 
 ## Audio Performance
 
@@ -473,7 +473,7 @@ Thus, this article had given valuable insights on ****audio ducking Premiere Pro
 
  The best thing to know about Cambridge Audio CXU is its ability to create finer details so that every instrument can be uniquely identified by listener with spacious sound effect. All notes use to start and stop with higher synchronization and cohesiveness is always ensured.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-5.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-5.jpg)
 
 ## Verdict
 
@@ -520,7 +520,7 @@ Follow @Ollie Mattison
 
  With all new and advanced features, it is also possible to use CXU like all in one digital hub solution with HDMI input availability. Users can also transfer signals via three USB inputs, Coaxial audio inputs, digital optical etc that makes all connections possible with external world. Users can enjoy effective up-sampling for content to ensure impressive audio-video experience during playbacks. Its front HDMI input also extends support to MHL so this CXU is proven to be best solution for all kind of audio-video entertainment needs. When users connect this device with Pure audio mode active then all video processing is automatically stopped so that audio signal may not find any disturbance.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-2.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01592ZNEQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01592ZNEQ&linkId=cfdcf0954a234d3575a15a5f15fde6a1)
 
@@ -530,7 +530,7 @@ Follow @Ollie Mattison
 
  The control unit is designed with highly durable material and you will find its controls pretty fine with nice hold. The soft finish makes its handling easier and buttons always offer satisfying operation as they respond to every swift with ease. You will be glad to know that this device also possesses backlit feature that leads to awesome performance in darkened cinema room.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-1.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-1.jpg)
 
 ## Connections and Control
 
@@ -538,7 +538,7 @@ Follow @Ollie Mattison
 
  For a while, if we keep an eye on audio connections then CXU has specialized optical digital input as well as one coaxial digital input. Similarly, you will also find one optical digital output over here with coaxial digital output. Further, it possesses 7\. Channel analogue outputs that follow Phono/RCA based connections. One thing that is missing in this product is balanced XLR stereo output. Besides all these basic controls, you will also find a well designed front panel on this player. It can be easily controlled via remote connectivity. The controller is well designed with soft rubber back and a brushed metal effect of black colour is also created to make it more attractive. Users find this remote comfortable to handle as positioning of buttons is perfect over it. In simple words, Cambridge Audio system has all great features that users demand from a Blu-ray player.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-3.jpg)
 
 ## Video Performance
 
@@ -548,7 +548,7 @@ Follow @Ollie Mattison
 
  If you want to play DVDs on this device then also it offers natural color balance along with punchy contrast. Noise is well eliminated from scenes and details use to be highly stable and crisp. This device falls in the category of classic Blu-ray players with all outstanding features and lively as well as natural picture elements. Cambridge is stunningly crisper and subtler with deep details on every aspect.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-4.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-4.jpg)
 
 ## Audio Performance
 
@@ -556,7 +556,7 @@ Follow @Ollie Mattison
 
  The best thing to know about Cambridge Audio CXU is its ability to create finer details so that every instrument can be uniquely identified by listener with spacious sound effect. All notes use to start and stop with higher synchronization and cohesiveness is always ensured.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-5.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-5.jpg)
 
 ## Verdict
 
@@ -603,7 +603,7 @@ Follow @Ollie Mattison
 
  With all new and advanced features, it is also possible to use CXU like all in one digital hub solution with HDMI input availability. Users can also transfer signals via three USB inputs, Coaxial audio inputs, digital optical etc that makes all connections possible with external world. Users can enjoy effective up-sampling for content to ensure impressive audio-video experience during playbacks. Its front HDMI input also extends support to MHL so this CXU is proven to be best solution for all kind of audio-video entertainment needs. When users connect this device with Pure audio mode active then all video processing is automatically stopped so that audio signal may not find any disturbance.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-2.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01592ZNEQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01592ZNEQ&linkId=cfdcf0954a234d3575a15a5f15fde6a1)
 
@@ -613,7 +613,7 @@ Follow @Ollie Mattison
 
  The control unit is designed with highly durable material and you will find its controls pretty fine with nice hold. The soft finish makes its handling easier and buttons always offer satisfying operation as they respond to every swift with ease. You will be glad to know that this device also possesses backlit feature that leads to awesome performance in darkened cinema room.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-1.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-1.jpg)
 
 ## Connections and Control
 
@@ -621,7 +621,7 @@ Follow @Ollie Mattison
 
  For a while, if we keep an eye on audio connections then CXU has specialized optical digital input as well as one coaxial digital input. Similarly, you will also find one optical digital output over here with coaxial digital output. Further, it possesses 7\. Channel analogue outputs that follow Phono/RCA based connections. One thing that is missing in this product is balanced XLR stereo output. Besides all these basic controls, you will also find a well designed front panel on this player. It can be easily controlled via remote connectivity. The controller is well designed with soft rubber back and a brushed metal effect of black colour is also created to make it more attractive. Users find this remote comfortable to handle as positioning of buttons is perfect over it. In simple words, Cambridge Audio system has all great features that users demand from a Blu-ray player.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-3.jpg)
 
 ## Video Performance
 
@@ -631,7 +631,7 @@ Follow @Ollie Mattison
 
  If you want to play DVDs on this device then also it offers natural color balance along with punchy contrast. Noise is well eliminated from scenes and details use to be highly stable and crisp. This device falls in the category of classic Blu-ray players with all outstanding features and lively as well as natural picture elements. Cambridge is stunningly crisper and subtler with deep details on every aspect.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-4.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-4.jpg)
 
 ## Audio Performance
 
@@ -639,7 +639,7 @@ Follow @Ollie Mattison
 
  The best thing to know about Cambridge Audio CXU is its ability to create finer details so that every instrument can be uniquely identified by listener with spacious sound effect. All notes use to start and stop with higher synchronization and cohesiveness is always ensured.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-5.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-5.jpg)
 
 ## Verdict
 
@@ -686,7 +686,7 @@ Follow @Ollie Mattison
 
  With all new and advanced features, it is also possible to use CXU like all in one digital hub solution with HDMI input availability. Users can also transfer signals via three USB inputs, Coaxial audio inputs, digital optical etc that makes all connections possible with external world. Users can enjoy effective up-sampling for content to ensure impressive audio-video experience during playbacks. Its front HDMI input also extends support to MHL so this CXU is proven to be best solution for all kind of audio-video entertainment needs. When users connect this device with Pure audio mode active then all video processing is automatically stopped so that audio signal may not find any disturbance.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-2.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01592ZNEQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01592ZNEQ&linkId=cfdcf0954a234d3575a15a5f15fde6a1)
 
@@ -696,7 +696,7 @@ Follow @Ollie Mattison
 
  The control unit is designed with highly durable material and you will find its controls pretty fine with nice hold. The soft finish makes its handling easier and buttons always offer satisfying operation as they respond to every swift with ease. You will be glad to know that this device also possesses backlit feature that leads to awesome performance in darkened cinema room.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-1.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-1.jpg)
 
 ## Connections and Control
 
@@ -704,7 +704,7 @@ Follow @Ollie Mattison
 
  For a while, if we keep an eye on audio connections then CXU has specialized optical digital input as well as one coaxial digital input. Similarly, you will also find one optical digital output over here with coaxial digital output. Further, it possesses 7\. Channel analogue outputs that follow Phono/RCA based connections. One thing that is missing in this product is balanced XLR stereo output. Besides all these basic controls, you will also find a well designed front panel on this player. It can be easily controlled via remote connectivity. The controller is well designed with soft rubber back and a brushed metal effect of black colour is also created to make it more attractive. Users find this remote comfortable to handle as positioning of buttons is perfect over it. In simple words, Cambridge Audio system has all great features that users demand from a Blu-ray player.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-3.jpg)
 
 ## Video Performance
 
@@ -714,7 +714,7 @@ Follow @Ollie Mattison
 
  If you want to play DVDs on this device then also it offers natural color balance along with punchy contrast. Noise is well eliminated from scenes and details use to be highly stable and crisp. This device falls in the category of classic Blu-ray players with all outstanding features and lively as well as natural picture elements. Cambridge is stunningly crisper and subtler with deep details on every aspect.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-4.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-4.jpg)
 
 ## Audio Performance
 
@@ -722,7 +722,7 @@ Follow @Ollie Mattison
 
  The best thing to know about Cambridge Audio CXU is its ability to create finer details so that every instrument can be uniquely identified by listener with spacious sound effect. All notes use to start and stop with higher synchronization and cohesiveness is always ensured.
 
-![ ](https://images.wondershare.com/filmora/article-images/cxu-5.jpg)
+![](https://images.wondershare.com/filmora/article-images/cxu-5.jpg)
 
 ## Verdict
 
@@ -752,7 +752,7 @@ The other type is 'Royalty-free Music,' which allows the purchaser to pay for th
 
 We are not always connected to the internet. Suppose you want to listen to songs, but sadly you don't have internet connectivity. What are you going to do in such a situation? The best suggestion to avoid such problems is to download your favorite music. The following section of this article will share 10 sites to download BGM songs.
 
-### 1\. [Jamendo](https://www.jamendo.com/?language=en)
+### 1\. Jamendo
 
 The first site that we are going to talk about is Jamendo. The site offers two platforms; Music and Licensing. With Jamendo Music, you can do free downloading and free streaming. All the songs under Jamendo Music have a Creative Commons License.
 
@@ -760,7 +760,7 @@ On the other hand, if we talk about Jamendo Licensing, it offers royalty-free mu
 
 ![jamendo](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-1.jpg)
 
-### 2\. [Bensound](https://www.bensound.com/)
+### 2\. Bensound
 
 The following site on the list for background BGM download is Bensound. This is the home for thousands of royalty-free music. The price range for Bensound is free. The homepage of Bensound is very inviting. You can easily find your desired music from Bensound. This is because it has easy-to-use search functionality.
 
@@ -768,7 +768,7 @@ It has a wide range of genres. All the songs are displayed on Bensound with name
 
 ![bensound](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-2.jpg)
 
-### 3\. [BeatPick](https://www.beatpick.com/)
+### 3\. BeatPick
 
 Moving on to discuss another site. It is 'BeatPick,' the site with music with a Creative Commons License. BeatPick is known as a compelling site. It is an online music search engine. You know what? If you plan to add killer beats to your videos, check BeatPick. You will indeed find the best BGM music for your video.
 
@@ -776,7 +776,7 @@ With BeatPick, you can create your 'Beatlist.' You can add your favorite backgro
 
 ![beatpick](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-3.jpg)
 
-### 4\. [SoundCloud](https://soundcloud.com/)
+### 4\. SoundCloud
 
 In today’s world, no one is new to SoundCloud. Let us state a fact here that SoundCloud is the world’s largest open audio platform. It has a community of listeners as well as creators. All the music on SoundCloud is protected under the Creative Commons License. You can use free BGM music under this license. This is why its price range is free.
 
@@ -784,7 +784,7 @@ Working with SoundCloud is very convenient. It helps you narrow your search by u
 
 ![soundcloud](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-4.jpg)
 
-### 5\. [Thematic](https://hellothematic.com/)
+### 5\. Thematic
 
 The next popular site for downloading cool BGM songs is Thematic. The site has copyright-free music. You can find suitable music for your videos that matches the video theme. The platform has free songs that musicians and artists establish.
 
@@ -792,7 +792,7 @@ Using Thematic is not at all difficult. You have to become a member of it. As so
 
 ![thematic](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-5.jpg)
 
-### 6\. [ccMixter](http://dig.ccmixter.org/)
+### 6\. ccMixter
 
 Up next is the ccMixter in line. This is a collaborative platform for musicians. On ccMixter, firstly, singers upload their vocals. Then musicians share samples. Lastly, DJs mix them to create stunning songs. All the songs on ccMixter are under Creative Commons License. Its price range is free but with attribution.
 
@@ -800,7 +800,7 @@ Hence, you are free to use the music as long as you give credit to the artist. c
 
 ![ccmixter](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-6.jpg)
 
-### 7\. [YouTube Audio Library](https://studio.youtube.com/channel/)
+### 7\. YouTube Audio Library
 
 YouTube was created in 2005\. Today, it is the most used site with billions of videos. Do you know YouTube has an Audio Library? It has free songs available in its massive library. The songs in this library are protected under the Creative Commons License, and some are Public Domain. They are free to use.
 
@@ -808,7 +808,7 @@ The songs in this library are grouped according to their genre, duration, mood, 
 
 ![youtube audio library](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-7.jpg)
 
-### 8\. [Free Music Archive](https://freemusicarchive.org/)
+### 8\. Free Music Archive
 
 The next popular site is Free Music Archive. Let's start, shall we? This site is commonly known as FMA. Free Music Archive is very popular because it is one of the most extensive selection platforms for free BGM music. Some of its songs are protected by Creative Commons License. Whereas some are from Public Domain. The price range for FMA is free.
 
@@ -816,7 +816,7 @@ This online site is impressive to get background music for all videos. Are you i
 
 ![free music archive](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-8.jpg)
 
-### 9\. [Incompetech](https://incompetech.com/)
+### 9\. Incompetech
 
 Jumping on to the next site. This is Incompetech. Kevin Macleod, an American composer, created the site. Macleod is known for his work. He composed thousands of songs and sound effects for free use. Incompetech is considered the best platform for royalty-free music.
 
@@ -824,7 +824,7 @@ The interface of Incompetech is straightforward. You can easily understand it an
 
 ![incompetech](https://images.wondershare.com/filmora/article-images/2022/popular-sites-to-download-bgm-music-in-2022-9.jpg)
 
-### 10\. [StoryBlocks](https://www.storyblocks.com/audio)
+### 10\. StoryBlocks
 
 The last site to be discussed is StoryBlocks. This is another brilliant platform to get royalty-free music. You have to subscribe to StoryBlocks. This opens your gateway to download hundreds of free sound effects.
 

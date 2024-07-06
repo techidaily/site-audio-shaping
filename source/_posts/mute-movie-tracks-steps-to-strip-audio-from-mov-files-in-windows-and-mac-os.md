@@ -1,7 +1,7 @@
 ---
 title: Mute Movie Tracks Steps to Strip Audio From MOV Files in Windows and Mac OS
-date: 2024-06-26T08:07:00.779Z
-updated: 2024-06-27T08:07:00.779Z
+date: 2024-07-05T14:22:09.250Z
+updated: 2024-07-06T14:22:09.250Z
 tags: 
   - audio editing software
   - audio editing
@@ -16,7 +16,8 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
 ## "Mute Movie Tracks: Steps to Strip Audio From MOV Files in Windows and Mac OS"
 
-# How to Remove Audio from MOV Files on Windows/Mac ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# How to Remove Audio from MOV Files on Windows/Mac
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 
