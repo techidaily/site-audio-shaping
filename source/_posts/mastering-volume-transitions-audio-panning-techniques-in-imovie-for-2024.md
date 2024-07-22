@@ -1,7 +1,7 @@
 ---
 title: Mastering Volume Transitions Audio Panning Techniques in iMovie for 2024
-date: 2024-06-26T08:07:15.951Z
-updated: 2024-06-27T08:07:15.951Z
+date: 2024-07-21T12:08:06.855Z
+updated: 2024-07-22T12:08:06.855Z
 tags: 
   - audio editing software
   - audio editing
@@ -59,6 +59,15 @@ Firstly, let's take a look at the video below to check how to fade audio in/out 
 
 When the project opens, check "Show Waveforms" at the bottom of the Project window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
@@ -67,6 +76,9 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 Move the pointer over a waveform, and drag the small gray fade handle at the left of the clip to adjust the fade audio in effect. Then drag the small fade handle at the right of the clip to adjust the fade-out effect.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
 #### Step 3. Playback to Check
@@ -77,6 +89,9 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
 To fade audios in and out in iMovie with the audio inspector, you can follow these steps:
@@ -85,6 +100,9 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -97,6 +115,9 @@ If you do not choose "Manual", that means you'd like iMovie to automatically set
 
 If you manually adjust the effect, you can have a better effect.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 3. Save the Audio Fade In and Out Effect ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
@@ -121,6 +142,9 @@ Import the video clip you want to add audio in and out effect. To do this, click
 
 Place the video onto the timeline. Double-click on it and then choose "Audio". In the tab, you can drag the slider bar to the right or left to manually set the fade in and fade out the length.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
 #### Step 3. Save Your Video
@@ -131,6 +155,9 @@ Click the "Export" button to select one of the export methods. You can choose yo
 
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -147,3 +174,65 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-choosing-the-right-lights-and-cameras-for-youtube-videos/"><u>[New] Choosing the Right Lights & Cameras for YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-depth-review-complete-camstudio-screencap-suite/"><u>[New] In-Depth Review  Complete CamStudio Screencap Suite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sharpen-zoom-conversations-eliminate-distortion/"><u>[New] Sharpen Zoom Conversations  Eliminate Distortion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-tricks-for-turning-youtube-watchlists-around/"><u>[Updated] 2024 Approved  10 Tricks for Turning YouTube Watchlists Around</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-leading-10-customizable-tiktok-filters-for-personal-flair/"><u>[Updated] Leading 10 Customizable TikTok Filters for Personal Flair</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-past-paints-legal-freedoms-for-classics/"><u>2024 Approved  Past Paints  Legal Freedoms for Classics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-a-seamless-experience-accessing-youtube-video-comments/"><u>2024 Approved  Tips for a Seamless Experience  Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-lava-storm-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Lava Storm 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-pro-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 13 Pro 5G has native HEVC support?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-v30-lite-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo V30 Lite 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 12 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>In 2024, Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-moto-g23-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Moto G23 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-unfreeze-non-playing-youtube-tweets-chrome/"><u>In 2024, Unfreeze  Non-Playing YouTube Tweets Chrome</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-journey-into-jazz-mysteries-beyond-commonplace-knowledge/"><u>New 2024 Approved Journey Into Jazz Mysteries Beyond Commonplace Knowledge</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-journey-to-uncover-joyous-soundscapes/"><u>New 2024 Approved Journey to Uncover Joyous Soundscapes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-karaoke-enthusiasts-review-best-mp3-converters-compared-digital-vs-physical-realm/"><u>New 2024 Approved Karaoke Enthusiasts Review Best MP3 Converters Compared - Digital vs Physical Realm</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-karaoke-mode-made-simple-no-cost-mp3-resizing-to-perfect-your-performances/"><u>New 2024 Approved Karaoke Mode Made Simple No Cost MP3 Resizing to Perfect Your Performances.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-key-components-of-a-quality-audio-editor-on-macos/"><u>New 2024 Approved Key Components of a Quality Audio Editor on macOS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-key-information-on-utilizing-youtubes-sound-bank/"><u>New 2024 Approved Key Information on Utilizing YouTubes Sound Bank</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-key-resources-for-streamlining-audible-background-elements-in-digital-soundscape/"><u>New 2024 Approved Key Resources for Streamlining Audible Background Elements in Digital Soundscape</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-lamentations-and-lullabies-best-sad-music-choices-for-a-touching-experience/"><u>New 2024 Approved Lamentations and Lullabies Best Sad Music Choices for a Touching Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-leading-10-voice-alteration-software-mastering-female-tones-from-male-vocals/"><u>New 2024 Approved Leading 10 Voice Alteration Software Mastering Female Tones From Male Vocals</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-basic-knowledge-about-jazz-music-that-you-need-know/"><u>New In 2024, Basic Knowledge About Jazz Music That You Need Know</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-karaoke-and-audio-mastery-leading-voice-suppression-tools-for-enhanced-sound-quality/"><u>New In 2024, Karaoke & Audio Mastery Leading Voice Suppression Tools for Enhanced Sound Quality</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-karaoke-comfort-zone-free-mp3-downsamper-to-trim-tracks-and-tune-into-the-beat/"><u>New In 2024, Karaoke Comfort Zone Free MP3 Downsamper to Trim Tracks and Tune Into the Beat.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-key-audio-archives-to-enhance-your-quiet-space-with-gentle-melodies/"><u>New In 2024, Key Audio Archives to Enhance Your Quiet Space with Gentle Melodies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-key-resources-for-streamlining-audible-background-elements-in-digital-soundscape/"><u>New In 2024, Key Resources for Streamlining Audible Background Elements in Digital Soundscape</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-kinemaster-soundscape-techniques-for-music-insertion/"><u>New In 2024, KineMaster Soundscape Techniques for Music Insertion</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-lamentations-and-lullabies-best-sad-music-choices-for-a-touching-experience/"><u>New In 2024, Lamentations and Lullabies Best Sad Music Choices for a Touching Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-leading-6-digital-sound-snipping-applications/"><u>New In 2024, Leading 6 Digital Sound Snipping Applications</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-unearthing-the-chirp-piece-a-study-on-cricket-noises/"><u>New In 2024, Unearthing the Chirp-Piece A Study on Cricket Noises</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-karaoke-key-effortless-mp3-reduction-online-service-for-vocal-victory-for-2024/"><u>New Karaoke Key Effortless MP3 Reduction Online Service for Vocal Victory. For 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-key-components-of-a-quality-audio-editor-on-macos-for-2024/"><u>New Key Components of a Quality Audio Editor on macOS for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-key-considerations-to-put-together-an-invaluable-audiovisual-treasure-trove-on-youtube-for-2024/"><u>New Key Considerations to Put Together an Invaluable Audiovisual Treasure Trove on YouTube for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-kinemaster-audio-essentials-add-your-music-now-in-2024/"><u>New KineMaster Audio Essentials Add Your Music Now, In 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-leaderboard-the-four-premier-music-editors-tailored-to-macos-for-2024/"><u>New Leaderboard The Four Premier Music Editors Tailored to macOS for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-leading-11-ios-and-android-tools-for-professional-sound-engineering-for-2024/"><u>New Leading 11 iOS and Android Tools for Professional Sound Engineering for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/steps-for-eradicating-fb-notification-alerts/"><u>Steps for Eradicating Fb Notification Alerts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-innovation-windows-personalization-through-lock-patterns/"><u>Stepwise Innovation: Windows Personalization Through Lock Patterns</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-motion-titles/"><u>Updated 2024 Approved How to Add Motion Titles</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-jazz-uncovered-revelations-in-jazz-foundations-and-concepts/"><u>Updated 2024 Approved Jazz Uncovered Revelations in Jazz Foundations and Concepts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-karaoke-enthusiasts-review-best-mp3-converters-compared-digital-vs-physical-realm/"><u>Updated 2024 Approved Karaoke Enthusiasts Review Best MP3 Converters Compared - Digital vs Physical Realm</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-key-audio-archives-to-enhance-your-quiet-space-with-gentle-melodies/"><u>Updated 2024 Approved Key Audio Archives to Enhance Your Quiet Space with Gentle Melodies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-key-considerations-to-put-together-an-invaluable-audiovisual-treasure-trove-on-youtube/"><u>Updated 2024 Approved Key Considerations to Put Together an Invaluable Audiovisual Treasure Trove on YouTube</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-find-laughing-sound-effect-for-2024/"><u>Updated Find Laughing Sound Effect for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-basic-knowledge-about-jazz-music-that-you-need-know/"><u>Updated In 2024, Basic Knowledge About Jazz Music That You Need Know</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-jazz-uncovered-revelations-in-jazz-foundations-and-concepts/"><u>Updated In 2024, Jazz Uncovered Revelations in Jazz Foundations and Concepts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-key-features-every-user-must-be-aware-of-with-twistedwave-audio-programming/"><u>Updated In 2024, Key Features Every User Must Be Aware Of with TwistedWave Audio Programming</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-keyboard-kings-and-queens-a-premium-free-royalty-free-collection-of-film-ready-piano-soundtracks/"><u>Updated In 2024, Keyboard Kings & Queens A Premium, Free Royalty-Free Collection of Film-Ready Piano Soundtracks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-leaderboard-the-four-premier-music-editors-tailored-to-macos/"><u>Updated In 2024, Leaderboard The Four Premier Music Editors Tailored to macOS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-journalistic-jazzy-numbers-for-daily-updates-for-2024/"><u>Updated Journalistic Jazzy Numbers for Daily Updates for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-key-audio-archives-to-enhance-your-quiet-space-with-gentle-melodies-for-2024/"><u>Updated Key Audio Archives to Enhance Your Quiet Space with Gentle Melodies for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-key-information-on-utilizing-youtubes-sound-bank-for-2024/"><u>Updated Key Information on Utilizing YouTubes Sound Bank for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+</ul></div>

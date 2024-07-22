@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro
-date: 2024-07-05T14:22:45.438Z
-updated: 2024-07-06T14:22:45.438Z
+date: 2024-07-21T12:08:30.242Z
+updated: 2024-07-22T12:08:30.242Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,6 +28,9 @@ Being the most commonly used professional video editing tool, Sony (Magix) Vegas
 
 **You May Also Like:** [How to Edit YouTube Audio >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sony (Magix) Vegas Audio Editor: How to edit audio in Vegas Pro
 
 This tutorial is divided into 6 different sections that contain complete details about all possible audio track adjustments and customization options.
@@ -47,6 +50,9 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 * Mute the Audio Track: Press M
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
@@ -66,10 +72,16 @@ Those who want to control volume separately for different portions of audio file
 
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
@@ -112,14 +124,23 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
@@ -130,6 +151,9 @@ For additional personalization you need to use plug-in chain button from right c
 
 The Vegas Pro is rated as a professional editing software tool due to its advanced user interface, high price range and availability on Mac devices only. If you are searching for some video editing tools that can work on Windows as well as Mac devices then [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best options for you all.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -150,3 +174,41 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crystalvision-pro-screen-capturing-101/"><u>[New] 2024 Approved  CrystalVision Pro  Screen Capturing 101</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effective-youtube-customization-for-powerful-endings/"><u>[New] 2024 Approved  Effective YouTube Customization for Powerful Endings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-budget-analysis-spending-for-translating-tunes-into-videos/"><u>[New] Budget Analysis  Spending for Translating Tunes Into Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[New] In 2024, From Vids to Dollars  Navigating YouTube's Monetization Landscape</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-precision-engagement-elevating-camera-angle-online/"><u>[New] Precision Engagement  Elevating Camera Angle Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-earnings-potential-essential-view-numbers/"><u>[New] Unlocking Earnings Potential  Essential View Numbers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mastering-virtual-identity-your-metaverse-persona-creation-companion/"><u>[Updated] 2024 Approved  Mastering Virtual Identity  Your Metaverse Persona Creation Companion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-overcoming-obscured-viewing-fix-for-youtube/"><u>[Updated] Overcoming Obscured Viewing  Fix for Youtube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-xs-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone XS Max in Lost Mode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-12-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme 12 Pro 5G Phone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-optimized-vimeo-video-exporting-apps/"><u>In 2024, Optimized Vimeo Video Exporting Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-discovering-8-premium-cost-free-videogame-soundscape-highlights/"><u>New 2024 Approved Discovering 8 Premium, Cost-Free Videogame Soundscape Highlights</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-meet-the-seven-star-voice-alteration-apps-dominating-the-android-marketplace/"><u>New 2024 Approved Meet the Seven Star Voice Alteration Apps Dominating the Android Marketplace</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-melodies-in-motion-curating-a-list-of-audiovisual-wonders-for-music-lovers-free-and-paid/"><u>New 2024 Approved Melodies in Motion Curating a List of Audiovisual Wonders for Music Lovers (Free and Paid)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-melodies-to-move-you-discovering-the-emotional-playlists/"><u>New 2024 Approved Melodies to Move You Discovering the Emotional Playlists</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-art-of-transcribing-audio-to-text/"><u>New 2024 Approved The Art of Transcribing Audio to Text</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-maximizing-your-m4a-experience-android-audio-file-handling-guide/"><u>New In 2024, Maximizing Your M4A Experience Android Audio File Handling Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-melodic-ensemble-for-festive-video-chronicle-to-be-released/"><u>New In 2024, Melodic Ensemble for Festive Video Chronicle, To Be Released</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-melodic-giveaways-experience-high-quality-sound-free/"><u>New In 2024, Melodic Giveaways Experience High-Quality Sound, FREE</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-melodic-mastery-manual-top-notch-audio-editors-their-strengths-weaknesses-and-alternatives/"><u>New In 2024, Melodic Mastery Manual Top-Notch Audio Editors, Their Strengths, Weaknesses, and Alternatives</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-melodies-to-move-you-discovering-the-emotional-playlists/"><u>New In 2024, Melodies to Move You Discovering the Emotional Playlists</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-melodic-compilation-a-comprehensive-guide-to-exclusive-online-sites-for-video-tune-libraries-for-2024/"><u>New Melodic Compilation A Comprehensive Guide to Exclusive Online Sites for Video Tune Libraries for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-melodic-minus-one-magic-a-gratuitous-converter-bringing-downbeats-of-mp3-track-to-harmony-for-2024/"><u>New Melodic Minus One Magic A Gratuitous Converter Bringing Downbeats of MP3 Track to Harmony. For 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-melodies-to-move-you-discovering-the-emotional-playlists-for-2024/"><u>New Melodies to Move You Discovering the Emotional Playlists for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-solutions-for-windows-missing-lsass-components/"><u>Quick Solutions for Windows' Missing Lsass Components</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-maximizing-your-devices-audio-quality-top-10-improvement-software-for-iphones-and-tablets/"><u>Updated 2024 Approved Maximizing Your Devices Audio Quality Top 10 Improvement Software for iPhones & Tablets</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mellow-music-palette-for-celebrating-your-twenty-fourth-years-eve-video/"><u>Updated 2024 Approved Mellow Music Palette for Celebrating Your Twenty-Fourth Years Eve Video</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-melodic-accompaniment-to-frame-the-24-birthday-spectacle/"><u>Updated 2024 Approved Melodic Accompaniment to Frame the 24 Birthday Spectacle</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-melodies-in-motion-curating-a-list-of-audiovisual-wonders-for-music-lovers-free-and-paid/"><u>Updated 2024 Approved Melodies in Motion Curating a List of Audiovisual Wonders for Music Lovers (Free and Paid)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-melodic-giveaways-experience-high-quality-sound-free/"><u>Updated In 2024, Melodic Giveaways Experience High-Quality Sound, FREE</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-melodies-in-motion-curating-a-list-of-audiovisual-wonders-for-music-lovers-free-and-paid/"><u>Updated In 2024, Melodies in Motion Curating a List of Audiovisual Wonders for Music Lovers (Free and Paid)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-maximizing-sound-the-best-online-tools-for-amplifying-video-volumes-for-2024/"><u>Updated Maximizing Sound The Best Online Tools for Amplifying Video Volumes for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mellow-newsroom-soundtracks-15th-edition-for-2024/"><u>Updated Mellow Newsroom Soundtracks, 15Th Edition for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-melodic-compilation-a-comprehensive-guide-to-exclusive-online-sites-for-video-tune-libraries-for-2024/"><u>Updated Melodic Compilation A Comprehensive Guide to Exclusive Online Sites for Video Tune Libraries for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Silence Amplified Simple Steps to Enhance Quality by Minimizing Unwanted Sounds in Audacity and FilmoraPro
-date: 2024-05-05T04:17:24.241Z
-updated: 2024-05-06T04:17:24.241Z
+date: 2024-07-21T12:03:11.002Z
+updated: 2024-07-22T12:03:11.002Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Silence Amplified Simple Steps to Enhance Quality by Minimizing Unwanted Sounds in Audacity and FilmoraPro
 excerpt: This Article Describes 2024 Approved Silence Amplified Simple Steps to Enhance Quality by Minimizing Unwanted Sounds in Audacity and FilmoraPro
 keywords: cutting through chaos effective techniques to silence unwanted sounds in audacity and filmorapro,enhancing mobile audio clarity ranking the best apps to improve iphone android sound,sound sanctuary simple ways to remove background buzzing from your recordings using audacity filmorapro,mastering audio clarity simplified techniques for noise elimination in audacity filmorapro,silence amplified simple steps to enhance quality by minimizing unwanted sounds in audacity and filmorapro,the noise free zone step by step guide to refining audio quality with audacity and filmorapro,enhancing sound quality implementing audio ducking techniques in adobe premiere pro for mac users
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## Silence Amplified: Simple Steps to Enhance Quality by Minimizing Unwanted Sounds in Audacity and FilmoraPro
@@ -30,6 +30,11 @@ For a [recording to have good audio quality](https://blogs.articulate.com/rapid-
 
 The good news is that with software like Audacity, amateurs and professionals can easily do noise reduction in a few simple steps. In this post, we show you how to easily do **noise reduction in Audacity**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Part 1: How to do noise reduction in Audacity
 
 [Audacity](https://www.audacityteam.org/about/features/) is a lightweight opensource audio recording and editing software that’s used by many serious podcasters and vloggers. It has PC and MAC versions, and it can be downloaded with an easy-to-read manual. Before you begin the noise reduction process, assess your audio recording, taking note of parts that have background noise and the different background sounds in the recording. You should also form the habit of taking a separate recording of the ROOM TONE. You can know more infomation of Audacity from [PCmag review](https://www.pcmag.com/review/362572/audacity). This recording will provide a clear sample of the background noise in the room and will be very useful in the noise reduction process. See steps below:
@@ -37,6 +42,127 @@ The good news is that with software like Audacity, amateurs and professionals ca
 * The first step is to create a NOISE PROFILE. This profile tells Audacity the nature of the noise to be reduced or eliminated from the audio recording. To create a NOISE PROFILE, open your ROOM TONE recording and click on EFFECT > NOISE REDUCTION.
 * If you didn’t make a ROOM TONE recording, then open the audio file you want to process. Once opened, click and drag over a section that contains mostly noise to select it. Then, click on EFFECT > NOISE REDUCTION.
 
+![audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/audacity-noise-reduction.jpg)
+
+* Once a new window labelled ‘STEP 1’ opens, click on the ‘GET NOISE PROFILE’ button. This creates the NOISE PROFILE which Audacity will use in the noise reduction process.
+
+![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
+
+* Next, select the entire audio file that requires noise reduction. Then, select NOISE REDUCTION from the EFFECTS tab on the top menu bar.
+* When the new window labelled ‘STEP 2’ opens, take your time to enter the settings that give you the desired level of noise reduction. Carefully adjust the bands for NOISE REDUCTION, SENSITIVITY and FREQUENCY SMOOTHING.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+![manually reduce noise](https://images.wondershare.com/filmora/filmorapro/set-how-to-reduce-noise.jpg)
+
+* Now, click the PREVIEW button to hear the effect of your noise reduction settings. If you are not satisfied with the preview, you can adjust the settings bars until you achieve a good result.
+* You should also click on the RESIDUE radio button to hear the sounds that will be eliminated from your recording if your chosen settings are applied. This can be very useful as some settings can result in the loss of valuable audio content. If you hear valuable audio content captured in the residue, adjust your settings accordingly. Try as much as possible to minimize the loss of valuable audio content.
+* Once you are satisfied with your audio preview and residue, click the OK button with the REDUCE radio button selected. This will perform the noise reduction effect on your audio recording.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+Keep in mind that noise reduction is not a perfect process and strong noise reduction settings can result in the loss of valuable audio content. Whether you choose to use Audacity or Filmora, try to strike the right balance between getting rid of background sounds and retaining valuable audio content.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+For a [recording to have good audio quality](https://blogs.articulate.com/rapid-elearning/4-simple-tips-for-recording-high-quality-audio/), it needs to have as little background noise as possible. Background noise is any constant sound which was not intentionally added to an audio recording. The lesser the background noise a listener can hear, the better the quality of an audio recording. This is why noise reduction is a very important part of the finishing process for audio recordings.
+
+**Noise reduction** is the process of getting rid of any constant background noises or interfering sounds that muddy the clarity of your audio recording or distract from its substance. With noise reduction, you can get rid of constant background sounds like the hum of a machine, the buzz of a fan, whistles, whines, and hisses.
+
+The good news is that with software like Audacity, amateurs and professionals can easily do noise reduction in a few simple steps. In this post, we show you how to easily do **noise reduction in Audacity**.
+
+## Part 1: How to do noise reduction in Audacity
+
+[Audacity](https://www.audacityteam.org/about/features/) is a lightweight opensource audio recording and editing software that’s used by many serious podcasters and vloggers. It has PC and MAC versions, and it can be downloaded with an easy-to-read manual. Before you begin the noise reduction process, assess your audio recording, taking note of parts that have background noise and the different background sounds in the recording. You should also form the habit of taking a separate recording of the ROOM TONE. You can know more infomation of Audacity from [PCmag review](https://www.pcmag.com/review/362572/audacity). This recording will provide a clear sample of the background noise in the room and will be very useful in the noise reduction process. See steps below:
+
+* The first step is to create a NOISE PROFILE. This profile tells Audacity the nature of the noise to be reduced or eliminated from the audio recording. To create a NOISE PROFILE, open your ROOM TONE recording and click on EFFECT > NOISE REDUCTION.
+* If you didn’t make a ROOM TONE recording, then open the audio file you want to process. Once opened, click and drag over a section that contains mostly noise to select it. Then, click on EFFECT > NOISE REDUCTION.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+![audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/audacity-noise-reduction.jpg)
+
+* Once a new window labelled ‘STEP 1’ opens, click on the ‘GET NOISE PROFILE’ button. This creates the NOISE PROFILE which Audacity will use in the noise reduction process.
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
+
+* Next, select the entire audio file that requires noise reduction. Then, select NOISE REDUCTION from the EFFECTS tab on the top menu bar.
+* When the new window labelled ‘STEP 2’ opens, take your time to enter the settings that give you the desired level of noise reduction. Carefully adjust the bands for NOISE REDUCTION, SENSITIVITY and FREQUENCY SMOOTHING.
+
+![manually reduce noise](https://images.wondershare.com/filmora/filmorapro/set-how-to-reduce-noise.jpg)
+
+* Now, click the PREVIEW button to hear the effect of your noise reduction settings. If you are not satisfied with the preview, you can adjust the settings bars until you achieve a good result.
+* You should also click on the RESIDUE radio button to hear the sounds that will be eliminated from your recording if your chosen settings are applied. This can be very useful as some settings can result in the loss of valuable audio content. If you hear valuable audio content captured in the residue, adjust your settings accordingly. Try as much as possible to minimize the loss of valuable audio content.
+* Once you are satisfied with your audio preview and residue, click the OK button with the REDUCE radio button selected. This will perform the noise reduction effect on your audio recording.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+Keep in mind that noise reduction is not a perfect process and strong noise reduction settings can result in the loss of valuable audio content. Whether you choose to use Audacity or Filmora, try to strike the right balance between getting rid of background sounds and retaining valuable audio content.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+For a [recording to have good audio quality](https://blogs.articulate.com/rapid-elearning/4-simple-tips-for-recording-high-quality-audio/), it needs to have as little background noise as possible. Background noise is any constant sound which was not intentionally added to an audio recording. The lesser the background noise a listener can hear, the better the quality of an audio recording. This is why noise reduction is a very important part of the finishing process for audio recordings.
+
+**Noise reduction** is the process of getting rid of any constant background noises or interfering sounds that muddy the clarity of your audio recording or distract from its substance. With noise reduction, you can get rid of constant background sounds like the hum of a machine, the buzz of a fan, whistles, whines, and hisses.
+
+The good news is that with software like Audacity, amateurs and professionals can easily do noise reduction in a few simple steps. In this post, we show you how to easily do **noise reduction in Audacity**.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 1: How to do noise reduction in Audacity
+
+[Audacity](https://www.audacityteam.org/about/features/) is a lightweight opensource audio recording and editing software that’s used by many serious podcasters and vloggers. It has PC and MAC versions, and it can be downloaded with an easy-to-read manual. Before you begin the noise reduction process, assess your audio recording, taking note of parts that have background noise and the different background sounds in the recording. You should also form the habit of taking a separate recording of the ROOM TONE. You can know more infomation of Audacity from [PCmag review](https://www.pcmag.com/review/362572/audacity). This recording will provide a clear sample of the background noise in the room and will be very useful in the noise reduction process. See steps below:
+
+* The first step is to create a NOISE PROFILE. This profile tells Audacity the nature of the noise to be reduced or eliminated from the audio recording. To create a NOISE PROFILE, open your ROOM TONE recording and click on EFFECT > NOISE REDUCTION.
+* If you didn’t make a ROOM TONE recording, then open the audio file you want to process. Once opened, click and drag over a section that contains mostly noise to select it. Then, click on EFFECT > NOISE REDUCTION.
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/audacity-noise-reduction.jpg)
 
 * Once a new window labelled ‘STEP 1’ opens, click on the ‘GET NOISE PROFILE’ button. This creates the NOISE PROFILE which Audacity will use in the noise reduction process.
@@ -56,6 +182,18 @@ The good news is that with software like Audacity, amateurs and professionals ca
 
 Keep in mind that noise reduction is not a perfect process and strong noise reduction settings can result in the loss of valuable audio content. Whether you choose to use Audacity or Filmora, try to strike the right balance between getting rid of background sounds and retaining valuable audio content.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -85,6 +223,9 @@ The good news is that with software like Audacity, amateurs and professionals ca
 
 * Once a new window labelled ‘STEP 1’ opens, click on the ‘GET NOISE PROFILE’ button. This creates the NOISE PROFILE which Audacity will use in the noise reduction process.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
 
 * Next, select the entire audio file that requires noise reduction. Then, select NOISE REDUCTION from the EFFECTS tab on the top menu bar.
@@ -100,94 +241,10 @@ The good news is that with software like Audacity, amateurs and professionals ca
 
 Keep in mind that noise reduction is not a perfect process and strong noise reduction settings can result in the loss of valuable audio content. Whether you choose to use Audacity or Filmora, try to strike the right balance between getting rid of background sounds and retaining valuable audio content.
 
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-For a [recording to have good audio quality](https://blogs.articulate.com/rapid-elearning/4-simple-tips-for-recording-high-quality-audio/), it needs to have as little background noise as possible. Background noise is any constant sound which was not intentionally added to an audio recording. The lesser the background noise a listener can hear, the better the quality of an audio recording. This is why noise reduction is a very important part of the finishing process for audio recordings.
-
-**Noise reduction** is the process of getting rid of any constant background noises or interfering sounds that muddy the clarity of your audio recording or distract from its substance. With noise reduction, you can get rid of constant background sounds like the hum of a machine, the buzz of a fan, whistles, whines, and hisses.
-
-The good news is that with software like Audacity, amateurs and professionals can easily do noise reduction in a few simple steps. In this post, we show you how to easily do **noise reduction in Audacity**.
-
-## Part 1: How to do noise reduction in Audacity
-
-[Audacity](https://www.audacityteam.org/about/features/) is a lightweight opensource audio recording and editing software that’s used by many serious podcasters and vloggers. It has PC and MAC versions, and it can be downloaded with an easy-to-read manual. Before you begin the noise reduction process, assess your audio recording, taking note of parts that have background noise and the different background sounds in the recording. You should also form the habit of taking a separate recording of the ROOM TONE. You can know more infomation of Audacity from [PCmag review](https://www.pcmag.com/review/362572/audacity). This recording will provide a clear sample of the background noise in the room and will be very useful in the noise reduction process. See steps below:
-
-* The first step is to create a NOISE PROFILE. This profile tells Audacity the nature of the noise to be reduced or eliminated from the audio recording. To create a NOISE PROFILE, open your ROOM TONE recording and click on EFFECT > NOISE REDUCTION.
-* If you didn’t make a ROOM TONE recording, then open the audio file you want to process. Once opened, click and drag over a section that contains mostly noise to select it. Then, click on EFFECT > NOISE REDUCTION.
-
-![audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/audacity-noise-reduction.jpg)
-
-* Once a new window labelled ‘STEP 1’ opens, click on the ‘GET NOISE PROFILE’ button. This creates the NOISE PROFILE which Audacity will use in the noise reduction process.
-
-![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
-
-* Next, select the entire audio file that requires noise reduction. Then, select NOISE REDUCTION from the EFFECTS tab on the top menu bar.
-* When the new window labelled ‘STEP 2’ opens, take your time to enter the settings that give you the desired level of noise reduction. Carefully adjust the bands for NOISE REDUCTION, SENSITIVITY and FREQUENCY SMOOTHING.
-
-![manually reduce noise](https://images.wondershare.com/filmora/filmorapro/set-how-to-reduce-noise.jpg)
-
-* Now, click the PREVIEW button to hear the effect of your noise reduction settings. If you are not satisfied with the preview, you can adjust the settings bars until you achieve a good result.
-* You should also click on the RESIDUE radio button to hear the sounds that will be eliminated from your recording if your chosen settings are applied. This can be very useful as some settings can result in the loss of valuable audio content. If you hear valuable audio content captured in the residue, adjust your settings accordingly. Try as much as possible to minimize the loss of valuable audio content.
-* Once you are satisfied with your audio preview and residue, click the OK button with the REDUCE radio button selected. This will perform the noise reduction effect on your audio recording.
-
-## Conclusion
-
-Keep in mind that noise reduction is not a perfect process and strong noise reduction settings can result in the loss of valuable audio content. Whether you choose to use Audacity or Filmora, try to strike the right balance between getting rid of background sounds and retaining valuable audio content.
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-For a [recording to have good audio quality](https://blogs.articulate.com/rapid-elearning/4-simple-tips-for-recording-high-quality-audio/), it needs to have as little background noise as possible. Background noise is any constant sound which was not intentionally added to an audio recording. The lesser the background noise a listener can hear, the better the quality of an audio recording. This is why noise reduction is a very important part of the finishing process for audio recordings.
-
-**Noise reduction** is the process of getting rid of any constant background noises or interfering sounds that muddy the clarity of your audio recording or distract from its substance. With noise reduction, you can get rid of constant background sounds like the hum of a machine, the buzz of a fan, whistles, whines, and hisses.
-
-The good news is that with software like Audacity, amateurs and professionals can easily do noise reduction in a few simple steps. In this post, we show you how to easily do **noise reduction in Audacity**.
-
-## Part 1: How to do noise reduction in Audacity
-
-[Audacity](https://www.audacityteam.org/about/features/) is a lightweight opensource audio recording and editing software that’s used by many serious podcasters and vloggers. It has PC and MAC versions, and it can be downloaded with an easy-to-read manual. Before you begin the noise reduction process, assess your audio recording, taking note of parts that have background noise and the different background sounds in the recording. You should also form the habit of taking a separate recording of the ROOM TONE. You can know more infomation of Audacity from [PCmag review](https://www.pcmag.com/review/362572/audacity). This recording will provide a clear sample of the background noise in the room and will be very useful in the noise reduction process. See steps below:
-
-* The first step is to create a NOISE PROFILE. This profile tells Audacity the nature of the noise to be reduced or eliminated from the audio recording. To create a NOISE PROFILE, open your ROOM TONE recording and click on EFFECT > NOISE REDUCTION.
-* If you didn’t make a ROOM TONE recording, then open the audio file you want to process. Once opened, click and drag over a section that contains mostly noise to select it. Then, click on EFFECT > NOISE REDUCTION.
-
-![audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/audacity-noise-reduction.jpg)
-
-* Once a new window labelled ‘STEP 1’ opens, click on the ‘GET NOISE PROFILE’ button. This creates the NOISE PROFILE which Audacity will use in the noise reduction process.
-
-![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
-
-* Next, select the entire audio file that requires noise reduction. Then, select NOISE REDUCTION from the EFFECTS tab on the top menu bar.
-* When the new window labelled ‘STEP 2’ opens, take your time to enter the settings that give you the desired level of noise reduction. Carefully adjust the bands for NOISE REDUCTION, SENSITIVITY and FREQUENCY SMOOTHING.
-
-![manually reduce noise](https://images.wondershare.com/filmora/filmorapro/set-how-to-reduce-noise.jpg)
-
-* Now, click the PREVIEW button to hear the effect of your noise reduction settings. If you are not satisfied with the preview, you can adjust the settings bars until you achieve a good result.
-* You should also click on the RESIDUE radio button to hear the sounds that will be eliminated from your recording if your chosen settings are applied. This can be very useful as some settings can result in the loss of valuable audio content. If you hear valuable audio content captured in the residue, adjust your settings accordingly. Try as much as possible to minimize the loss of valuable audio content.
-* Once you are satisfied with your audio preview and residue, click the OK button with the REDUCE radio button selected. This will perform the noise reduction effect on your audio recording.
-
-## Conclusion
-
-Keep in mind that noise reduction is not a perfect process and strong noise reduction settings can result in the loss of valuable audio content. Whether you choose to use Audacity or Filmora, try to strike the right balance between getting rid of background sounds and retaining valuable audio content.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -234,8 +291,15 @@ When the actual curve changes shape (for example, when it shrinks because the cl
 
 **Tips:** You can click the shortcut **“Control+Option+1”** to adjust the clip appearance setting to display clips on the timeline with large audio waveforms only.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to add audio waveform animation in FCP? (2 ways)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### 1\. Use Pixel Film Studios Audio Visualizer
 
 With [FCPX Audio Visualizer Volume 2](https://store.pixelfilmstudios.com/product/fcpx-audio-visualizer-volume-2/) from Pixel Film Studios, users now have the ability to see up to 48 audio frequencies with full control over their left and right audio output, all within Final Cut Pro. Users have full control over smoothness, base scale, radius, angular offset, camera position, and animation, all with a single click of the mouse, all in Final Cut Pro X.
@@ -244,6 +308,9 @@ FCPX Audio Visualizer Volume 2 has been professionally designed to work seamless
 
 With the FCPX Audio Visualizer Volume 2 preset pack, users have the ability to compose multiple presets and create their own visualizer every time. Users can choose from template layouts ranging from circles, lines, rectangles, and individual shapes to even an animatable drag zone. Then, within Final Cut Pro, users have total control over spread, color, location, rotation, angle, angle offset, and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Use audio waveform animation templates
 
 It could be more convenient to select a few relevant templates directly than using other plugins. You get a full set of 21 templates, including titles, fonts, media streaming logos, sound effects, and colors, with this set of [Waveform Audio Visualization by Motion Array](https://motionarray.com/final-cut-pro-templates/waveform-audio-visualization-305379/) themes. You only need to pick the style you prefer, add your music, and post it with ease on your social media sites. This template is best suited for audiobooks, podcasts, and music videos. Of course, you must subscribe to the platform to download it.
@@ -256,12 +323,18 @@ To add audio waveform animation to video, there is a wide variety of application
 
 Under “Effects” tab, you can find 25 types of audio animation in **Audio Visualizer**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![audio visualizer](https://images.wondershare.com/filmora/article-images/2022/08/final-cut-pro-audio-waveform-2.png)
 
 Or you can directly open **“Elements > Recommended”**, and type “audio visualizer” or “music pack” to choose preset waveform animation elements.
 
 Click the Play button in the Preview window and when you feel good about the results, click Export to download the video and your library and successfully share it on various social media platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![play button](https://images.wondershare.com/filmora/article-images/2022/08/final-cut-pro-audio-waveform-3.jpg)
 
 ## Conclusion
@@ -272,6 +345,9 @@ Social media content creators, musicians, and VJs can produce stunning videos wi
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Use audio waveform animation templates
 
 It could be more convenient to select a few relevant templates directly than using other plugins. You get a full set of 21 templates, including titles, fonts, media streaming logos, sound effects, and colors, with this set of [Waveform Audio Visualization by Motion Array](https://motionarray.com/final-cut-pro-templates/waveform-audio-visualization-305379/) themes. You only need to pick the style you prefer, add your music, and post it with ease on your social media sites. This template is best suited for audiobooks, podcasts, and music videos. Of course, you must subscribe to the platform to download it.
@@ -306,10 +382,16 @@ Social media content creators, musicians, and VJs can produce stunning videos wi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering OBS Audio Levels: Techniques for Dynamic Ducking and Lifting
 
 # How to Balance Your Stream Sound with OBS Audio Ducking?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -320,6 +402,97 @@ Video making or filmmaking has now come to the level where the history of imperf
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
+## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
+
+**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
+
+Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
+
+**Step 1: Add video files**
+
+Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
+
+If the video plays on VLC in the background, it will appear on the mixer column.
+
+**Step 2: Choose filter and compressor**
+
+On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
+
+You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
+
+On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
+
+**Step 3: Change the parameters**
+
+You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
+
+It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
+
+## Part 2: The Best Audio Ducking Alternative to OBS
+
+Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
+
+Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
+
+* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
+* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
+* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
+* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
+
+### How to use the audio ducking feature in Wondershare Filmora?
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
+
+**Step 1: Launch the application**
+
+Open or launch the Wondershare Filmora application and choose "**New Project**" or open the existing project from the primary dashboard.
+
+**Step 2: Import the video into the timeline**
+
+Drag the video file to which you need to balance the stream sound.
+
+Another option to bring the video file into the timeline is by executing “File> Import Media> Import Media Files”.
+
+**Step 3: Ducking sound in the video**
+
+Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
+
+On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Oct 26, 2023• Proven solutions
+
+Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
+
+If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
 
 **OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
@@ -383,6 +556,10 @@ On the following audio editing window, tick the "**Lower the volume of other cli
 
 I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -438,6 +615,9 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 
 ### How to use the audio ducking feature in Wondershare Filmora?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
@@ -462,6 +642,9 @@ On the following audio editing window, tick the "**Lower the volume of other cli
 
 I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -504,85 +687,9 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
-## Part 2: The Best Audio Ducking Alternative to OBS
-
-Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
-
-Developed for the inspired, Filmora follows its unique way of ducking sound, easy to handle for travel Vlogs, makeup tutorials, video lectures, presentations, and so on. Going through the below feature set can reveal why is Filmora is better than OBS.
-
-* With simple steps, you can perform audio ducking in just on a single scale to attain the right audio balance on your video without complication.
-* Get access to other in-built options like noise remover, after effects; fade in/out, equalizer, keyframing, and so on.
-* Perfect your audio to the video along with tons of features like an audio mixer along with options like mute, detach, split, and background removal.
-* Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
-
-### How to use the audio ducking feature in Wondershare Filmora?
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
-
-**Step 1: Launch the application**
-
-Open or launch the Wondershare Filmora application and choose "**New Project**" or open the existing project from the primary dashboard.
-
-**Step 2: Import the video into the timeline**
-
-Drag the video file to which you need to balance the stream sound.
-
-Another option to bring the video file into the timeline is by executing “File> Import Media> Import Media Files”.
-
-**Step 3: Ducking sound in the video**
-
-Select the clips with dialogue, whereby right-clicking or double-clicking on them, choose the “**Adjust Audio**” option.
-
-On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
-
-## Conclusion
-
-I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Oct 26, 2023• Proven solutions
-
-Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
-
-If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
-
-## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
-
-**OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
-
-Does this magic of OBS audio ducking seem new to you? It will not be anymore as the below step-by-step manual will guide you through the process.
-
-**Step 1: Add video files**
-
-Launch the OBS software on your system, and import the files into the workspace with the "File" menu. If you need to add voiceover from your microphone, you can click the "Start Recording" option under the main interface's control section.
-
-If the video plays on VLC in the background, it will appear on the mixer column.
-
-**Step 2: Choose filter and compressor**
-
-On the **Settings** icon next to the streaming video, click on it, and choose the “Filters” option from the drop-down.
-
-You will reach the pop-up of the "Filters for Desktop Audio" whereby clicking on the "+" icon, choose the compressor option.
-
-On the space bar, enter a name for the filter. For example, for **ducking music**, specify as "ducking," and press "OK."
-
-**Step 3: Change the parameters**
-
-You can now specify the values of the ratio, threshold, attack, release, output gain, and the ducking source, for example, “Mic” for microphone voiceover addition.
-
-It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Part 2: The Best Audio Ducking Alternative to OBS
 
 Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
@@ -647,3 +754,55 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-bridging-social-spheres-transferring-tweets-to-whatsapp-directly/"><u>[New] Bridging Social Spheres  Transferring Tweets to WhatsApp Directly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-call-customization-applications-ranked-for-2024/"><u>[New] Essential Call Customization Applications Ranked for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quickcapture-miniapp-windows-10-version-for-2024/"><u>[New] QuickCapture MiniApp - Windows 10 Version for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-seamless-techniques-easy-steps-to-preserve-your-google-gatherings-for-2024/"><u>[New] Seamless Techniques  Easy Steps to Preserve Your Google Gatherings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-recover-lost-watch-visual-preview/"><u>[Updated] 2024 Approved  Recover Lost Watch Visual Preview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-search-comments-on-youtube-quickly-in-2024/"><u>[Updated] How to Search Comments on YouTube Quickly, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-downloading-igtv-made-simple-iphone-and-android-users-bible/"><u>[Updated] In 2024, Downloading IGTV Made Simple  IPhone & Android Users' Bible</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-drone-evolution-a-deep-look-at-djis-mavic-pro/"><u>[Updated] The Drone Evolution  A Deep Look at DJI's Mavic Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-premium-3ds-pc-mimicry-software-choices/"><u>2024 Approved  Premium 3Ds PC Mimicry Software Choices</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-mac-audio-enthusiasts-guide-to-selecting-the-optimal-mp3-trimmer-software/"><u>2024 Approved Mac Audio Enthusiasts Guide to Selecting the Optimal Mp3 Trimmer Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-mac-audio-enthusiasts-selection-of-top-4-music-editing-software/"><u>2024 Approved Mac Audio Enthusiasts Selection of Top 4 Music Editing Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-mac-voice-recording-made-simple-essential-steps-for-crystal-clear-recordings/"><u>2024 Approved Mac Voice Recording Made Simple Essential Steps for Crystal Clear Recordings</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-magix-samplitude-is-it-really-the-best-music-production-software/"><u>2024 Approved MAGIX Samplitude Is It Really The Best Music Production Software?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-manipulating-soundscapes-incorporating-keyframes-for-subtle-auditory-changes-in-filmora-mac/"><u>2024 Approved Manipulating Soundscapes Incorporating Keyframes for Subtle Auditory Changes in Filmora (Mac)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-mapping-the-tone-induced-by-a-buttons-depression/"><u>2024 Approved Mapping the Tone Induced by a Buttons Depression</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-master-index-of-online-podcast-hosting-providers/"><u>2024 Approved Master Index of Online Podcast Hosting Providers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-master-list-of-prime-audio-time-reverse-software-ranked-for-desktop-laptop-and-smartphone-use/"><u>2024 Approved Master List of Prime Audio Time-Reverse Software Ranked for Desktop, Laptop, and Smartphone Use</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-master-list-of-reliable-mp3-to-text-conversion-software-options/"><u>2024 Approved Master List of Reliable MP3-to-Text Conversion Software Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-mastery-accessing-windows-admin-settings/"><u>Achieving Mastery: Accessing Windows Admin Settings</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/curating-high-quality-instrumental-soundscape-for-videos-and-films/"><u>Curating High-Quality Instrumental Soundscape for Videos and Films</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-asus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Asus Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-magic-5-lite-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor Magic 5 Lite Phones? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-select-the-best-mac-mp3-tag-editor/"><u>In 2024, How To Select the Best Mac MP3 Tag Editor?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-macs-vanguard-in-audio-editing-the-ultimate-compilation-of-the-best-4-music-apps/"><u>In 2024, Macs Vanguard in Audio Editing The Ultimate Compilation of the Best 4 Music Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-magix-samplitudes-standout-features-are-they-meriting-top-spot/"><u>In 2024, MAGIX Samplitudes Standout Features Are They Meriting Top Spot?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-mass-momentum-surge-phenomenon/"><u>In 2024, Mass Momentum Surge Phenomenon</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-master-index-of-online-podcast-hosting-providers/"><u>In 2024, Master Index of Online Podcast Hosting Providers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-c67-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme C67 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mac-voice-recording-made-simple-essential-steps-for-crystal-clear-recordings-for-2024/"><u>Mac Voice Recording Made Simple Essential Steps for Crystal Clear Recordings for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/magix-samplitude-vs-other-leading-music-software-the-ultimate-showdown-for-2024/"><u>MAGIX Samplitude Vs. Other Leading Music Software The Ultimate Showdown for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/magix-samplitudes-standout-features-are-they-meriting-top-spot-in-2024/"><u>MAGIX Samplitudes Standout Features Are They Meriting Top Spot, In 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/master-background-banishment-tool-content-creators-sharpen-your-visual-narratives-for-2024/"><u>Master Background Banishment Tool Content Creators Sharpen Your Visual Narratives for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-magix-samplitude-is-it-really-the-best-music-production-software/"><u>New MAGIX Samplitude Is It Really The Best Music Production Software?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-magix-samplitude-vs-competitors-unveiling-the-top-music-producer/"><u>New MAGIX Samplitude Vs. Competitors Unveiling the Top Music Producer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-manipulating-soundscapes-incorporating-keyframes-for-subtle-auditory-changes-in-filmora-mac/"><u>New Manipulating Soundscapes Incorporating Keyframes for Subtle Auditory Changes in Filmora (Mac)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>New Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-mass-momentum-surge-phenomenon/"><u>New Mass Momentum Surge Phenomenon</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/pcs-premiere-selection-of-ps3-game-simulations/"><u>PC's Premiere Selection of PS3 Game Simulations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-level-action-recording-on-a-students-budget/"><u>Professional-Level Action Recording on a Student's Budget</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/spotlight-on-top-8-authentic-youtube-growth-tactics/"><u>Spotlight on Top 8 Authentic YouTube Growth Tactics</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-best-lyric-video-templates-for-after-effects/"><u>Updated Best Lyric Video Templates for After Effects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-select-the-best-mac-mp3-tag-editor/"><u>Updated How To Select the Best Mac MP3 Tag Editor?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-macs-vanguard-in-audio-editing-the-ultimate-compilation-of-the-best-4-music-apps/"><u>Updated Macs Vanguard in Audio Editing The Ultimate Compilation of the Best 4 Music Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mass-momentum-surge-phenomenon/"><u>Updated Mass Momentum Surge Phenomenon</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-master-list-of-male-to-female-voice-change-programs-for-windows-and-macos-enthusiasts/"><u>Updated Master List of Male to Female Voice Change Programs for Windows and macOS Enthusiasts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-step-by-step-guide-to-mastering-voice-change-with-voice-changer-plus-on-your-iphone-for-2024/"><u>Updated The Step-by-Step Guide to Mastering Voice Change with Voice Changer Plus on Your iPhone for 2024</u></a></li>
+</ul></div>
