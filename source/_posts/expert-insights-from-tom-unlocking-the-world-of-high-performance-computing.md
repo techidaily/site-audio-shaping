@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights From Tom: Unlocking the World of High-Performance Computing"
-date: 2024-08-10T03:27:54.811Z
-updated: 2024-08-11T03:27:54.811Z
+date: 2024-09-04T06:20:46.899Z
+updated: 2024-09-05T06:20:46.899Z
 tags:
   - desktop
 categories:
@@ -17,9 +17,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  The AGP interface is newer and, thus, likely faster than the PCI interface on the motherboard, so using the first adapter is highly questionable; however, the user probably didn't have a PCI to PCIe adaptor handy. The GPU is ultimately listed in an included AIDA64 screenshot, showing that it is functional. The user didn't share performance benchmarks, but this setup may be enough for Crysis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.](https://cdn.mos.cms.futurecdn.net/QYgYq7hUqARXB4fFQkNQ84-320-80.png)
 
  Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.  (Image credit: Christian Rudewig on FB (via @tercio\_miranda on Twitter))
@@ -34,9 +31,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -111,3 +105,16 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-list-looking-for-the-best-app-for-removing-background-noise/"><u>Updated In 2024, Top List Looking for The Best App for Removing Background Noise</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites-for-2024/"><u>Updated Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

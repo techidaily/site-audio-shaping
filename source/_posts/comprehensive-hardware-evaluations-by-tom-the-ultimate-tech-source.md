@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Hardware Evaluations by Tom – The Ultimate Tech Source
-date: 2024-08-10T03:25:11.254Z
-updated: 2024-08-11T03:25:11.254Z
+date: 2024-09-04T06:20:50.706Z
+updated: 2024-09-05T06:20:50.706Z
 tags:
   - desktop
 categories:
@@ -15,9 +15,6 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
  So, for the most part, the Ayaneo AM01 is still pretty much the same classic Macintosh-inspired mini-PC we covered before and has a very similar pricing scheme with the[Ryzen 7 5800U](https://www.tomshardware.com/news/amd-ryzen-7-5800u-cezanne-zen-3-apu-geekbench-benchmark) as it does with other units. As-is, the Zen 3 Ryzen 7 5800U model looks astonishingly identical to the Zen 2 Ryzen 7 5700U at a glance, with the same basic core/thread spec, though, of course, the newer architecture has much better performance.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.](https://cdn.mos.cms.futurecdn.net/zkexFiVS4JdrAYoKakvYu5-320-80.jpg)
 
  Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.  (Image credit: Ayaneo)
@@ -28,10 +25,6 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
  If you hope to get your hands on the Ayaneo AM01 PC as soon as possible, head to their Indiegogo page to buy the device through crowdfunding. And as always, while we acknowledge Ayaneo's excellent track record in crowdfunded devices, you can't know what to expect until people get their hands on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -107,3 +100,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 <li><a href="https://audio-shaping.techidaily.com/updated-how-to-edit-mp3-files/"><u>Updated How To Edit MP3 Files</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/video-podcasts-everything-you-need-to-know/"><u>Video Podcasts Everything You Need to Know</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

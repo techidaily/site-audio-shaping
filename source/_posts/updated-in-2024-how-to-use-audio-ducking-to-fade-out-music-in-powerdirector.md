@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2024-08-10T03:28:21.519Z
-updated: 2024-08-11T03:28:21.519Z
+date: 2024-09-04T06:20:46.308Z
+updated: 2024-09-05T06:20:46.308Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
 # How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ _"Can you explain to us the simple method to execute **audio ducking**?”_
 
 I hope you're already aware of **the audio ducking** feature if you're into video editing or any music industry. The audio ducking is commonly to balance two audios. You can see the very typical application while balancing the background music with the person speaking there. So, the different voices would pop up and needs an adjustment according to the scenario. However, selecting the most straightforward process and genuine video editor is the user's responsibility to get the task done effectively. So, here, we would like to discuss the audio ducking function of **CyberLink PowerDirector** along with a suitable alternative - **Wondershare Filmora**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
 **CyberLink PowerDirector** is a video editing software with impeccable features, including Motion Tracking, Magic Movie Wizard, Encoding, Action Camera Tools, and so on. The **audio ducking** element in PowerDirector has automated the audio adjustment in terms of keyframes.
@@ -58,9 +52,6 @@ Doing so will automatically add the keyframes into the background music you’ve
 
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
 
 If you’re looking for easiness, you must consider the following section for a suitable alternative!
@@ -75,9 +66,6 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
@@ -103,7 +91,10 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -111,12 +102,21 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 
 | ![](https://www.google.com/favicon.ico) | ![](https://www.youtube.com/favicon.ico) | ![](https://www.google.com/favicon.ico) | ![](https://www.google.com/images/branding/product/ico/maps_32dp.ico) | ![](https://en.wikipedia.org/favicon.ico) | ![](https://www.amazon.com/favicon.ico) |
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
-
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.

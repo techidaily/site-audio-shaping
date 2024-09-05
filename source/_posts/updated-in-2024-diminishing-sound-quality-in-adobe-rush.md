@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Diminishing Sound Quality in Adobe Rush
-date: 2024-08-10T03:22:52.213Z
-updated: 2024-08-11T03:22:52.213Z
+date: 2024-09-04T06:20:53.656Z
+updated: 2024-09-05T06:20:53.656Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,22 +32,10 @@ The importance of music and atmospheric sounds is often underrated in social med
 
 Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/), on the other hand, offers all tools you're going to need to produce a YouTube video including the fade in and fade out audio effects at a more affordable price. Here's how you can fade audio in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fade-audio-in-filmora-9.jpg)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fading Audio in Wondershare Filmora
 
 #### 1\. Import video and audio files into Filmora
@@ -58,9 +46,6 @@ Most video clips contain an audio track, but in some cases, you might want to re
 
 Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
 
 #### 2\. Fading audio in Filmora
@@ -69,10 +54,6 @@ Alternatively, you can just drag and drop an audio file from the folder to the M
 
 Clicking on the Edit button, located at the end of the software's toolbar will grant you the access to the software's audio panel where you can easily adjust the volume of the clip, select one of Equalizer presets or change the Pitch of the audio file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
 
 Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
@@ -81,9 +62,6 @@ Fade in and Fade out sliders are located at the top of the Audio panel and you c
 
 In case you want to fade an audio quickly you can do so directly from the timeline. Just click on the handle at the beginning or the end of the audio file and then drag it to adjust the duration of the effect. Both of Fade in or Fade out handles can be easily moved directly on the timeline, even if you set their values from the Audio Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
 
 Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
@@ -92,9 +70,6 @@ Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car H
 
 Even though Adobe Rush is an app aimed at YouTubers and social media video creators, fading in or out of an audio is still not an option. On the other hand, fading an audio in Filmora is a quick and simple process. Gradually introducing a new music theme or slowly fading the sound as a scene ends can make a social media video sound more professional, and it can help content creators to transition from one scene to the other more smoothly. Do you use Fade in or Fade out effects in your videos often? Leave a comment below and share your experiences with us.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -177,3 +152,9 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

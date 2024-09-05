@@ -1,7 +1,7 @@
 ---
 title: Updated Perfecting Audio Levels in Film and Streaming Content
-date: 2024-08-10T03:22:15.070Z
-updated: 2024-08-11T03:22:15.070Z
+date: 2024-09-04T06:20:54.561Z
+updated: 2024-09-05T06:20:54.561Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
 # How to Adjust Audio Volume in Videos \[4 Ways\]
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,18 +30,12 @@ The fact of the matter is that even a minor error in the video’s soundtrack ca
 
 To increse the volume of your video, [click here.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Four Ways of Adjusting Audio Volume in Filmora
 
 The audio clips often have different volume levels, so in order to create a balanced soundtrack, you have to adjust the volume of each audio track you intend to use in your projects. Filmora offers several different ways to adjust the volume of audio files quickly and effortlessly. Here’s how you can increase or decrease the volume of the audio clips in Filmora.
 
 Download Filmora and watch the video below to get a full knowledge abtou adjusting volume!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1. Changing the Audio Volume of Entire Track
@@ -63,18 +54,12 @@ Filmora also lets you create the Fade In and Fade Out effect directly from the t
 
 On the left side of the Audio Editing panel that can be accessed by double clicking on an audio file, you will be able to see the **volume slider.** Its value is going to be set to **0 dB** by default and you just have to **drag it upward or downward** in order to adjust the audio volume. As you drag the slider the new audio volume value is going to be displayed in a box below the slider. The **left/right balance value** can be adjusted by **dragging the knob** that is located above the volume slider in either direction. Alternatively, you can **insert a new numerical value in the box** below the knob. If the displayed value is **0 dB, then the left and right channels are balanced**, while the value of **\-100 dB** means that all the sound goes through the left channel and if the displayed value is **100 dB** all the sound will go through the right channel.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stereo-mode](https://images.wondershare.com/filmora/guide/stereo-mode.jpg)
 
 #### 4. Adding Keyframes to Adjust the Audio Volume
 
 Once you add an audio file to the timeline you can adjust its volume by **adding keyframes** to it. **Place** **the playhead to the exact spot in the audio file** where you want to add the first keyframe and then **double click on the file to bring up the Audio Editing panel**. Click on the **Add Volume Keyframes** icon and **use the volume slider to adjust the volume** at the position of the first keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![animation-customize](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
 Simply **move the playhead and change the value on the volume slider** to add new keyframes to the audio file. This method of adjusting audio volume enables you to set different volume values for different parts of an audio file.[](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -85,9 +70,6 @@ Still not solved? Try this [audio guide of Filmora](https://tools.techidaily.com
 
 Having complete control over the volume of all audio files you use in your projects is important for so many different reasons. Filmora offers four easy ways to adjust the audio volume so you can focus on more important tasks. Which method of adjusting the audio volume in Filmora do you like to use the most? Leave a comment and let us know.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -144,3 +126,15 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

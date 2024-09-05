@@ -1,7 +1,7 @@
 ---
 title: "Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)"
-date: 2024-08-10T03:23:44.419Z
-updated: 2024-08-11T03:23:44.419Z
+date: 2024-09-04T06:20:52.543Z
+updated: 2024-09-05T06:20:52.543Z
 tags:
   - desktop
 categories:
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 [Hewlett Packard](https://www.tomshardware.com/tag/hewlett-packard) [Enterprise](https://www.tomshardware.com/tag/enterprise) (HPE), one of the world's largest makers of servers, has initiated a legal battle against Inspur Group, China's largest server maker, and its affiliates, alleging server patent infringements. HPE accuses Inspur of engaging in deceptive practices and renaming its subsidiaries in the U.S. to continue its business with American companies despite being included into the Entity List.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HPE: Inspur infringes our patents
 
  The [lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.cand.427960/gov.uscourts.cand.427960.1.0.pdf) , filed in the U.S. District Court for the Northern District of California and discovered by [The Register](https://www.theregister.com/2024/04/18/hpe%5Finspur%5Flawsuit/) , accuses Inspur of using, selling, and distributing products that unlawfully incorporate HPE's patented technologies, seeking damages and an injunction to halt further infringements. Specifically, HPE accuses Inspur of infringing five U.S. patents No. [8,218,566](https://patents.google.com/patent/US8218566B2/) , [7,634,671](https://patents.google.com/patent/US7634671B2/) , [9,229,737](https://patents.google.com/patent/US9229737B2/) , [8,335,891](https://patents.google.com/patent/US8335891B2/) , and 8,108,508\. These patents cover various aspects of server and network operations, including remote management, power consumption, and data storage array configuration, among other things.
@@ -26,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Despite being on the Entity List, Inspur continues operations in the U.S
 
  Legal battles between companies are nothing new. But HPE indicates that in addition to illegally using its intellectual property, Inspur continues its operations in the U.S. despite being added to the U.S. Department of Commerce Bureau of Industry and[Security](https://www.tomshardware.com/tag/security) Entity List — a list that identifies parties whose activities are believed to be contrary to U.S. national security or foreign policy interests.
@@ -36,7 +30,10 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  The complaint claims that Inspur that inspur continues its operations in the United States under Aivres Systems and Betapex. Inspur allegedly removed its branding from products sold in the U.S. and continues to sell them. For example, Inspur's IR5280M6 server is Aivres's 5280M6 machine, it has the same specification and design, according to HPE's complaint. Meanwhile, Inspur has also worked as a contract maker of servers, according to The Register. Yet, if a U.S. entity plans to work with Inspur (or any other party from the Entity List), it has to get a special license from the U.S. government.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 

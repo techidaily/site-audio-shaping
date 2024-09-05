@@ -1,7 +1,7 @@
 ---
 title: "Upgraded Performance: Adding Modern GPUs to Vintage AGP Slots with Popular Modding Adapters"
-date: 2024-08-10T03:22:24.221Z
-updated: 2024-08-11T03:22:24.221Z
+date: 2024-09-04T06:20:54.320Z
+updated: 2024-09-05T06:20:54.320Z
 tags:
   - desktop
 categories:
@@ -17,9 +17,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  The AGP interface is newer and, thus, likely faster than the PCI interface on the motherboard, so using the first adapter is highly questionable; however, the user probably didn't have a PCI to PCIe adaptor handy. The GPU is ultimately listed in an included AIDA64 screenshot, showing that it is functional. The user didn't share performance benchmarks, but this setup may be enough for Crysis.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.](https://cdn.mos.cms.futurecdn.net/QYgYq7hUqARXB4fFQkNQ84-320-80.png)
 
  Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.  (Image credit: Christian Rudewig on FB (via @tercio\_miranda on Twitter))
@@ -34,9 +31,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -106,3 +100,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 <li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-sound-modification-tools-from-introduction-to-alternatives-for-2024/"><u>New The Ultimate Guide to Sound Modification Tools From Introduction to Alternatives for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-top-200-free-video-soundtrack-collections-for-2024/"><u>New Top 200 Free Video Soundtrack Collections for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

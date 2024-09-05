@@ -1,7 +1,7 @@
 ---
 title: Exploring Computer Components Through Tom's Hardware
-date: 2024-08-10T03:23:39.302Z
-updated: 2024-08-11T03:23:39.302Z
+date: 2024-09-04T06:20:52.643Z
+updated: 2024-09-05T06:20:52.643Z
 tags:
   - desktop
 categories:
@@ -158,5 +158,8 @@ _**Storage:**_   _2TB M.2 NVMe SSD_
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

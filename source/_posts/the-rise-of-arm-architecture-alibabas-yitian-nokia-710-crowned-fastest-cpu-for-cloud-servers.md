@@ -1,7 +1,7 @@
 ---
 title: "The Rise of ARM Architecture: Alibaba's Yitian Nokia 710 Crowned Fastest CPU for Cloud Servers"
-date: 2024-08-10T03:28:02.289Z
-updated: 2024-08-11T03:28:02.289Z
+date: 2024-09-04T06:20:46.756Z
+updated: 2024-09-05T06:20:46.756Z
 tags:
   - desktop
 categories:
@@ -17,9 +17,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Per the official page, the primary purpose of the Tulip computer is to make and play music. Still, its support for Python programming also makes it capable of displaying a variety of sprites, PNGs, backgrounds, etc— which means even lightweight games should be makeable or playable on the device. There's no real multimedia or web browsing functionality here besides. However, Tulip also has access to an exclusive BBS Tulip WORLD system for sharing music files and chatting with other users.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
@@ -32,9 +29,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -99,3 +93,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 <li><a href="https://audio-shaping.techidaily.com/updated-seamless-sound-sync-a-step-by-step-guide-to-premiere-pro-audio-management-for-2024/"><u>Updated Seamless Sound Sync A Step-by-Step Guide to Premiere Pro Audio Management for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
