@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Discounted Quad-Core Snapdragon X Elite PC: Exclusive Preorder of the Compact Gaming Desktop Device!"
-date: 2024-09-04T06:20:49.572Z
-updated: 2024-09-05T06:20:49.572Z
+date: 2024-09-09T01:27:17.509Z
+updated: 2024-09-10T01:27:17.509Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,24 @@ categories:
 thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e484b6c6cc6059c7ac856aae.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiled! The Most Affordable Mini Desktop with Snapdragon X Elite Chipset - Secure Yours Today Through Preorder
 
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
 * **SoC** : Qualcomm Snapdragon X Elite X-1E-00-1DE, specs divided between CPU, GPU, and NPU below
@@ -36,6 +48,12 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -112,16 +130,3 @@ In an interesting turn of events, the first device boasting the highest-end vers
 <li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-90-by-fonelab-android-recover-data/"><u>Recover lost data from Honor 90</u></a></li>
 <li><a href="https://extra-approaches.techidaily.com/seamless-date-insertion-into-photo-editing-for-2024/"><u>Seamless Date Insertion Into Photo Editing for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

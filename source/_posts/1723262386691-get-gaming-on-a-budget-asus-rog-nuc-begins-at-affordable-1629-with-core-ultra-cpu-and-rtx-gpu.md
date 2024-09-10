@@ -1,7 +1,7 @@
 ---
 title: "Get Gaming On a Budget: Asus ROG NUC Begins at Affordable $1,629 with Core Ultra CPU and RTX GPU!"
-date: 2024-09-04T06:20:48.221Z
-updated: 2024-09-05T06:20:48.222Z
+date: 2024-09-09T01:27:16.309Z
+updated: 2024-09-10T01:27:16.309Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/ff65255da837891834ddbec118debc41ab0f1d1e57de67c2dd583540d5810764.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Entry-Level Gamers Rejoice: Discover the $1,629 Asus ROG NUC with Powerful Core Ultra CPU and RTX GPU
 
 Following the initial January[ROG NUC](https://www.tomshardware.com/desktops/mini-pcs/asus-teases-rog-nuc-ready-to-be-unveiled-on-january-8) tease and then listing the pricing of its base[NUC 14s](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) two months ago, Asus finally decided to release its ROG NUC series pricing and specifications today. The Asus ROG NUCs are[listed](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1362556731978753982&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) as two models: a 512GB mid-range Intel Core 7 155H with a discrete built-in RTX 4060 and a 1TB high-end Intel Core Ultra 9 185H with a discrete RTX 4070\. The ROG NUC models cost $1,629 and $2,199, respectively.
@@ -23,6 +29,12 @@ Following the initial January[ROG NUC](https://www.tomshardware.com/desktops/min
 
  For now, the Asus ROG NUC models are listed as unavailable, though the timing of these pricing reveals that all Asus' new NUCs are impending release.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -114,16 +126,3 @@ Following the initial January[ROG NUC](https://www.tomshardware.com/desktops/min
 <li><a href="https://audio-shaping.techidaily.com/updated-understanding-the-significance-of-team-collaboration-in-cinematic-projects/"><u>Updated Understanding the Significance of Team Collaboration in Cinematic Projects</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/what-is-omegle-is-omegle-safe/"><u>What Is Omegle, Is Omegle Safe？</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

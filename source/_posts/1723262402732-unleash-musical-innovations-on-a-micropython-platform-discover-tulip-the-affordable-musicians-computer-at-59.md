@@ -1,7 +1,7 @@
 ---
 title: Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
-date: 2024-09-04T06:20:50.738Z
-updated: 2024-09-05T06:20:50.738Z
+date: 2024-09-09T01:27:18.587Z
+updated: 2024-09-10T01:27:18.587Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fae23b982db1e3d6f2479cd12.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
 
 For just $59, musicians now have a new option for a purpose-built musical computer with a touchscreen and music synthesizer— meet the[Tulip Creative Computer](https://tulip.computer/) , a FOSS (Free and Open Source) project available as a pre-made purchase in free software form for existing PCs and Macs, or even fully buildable at home to those with the resources and know-how to get it done.
@@ -19,6 +25,12 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
 
  The synthesizer at the heart of Tulip is the AMY (Addictive Music synthesizer librarY), another FOSS project made to be integrated across "almost any program, architecture, or microcontroller" and usable as an FM synthesizer, analog-type synthesizer, drum machine, or even a breakpoint synthesizer. AMY is also used by the FOSS mesh synthesizer project Alles (think FOSS wireless speaker mesh solution), which Tulip Creative Computers also supports.
@@ -29,6 +41,12 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -100,16 +118,3 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 <li><a href="https://audio-shaping.techidaily.com/updated-comprehensive-list-of-free-outro-music-archives-no-copyright/"><u>Updated Comprehensive List of Free Outro Music Archives (No Copyright)</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-to-text-made-simple-top-free-apps-for-android-and-ios-users/"><u>Updated In 2024, Audio to Text Made Simple Top Free Apps for Android and iOS Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: Unraveling the Latest Gadgets and Hardware"
-date: 2024-09-04T06:20:46.202Z
-updated: 2024-09-05T06:20:46.202Z
+date: 2024-09-09T01:27:14.393Z
+updated: 2024-09-10T01:27:14.393Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036bc18134bd1752c7ab7f277b6.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comprehensive Hardware Guides by Tom - Find Your Perfect Match
 
 Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://www.tomshardware.com/video-games/handheld-gaming/ayaneos-first-mini-pcs-feature-classic-retro-styling) and subsequent[specs and pricing](https://www.tomshardware.com/news/ayaneo-retro-mini-pc-am01-uses-older-amd-apus-but-is-cheap) reveal, Ayaneo posted to[their blog](https://www.ayaneo.com/article/818) with up-to-date info on the AM01, including the reveal of a Zen 3-based Ryzen 7 5800U version. The two cheaper versions use a[Ryzen 3 3200U](https://www.tomshardware.com/news/amd-picasso-ryzen-3000-apu,38241.html) and a[Ryzen 7 5700U](https://www.tomshardware.com/news/amd-ryzen-7-5700u-lucienne-benchmark) based on AMD's Zen 1 and Zen 2 architectures. For your reference, the[Zen 3](https://www.tomshardware.com/news/amd-zen-3-ryzen-5000-release-date-specifications-pricing-benchmarks-all-we-know) architecture was released in late 2020, and we're currently awaiting the release of[Zen 5](https://www.tomshardware.com/news/amd-shares-new-cpu-core-roadmap-3nm-zen-5-by-2024-4th-gen-infinity-architecture) here in 2024.
@@ -17,6 +23,12 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
 ![Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.](https://cdn.mos.cms.futurecdn.net/zkexFiVS4JdrAYoKakvYu5-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.  (Image credit: Ayaneo)
 
  The Ayaneo blog post also confirms that the Ryzen 7 is slated to operate at up to 35 Watts on the AM01, an ample boost to the official maximum TDP of 25 Watts. This higher TDP enabled alongside the proper[RAM](https://www.tomshardware.com/reviews/best-ram,4057.html) selection should help maximize the performance of the iGPU within.
@@ -25,6 +37,18 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
  If you hope to get your hands on the Ayaneo AM01 PC as soon as possible, head to their Indiegogo page to buy the device through crowdfunding. And as always, while we acknowledge Ayaneo's excellent track record in crowdfunded devices, you can't know what to expect until people get their hands on it.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -92,16 +116,3 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 <li><a href="https://audio-shaping.techidaily.com/new-the-art-of-synchronizing-video-to-music-techniques/"><u>New The Art of Synchronizing Video to Music Techniques</u></a></li>
 <li><a href="https://tech-recovery.techidaily.com/the-new-m3-macbook-pro-unveiled-find-out-about-its-price-tag-release-date-and-detailed-tech-specs-here/"><u>The New M3 MacBook Pro Unveiled: Find Out About Its Price Tag, Release Date & Detailed Tech Specs Here</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-09-04T06:20:49.316Z
-updated: 2024-09-05T06:20:49.316Z
+date: 2024-09-09T01:27:17.292Z
+updated: 2024-09-10T01:27:17.292Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/024d2dd817ee2619b245e6c5a3ccfe3c6aa8b0c6c91657315d09ce45d229f3c2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unleash Powerful Performance with Meteor Lake CPU: OneXPlayer's New Mini-PC Featuring Intel Core I9 and up to Among Other Features
 
 One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU enclosure, just introduced its first mini-PC on Indiegogo—the OneXPlayer M1\. This tiny device (via[Liliputing](https://liliputing.com/onexplayer-m1-is-a-mini-pc-with-intel-core-ultra-9-185h-oculink-and-usb4/) ) has the Intel Core Ultra 9 185H and up to 32 GB of RAM. It also has an RJ45 port, Wi-Fi 6E, and Bluetooth 5.2, meaning you have three different connectivity options.
@@ -25,22 +31,52 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
 ![OneXPlayer M1 product images](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: One-Netbook)
 
  Aside from the Power button, One-Netbook also gave its mini-PC an RGB button to adjust the RGB lights on the case. But what’s interesting is that the Turbo button from PCs in the 1980s and 1990s is returning on the OneXPlayer M1\. The Turbo button will push the 185H’s power draw from the base 45 to 60 watts — just five watts short of its maximum configurable TDP. A 100-watt USB-C power supply also powers the mini-PC, so you’ll have ample power, even pushing the processor to its limit.
@@ -138,10 +174,3 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 <li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-update-and-download-logitech-m7-mouse-software-seamlessly/"><u>Step-by-Step Guide to Update and Download Logitech M7^ Mouse Software Seamlessly</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

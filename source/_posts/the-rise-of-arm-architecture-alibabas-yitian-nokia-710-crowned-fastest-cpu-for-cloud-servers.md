@@ -1,7 +1,7 @@
 ---
 title: "The Rise of ARM Architecture: Alibaba's Yitian Nokia 710 Crowned Fastest CPU for Cloud Servers"
-date: 2024-09-04T06:20:46.756Z
-updated: 2024-09-05T06:20:46.756Z
+date: 2024-09-09T01:27:14.908Z
+updated: 2024-09-10T01:27:14.908Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212ad2e7ace317f9e06a46361d5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60
 
 For just $59, musicians now have a new option for a purpose-built musical computer with a touchscreen and music synthesizer— meet the[Tulip Creative Computer](https://tulip.computer/) , a FOSS (Free and Open Source) project available as a pre-made purchase in free software form for existing PCs and Macs, or even fully buildable at home to those with the resources and know-how to get it done.
@@ -19,6 +25,12 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
 
  The synthesizer at the heart of Tulip is the AMY (Addictive Music synthesizer librarY), another FOSS project made to be integrated across "almost any program, architecture, or microcontroller" and usable as an FM synthesizer, analog-type synthesizer, drum machine, or even a breakpoint synthesizer. AMY is also used by the FOSS mesh synthesizer project Alles (think FOSS wireless speaker mesh solution), which Tulip Creative Computers also supports.
@@ -29,6 +41,12 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -93,10 +111,3 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 <li><a href="https://audio-shaping.techidaily.com/updated-seamless-sound-sync-a-step-by-step-guide-to-premiere-pro-audio-management-for-2024/"><u>Updated Seamless Sound Sync A Step-by-Step Guide to Premiere Pro Audio Management for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
