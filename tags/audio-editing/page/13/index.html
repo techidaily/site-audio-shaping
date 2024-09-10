@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"audio-shaping.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-04'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-09'>
                 
                     
-                        <a href="/updated-in-2024-voice-easy-a-curated-list-of-software-for-simplified-vocal-recordings/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated In 2024, Voice Easy A Curated List of Software for Simplified Vocal Recordings</span>
+                        <a href="/updated-the-cutting-edge-of-audio-production-adding-professional-voiceovers-to-your-vids/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated The Cutting-Edge of Audio Production Adding Professional Voiceovers to Your Vids</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-the-beat-goes-on-finding-song-titles-using-your-ios-devices-audio-cues/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated The Beat Goes On Finding Song Titles Using Your iOS Devices Audio Cues</span>
+                        <a href="/updated-in-2024-leading-sites-for-accessing-true-nature-audio-archives/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated In 2024, Leading Sites for Accessing True Nature Audio Archives</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-the-auto-transcription-experts-choice-top-6-software-picks/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated The Auto-Transcription Experts Choice – Top 6 Software Picks</span>
+                        <a href="/updated-transform-your-skype-speech-patterns-with-these-5-must-have-voice-change-tools-for-2024/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated Transform Your Skype Speech Patterns with These 5 Must-Have Voice Change Tools for 2024</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-level-9-masterclass-selecting-the-top-9-portable-microphones-for-professional-podcasters/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated Level 9 Masterclass Selecting The Top 9 Portable Microphones For Professional Podcasters</span>
+                        <a href="/updated-the-fast-track-to-voice-reduction-in-audacity/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated The Fast Track to Voice Reduction in Audacity</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-the-audio-wizards-handbook-navigating-complex-editing-tasks-with-sony-vegas-pro-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated The Audio Wizards Handbook Navigating Complex Editing Tasks with Sony Vegas Pro for 2024</span>
+                        <a href="/updated-in-2024-cutting-edge-audio-tools-for-iphone-and-ipad-enthusiasts/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated In 2024, Cutting-Edge Audio Tools for iPhone and iPad Enthusiasts</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-in-2024-elevating-windows-speaker-output-three-effective-costless-strategies/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated In 2024, Elevating Windows Speaker Output Three Effective, Costless Strategies</span>
+                        <a href="/updated-in-2024-real-time-volume-automation-via-adobe-premiere-on-a-pc/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated In 2024, Real-Time Volume Automation via Adobe Premiere on a PC</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-optimizing-audio-levels-a-guide-to-dynamic-ducking-in-windows-edition-of-adobe-premiere-pro-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated Optimizing Audio Levels A Guide to Dynamic Ducking in Windows Edition of Adobe Premiere Pro for 2024</span>
+                        <a href="/updated-in-2024-the-ultimate-selection-8-pinnacle-soundscapes-from-cinema/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated In 2024, The Ultimate Selection 8 Pinnacle Soundscapes From Cinema</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-premier-collection-11-complimentary-mobile-audio-modification-tools-for-both-ios-and-android-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated Premier Collection 11 Complimentary Mobile Audio Modification Tools for Both iOS and Android for 2024</span>
+                        <a href="/updated-speak-now-type-soon-essential-free-tools-for-mobile-audio-transcriptions-for-2024/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated Speak Now, Type Soon Essential Free Tools for Mobile Audio Transcriptions for 2024</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-voice-easy-a-curated-list-of-software-for-simplified-vocal-recordings-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated Voice Easy A Curated List of Software for Simplified Vocal Recordings for 2024</span>
+                        <a href="/updated-vocaltune-hub-deciphering-the-technology-praise-from-users-and-what-else-you-should-explore-for-2024/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated VocalTune Hub Deciphering the Technology, Praise From Users, and What Else You Should Explore for 2024</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-the-ultimate-compilation-best-volume-boosting-software-for-windows-users-seeking-immediate-results-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Updated The Ultimate Compilation Best Volume Boosting Software for Windows Users Seeking Immediate Results for 2024</span>
+                        <a href="/updated-voice-to-word-made-easy-discovering-the-best-free-android-and-ios-transcription-tools/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Updated Voice to Word Made Easy Discovering the Best Free Android and iOS Transcription Tools</span>
                         </a>
                     
               
