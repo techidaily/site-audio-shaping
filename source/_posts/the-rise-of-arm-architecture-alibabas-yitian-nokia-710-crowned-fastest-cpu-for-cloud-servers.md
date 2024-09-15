@@ -1,7 +1,7 @@
 ---
 title: "The Rise of ARM Architecture: Alibaba's Yitian Nokia 710 Crowned Fastest CPU for Cloud Servers"
-date: 2024-09-09T01:27:14.908Z
-updated: 2024-09-10T01:27:14.908Z
+date: 2024-09-11T02:27:02.286Z
+updated: 2024-09-14T21:54:20.727Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212ad2e7ace317f9e06a46361d5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60
 
 For just $59, musicians now have a new option for a purpose-built musical computer with a touchscreen and music synthesizer— meet the[Tulip Creative Computer](https://tulip.computer/) , a FOSS (Free and Open Source) project available as a pre-made purchase in free software form for existing PCs and Macs, or even fully buildable at home to those with the resources and know-how to get it done.
@@ -25,12 +19,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
 
  The synthesizer at the heart of Tulip is the AMY (Addictive Music synthesizer librarY), another FOSS project made to be integrated across "almost any program, architecture, or microcontroller" and usable as an FM synthesizer, analog-type synthesizer, drum machine, or even a breakpoint synthesizer. AMY is also used by the FOSS mesh synthesizer project Alles (think FOSS wireless speaker mesh solution), which Tulip Creative Computers also supports.
@@ -41,12 +29,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +37,11 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,41 +52,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expert-picks-8-superior-linux-snapshot-tools/"><u>[New] 2024 Approved  Expert Picks  8 Superior Linux Snapshot Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-capturing-snapchat-on-screen-a-step-by-step-guide/"><u>[New] Capturing Snapchat on Screen  A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-efficient-techniques-to-snap-up-twitter-gifs/"><u>[Updated] 2024 Approved  Efficient Techniques to Snap Up Twitter Gifs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-freeze-non-picked-youtube-video-suggestions/"><u>[Updated] 2024 Approved  Freeze Non-Picked YouTube Video Suggestions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-partedpicture-breakdown/"><u>[Updated] 2024 Approved  PartedPicture Breakdown</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-premier-virtual-marketplaces-the-10-cutest-wrapped-delights/"><u>[Updated] 2024 Approved  Premier Virtual Marketplaces  The 10 Cutest Wrapped Delights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inspire-yourself-a-list-of-10-empowering-movie-experiences/"><u>[Updated] Inspire Yourself  A List of 10 Empowering Movie Experiences</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-expert-techniques-for-enhanced-minecraft-zooms/"><u>2024 Approved  Expert Techniques for Enhanced Minecraft Zooms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gif-design-essentials-top-9-tools-to-elevate-your-creativity/"><u>2024 Approved  GIF Design Essentials  Top 9 Tools to Elevate Your Creativity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-meme-blueprints-of-the-year/"><u>2024 Approved  Iconic Meme Blueprints of the Year</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-breaking-down-mp4s-removing-sound-tracks-and-silence/"><u>2024 Approved Breaking Down MP4s Removing Sound Tracks and Silence</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-decoding-pexels-tips-and-tricks-for-leveraging-stock-photos/"><u>2024 Approved Decoding Pexels Tips and Tricks for Leveraging Stock Photos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-song-selection-guide-copyright-free-melodies-for-montages/"><u>2024 Approved Song Selection Guide Copyright-Free Melodies for Montages</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/building-a-gradual-audio-fade-out-feature-in-multimedia-projects/"><u>Building a Gradual Audio Fade-Out Feature in Multimedia Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/comparing-titans-in-digital-audio-workstations-is-magix-samplitude-at-the-pinnacle/"><u>Comparing Titans in Digital Audio Workstations Is MAGIX Samplitude at the Pinnacle?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/how-to-capture-streaming-audio-for-2024/"><u>How to Capture Streaming Audio for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-13-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 13 Pro in the Best Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro System? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-safeguarding-your-online-presence-during-live-broadcasts/"><u>In 2024, Safeguarding Your Online Presence During Live Broadcasts</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-innovative-methods-for-detaching-rhythmic-elements-in-music-files-online/"><u>New In 2024, Innovative Methods for Detaching Rhythmic Elements in Music Files Online</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-ultimate-guide-accessing-high-quality-audio-without-costs/"><u>New In 2024, The Ultimate Guide Accessing High-Quality Audio Without Costs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-what-is-daw-digital-audio-workstation-myth-solved/"><u>New In 2024, What Is DAW (Digital Audio Workstation) -Myth Solved</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-quiet-the-screenplay-removing-audible-aspects-from-mp4mkvavimov-and-wmv-videos/"><u>New Quiet the Screenplay Removing Audible Aspects From MP4/MKV/AVI/MOV and WMV Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-redefining-auditory-experience-discover-the-best-5-distortion-tools-available/"><u>New Redefining Auditory Experience Discover the Best 5 Distortion Tools Available</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-elite-selection-of-virtual-audio-editing-experts/"><u>New The Elite Selection of Virtual Audio Editing Experts</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-amr-format-processing-and-conversion/"><u>New The Ultimate Guide to AMR Format Processing and Conversion</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-a-comprehensive-tutorial-on-audio-standardization-in-davinci-resolve/"><u>Updated 2024 Approved A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-freeware-harmonies-to-accentuate-photo-stories/"><u>Updated 2024 Approved Freeware Harmonies to Accentuate Photo Stories</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-ultimate-guide-to-selecting-mobile-speech-to-text-software/"><u>Updated 2024 Approved Ultimate Guide to Selecting Mobile Speech-to-Text Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-auditory-alchemy-top-15-montage-soundtracks-adapting-to-varying-visual-media-for-2024/"><u>Updated Auditory Alchemy Top 15 Montage Soundtracks Adapting to Varying Visual Media for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-discovering-whistle-acoustics-experience-for-2024/"><u>Updated Discovering Whistle Acoustics Experience for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-multimedia-production-on-chromebook-with-audacity-setup-and-uninstall-guide/"><u>Updated In 2024, Mastering Multimedia Production on Chromebook with Audacity - Setup & Uninstall Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-mastering-sound-with-these-top-10-audio-editors-compatible-with-windows-and-mac-for-2024/"><u>Updated Mastering Sound with These Top 10 Audio Editors Compatible with Windows and Mac for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-seamless-sound-sync-a-step-by-step-guide-to-premiere-pro-audio-management-for-2024/"><u>Updated Seamless Sound Sync A Step-by-Step Guide to Premiere Pro Audio Management for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-embrace-pure-gaming-essential-ios-games-played-offline/"><u>[New] 2024 Approved Embrace Pure Gaming Essential iOS Games Played Offline</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-complete-guide-to-facebooks-live-feature-how-to-and-best-practices/"><u>[New] The Complete Guide to Facebook's Live Feature How-To & Best Practices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-banners-makers-10-online-tools-to-create-channel-art/"><u>[New] YouTube Banners Makers 10 Online Tools to Create Channel Art</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-free-fb-tracks-at-your-command-for-2024/"><u>[Updated] Free FB Tracks at Your Command for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-advanced-techniques-for-rendering-audio-waveform-graphs-and-incorporating-animation-into-video-projects-using-premiere-pro-for-2024/"><u>New Advanced Techniques for Rendering Audio Waveform Graphs and Incorporating Animation Into Video Projects Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audiobook-authoring-made-accessible-your-ultimate-guide-to-production-in-the-year-2023-for-2024/"><u>New Audiobook Authoring Made Accessible Your Ultimate Guide to Production in the Year 2023 for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project-for-2024/"><u>New Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-walkthrough-how-to-get-started-with-pokemon-go/"><u>Step-by-Step Walkthrough: How to Get Started with 'Pokémon Go'</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-audiovisual-transition-incorporating-a-subtle-decline-into-your-soundscapes-updated/"><u>Updated Audiovisual Transition Incorporating a Subtle Decline Into Your Soundscapes (Updated)</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

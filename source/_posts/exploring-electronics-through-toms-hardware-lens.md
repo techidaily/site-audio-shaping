@@ -1,7 +1,7 @@
 ---
 title: Exploring Electronics Through Tom’s Hardware Lens
-date: 2024-09-09T01:27:17.385Z
-updated: 2024-09-10T01:27:17.385Z
+date: 2024-09-12T18:19:20.504Z
+updated: 2024-09-15T02:07:01.418Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/Q7ce5KS86ZxhKymtVCzyQH-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Expert Insights From Tom's Hardware Hub - Dive Into Technology Today
 
 The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.com on March 1, reports[ITHome.](https://www.ithome.com/0/753/184.htm) Among other features, this Mini PC has a nifty little built-in screen with a fingerprint reader, plus configuration options including various mobile Ryzen 7 and Ryzen 9 CPUs.
@@ -37,18 +31,6 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
 
  For now, this little mini PC is a China-exclusive that requires some shipping costs to bring elsewhere in the world, but Tianbao may very well end up bringing it stateside via the Aoostar branding, depending on its reception.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,14 +39,11 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,55 +54,29 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/92-chuckle-fest-an-analyzed-goofy-film-vhs/"><u>'92 Chuckle Fest'  An Analyzed Goofy Film VHS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-farm-fun-family-top-10-games-bringing-groups-of-friends-closer-to-farms/"><u>[New] 2024 Approved  Farm Fun Family  Top 10 Games Bringing Groups of Friends Closer to Farms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-the-art-of-subtitling-a-brief-blueprint-for-your-fb-video-uploads/"><u>[New] 2024 Approved  Master the Art of Subtitling  A Brief Blueprint for Your FB Video Uploads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-5-best-video-effect-sites-that-never-charges-you/"><u>[New] 5 Best Video Effect Sites That Never Charges You</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-beyondbaselinecameras-whats-upnext/"><u>[New] BeyondBaselineCameras  What's UpNext?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-composing-persuasive-podcast-introductions/"><u>[New] Composing Persuasive Podcast Introductions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-live-gaming-recording-battle-pick-your-preference-obs-or-shadowplay/"><u>[New] Live Gaming Recording Battle  Pick Your Preference, OBS or ShadowPlay?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-your-marketing-edge-establishing-a-biz-page-on-instagram/"><u>[Updated] 2024 Approved  Mastering Your Marketing Edge  Establishing a Biz Page on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-optimize-your-presence-on-spotify-ads/"><u>[Updated] How to Optimize Your Presence on Spotify Ads</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-find-angry-dog-bark-effect/"><u>2024 Approved Find Angry Dog Bark Effect</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/bridging-the-gap-between-sound-waves-and-storage-space-a-guide-to-downloading-audio-programs-onto-computers-for-2024/"><u>Bridging the Gap Between Sound Waves and Storage Space A Guide to Downloading Audio Programs Onto Computers for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/draw-eyes-to-your-subject-iphone-photo-tips-with-leading-lines/"><u>Draw Eyes to Your Subject  IPhone Photo Tips with Leading Lines</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-15-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 15 Pro Max without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Phone without Google Account?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-achieve-deeper-sound-from-your-windows-system-three-easy-and-free-audio-enhancement-tricks/"><u>In 2024, Achieve Deeper Sound From Your Windows System – Three Easy and Free Audio Enhancement Tricks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-audio-syncing-simplified-2023s-innovative-methods-for-perfectly-timed-video-content/"><u>In 2024, Audio Syncing Simplified 2023S Innovative Methods for Perfectly Timed Video Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-best-11-free-voice-changer-apps-for-ios-and-android/"><u>In 2024, Best 11 FREE Voice Changer Apps for iOS and Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-cutting-edge-mobile-audio-tools-selecting-the-top-10-for-ios-and-android-devices-updated/"><u>In 2024, Cutting-Edge Mobile Audio Tools Selecting the Top 10 for iOS and Android Devices - Updated</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-decoding-the-best-music-arrangement-apps-iphone-and-android-guide/"><u>In 2024, Decoding the Best Music Arrangement Apps IPhone & Android Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-digital-disruptions-a-comprehensive-collection-of-online-sound-effects/"><u>In 2024, Digital Disruptions A Comprehensive Collection of Online Sound Effects</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-edge-40-neo-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Edge 40 Neo FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-enhancing-engagement-in-online-meetings-discover-the-best-vocal-effects-for-google-meet/"><u>In 2024, Enhancing Engagement in Online Meetings Discover the Best Vocal Effects for Google Meet</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-exploring-premium-voice-alteration-software-without-pay-mastering-sound-changes-in-filmora-videos/"><u>In 2024, Exploring Premium Voice Alteration Software Without Pay Mastering Sound Changes in Filmora Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-80-pro-straight-screen-edition-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 80 Pro Straight Screen Edition FRP Locks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-the-new-realm-of-jaunt-vr/"><u>In 2024, Navigating the New Realm of Jaunt VR</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-ultimate-voice-transformation-handbook-for-gamers/"><u>In 2024, The Ultimate Voice Transformation Handbook for Gamers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-top-6-youtube-outro-makers-lots-of-free-options/"><u>In 2024, Top 6 YouTube Outro Makers - Lots of FREE Options!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-premiere-pro-simplified-guide-to-managing-audio-layers-for-2024/"><u>Mastering Premiere Pro Simplified Guide to Managing Audio Layers for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/melody-cleanse-free-your-content-from-unwanted-musical-elements/"><u>Melody Cleanse Free Your Content From Unwanted Musical Elements</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-best-sites-to-download-free-hd-video-backgrounds/"><u>New 2024 Approved 10 Best Sites to Download Free HD Video Backgrounds</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-audiophiles-toolkit-implementing-smooth-audio-transitions-with-ducking-in-adobe-premiere-pro-mac/"><u>New 2024 Approved Audiophiles Toolkit Implementing Smooth Audio Transitions with Ducking in Adobe Premiere Pro (Mac)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discovering-the-best-vocal-enhancement-tools-an-examination-and-comparison/"><u>New 2024 Approved Discovering the Best Vocal Enhancement Tools An Examination & Comparison</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-methods-to-manipulate-amplitude-in-mp3-wav-and-mpeg-files/"><u>New 2024 Approved Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-unlock-the-potential-of-amr-waves-detailed-guide-to-their-conversion-and-manipulation/"><u>New 2024 Approved Unlock the Potential of AMR WAVES Detailed Guide to Their Conversion and Manipulation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-debunking-digital-audio-studio-myths-the-truth-behind-daw/"><u>New Debunking Digital Audio Studio Myths The Truth Behind DAW</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-8-best-daw-for-chromebook-to-make-music/"><u>New In 2024, 8 Best DAW for Chromebook to Make Music</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elevating-your-video-projects-with-audio-synchronization-in-magix-pro/"><u>New In 2024, Elevating Your Video Projects with Audio Synchronization in Magix Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-in-depth-exploration-and-scrutiny-of-the-2023-cambridge-cxu-surround-system/"><u>New In 2024, In-Depth Exploration and Scrutiny of the 2023 Cambridge CXU Surround System</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-synching-visuals-and-audio-step-by-step-process/"><u>New In 2024, Synching Visuals and Audio Step-by-Step Process</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-ultimate-guide-8-premium-rain-impact-noises-for-creative-projects/"><u>New In 2024, The Ultimate Guide 8 Premium Rain Impact Noises for Creative Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-inverted-soundscapes-the-premier-backwards-music-videos-for-2024/"><u>New Inverted Soundscapes The Premier Backwards Music Videos for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-no-loudness-left-behind-a-comprehensive-guide-to-audio-cutting-in-imovie/"><u>New No Loudness Left Behind A Comprehensive Guide to Audio Cutting in iMovie</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-precision-in-production-leveraging-audio-ducking-in-powerdirector-for-tactful-music-volume-reduction/"><u>New Precision in Production Leveraging Audio Ducking in PowerDirector for Tactful Music Volume Reduction</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-techniques-for-embedding-audio-into-newly-updated-avi-video-files-for-2024/"><u>New Techniques for Embedding Audio Into Newly Updated AVI Video Files for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-best-automatic-transcription-software/"><u>New The Best Automatic Transcription Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-popular-radio-ambiance-for-2024/"><u>New The Ultimate Guide to Popular Radio Ambiance for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-voice-recognition-technology-compilation-windows-and-macos-dictation-software-plus-cloud-services-ranked-top-8-for-2024/"><u>New The Ultimate Voice Recognition Technology Compilation Windows & macOS Dictation Software + Cloud Services Ranked (Top 8 ) for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-10-best-websites-like-omegle/"><u>New Top 10 Best Websites Like Omegle</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-note-30-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix Note 30</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-10-best-free-desktop-recorders/"><u>Top 10 Best Free Desktop Recorders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-incompatible-display-times-with-your-screen/"><u>Update: Incompatible Display Times with Your Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-privacy-first-the-leading-storywatchers/"><u>[Updated] Privacy-First The Leading Storywatchers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-uniting-conversations-across-platforms-twitter-vids-on-whatsapp-for-2024/"><u>[Updated] Uniting Conversations Across Platforms Twitter Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-cutting-edge-6-internet-audio-divide-and-conquer-software/"><u>In 2024, Cutting Edge 6 Internet Audio Divide and Conquer Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-wevideo-the-simple-way-to-create-professional-looking-videos/"><u>New 2024 Approved WeVideo The Simple Way to Create Professional-Looking Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exploring-8-premium-and-affordable-daws-for-windows-enthusiasts/"><u>New Exploring 8 Premium and Affordable DAWs for Windows Enthusiasts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elite-sound-transformer-swiftly-convert-and-enjoy-mp3-audio-files/"><u>New In 2024, Elite Sound Transformer Swiftly Convert and Enjoy MP3 Audio Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-premium-audio-excision-tools-for-windows-media-files-for-2024/"><u>New Premium Audio Excision Tools for Windows Media Files for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-vocal-evasion-software-catalog-essential-applications-for-singers-recording-studios-and-beyond/"><u>New The Ultimate Vocal Evasion Software Catalog Essential Applications for Singers, Recording Studios, & Beyond</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-interruptions-from-bluetooth-devices-on-your-pc-with-windows-1110/"><u>Resolving Audio Interruptions From Bluetooth Devices on Your PC with Windows 11/10</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Huawei P60 | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
