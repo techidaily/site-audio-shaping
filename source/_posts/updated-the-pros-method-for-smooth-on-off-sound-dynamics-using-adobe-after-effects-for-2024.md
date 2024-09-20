@@ -1,7 +1,7 @@
 ---
 title: Updated The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects for 2024
-date: 2024-09-13T16:58:40.579Z
-updated: 2024-09-14T23:40:54.323Z
+date: 2024-09-17T17:54:36.777Z
+updated: 2024-09-20T03:48:47.534Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,15 +53,22 @@ Move the playhead to the location where you want the effect to end and add anoth
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
 
@@ -72,13 +79,6 @@ You may also like: [How to Cut Video in After Effects](https://tools.techidaily.
 ### 2\. Be Mindful of Audio Compression
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
@@ -93,10 +93,10 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -114,17 +114,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-every-moment-exploring-free-high-quality-cameras/"><u>2024 Approved Capture Every Moment – Exploring Free, High-Quality Cameras</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/amplify-your-video-launch-with-these-top-8-audio-effects-for-content-creators/"><u>Amplify Your Video Launch with These Top 8 Audio Effects for Content Creators</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audio-dial-achieving-smooth-volume-ramp-ups/"><u>Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-lenovo-chromebook-duet-a-low-cost-tabletlaptop-fusions-performance-overview/"><u>Exploring the Lenovo Chromebook Duet - A Low-Cost Tablet/Laptop Fusion's Performance Overview</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-updated-printer-drivers-for-your-hp-officejet-pro-8600-on-any-windows-device/"><u>Get the Updated Printer Drivers for Your HP Officejet Pro 8600 on Any Windows Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-turning-off-facebook-access-from-your-android-device-for-good/"><u>Guide to Turning Off Facebook Access From Your Android Device for Good</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-5-top-sites-to-download-royalty-free-comedy-background-music-for-2024/"><u>New 5 Top Sites to Download Royalty Free Comedy Background Music for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shaping-the-digital-scribe-changing-chatgpt-to-your-speak/"><u>Shaping the Digital Scribe: Changing ChatGPT to Your Speak</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/tone-it-up-5-easy-to-use-online-generators-no-charge-for-2024/"><u>Tone It Up 5 Easy-to-Use Online Generators No Charge for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-elevated-cpu-load-in-new-world-update-tips-and-tricks/"><u>Troubleshooting Elevated CPU Load in New World Update: Tips and Tricks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premier-collection-of-popular-mobile-alert-melodies-for-2024/"><u>Updated Premier Collection of Popular Mobile Alert Melodies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-camera-roundup-top-picks-for-superior-videography/"><u>[Updated] 2024 Approved Camera Roundup Top Picks for Superior Videography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-10-indispensable-instagram-video-editing-apps-for-marketers/"><u>[Updated] In 2024, 10 Indispensable Instagram Video Editing Apps for Marketers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-virtual-reality-finger-guards-unveiled-for-2024/"><u>Best Virtual Reality Finger Guards Unveiled for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-key-to-advanced-web-behavior-insights/"><u>Cookiebot: Your Key to Advanced Web Behavior Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/developing-persuasive-podcast-hooklines/"><u>Developing Persuasive Podcast Hooklines</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-14-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 14</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-navigate-and-resolve-4-gpt-3-suspensions/"><u>How to Navigate and Resolve 4 GPT-3 Suspensions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/reliability-meets-portability-in-depth-review-of-the-audew-air-pump-for-versatile-use/"><u>Reliability Meets Portability: In-Depth Review of the Audew Air Pump for Versatile Use</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-simplify-your-sound-top-7-free-online-audio-editing-tools-revealed/"><u>Updated Simplify Your Sound Top 7 Free Online Audio Editing Tools Revealed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-translating-music-into-words-easy-online-techniques-for-mp3-to-text-conversion-updated-guide-for-2024/"><u>Updated Translating Music Into Words Easy Online Techniques for MP3 to Text Conversion Updated Guide for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-guide-to-online-and-offline-video-to-audio-conversion-tools/"><u>Updated Ultimate Guide to Online and Offline Video-to-Audio Conversion Tools</u></a></li>
 </ul></div>
 

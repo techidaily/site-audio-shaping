@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
-date: 2024-09-09T21:50:02.579Z
-updated: 2024-09-15T04:09:33.890Z
+date: 2024-09-15T01:59:47.594Z
+updated: 2024-09-19T18:23:34.159Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
@@ -113,13 +113,26 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/TFbt9G36hk5JyrBL8cIdIuYQ66E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Keyboard_03-fd7e355ac5944f12a8107746d0afbf24.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Solid power for everyday tasks**
@@ -133,13 +146,6 @@ Lifewire / Andrew Hayward
  With an integrated Intel Graphics UHD 620 GPU inside, the LG Gram isn't built for intense gaming needs. However, it does OK with modern 3D games at low-to-medium settings. As has been the case with other laptops we've tried, battle royale shooter smash Fortnite defaulted to settings that looked nice but led to a very choppy frame rate in action, and we ultimately had to turn off all effects and hit low settings on nearly everything to make the game run smoothly. Switching to Rocket League, the car-soccer game ran decently with mid-to-high settings, but again we trimmed down a few settings for a speedier frame rate.
 
  As an aside, while the LG Gram often runs near-silently, there are extended periods of time in which there's an audible hum coming from the back. It's not the typical, very loud fan noise that pops up while gaming or heavy multitasking from some computers, but it can be a bit grating. We noticed it while charging the computer, but also while running on the battery—with no consistency on that front. It's a mild annoyance, but it's one we noticed whenever it emerged.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Audio: It makes an impression**
 
@@ -163,6 +169,13 @@ Lifewire / Andrew Hayward
 
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Hello, Windows (but no Windows Hello)**
 
  The LG Gram 15.6-inch comes with Windows 10 Home preinstalled, and if you've used Windows over the years, then you should be pretty comfortable here. Windows 10 has lightly evolved the PC operating system with feature enhancements and tweaks without losing the classic, familiar DNA within, and it's the OS of choice for computer gaming and apps of all shapes and sizes. It's easy to use and understand, and runs well with the Intel Core i5 and an SSD onboard.
@@ -170,16 +183,10 @@ Lifewire / Andrew Hayward
  Unfortunately, this entry-level model of the LG Gram 15.6-inch isn't able to take advantage of Windows Hello biometric security, as the camera above the display doesn't have the needed sensors for scanning your face. We missed the near-instantaneous facial recognition of the Surface Laptop 2, and having to type in a PIN number each time we opened up the lid. Pricier models of the laptop offer a fingerprint scanner, however.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Solidly priced, considering its strengths**
@@ -189,13 +196,6 @@ Lifewire / Andrew Hayward
  In any case, $999 is a more appealing value for a computer that doesn't pack as much polish as some rivals, but wins out when it comes to elements like battery life, screen size, and minimal weight. For some users, that's sure to be an appealing combination. Note that you can spend quite a bit on upgrades with the LG Gram 15.6-inch, including opting for versions with a faster Intel Core i7 processor, additional RAM, a fingerprint sensor, and even a touch display if desired.
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/5yzhAkphyYfWOMofqawuktHJlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-v.-Surface-comparison-4946178bf2e94230820d2b19d2fb7197.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -214,10 +214,10 @@ Lifewire / Andrew Hayward
  There are better all-around ultraportable laptops in this price range, and we had some issues with the feeling of the build, the keyboard layout, and the merely good display quality. However, if you're in the market for an incredibly light laptop with a big screen and a battery that lasts and lasts, it's hard to ignore the LG Gram 15.6-inch (2018). You get a very capable computer for the price, and it's a notebook that can legitimately last through a full workday even at max brightness.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -252,20 +252,16 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-photographers-edge-innovating-with-instagrams-bokeh-features/"><u>[New] 2024 Approved The Photographer's Edge Innovating with Instagram’s Bokeh Features</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-viewer-count-chronicles-mastering-the-math-of-monetizing-moments-in-youtube-space/"><u>[Updated] In 2024, The Viewer Count Chronicles Mastering the Math of Monetizing Moments in YouTube Space</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-to-exceptional-e-learning-sites-excluding-udemy/"><u>[Updated] Ultimate Guide to Exceptional E-Learning Sites Excluding Udemy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-premium-vector-graphics-the-ultimate-10-site-list/"><u>2024 Approved Premium Vector Graphics The Ultimate 10 Site List</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/decoding-srt-a-detailed-guide-for-file-format-conversions/"><u>Decoding SRT A Detailed Guide for File Format Conversions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/driving-usb-back-into-old-windows-xp-vista/"><u>Driving USB Back Into Old Windows XP-Vista</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-huawei-nova-y91-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Huawei Nova Y91 Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-elevate-your-music-listening-with-these-top-ranked-cost-free-visualization-apps-on-iphone-and-android-platforms/"><u>In 2024, Elevate Your Music Listening with These Top-Ranked, Cost-Free Visualization Apps on iPhone and Android Platforms</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-beginners-blueprint-to-creating-an-audio-book-with-ease-a-compreranly-updated-manual/"><u>In 2024, The Beginners Blueprint to Creating an Audio Book with Ease A Compreranly Updated Manual</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>In 2024, The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-excellence-in-audio-manipulation-ios-devices-top-selection/"><u>New 2024 Approved Excellence in Audio Manipulation IOS Devices Top Selection</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-exploring-the-mysteries-of-omegle-usage-and-assessing-risks-for-safe-interaction/"><u>New In 2024, Exploring the Mysteries of Omegle Usage & Assessing Risks for Safe Interaction</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>New Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-114k/"><u>Windows 11上で4K動画がうまく流れない時のトラブルシューティング手順</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-decreasing-jello-artifacts-in-aerial-filmmaking/"><u>[New] 2024 Approved Decreasing Jello Artifacts in Aerial Filmmaking</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-privacy-centric-explore-instagram-stories-anon-on-your-devices/"><u>[Updated] In 2024, Privacy-Centric Explore Instagram Stories Anon on Your Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/a-comprehensive-review-of-screenflows-impact-on-mac-professionals/"><u>A Comprehensive Review of ScreenFlow's Impact on Mac Professionals</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevating-video-previews-a-compreayer-approach-for-youtube/"><u>Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-knowledge-on-openais-ethos/"><u>Essential Knowledge on OpenAI's Ethos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-a-complete-breakdown-of-freelens-cam-software/"><u>In 2024, A Complete Breakdown of Freelens Cam Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-strategies-for-leveraging-the-question-sticker-on-instagram/"><u>In 2024, The Ultimate Strategies for Leveraging the Question Sticker on Instagram</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-blending-motion-picture-with-soundtracks-a-modern-approach/"><u>Updated Blending Motion Picture with Soundtracks A Modern Approach</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>Updated Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-innovative-audio-editing-solutions-unveiling-the-top-10-tools-for-windowsmac-enthusiasts/"><u>Updated Innovative Audio Editing Solutions Unveiling the Top 10 Tools for Windows/Mac Enthusiasts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-understanding-the-significance-of-team-collaboration-in-cinematic-projects/"><u>Updated Understanding the Significance of Team Collaboration in Cinematic Projects</u></a></li>
 </ul></div>
 

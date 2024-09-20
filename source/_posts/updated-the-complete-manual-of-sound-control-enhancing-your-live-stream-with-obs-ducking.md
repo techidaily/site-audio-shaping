@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking
-date: 2024-09-11T05:05:00.944Z
-updated: 2024-09-14T18:28:38.551Z
+date: 2024-09-17T08:26:07.442Z
+updated: 2024-09-19T18:41:00.301Z
 tags: 
   - audio editing software
   - audio editing
@@ -88,16 +88,16 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -107,16 +107,10 @@ I hope you have now come to know why **ducking sound** is a must and how well **
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,15 +128,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/2024-approved-optimal-low-cost-screen-recording-options-for-chromebook/"><u>2024 Approved Optimal Low-Cost Screen Recording Options for Chromebook</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-pova-6-pro-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Pova 6 Pro 5G? Try These Fixes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715860276283-in-2024-get-savvy-with-chromebook-snaps-explore-these-4-methods/"><u>In 2024, Get Savvy with Chromebook Snaps - Explore These 4 Methods!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-the-rules-of-youtube-video-documentation-for-2024/"><u>Navigating the Rules of YouTube Video Documentation for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-identifying-sources-for-authentic-canine-symphony-sounds/"><u>New 2024 Approved Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-lip-sync-magic-advanced-strategies-for-real-time-audio-video-sync/"><u>New 2024 Approved Mastering Lip-Sync Magic Advanced Strategies for Real-Time Audio-Video Sync</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-harmonizing-visuals-and-sounds-displaying-audio-waves-and-adding-expressive-animation-in-magix-movie-edit-pro/"><u>New In 2024, Harmonizing Visuals & Sounds Displaying Audio Waves & Adding Expressive Animation in Magix Movie Edit Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016440306-troubleshoot-your-pcs-audio-problems-in-just-five-simple-steps/"><u>Troubleshoot Your PC's Audio Problems in Just Five Simple Steps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-enhanced-system-efficiency-the-innovative-grizzly-heatspreader-lowers-cpu-temp-by-15-degrees/"><u>Unlock Enhanced System Efficiency - The Innovative Grizzly Heatspreader Lowers CPU Temp by 15 Degrees!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x/"><u>Updated 2024 Approved Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-professionalizing-virtual-collaboration-zoom-recording-tips/"><u>[Updated] In 2024, Professionalizing Virtual Collaboration Zoom Recording Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-ultimate-wearable-tech-leading-smart-glasses-ranked/"><u>Exploring the Ultimate Wearable Tech: Leading Smart Glasses Ranked</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-going-bold-on-instagram-techniques-to-trend-worldwide/"><u>In 2024, Going Bold on Instagram Techniques to Trend Worldwide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c51-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C51 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oneplus-nord-ce-3-lite-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On OnePlus Nord CE 3 Lite 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-40i-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 40i Phone FRP Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smiles-to-text-where-to-find-amusing-tones-in-2024/"><u>Smiles to Text Where to Find Amusing Tones, In 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-silence-enhancing-audio-focus-in-adobe-premiere-pro-projects/"><u>Updated In 2024, Mastering Silence Enhancing Audio Focus in Adobe Premiere Pro Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-elite-list-10-best-podcast-hosting-platforms-to-watch/"><u>Updated In 2024, The Elite List 10 Best Podcast Hosting Platforms to Watch</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-premium-free-audio-streaming-apps-ios-and-android-edition/"><u>Updated Top 10 Premium-Free Audio Streaming Apps IOS & Android Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-what-to-look-for-in-audio-editor-for-mac/"><u>Updated What to Look for in Audio Editor for Mac?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-your-guide-to-the-top-6-fee-free-digital-soundscape-editors-on-the-web/"><u>Updated Your Guide to the Top 6 Fee-Free Digital Soundscape Editors on the Web</u></a></li>
 </ul></div>
 

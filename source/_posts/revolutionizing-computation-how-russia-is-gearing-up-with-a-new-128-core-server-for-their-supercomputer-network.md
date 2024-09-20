@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-09-13T23:18:55.361Z
-updated: 2024-09-15T03:31:08.849Z
+date: 2024-09-18T06:02:26.656Z
+updated: 2024-09-20T04:30:08.446Z
 tags:
   - desktop
 categories:
@@ -72,22 +72,19 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-taking-stock-of-magix-project-management-app/"><u>[New] In 2024, Taking Stock of MAGIX Project Management App</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-ryzen-video-card-driver-software-download-guide/"><u>AMD Ryzen Video Card Driver Software Download Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/gamers-guide-to-flawless-game-recordings-for-2024/"><u>Gamers' Guide to Flawless Game Recordings for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-x50iplus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor X50i+ Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-discovering-secure-online-spaces-to-connect-with-others/"><u>New Discovering Secure Online Spaces to Connect with Others</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-leading-7-solutions-to-swiftly-extract-voices-from-recordings/"><u>New In 2024, Leading 7 Solutions to Swiftly Extract Voices From Recordings</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-mastering-your-music-production-the-best-windows-and-mac-daws-of-the-year-2023/"><u>New Mastering Your Music Production The Best Windows and Mac DAWs of the Year 2023</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/the-best-laptops-for-video-editing/"><u>The Best Laptops For Video Editing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-boost-production-value-with-free-sfx-libraries/"><u>[New] In 2024, Boost Production Value with Free SFX Libraries!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-roadmap-how-youtube-is-cultivating-a-flourishing-short-form-video-culture/"><u>[New] The Roadmap How YouTube Is Cultivating a Flourishing Short-Form Video Culture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-key-screenshot-utilities-1-8/"><u>[Updated] Key Screenshot Utilities #1-8</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-realtek-ethernet-controller-missing-error/"><u>How to Resolve Realtek Ethernet Controller Missing Error</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-essential-list-of-acoustic-amplifiers-and-boosters-for-android-and-ios-users-2023-edition/"><u>Updated In 2024, The Essential List of Acoustic Amplifiers and Boosters for Android & iOS Users, 2023 Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-guide-to-blending-music-and-movement-on-screen/"><u>Updated The Guide to Blending Music and Movement on Screen</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-5-essential-dynamic-ducking-tools-for-studio-sound-engineers-for-2024/"><u>Updated Top 5 Essential Dynamic Ducking Tools for Studio Sound Engineers for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

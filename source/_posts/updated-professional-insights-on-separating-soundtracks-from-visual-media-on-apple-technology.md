@@ -1,7 +1,7 @@
 ---
 title: Updated Professional Insights on Separating Soundtracks From Visual Media on Apple Technology
-date: 2024-09-08T23:59:03.706Z
-updated: 2024-09-15T03:34:01.271Z
+date: 2024-09-13T19:30:55.548Z
+updated: 2024-09-20T07:09:50.004Z
 tags: 
   - audio editing software
   - audio editing
@@ -67,10 +67,10 @@ Click the "export" button on the interface and select the desired video format
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Open the iMovie
@@ -85,18 +85,18 @@ There are different pages on the interface but your concern is on the project pa
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Mute the audio
 
 Muting the audio becomes straightforward when you have moved it to the interface. In this step, click on the video clip button as seen in the picture then mute it by selecting the mute option (the picture below shows the mute sign at the lower-left corner) from the audio button. When this is done, your video has been silenced.
 
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
 
@@ -108,24 +108,18 @@ Step1\. import the video into the Filmora
 
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Another way to import a video is to drag and drop the video into the program. Using any of these two steps allows your video to be listed in the media library
 
 Step 2 Next, right-click the video and choose "Audio Detach." After some time, the video and audio will load as two separate files.
 
  ![mac audio detach1](https://images.wondershare.com/filmora/guide/mac-audio-detach1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can choose to delete the video or keep it. If you want to delete it, simply right-click and choose delete. This will remove the video entirely.
 
@@ -151,20 +145,20 @@ Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidail
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
 
@@ -181,18 +175,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-world-of-fbs-virtual-video-landscape/"><u>[New] In 2024, Navigating the World of FB's Virtual Video Landscape</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ideal-screen-re-recorders-for-youtube-performances-for-2024/"><u>[Updated] Ideal Screen Re-Recorders for YouTube Performances for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avi-file-cutting-made-simple-a-beginners-guide-to-video-editing-updated-2023-for-2024/"><u>AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023) for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/image-isolation-pro-eliminate-backgrounds-in-affinity/"><u>Image Isolation Pro Eliminate Backgrounds in Affinity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-htc-u23-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-find-x6-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Find X6 Phone Hassle-Free</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smart-strategies-achieving-advertising-excellence/"><u>Smart Strategies Achieving Advertising Excellence</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-restore-your-iphones-email-functionality/"><u>Step-by-Step Guide to Restore Your iPhone's Email Functionality</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-inside-scoop-on-electronics-with-toms-device-review/"><u>The Inside Scoop on Electronics with Tom's Device Review</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-use-audio-ducking-to-fade-out-music-in-powerdirector/"><u>Updated In 2024, How to Use Audio Ducking to Fade Out Music in PowerDirector?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-mastering-sound-normalization-a-trifecta-of-quick-methods/"><u>Updated Mastering Sound Normalization A Trifecta of Quick Methods</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-invisible-touch-methods-to-apply-fading-effects-on-sound-in-imovie-for-2024/"><u>Updated The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-7-digital-tools-for-seamless-audio-cutting-and-editing-for-2024/"><u>Updated Top 7 Digital Tools for Seamless Audio Cutting and Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-list-of-the-top-10-digital-recording-apps-for-2024/"><u>[New] Exclusive List of the Top 10 Digital Recording Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unwind-the-clock-pioneering-techniques-for-youtube-video-reversal/"><u>[New] Unwind the Clock Pioneering Techniques for YouTube Video Reversal</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-camerasection-breakdown-analysis/"><u>[Updated] CameraSection Breakdown Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/fresh-sounds-for-your-ig-story-for-2024/"><u>Fresh Sounds for Your IG Story for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-spark-20c-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Spark 20C to Protect Your Individual Information</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exclusive-voip-services-designed-for-the-modern-game-player-for-2024/"><u>New Exclusive VoIP Services Designed for the Modern Game Player for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-focused-tutorial-excluding-audio-from-latest-mkv-updates/"><u>New Focused Tutorial Excluding Audio From Latest MKV Updates</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-best-volume-normalizers-how-to-normalize-audio-in-videos/"><u>New In 2024, Best Volume Normalizers How to Normalize Audio in Videos?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-comprehensive-analysis-of-the-cambridge-auditory-experience-cxu-device/"><u>New The Comprehensive Analysis of the Cambridge Auditory Experience CXU Device</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>New The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>The Kinemaster Edge Mastering Video Segmentation and Transitioning</u></a></li>
 </ul></div>
 
