@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-09-18T06:02:26.656Z
-updated: 2024-09-20T04:30:08.446Z
+date: 2024-09-21T05:10:10.385Z
+updated: 2024-09-25T17:02:49.715Z
 tags:
   - desktop
 categories:
@@ -70,12 +70,23 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-sky-high-explorations-made-simple-a-compreenasive-review-of-dji-sparks-miniature-drone-design/"><u>[New] Sky High Explorations Made Simple A Compreenasive Review of DJI Spark's Miniature Drone Design</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-tutorial-for-turning-followers-into-cash-via-instagram/"><u>2024 Approved The Ultimate Tutorial for Turning Followers Into Cash via Instagram</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-crafting-crystal-clear-soundscapes-for-home-video-filmmakers-what-you-need-to-know-for-2024/"><u>New Crafting Crystal Clear Soundscapes for Home Video Filmmakers (What You Need to Know ) for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unveiling-the-secrets-to-successful-sound-recording-in-garageband/"><u>New In 2024, Unveiling the Secrets to Successful Sound Recording in GarageBand</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-sound-innovators-choice-the-best-free-audio-mixer-platforms-ranked-for-2024/"><u>New Sound Innovators Choice The Best FREE Audio Mixer Platforms Ranked for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-totally-tune-out-mastering-the-art-of-muting-media-on-internet-platforms-for-2024/"><u>New Totally Tune-Out Mastering the Art of Muting Media on Internet Platforms for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplified-instructions-for-integrating-the-keyspan-usa-19hs-keyboard-with-a-windows-system/"><u>Simplified Instructions for Integrating the Keyspan USA-19HS Keyboard With a Windows System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 6 Plus | Dr.fone</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
