@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-09-21T05:10:10.385Z
-updated: 2024-09-25T17:02:49.715Z
+date: 2024-09-30T06:46:08.142Z
+updated: 2024-10-01T08:18:48.000Z
 tags:
   - desktop
 categories:
@@ -72,21 +72,27 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-sky-high-explorations-made-simple-a-compreenasive-review-of-dji-sparks-miniature-drone-design/"><u>[New] Sky High Explorations Made Simple A Compreenasive Review of DJI Spark's Miniature Drone Design</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-tutorial-for-turning-followers-into-cash-via-instagram/"><u>2024 Approved The Ultimate Tutorial for Turning Followers Into Cash via Instagram</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-crafting-crystal-clear-soundscapes-for-home-video-filmmakers-what-you-need-to-know-for-2024/"><u>New Crafting Crystal Clear Soundscapes for Home Video Filmmakers (What You Need to Know ) for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unveiling-the-secrets-to-successful-sound-recording-in-garageband/"><u>New In 2024, Unveiling the Secrets to Successful Sound Recording in GarageBand</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-sound-innovators-choice-the-best-free-audio-mixer-platforms-ranked-for-2024/"><u>New Sound Innovators Choice The Best FREE Audio Mixer Platforms Ranked for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-totally-tune-out-mastering-the-art-of-muting-media-on-internet-platforms-for-2024/"><u>New Totally Tune-Out Mastering the Art of Muting Media on Internet Platforms for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simplified-instructions-for-integrating-the-keyspan-usa-19hs-keyboard-with-a-windows-system/"><u>Simplified Instructions for Integrating the Keyspan USA-19HS Keyboard With a Windows System</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-on-the-water-fishings-top-5-action-cameras/"><u>[Updated] Best on the Water Fishing's Top 5 Action Cameras</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/audio-removal-guide-for-mp4-files-for-2024/"><u>Audio Removal Guide for MP4 Files for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/navigating-through-this-years-top-ten-budget-friendly-browser-based-daw-solutions/"><u>Navigating Through This Years Top Ten Budget-Friendly Browser-Based DAW Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-burn-video-to-dvds-on-windowsmac-3-ways/"><u>New 2024 Approved Burn Video to DVDs on Windows/Mac 3 Ways</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users/"><u>New In 2024, Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-perfecting-production-quality-utilizing-real-time-ducking-features-in-windows-adobe-premiere-pro-edition/"><u>New In 2024, Perfecting Production Quality Utilizing Real-Time Ducking Features in Windows Adobe Premiere Pro Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-online-broadcast-platforms-for-2024/"><u>Ultimate Online Broadcast Platforms for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos
-date: 2024-08-03T02:01:59.602Z
-updated: 2024-08-04T02:01:59.602Z
+date: 2024-09-28T01:48:12.676Z
+updated: 2024-10-01T05:55:55.016Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
 # How to Cut Audio from Video on iPhone/Mac
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -41,9 +34,6 @@ Section2\. [Requirements to extract the music of the video and save](#how-to-ext
 
 ![advanced%20video%20cutter](https://images.wondershare.com/filmora/Mac-articles/advanced%20video%20cutter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Section 1. How to mute the audio on the video
 
 Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
@@ -51,8 +41,12 @@ Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
 Part2\. [Steps to cut the audio from videos on iPhone](#cut-audio-on-iphone)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to cut the audio from videos on Mac
 
 If you are using a Mac for editing, knowing that [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best way to go about it is good but knowing how to navigate is key. Not to worry, the steps you need to get started are all listed in these three steps.
@@ -61,9 +55,6 @@ Step 1: Import Video to Filmora
 
 Import the video to your Filmora. You can also directly drag the video into the Filmora interface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
 Step 2: Mute the audio
@@ -72,6 +63,13 @@ After dragging the video to the timeline, right-click the stand-alone video, cho
 
 ![](https://images.wondershare.com/filmora/guide/edit-audios-mute.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Save your edit
 
 Click the "export" button on the interface and select the desired video format
@@ -79,11 +77,22 @@ Click the "export" button on the interface and select the desired video format
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to cut the audio from videos on iPhone
 
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Open the iMovie
 
@@ -93,41 +102,24 @@ Opening the iMovie app goes beyond just clicking it to open, you also have to fo
 
 There are different pages on the interface but your concern is on the project page. On that page, click on the plus sign button as it directs you to start or input a new video. After clicking on the plus sign, it will bring up movies that you would further select.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  ![new project on imovie](https://images.wondershare.com/filmora/Mac-articles/new-project-on-imovie.jpg)
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Mute the audio
 
 Muting the audio becomes straightforward when you have moved it to the interface. In this step, click on the video clip button as seen in the picture then mute it by selecting the mute option (the picture below shows the mute sign at the lower-left corner) from the audio button. When this is done, your video has been silenced.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Section 2. Requirements to extract the music of the video and save
 
@@ -147,10 +139,14 @@ You can choose to delete the video or keep it. If you want to delete it, simply 
 
 Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the audio editing tools would be displayed. You can adjust the music volume, change voice, and do other edits.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![8audio balance](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.audio-balance.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4\. If the audio has some sounds you would like to take out, place your cursor at the exact place you want the deletion to start. Next, press the split button. This step can be used to delete any aspect of the music sound you don't like.
 
@@ -168,9 +164,6 @@ For iPhone users, a good video editing software that can be used to successfully
 
 Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -181,11 +174,30 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-live-stream-on-youtube-gaming-for-2024/"><u>[New] How to Live Stream on YouTube Gaming for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hidden-gems-to-hit-videos-strategies-for-success/"><u>[Updated] 2024 Approved From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-w11-easy-capture-tool-windows-11-screen-recording/"><u>2024 Approved W11 Easy Capture Tool Windows 11 Screen Recording</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/achieve-crystal-clear-sound-mastering-mic-noise-reduction-techniques/"><u>Achieve Crystal Clear Sound Mastering Mic Noise Reduction Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-incorporating-backgrounds-a-filmmakers-guide/"><u>In 2024, Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revive-your-iphone-ipad-and-macs-airdrop-functionality-with-quick-tips/"><u>In 2024, Revive Your iPhone, iPad & Mac's Airdrop Functionality with Quick Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-editors-pathway-weaving-clips-with-flawless-transitions/"><u>In 2024, The Editors Pathway Weaving Clips with Flawless Transitions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-2023-guide-to-integrating-creative-audio-elements-into-your-film-projects/"><u>New 2024 Approved The 2023 Guide to Integrating Creative Audio Elements Into Your Film Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-expert-roundup-iphone-vs-android-top-10-music-editing-applications/"><u>New In 2024, Expert Roundup IPhone Vs. Android – Top 10 Music Editing Applications</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-harmonizing-silence-a-comprehensive-guide-to-muting-superfluous-sounds-and-background-distractions-in-visionpro-studio/"><u>New In 2024, Harmonizing Silence A Comprehensive Guide to Muting Superfluous Sounds and Background Distractions in VisionPro Studio</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mastering-audio-manipulation-speed-and-pitch-adjustments-in-adobe-rush/"><u>New In 2024, Mastering Audio Manipulation Speed and Pitch Adjustments in Adobe Rush</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-step-by-step-guide-to-extracting-and-editing-audio-in-adobe-premiere-pro-for-2024/"><u>New Step-by-Step Guide to Extracting and Editing Audio in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-andtwitch/"><u>PC &スマートフォン向けのTwitch動画ダウンロードガイド【簡単に実行可能】</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamlessly-operate-android-programs-using-windows-11-a-step-by-step-tutorial/"><u>Seamlessly Operate Android Programs Using Windows 11 – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-mystery-behind-pc-launch-failures-of-resident-evil-5-and-get-playing-asap/"><u>Unlock the Mystery Behind PC Launch Failures of Resident Evil #5 and Get Playing ASAP!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-this-article-introduce-tips-on-how-to-stream-any-video-format-to-google-chromecast/"><u>Updated 2024 Approved This Article Introduce Tips on How to Stream Any Video Format to Google Chromecast</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Audiovisual Excellence Mastering the Art of Sound Design in Sony Vegas Pro 2023
-date: 2024-08-03T02:01:49.097Z
-updated: 2024-08-04T02:01:49.097Z
+date: 2024-09-24T08:47:15.687Z
+updated: 2024-09-30T17:54:55.937Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 # Sony Vegas Audio Editor: How to Edit Audio in Vegas Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -50,9 +47,6 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 * Mute the Audio Track: Press M
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
@@ -72,18 +66,6 @@ Those who want to control volume separately for different portions of audio file
 
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
@@ -96,18 +78,12 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
 If you want to change the speed of specific portions of your audio project then hold CTRL button and then start moving your curser over Trim Event handle. If you drag it to right side then it will directly speed up your audio clip and dragging to left side will automatically reduce speed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Speed up or down video](https://images.wondershare.com/edit-audio-in-vegas-pro-7.jpg)
 
 #### Section 4: Reverse audio clip
@@ -128,10 +104,6 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
@@ -140,9 +112,6 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
@@ -151,17 +120,10 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
 
 #### Recommendation
@@ -180,11 +142,44 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-visiting-friends-lives-on-tiktok/"><u>[New] In 2024, The Ultimate Guide to Visiting Friends' Lives on TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-professional-quality-audio-without-a-microphone/"><u>[New] The Ultimate Guide to Professional-Quality Audio without a Microphone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-prime-visual-backdrops-for-efficient-collaboration-for-2024/"><u>[Updated] Prime Visual Backdrops for Efficient Collaboration for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-top-12-tycoons-your-gateway-to-game-dominance-for-2024/"><u>[Updated] The Ultimate Top 12 Tycoons - Your Gateway to Game Dominance for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-install-new-epson-driver-version-on-your-windows-10-pc/"><u>Easy Steps to Install New Epson Driver Version on Your Windows 10 PC</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-next-gen-audio-transcription-technologies-and-their-applications/"><u>In 2024, Next-Gen Audio Transcription Technologies and Their Applications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-upload-recycling-101-for-2024/"><u>Instagram Upload Recycling 101 for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-vanguard-6-audio-file-segmentation-systems/"><u>New 2024 Approved Vanguard 6 Audio File Segmentation Systems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-7-best-transition-sound-effects-free-download-that-you-dont-know/"><u>New 7 Best Transition Sound Effects (Free Download) That You Dont Know</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-amr-audio-converter-complete-guide-to-amr-files/"><u>New AMR Audio Converter Complete Guide to AMR Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-musicaudio-to-a-gif-on-mac-in-2024/"><u>New How to Add Music/Audio to a GIF on Mac, In 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-essential-free-resources-for-aspiring-guitarists-a-collection-of-background-images-and-tunes/"><u>New In 2024, Essential Free Resources for Aspiring Guitarists A Collection of Background Images and Tunes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-rhythmic-editing-made-easy-aligning-video-and-sound-in-adobe-premiere-pro-for-2024/"><u>New Rhythmic Editing Made Easy Aligning Video and Sound in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-directory-for-guitar-enthusiasts-shareable-photos-and-music-downloads-for-2024/"><u>New The Ultimate Directory for Guitar Enthusiasts Shareable Photos & Music Downloads for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-non-responsive-buttons-on-hp-laptops-expert-advice/"><u>Quick Fixes for Non-Responsive Buttons on HP Laptops: Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-undetected-bluetooth-devices-in-windows-11/"><u>Troubleshooting Guide: Resolving Undetected Bluetooth Devices in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/universal-guide-viewing-icloud-photos-on-macs-pcs-and-smartphones/"><u>Universal Guide: Viewing iCloud Photos on Macs, PCs, and Smartphones</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

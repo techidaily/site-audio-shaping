@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac)
-date: 2024-09-04T06:20:54.049Z
-updated: 2024-09-05T06:20:54.049Z
+date: 2024-09-26T09:42:50.289Z
+updated: 2024-09-30T18:05:26.044Z
 tags: 
   - audio editing software
   - audio editing
@@ -67,6 +67,13 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
 
 Once you have learned how to use the Adobe Premiere keyframe feature, you can apply all kinds of transitions and effects to a segment. Let’s suppose you wish to implement fade-in or out features for any segment. In this case, we will use the Clip Keyframing option in Premiere Pro to achieve these transitions the way we like.
@@ -79,6 +86,13 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Apply Fade-in or Out options**
 
 Once you have clip keyframes in your track, you can easily do whatever you like. You can use the **Pen** tool or press the CMD key on your Mac to select the starting and the ending of the clip.
@@ -86,6 +100,13 @@ Once you have clip keyframes in your track, you can easily do whatever you like.
 Now, go to the audio segment from the timeline and simply place the audio level up (to fade-in) or down (to fade-out). You can set the audio levels for different segments the way you like to customize these operations in your audio track.
 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
 
@@ -101,13 +122,18 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -115,9 +141,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-share-of-pics-heres-how-you-do-it-right/"><u>[New] In 2024, Quick Share of Pics? Here's How You Do It Right</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-insight-into-top-10-youtube-mp3-downloader-apps/"><u>[Updated] 2024 Approved Insight Into Top 10 YouTube MP3 Downloader Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screenshots-and-beyond-advanced-screen-recording-for-apple-products-for-2024/"><u>[Updated] Screenshots & Beyond Advanced Screen Recording for Apple Products for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-solutions-resolving-the-fifa-19-directx-glitch-quickly/"><u>Effortless Solutions: Resolving the FIFA 19 DirectX Glitch Quickly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-iphones-and-viruses-why-traditional-antivirus-might-not-be-necessary/"><u>Exploring iPhones and Viruses: Why Traditional Antivirus Might Not Be Necessary</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-spotifys-performance-issues-on-desktop-solutions-for-a-smoother-listening-experience/"><u>Fixing Spotify's Performance Issues on Desktop - Solutions for a Smoother Listening Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>In 2024, From Passive Viewers to Earnings YouTube's Monetization Mastery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-v27e-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo V27e</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-troubleshooting-a-10-step-approach-for-wifi-adapter-repair/"><u>Mastering Troubleshooting: A 10-Step Approach for WiFi Adapter Repair</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-cutting-out-cacophony-5-innovative-ways-to-delete-audio-in-streaming-video-content-online/"><u>Updated In 2024, Cutting Out Cacophony 5 Innovative Ways to Delete Audio in Streaming Video Content Online</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-free-audio-magic-at-your-fingertips-the-essential-top-10-sound-blending-software/"><u>Updated In 2024, Free Audio Magic at Your Fingertips The Essential Top 10 Sound Blending Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-linuxs-leading-picks-for-sound-recording-an-in-depth-look-at-top-tools-and-proven-techniques/"><u>Updated In 2024, Linuxs Leading Picks for Sound Recording An In-Depth Look at Top Tools & Proven Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-navigating-the-world-of-omegle-an-overview-and-safety-concerns/"><u>Updated In 2024, Navigating the World of Omegle An Overview and Safety Concerns</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-8-digital-audio-workstations-daws-revolutionizing-contemporary-rap-and-randb-creation/"><u>Updated In 2024, Top 8 Digital Audio Workstations (DAWs) Revolutionizing Contemporary Rap and R&B Creation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-8-voice-recognition-tools-windows-macos-and-cloud-solutions-roundup-for-2024/"><u>Updated Premier 8 Voice Recognition Tools Windows, macOS & Cloud Solutions Roundup for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-step-by-step-eliminating-rhythm-units-from-your-songs-digitally/"><u>Updated Step-by-Step Eliminating Rhythm Units From Your Songs Digitally</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-syncing-sound-a-comprehensive-approach-to-matching-timelines-of-audio-and-video-in-fcpx/"><u>Updated Syncing Sound A Comprehensive Approach to Matching Timelines of Audio and Video in FCPX</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-synthesizing-authenticity-two-paths-to-cloning-human-like-ai-vocalizations/"><u>Updated Synthesizing Authenticity Two Paths to Cloning Human-Like AI Vocalizations</u></a></li>
+</ul></div>
+

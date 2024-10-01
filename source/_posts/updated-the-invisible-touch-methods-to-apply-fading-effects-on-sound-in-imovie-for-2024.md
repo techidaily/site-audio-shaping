@@ -1,7 +1,7 @@
 ---
 title: Updated The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie for 2024
-date: 2024-09-21T18:14:03.833Z
-updated: 2024-09-25T23:01:26.234Z
+date: 2024-09-26T19:23:05.950Z
+updated: 2024-09-30T19:59:25.030Z
 tags: 
   - audio editing software
   - audio editing
@@ -52,10 +52,10 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
@@ -67,13 +67,6 @@ Firstly, let's take a look at the video below to check how to fade audio in/out 
 When the project opens, check "Show Waveforms" at the bottom of the Project window.
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
@@ -91,6 +84,13 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
 To fade audios in and out in iMovie with the audio inspector, you can follow these steps:
@@ -100,13 +100,6 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -121,6 +114,13 @@ If you manually adjust the effect, you can have a better effect.
 #### Step 3. Save the Audio Fade In and Out Effect
 
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -147,10 +147,10 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3. Save Your Video
@@ -178,22 +178,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ptimizing-engagement-using-cards-and-annotations-for-2024/"><u>[New] Optimizing Engagement Using Cards and Annotations for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-crescendo-of-creativity-the-best-matched-music-for-every-video-format/"><u>2024 Approved Crescendo of Creativity The Best Matched Music for Every Video Format</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-premier-collectors-list-top-shorts-for-free-online/"><u>2024 Approved Premier Collector's List Top Shorts for FREE Online</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breeze-through-basic-numbers-in-japanese/"><u>Breeze Through Basic Numbers in Japanese!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-ideal-eq-settings-to-maximize-your-devices-hearing-capabilities/"><u>In 2024, Ideal EQ Settings to Maximize Your Devices Hearing Capabilities</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-add-music-to-igtv/"><u>New 2024 Approved Add Music to IGTV</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-how-to-add-audio-to-avi/"><u>New In 2024, How to Add Audio to AVI</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-complete-pexels-primer-knowledge-essential-for-graphic-designers-and-marketers/"><u>New The Complete Pexels Primer Knowledge Essential for Graphic Designers and Marketers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-puzzle-of-production-piecing-together-roles-for-an-immersive-filming-experience/"><u>New The Puzzle of Production Piecing Together Roles for an Immersive Filming Experience</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/reshape-your-video-content-with-these-5-no-cost-online-converters/"><u>Reshape Your Video Content with These 5 No-Cost, Online Converters!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unleash-potential-a-comprehensive-guide-to-youtube-backlink-building-for-2024/"><u>Unleash Potential A Comprehensive Guide to YouTube Backlink Building for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-of-lgs-basic-4k-tv-model-um73eekv1-a-savvy-buyers-guide/"><u>Unveiling the Features of LG's Basic 4K TV Model, UM73eekv1: A Savvy Buyer’s Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-enhance-visual-storytelling-techniques-for-seamless-audio-integration-in-adobe-after-effects/"><u>Updated Enhance Visual Storytelling Techniques for Seamless Audio Integration in Adobe After Effects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-mute-audio-in-windows-movie-maker-for-2024/"><u>Updated How to Mute Audio in Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-s17e-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo S17e Device</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-how-much-does-pewdiepie-make-yearly-financial-report-for-2024/"><u>[New] How Much Does PewDiePie Make - Yearly Financial Report for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-keep-watching-youtube-on-the-go-with-iphoneandroid/"><u>[New] In 2024, Keep Watching YouTube On-the-Go with iPhone/Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dslr-mastery-broadcasting-with-facebook-live-via-computer-for-2024/"><u>[Updated] DSLR Mastery Broadcasting with Facebook Live via Computer for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-cloud-storage-vendors-a-comparative-pricing-analysis/"><u>2024 Approved Leading Cloud Storage Vendors A Comparative Pricing Analysis</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-revolutionizing-sounds-five-key-digital-audio-alteration-tools/"><u>2024 Approved Revolutionizing Sounds Five Key Digital Audio-Alteration Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-essential-users-manual-for-effective-use-of-mobizen-screensaver/"><u>2024 Approved The Essential User's Manual for Effective Use of Mobizen Screensaver</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-elden-ring-lag-6-rapid-fixes-for-fps-drops-and-stutters/"><u>Fix Your 'Elden Ring' Lag: 6 Rapid Fixes for FPS Drops & Stutters</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-digital-soundtrack-the-ultimate-dj-collection-for-2024/"><u>New Digital Soundtrack The Ultimate DJ Collection for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-discovering-areas-where-public-acclaim-echoes-powerfully/"><u>New Discovering Areas Where Public Acclaim Echoes Powerfully</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>New Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/nine-spectacular-platforms-for-accessing-copyright-free-funny-audio-for-2024/"><u>Nine Spectacular Platforms for Accessing Copyright-Free Funny Audio for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-the-spectacle-best-practices-for-cooking-channel-titling-for-2024/"><u>Savor the Spectacle Best Practices for Cooking Channel Titling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sonys-game-console-enhance-auditory-experience-for-2024/"><u>Sony's Game Console Enhance Auditory Experience for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-what-you-should-know-about-pexelscom/"><u>Updated 2024 Approved What You Should Know About Pexels.com</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-procuring-immersive-dragon-roar-soundscape/"><u>Updated In 2024, Procuring Immersive Dragon Roar Soundscape</u></a></li>
 </ul></div>
 

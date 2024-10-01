@@ -1,7 +1,7 @@
 ---
 title: "The Distinctive Chinese Mini Computer: Exceptional U Form Factor & Extra External PCIe Interface"
-date: 2024-09-18T20:18:20.801Z
-updated: 2024-09-26T04:02:18.633Z
+date: 2024-09-25T01:58:04.469Z
+updated: 2024-09-30T19:18:39.235Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -67,13 +74,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
   
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
@@ -100,13 +100,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  To go with this Intel processor, we're using an ASRock B760M-HDV motherboard because it supports 14th Gen CPUs without a BIOS update. It's a DDR4 board so we can save money by using DDR4 memory. It also features two M.2 slots for SSDs, with one of them supporting PCIe 4.0 drives.
@@ -115,13 +108,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  The card can also do some ray tracing as it averaged 41.7 fps on 1080p ultra with ray tracing enabled. Forget about playing in 2K with ray tracing as that only gave us 25.8 fps.
@@ -129,6 +115,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  For our storage, we're going with the 1TB Silicon Power UD90\. This budget-oriented PCIe 4.0 SSD can't beat the top-of-the-line drives like the Samsung 990 Pro or[WD](https://www.tomshardware.com/tag/western-digital) Black SN850X, but it has really strong performance for the money, promising sequential reads and writes of 4,800 and 4,200 MBps.
 
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -182,6 +175,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
@@ -210,13 +210,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're also upgrading the CPU to[Intel's Core i5-14600KF](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , an overclockable processor that has 6 performance cores, 8 efficiency cores, 20 threads and a boost clock of 5.3 GHz. That's before you attempt to overclock it.
@@ -229,6 +222,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
@@ -236,10 +236,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best $2000 PC Build for Gaming
@@ -292,16 +292,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  To power all these high-end components, we're using a Corsair RM750e PSU which is 80+ Gold certified and fully modular.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best $4000+ PC Build for Gaming
 
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -328,10 +328,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -343,10 +343,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -384,17 +384,21 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-screenshot-simplicity-compatible-free-capturing-apps-for-windows/"><u>[New] In 2024, Screenshot Simplicity Compatible Free Capturing Apps for Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-sideways-to-symmetry-mastering-the-art-of-rotating-visual-content-for-maximum-engagement/"><u>[Updated] 2024 Approved From Sideways to Symmetry Mastering the Art of Rotating Visual Content for Maximum Engagement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-def-phones-with-vlogging-extras/"><u>[Updated] High-Def Phones with Vlogging Extras</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convert-wav-audio-tracks-free-into-mp4-format-with-movavis-web-tool/"><u>Convert WAV Audio Tracks Free Into MP4 Format with Movavi's Web Tool</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminate-pc-game-crashes-in-cult-of-the-lamb-with-these-easy-repairs/"><u>Eliminate PC Game Crashes in Cult of The Lamb with These Easy Repairs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-tips-securing-your-best-gaming-moments-with-4-methods-for-2024/"><u>Expert Tips Securing Your Best Gaming Moments with 4 Methods for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-achieving-clear-sound-mixes-with-audio-ducking-techniques-in-adobe-premiere-pro-for-windows-users/"><u>In 2024, Achieving Clear Sound Mixes with Audio Ducking Techniques in Adobe Premiere Pro for Windows Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/silent-streams-cutting-the-chatter-of-video-audio-tracks/"><u>Silent Streams Cutting the Chatter of Video Audio Tracks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/top-youtube-audio-gems-for-daily-listening-for-2024/"><u>Top YouTube Audio Gems for Daily Listening for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-streamlined-techniques-for-audio-excision-in-mobile-and-desktop-video-files/"><u>Updated 2024 Approved Streamlined Techniques for Audio Excision in Mobile and Desktop Video Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-foundations-of-cinematography-15-must-know-shot-types/"><u>[New] Foundations of Cinematography 15 Must-Know Shot Types</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-visual-aesthetics-adding-black-bar-and-box-to-videos/"><u>[New] In 2024, Enhancing Visual Aesthetics Adding Black Bar & Box to Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-to-the-best-10-affordable-online-channels-for-graphic-design/"><u>[New] In 2024, Navigating to the Best 10 Affordable Online Channels for Graphic Design</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-precision-sound-transmitter-for-casters-for-2024/"><u>[New] Precision Sound Transmitter for Casters for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-perfecting-content-aesthetics-crafting-personalized-thumbnails/"><u>[Updated] In 2024, Perfecting Content Aesthetics Crafting Personalized Thumbnails</u></a></li>
+<li><a href="https://facebook.techidaily.com/groundbreaking-tools-aid-in-managing-digital-social-spaces/"><u>Groundbreaking Tools Aid in Managing Digital Social Spaces</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972802593-improve-your-gaming-with-new-drivers-download-for-logitech-g43gaming-headset-now/"><u>Improve Your Gaming with New Drivers - Download for Logitech G43^Gaming Headset Now!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-elite-ios-music-editing-tools-the-top-4-apps/"><u>In 2024, Elite iOS Music Editing Tools The Top 4 Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-expertly-curated-list-of-premier-audio-trimming-software-websites/"><u>In 2024, Expertly Curated List of Premier Audio Trimming Software Websites</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-5-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-anthology-of-gargantuan-groans-and-howls/"><u>New 2024 Approved Anthology of Gargantuan Groans and Howls</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-complete-users-manual-to-expertly-navigate-twistedwaves-audio-workflow/"><u>New The Complete Users Manual to Expertly Navigate TwistedWaves Audio Workflow</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-creating-effective-bar-charts-with-microsoft-excel/"><u>Step-by-Step Guide: Creating Effective Bar Charts with Microsoft Excel</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-fine-tuning-your-films-rhythm-synchronizing-soundtracks-with-video-in-final-cut-pro-x/"><u>Updated 2024 Approved Fine-Tuning Your Films Rhythm Synchronizing Soundtracks with Video in Final Cut Pro X</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-artisans-approach-to-integrating-fade-out-effects-in-audio-design-updated-for-today/"><u>Updated 2024 Approved The Artisans Approach to Integrating Fade-Out Effects in Audio Design, Updated for Today</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/vintage-vs-modern-ranking-radio-sound-effects/"><u>Vintage Vs. Modern Ranking Radio Sound Effects</u></a></li>
 </ul></div>
 

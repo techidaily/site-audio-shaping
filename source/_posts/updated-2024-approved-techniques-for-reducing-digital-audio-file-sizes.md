@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Techniques for Reducing Digital Audio File Sizes
-date: 2024-08-03T02:03:10.223Z
-updated: 2024-08-04T02:03:10.223Z
+date: 2024-09-26T22:53:07.533Z
+updated: 2024-10-01T09:19:05.932Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 # How to Lower Volume of the Media Files
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -31,16 +28,17 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
  Try this free software to lower the volume in the media files
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Lower Volume of the Media Files Step by Step Guide
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1 Add media files you want to lower volume
 
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
@@ -48,8 +46,19 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2 Lower volume of the media files
 
  Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
@@ -58,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### 3 Save the files
 
  Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
@@ -80,13 +83,18 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -94,3 +102,21 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-boost-your-tiktok-presence-zoom-integration-guide/"><u>[New] Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cash-in-comms-how-much-does-youtube-star-pewdopeep-make-in-2024/"><u>[New] Cash in Comms How Much Does YouTube Star PewDoPeep Make, In 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-evaluating-auroras-high-dynamic-range-benefits/"><u>[New] Evaluating Aurora's High Dynamic Range Benefits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-iconic-acting-snapshot-review-for-2024/"><u>[Updated] Iconic Acting Snapshot Review for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-zooms-video-enhancements-filter-techniques/"><u>2024 Approved Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-unveiling-the-best-music-production-software-how-does-magix-samplitude-stack-up/"><u>2024 Approved Unveiling the Best Music Production Software How Does MAGIX Samplitude Stack Up?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-virtual-vice-versa-top-10-alternative-crime-games/"><u>2024 Approved Virtual Vice Versa Top 10 Alternative Crime Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-5-home-movie-maker/"><u>Cutting-Edge 5 Home Movie Maker</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-magic-5-lite-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor Magic 5 Lite?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>In 2024, Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-navigating-alternative-sound-editing-tools-top-7-on-mobile-platforms-for-2024/"><u>New Navigating Alternative Sound Editing Tools Top 7 on Mobile Platforms for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023-for-2024/"><u>New Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023) for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-aural-journey-illustrating-sound-patterns-with-waveform-graphics-and-dynamic-animations-in-nle-essential/"><u>Updated Aural Journey Illustrating Sound Patterns with Waveform Graphics and Dynamic Animations in NLE Essential</u></a></li>
+</ul></div>
+

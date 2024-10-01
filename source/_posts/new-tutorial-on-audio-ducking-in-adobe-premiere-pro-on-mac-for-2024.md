@@ -1,7 +1,7 @@
 ---
 title: New Tutorial on Audio Ducking in Adobe Premiere Pro on Mac for 2024
-date: 2024-08-03T02:02:46.496Z
-updated: 2024-08-04T02:02:46.496Z
+date: 2024-09-29T23:05:50.398Z
+updated: 2024-10-01T11:22:14.651Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 # Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ Too many times, while mixing voiceover with the background music in a video, the
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -63,21 +57,30 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -103,11 +106,14 @@ That’s it! After making the changes, just click on the “OK” button and Fil
 
 Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -115,11 +121,29 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-elevate-your-visual-narratives-with-mastered-stories-bokeh/"><u>[New] 2024 Approved Elevate Your Visual Narratives with Mastered Stories Bokeh</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/est-alternative-editors-for-youtube-creators-seeking-new-horizons/"><u>[New] Best Alternative Editors for YouTube Creators Seeking New Horizons</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-synthetic-cat-chirp-recording/"><u>2024 Approved Synthetic Cat Chirp Recording</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726026727722-windows-11/"><u>限定的なオーディオ設定でWindows 11スクリーンを効果的に録画するテクニック</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-and-efficient-ourlink-usb-wireless-adapter-model-u631/"><u>Compact & Efficient OURLINK USB Wireless Adapter - Model U631</u></a></li>
+<li><a href="https://win-answers.techidaily.com/demystifying-solutions-for-death-stranding-pc-freezing-dilemmas/"><u>Demystifying Solutions for Death Stranding PC Freezing Dilemmas</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-advice-erasing-phone-data-without-professional-help/"><u>Expert Advice: Erasing Phone Data Without Professional Help</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a05-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy A05 Phone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-exploring-lexis-audio-editor-insights-demos-and-step-by-step-guides/"><u>New 2024 Approved Exploring Lexis Audio Editor Insights, Demos, and Step-by-Step Guides</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exploring-acoustic-illusions-in-motion-techniques-to-illustrate-sound-tracks-via-animated-waveforms-within-premiere-pro-workflow-for-2024/"><u>New Exploring Acoustic Illusions in Motion Techniques to Illustrate Sound Tracks via Animated Waveforms Within Premiere Pro Workflow for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-harmonious-editing-adding-music-to-media-projects-via-filmora-software-for-2024/"><u>New Harmonious Editing Adding Music to Media Projects via Filmora Software for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-untangling-the-web-of-words-approaches-to-remove-unwanted-auditory-elements-from-video-streaming-for-2024/"><u>New Untangling the Web of Words Approaches to Remove Unwanted Auditory Elements From Video Streaming for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/understanding-the-m4v-format-a-comprehensive-guide-on-how-to-access-and-play-your-videos/"><u>Understanding the M4V Format: A Comprehensive Guide on How to Access and Play Your Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-iconic-public-music-pieces-for-sequential-artworks/"><u>Updated Iconic Public Music Pieces for Sequential Artworks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-guide-to-adding-auto-tuned-magic-in-audacity-for-2024/"><u>Updated The Ultimate Guide to Adding Auto-Tuned Magic in Audacity for 2024</u></a></li>
+</ul></div>
+

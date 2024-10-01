@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mute Sound Effects and Integrate Fresh Soundtracks Within Windows Film Maker Toolkit
-date: 2024-08-03T01:59:09.472Z
-updated: 2024-08-04T01:59:09.472Z
+date: 2024-09-23T19:39:08.231Z
+updated: 2024-10-01T06:40:55.225Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
 # How to Mute Audio in Windows Movie Maker?
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 * [Part 2: Adding a New Audio Clip to a Video](#part2)
 * [Part 3: A Better Way to Replace Original Audio on Windows](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Mute Audio in Windows Movie Maker?
 
  Muting the audio in a video clip is simple, regardless of the video editing software you're using. Windows Movie Maker lets you mute audio in just a few steps, so let's see how you can mute videos with this video editor.
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
@@ -78,17 +69,12 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
  Windows Movie Maker has been discontinued a while ago, and its video and audio editing tools only enable you to perform basic video editing tasks. We suggest using Wondershare Filmora if you would like to mute or replace audio files in your videos because it offers more powerful audio and video editing features. Here's how you can mute or replace audio files in Wondershare Filmora.
@@ -97,21 +83,29 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
  If you want to add a new audio clip to your project and replace the old one, you should select the existing audio file and press the delete button on your keyboard. You can then drag and drop the new audio file to the timeline from the software's Media Bin, or the **Music tab**, in case you decide to use songs featured in Filmora's music library. You can cut, trim or adjust the start and end position of the audio file or use some of the audio effects the software offers. When done, click on the **Export** button and select the output format that is most suitable for the project you're working on.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -119,13 +113,18 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -133,3 +132,23 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturewiz-windows-10s-snapshot-hero/"><u>[New] 2024 Approved CaptureWiz Windows 10'S Snapshot Hero</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-p40-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel P40</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-realme-gt-5-240w-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Realme GT 5 (240W) to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-depth-system-insights-from-toms-computer-resource-hub/"><u>In-Depth System Insights From Tom's Computer Resource Hub</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/insider-secrets-to-record-sims-gaming/"><u>Insider Secrets to Record Sims Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-6-video-languages-conversion-aids-for-2024/"><u>Leading 6 Video Languages Conversion Aids for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-tech-choices-with-insights-from-toms-hardware/"><u>Mastering Tech Choices With Insights From Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-appdisplay-issue-ms-resourcetext-problem-in-windows-11/"><u>Overcoming AppDisplay Issue: Ms-Resource/Text Problem in Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/toms-tech-insights-comprehensive-reviews-and-news/"><u>Tom's Tech Insights: Comprehensive Reviews and News</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-ensuring-cyber-wellness-in-remote-relationships-tips-to-shield-against-digital-risks/"><u>Updated In 2024, Ensuring Cyber Wellness in Remote Relationships Tips to Shield Against Digital Risks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-leading-sites-for-accessing-true-nature-audio-archives/"><u>Updated Leading Sites for Accessing True Nature Audio Archives</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-step-by-step-an-essential-tutorial-on-editing-your-first-podcast-for-2024/"><u>Updated Step-by-Step An Essential Tutorial on Editing Your First Podcast for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-a-louder-sharper-speech-filmmakers-guide-to-voice-projection-using-filmora/"><u>Updated The Art of a Louder, Sharper Speech Filmmakers Guide to Voice Projection Using Filmora</u></a></li>
+</ul></div>
+

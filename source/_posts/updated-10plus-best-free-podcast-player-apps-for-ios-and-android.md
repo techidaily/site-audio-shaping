@@ -1,7 +1,7 @@
 ---
 title: Updated 10+ Best FREE Podcast Player Apps for iOS and Android
-date: 2024-08-03T02:00:30.920Z
-updated: 2024-08-04T02:00:30.920Z
+date: 2024-09-25T03:31:04.608Z
+updated: 2024-10-01T05:21:40.506Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,18 +28,12 @@ It has been a little over fifteen years since Ben Hammersley coined the term pod
 
 Even though podcasts often have the form of a talk show, the topics podcasters cover in their shows range from presenting the latest music releases to discussing political topics. Listening to a podcast from a Smartphone without a player is not an option, which is why we made a selection of some of the best podcast player apps for iPhone and Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Best Free Podcast Player Apps for iOS and Android Devices
 
 Nearly all **podcast player apps** have similar features. You can discover new shows, limit how many episodes can be downloaded to your device or reduce silences to the very minimum.
 
 The list of features a podcast player provides should help you determine if that app is the right choice for you. Here are some of the best free podcast player apps for iOS and Android devices you can find on the market in 2019.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### 1\. Breaker
 
 **Price:** Free, but offers in-app purchases
@@ -48,32 +42,43 @@ The list of features a podcast player provides should help you determine if that
 
 ![Best Podcast Player App - Breaker ](https://images.wondershare.com/filmora/article-images/breaker-the-social-podcast-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Discovering new podcasts, **connecting with friends** who use Breaker or sharing the latest episode of the podcast you’re following on Facebook or Twitter is easy with this podcast player. Moreover, the app lets you see **which podcasts your friends like the most** so you can send them messages and start conversations about an episode you like.
 
 Breaker enables you to create your own playlists and customize them in any way you want. The Sleep Timer feature can be useful if you're going to set up the episode playing time before your iPhone goes to the Sleep mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Castbox
 
 **Price:** Free, but offers in-app purchases
 
 **Compatibility:**[iOS](https://apps.apple.com/app/castbox-radio/id1243410543), [Android](https://play.google.com/store/apps/details?id=fm.castbox.audiobook.radio.podcast&hl=en)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Best Podcast Player App - Castbox ](https://images.wondershare.com/filmora/article-images/castbox-podcast-player.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Castbox lets you browse through million podcast episodes and choose from a variety of podcast genres. So, if you would like to follow the latest episodes of music and news related podcasts or talk shows, Castbox may be one of the best options on the market.
 
 This cross-platform app is equipped with the tools that enable you to **adjust the audio playback speed**, trim silence or customize the sleep timer. You can subscribe to any podcast you discover with Castbox with a single tap, but you must make in-app purchases if you want to access to all features.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Himalaya
 
 **Price:** Free
@@ -86,18 +91,12 @@ This app for Android and iOS devices lets you **listen to radio shows, audiobook
 
 The app grants you access to more than 500, 000 shows that are organized into 30 categories so you can easily choose a topic and search for an episode you’d like to listen to. Himalaya features a sleep timer, which means that you can listen to your favorite podcast before you fall asleep.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### 4\. Downcast
 
 **Price:** $2,99, offers in-app purchases
 
 **Compatibility:** [iOS](https://apps.apple.com/us/app/downcast/id393858566)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Best Podcast Player App - downcast ](https://images.wondershare.com/filmora/article-images/downcast-podcast-player.jpg)
 
 This podcast player provides all the features you are going to need for a **superb podcasting experience**. Subscribing to a new podcast with this app is a straightforward process which can be completed in an instant. You can also choose if you want to **download episodes to your device automatically** or browse through old episodes of podcasts you subscribed to.
@@ -116,9 +115,6 @@ Politics, sports, or comedy are just a few topics podcasts available on Stitcher
 
 The app is compatible with more than fifty car models, which enables you to **enjoy podcasts while driving.** However, the free version of the app offers limited capabilities, and you must upgrade to the premium version if you want to have the full scope of the app’s options.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 6\. Pocket Casts
 
 **Price:** Free, but offers in-app purchases
@@ -133,9 +129,6 @@ Moreover, the **Car Play feature** enables you to play audio and video podcasts 
 
 Besides, you can play all episodes on your TV or your sound system using the **Airplay and Chromecast integrations**. The only downside is that you have to **purchase the annual or monthly plan** if you want to use all of the Pocket Casts’ podcasting options.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Apple Podcasts
 
 **Price:** Free
@@ -152,28 +145,18 @@ The platform’s editor recommends the shows based on your browsing history and 
 
 **Compatibility:** [web-based](https://www.spotify.com/), [iOS](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580), [Android](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Best Podcast Player App - Spotify ](https://images.wondershare.com/filmora/article-images/spotify-music-and-podcasts.jpg)
 
 People from all over the world have been using Spotify to enjoy music from virtually any genre ever created. This Swedish-American company has been investing a lot into its podcasting services in the last couple of years.
 
 Today Spotify offers access to podcasters to one of the most massive online audiences. Finding new shows and following the latest episodes your favorite podcasters share on this platform is as easy as discovering a new band. There are thousands of podcasts to browse through on Spotify, and some of them can only be played through this podcast player, either online or on iPhone or Android devices.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. Overcast
 
@@ -193,18 +176,12 @@ The app also provides **CarPlay support** and allows you to listen to your favor
 
 **Compatibility:** [iOS](https://apps.apple.com/us/app/castro-podcast-player/id1080840241)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Best Podcast Player App - Castro Podcast Player ](https://images.wondershare.com/filmora/article-images/castro-podcast-player.jpg)
 
 Managing large numbers of episodes with Castro won’t take much more than a few moments of your time. Subscribe to a podcast you like, and all of the latest episodes will land in the New tab. You can then decide if you want to add them to the queue and listen to them while you are driving or on your iPhone.
 
 The free version of the app doesn’t allow you to skip intros, enhance voices or reduce silence, and you must purchase Castro Plus to access these options. Before you decide to install Castro or Castro Plus on your device, you must make sure that the app is compatible with the version of iOS you have.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 11\. Podbean
 
 **Price:** Free but offers in-app purchases
@@ -213,9 +190,23 @@ The free version of the app doesn’t allow you to skip intros, enhance voices o
 
 ![Best Podcast Player App - Podbean Podcast Player ](https://images.wondershare.com/filmora/article-images/podbean-podcast-app-player.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With the selection of over 50 million episodes, Podbean is easily one of the most versatile podcast player apps on this list. You can search for podcasts based on the topic you are interested in, or browse through different categories, and use the name of the podcast, or the author’s name to find the episode you are looking for.
 
 Podbean is equipped with an **audio recorder** that features a rich selection of audio effects and a versatile set of audio editing tools. Moreover, the app provides support for live audio streaming so you can create or listen to live broadcast directly from your Smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 12\. Laughable
 
@@ -225,9 +216,29 @@ Podbean is equipped with an **audio recorder** that features a rich selection of
 
 ![Best Podcast Player App - Laughable Podcast Player ](https://images.wondershare.com/filmora/article-images/laughable-podcast-player-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Keeping in touch with the latest trends in the comedy world is going to become easy if you install Laughable on your device. The app hosts the world’s largest database of comedy artist profiles and enables you to discover and follow comedians effortlessly. Each time they release a new episode of their podcast or make a guest appearance, you’ll receive a notification, which enables you to follow their latest work.
 
 Besides an impressive collection of comedy podcasts, Laughable also lets you browse through podcasts featuring celebrities like Jordan Peterson, Barak Obama or Oprah. The app is free for just ten days, afterward, you must upgrade to Laughable Insider if you want to have access to all the shows and episodes this podcast player has to offer.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Pick the Right Podcast Player App?
 
@@ -256,9 +267,6 @@ Below is a brief summary of the podcast player app listed above. Hope it can hel
 
 Listening to your favorite podcasts wherever you are, has never been easier, even if you don’t have access to the Internet. Podcast player apps like Spotify or Himalaya grant you access to millions of episodes, but each app we featured in this article can provide a superb experience. Which app are you using to listen to podcasts on your iOS and Android devices? Leave a comment and let us know.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -267,11 +275,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-virtual-vanguard-10-most-liked-youtubers/"><u>[New] 2024 Approved Virtual Vanguard 10 Most Liked YouTubers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/etting-started-with-youtube-tv-a-must-read-article/"><u>[New] Getting Started with YouTube TV A Must-Read Article</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-converting-yt-to-igtv-3-effective-methods/"><u>[New] In 2024, Converting YT to IGTV 3 Effective Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-innovative-cloud-storage-options-in-2s024/"><u>[New] Unveiling Innovative Cloud Storage Options in 2S024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-inside-look-a-detailed-review-of-the-android-lightroom-app/"><u>2024 Approved Inside Look A Detailed Review of the Android Lightroom App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723014156726-assassins-creed-odyssey-on-pc-say-goodbye-to-crashes-and-hello-to-uninterrupted-epic-quests/"><u>Assassin's Creed Odyssey on PC: Say Goodbye to Crashes and Hello to Uninterrupted Epic Quests</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-itel-p55-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-advanced-techniques-for-audio-detachment-in-newly-updated-mkv-files-mkv-2023/"><u>In 2024, Advanced Techniques for Audio Detachment in Newly Updated MKV Files (MKV-2023)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-audiophiles-toolkit-implementing-smooth-audio-transitions-with-ducking-in-adobe-premiere-pro-mac/"><u>In 2024, Audiophiles Toolkit Implementing Smooth Audio Transitions with Ducking in Adobe Premiere Pro (Mac)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-crafting-your-perfect-minecraft-shelter/"><u>In 2024, Crafting Your Perfect Minecraft Shelter</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-filmorians-guide-to-eloquent-volume-dynamics-using-keyframe-editing-on-macos/"><u>In 2024, The Filmorians Guide to Eloquent Volume Dynamics Using Keyframe Editing on macOS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-ultimate-guide-to-background-music-sets-for-video-creators-download/"><u>New 2024 Approved The Ultimate Guide to Background Music Sets for Video Creators - Download</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-clearing-up-clarity-advanced-noise-reduction-tips-for-adobe-premiere-users/"><u>New In 2024, Clearing Up Clarity Advanced Noise Reduction Tips for Adobe Premiere Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-converting-audio-to-text/"><u>New In 2024, Converting Audio to Text</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-craft-a-no-cost-audio-driven-visual-experience/"><u>New In 2024, Craft a No-Cost, Audio-Driven Visual Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-sound-engineers-approach-to-detaching-bass-from-mixed-tracks/"><u>New The Sound Engineers Approach to Detaching Bass From Mixed Tracks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Open | Dr.fone</u></a></li>
+</ul></div>
+
