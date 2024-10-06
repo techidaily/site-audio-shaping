@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Perfecting Audio Levels in Film and Streaming Content
-date: 2024-08-10T03:15:34.714Z
-updated: 2024-08-11T03:15:34.714Z
+date: 2024-09-30T19:09:21.610Z
+updated: 2024-10-06T16:45:12.990Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 # How to Adjust Audio Volume in Videos \[4 Ways\]
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,18 +30,12 @@ The fact of the matter is that even a minor error in the video’s soundtrack ca
 
 To increse the volume of your video, [click here.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Four Ways of Adjusting Audio Volume in Filmora
 
 The audio clips often have different volume levels, so in order to create a balanced soundtrack, you have to adjust the volume of each audio track you intend to use in your projects. Filmora offers several different ways to adjust the volume of audio files quickly and effortlessly. Here’s how you can increase or decrease the volume of the audio clips in Filmora.
 
 Download Filmora and watch the video below to get a full knowledge abtou adjusting volume!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1. Changing the Audio Volume of Entire Track
@@ -63,18 +54,12 @@ Filmora also lets you create the Fade In and Fade Out effect directly from the t
 
 On the left side of the Audio Editing panel that can be accessed by double clicking on an audio file, you will be able to see the **volume slider.** Its value is going to be set to **0 dB** by default and you just have to **drag it upward or downward** in order to adjust the audio volume. As you drag the slider the new audio volume value is going to be displayed in a box below the slider. The **left/right balance value** can be adjusted by **dragging the knob** that is located above the volume slider in either direction. Alternatively, you can **insert a new numerical value in the box** below the knob. If the displayed value is **0 dB, then the left and right channels are balanced**, while the value of **\-100 dB** means that all the sound goes through the left channel and if the displayed value is **100 dB** all the sound will go through the right channel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![stereo-mode](https://images.wondershare.com/filmora/guide/stereo-mode.jpg)
 
 #### 4. Adding Keyframes to Adjust the Audio Volume
 
 Once you add an audio file to the timeline you can adjust its volume by **adding keyframes** to it. **Place** **the playhead to the exact spot in the audio file** where you want to add the first keyframe and then **double click on the file to bring up the Audio Editing panel**. Click on the **Add Volume Keyframes** icon and **use the volume slider to adjust the volume** at the position of the first keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![animation-customize](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
 Simply **move the playhead and change the value on the volume slider** to add new keyframes to the audio file. This method of adjusting audio volume enables you to set different volume values for different parts of an audio file.[](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -85,9 +70,6 @@ Still not solved? Try this [audio guide of Filmora](https://tools.techidaily.com
 
 Having complete control over the volume of all audio files you use in your projects is important for so many different reasons. Filmora offers four easy ways to adjust the audio volume so you can focus on more important tasks. Which method of adjusting the audio volume in Filmora do you like to use the most? Leave a comment and let us know.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -96,12 +78,36 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-simplifying-the-world-of-ifunnys-meme-application/"><u>[New] 2024 Approved Simplifying the World of iFunny's Meme Application</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-unlocking-the-full-potential-of-tiktok-videos-from-pcmac-devices-for-2024/"><u>[New] Unlocking the Full Potential of TikTok Videos (From PC/MAC Devices) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-battle-of-live-streamers-twitch-versus-youtube-for-2024/"><u>[Updated] The Battle of Live Streamers Twitch Versus YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-cease-automatic-footage-collection-qt/"><u>2024 Approved Cease Automatic Footage Collection QT</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-echoes-to-silence-advanced-noise-reduction-tactics-using-audacity/"><u>2024 Approved Echoes to Silence Advanced Noise Reduction Tactics Using Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-top-6-best-free-online-audio-editor-to-use-100-free/"><u>2024 Approved Top 6 Best Free Online Audio Editor to Use (100 Free)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easy-safe-and-cost-free-the-leaders-guide-to-downloading-pins/"><u>Easy, Safe, and Cost-Free The Leader's Guide to Downloading Pins</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-motorola-edge-40-neo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Edge 40 Neo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionedit-pro/"><u>In 2024, VisionEdit Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-uncover-the-secrets-to-quieting-tiktoks-background-noise-simple-tricks-revealed/"><u>New In 2024, Uncover the Secrets to Quieting TikToks Background Noise Simple Tricks Revealed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/premium-audio-transformation-tool-free-mp3-creation-from-mpa-files/"><u>Premium Audio Transformation Tool Free MP3 Creation From MPA Files</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/resolve-your-rokus-hevch265-video-streaming-issues-easy-fixes-inside/"><u>Resolve Your Roku's HEVC/H.265 Video Streaming Issues - Easy Fixes Inside!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-motorola-moto-g34-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Moto G34 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-elimination-mastery-a-step-by-step-guide-on-trimming-sounds-from-apple-videos/"><u>Updated In 2024, Audio Elimination Mastery A Step-by-Step Guide on Trimming Sounds From Apple Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

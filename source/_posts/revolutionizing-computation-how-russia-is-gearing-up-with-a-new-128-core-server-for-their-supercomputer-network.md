@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-09-30T06:46:08.142Z
-updated: 2024-10-01T08:18:48.000Z
+date: 2024-10-04T17:02:19.690Z
+updated: 2024-10-06T16:11:14.117Z
 tags:
   - desktop
 categories:
@@ -72,27 +72,22 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-best-on-the-water-fishings-top-5-action-cameras/"><u>[Updated] Best on the Water Fishing's Top 5 Action Cameras</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audio-removal-guide-for-mp4-files-for-2024/"><u>Audio Removal Guide for MP4 Files for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/navigating-through-this-years-top-ten-budget-friendly-browser-based-daw-solutions/"><u>Navigating Through This Years Top Ten Budget-Friendly Browser-Based DAW Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-burn-video-to-dvds-on-windowsmac-3-ways/"><u>New 2024 Approved Burn Video to DVDs on Windows/Mac 3 Ways</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users/"><u>New In 2024, Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-perfecting-production-quality-utilizing-real-time-ducking-features-in-windows-adobe-premiere-pro-edition/"><u>New In 2024, Perfecting Production Quality Utilizing Real-Time Ducking Features in Windows Adobe Premiere Pro Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-online-broadcast-platforms-for-2024/"><u>Ultimate Online Broadcast Platforms for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-converting-ordinary-images-into-artistic-hdr-works/"><u>[New] Converting Ordinary Images Into Artistic HDR Works</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-smart-snapchat-gifting-step-by-step-for-success/"><u>[New] In 2024, Smart Snapchat Gifting Step-by-Step for Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-unsolvable-mysteries-7-puzzling-inquiries-it-cannot-decode/"><u>ChatGPT's Unsolvable Mysteries - 7 Puzzling Inquiries It Cannot Decode</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-chortlechamps-excellent-platforms-for-hilarious-tones/"><u>In 2024, ChortleChamps Excellent Platforms for Hilarious Tones</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-depth-system-insights-from-toms-computer-resource-hub/"><u>In-Depth System Insights From Tom's Computer Resource Hub</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-15-adobe-premiere-plugins-free-download/"><u>New Top 15 Adobe Premiere Plugins Free Download</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/toms-tech-insights-comprehensive-reviews-and-news/"><u>Tom's Tech Insights: Comprehensive Reviews and News</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-leading-sites-for-accessing-true-nature-audio-archives/"><u>Updated Leading Sites for Accessing True Nature Audio Archives</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-step-by-step-an-essential-tutorial-on-editing-your-first-podcast-for-2024/"><u>Updated Step-by-Step An Essential Tutorial on Editing Your First Podcast for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

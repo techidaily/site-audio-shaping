@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
-date: 2024-09-24T19:00:38.624Z
-updated: 2024-09-30T19:05:02.323Z
+date: 2024-10-03T18:44:02.433Z
+updated: 2024-10-06T18:48:24.394Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
@@ -39,6 +39,13 @@ Lifewire / Andrew Hayward
 [View On Amazon $699](https://www.amazon.com/dp/B078WRSHV4/?tag=lifewire-onsite-prod-20&ascsubtag=4779835%7Cnbd1cf0f7690f4c68a44d26c3ec46a2c410%7CB078WRSHV4)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## LG Gram 15.6-inch (2018)
 
@@ -97,19 +104,20 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/1qu1WvdEgTzjUQ8QH_Lssx79xF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Trackpad_05-f0d9dc63b03e4650a92e30747090889a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Just follow the directions**
@@ -128,13 +136,6 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Solid power for everyday tasks**
 
  With an 8th-gen Intel Core i5-8250U at 1.6Ghz and 8GB RAM onboard, the 2018 LG Gram runs on the same chipset as the Surface Laptop 2 and Dell XPS 13\. It provides solid power for everyday tasks, and we didn't run into any noticeable slowdown while moving around Windows 10, surfing the web, typing up documents, and loading up apps. It's not a powerhouse CPU, however, and creative professionals looking for a machine for photo or video editing, for example, will surely want more processing power and RAM to play with.
@@ -148,10 +149,10 @@ Lifewire / Andrew Hayward
  As an aside, while the LG Gram often runs near-silently, there are extended periods of time in which there's an audible hum coming from the back. It's not the typical, very loud fan noise that pops up while gaming or heavy multitasking from some computers, but it can be a bit grating. We noticed it while charging the computer, but also while running on the battery—with no consistency on that front. It's a mild annoyance, but it's one we noticed whenever it emerged.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Audio: It makes an impression**
@@ -167,13 +168,20 @@ Lifewire / Andrew Hayward
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/AhDZOG33ttJ8LfKQnzvHO7K-S8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Closed_02-d40445064b4945729278aeae3d8ae1c0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery: Seriously amazing**
 
@@ -183,25 +191,11 @@ Lifewire / Andrew Hayward
 
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: Hello, Windows (but no Windows Hello)**
 
  The LG Gram 15.6-inch comes with Windows 10 Home preinstalled, and if you've used Windows over the years, then you should be pretty comfortable here. Windows 10 has lightly evolved the PC operating system with feature enhancements and tweaks without losing the classic, familiar DNA within, and it's the OS of choice for computer gaming and apps of all shapes and sizes. It's easy to use and understand, and runs well with the Intel Core i5 and an SSD onboard.
 
  Unfortunately, this entry-level model of the LG Gram 15.6-inch isn't able to take advantage of Windows Hello biometric security, as the camera above the display doesn't have the needed sensors for scanning your face. We missed the near-instantaneous facial recognition of the Surface Laptop 2, and having to type in a PIN number each time we opened up the lid. Pricier models of the laptop offer a fingerprint scanner, however.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Solidly priced, considering its strengths**
 
@@ -259,20 +253,19 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-swift-video-transformation-with-top-8-apps/"><u>[New] Swift Video Transformation with Top 8 Apps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-capturing-the-moment-expert-tips-for-amazing-android-slow-mo-videos/"><u>2024 Approved Capturing the Moment Expert Tips for Amazing Android Slow Mo Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/addressing-the-silence-restoring-functionality-to-your-iphone-alarm/"><u>Addressing the Silence: Restoring Functionality to Your iPhone Alarm</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/from-recording-to-revealing-uploading-high-quality-vr-on-fb-for-2024/"><u>From Recording to Revealing Uploading High-Quality VR on FB for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-drivers-for-your-lenovo-ideapad-100-on-windows-11-instructions-inside/"><u>How to Get the Newest Drivers for Your Lenovo IdeaPad 100 on Windows 11: Instructions Inside</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-90-lite-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor 90 Lite to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722970026174-latest-nvidia-quadro-driver-software-for-windows-11-systems-get-your-free-download-here/"><u>Latest NVIDIA Quadro Driver Software for Windows 11 Systems - Get Your Free Download Here</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/practices-for-gradual-melodic-easing-without-changing-instrumental-intonation/"><u>Practices for Gradual Melodic Easing Without Changing Instrumental Intonation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-amr-format-processing-and-conversion/"><u>The Ultimate Guide to AMR Format Processing and Conversion</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/ultimate-guide-to-nullifying-auditory-elements-in-windows-clips/"><u>Ultimate Guide to Nullifying Auditory Elements in Windows Clips</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-advanced-audio-cleanup-tactics-to-remove-unwanted-elements-from-your-video-content/"><u>Updated 2024 Approved Advanced Audio Cleanup Tactics to Remove Unwanted Elements From Your Video Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-advanced-sound-sanitation-on-windows-identifying-top-audio-noise-filtration-software-for-2024/"><u>Updated Advanced Sound Sanitation on Windows Identifying Top Audio Noise Filtration Software for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-best-beat-sync-video-editing-apps-for-2024/"><u>Updated Best Beat Sync Video Editing Apps for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-decoding-vimeos-video-dimensions-a-complete-perspective-on-aspect-ratios-for-2024/"><u>Updated Decoding Vimeos Video Dimensions A Complete Perspective on Aspect Ratios for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-sketches-to-high-end-graphics-best-software-reviewed/"><u>[New] From Sketches to High-End Graphics Best Software Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aking-a-mark-on-youtube-proven-techniques-from-creator-studio-experts/"><u>[New] Making a Mark on YouTube Proven Techniques From Creator Studio Experts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tep-by-step-on-streaming-google-meet-directly-to-youtube-channel-for-2024/"><u>[New] Step by Step on Streaming Google Meet Directly to YouTube Channel for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-the-windows-installer-service-on-windows/"><u>How to Enable or Disable the Windows Installer Service on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-zte-blade-a73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-guide-to-the-top-10-historical-education-channels/"><u>In 2024, Guide to the Top 10 Historical Education Channels</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-photo-editing-on-os-x-and-linux-discover-the-freebie-darktables-advanced-raw-manipulation-tool/"><u>Master Photo Editing on OS X and Linux: Discover the Freebie - Darktable's Advanced RAW Manipulation Tool</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-ultimate-selection-top-rated-montage-anthems/"><u>New 2024 Approved Ultimate Selection Top-Rated Montage Anthems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-adjust-audio-volume-in-videos-4-ways-for-2024/"><u>New How to Adjust Audio Volume in Videos 4 Ways for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-ultimate-selection-top-rated-montage-anthems/"><u>New In 2024, Ultimate Selection Top-Rated Montage Anthems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-winning-the-acoustic-illusion-techniques-for-adding-delay-and-echo-via-web-based-audio-tools/"><u>New Winning the Acoustic Illusion Techniques for Adding Delay and Echo via Web-Based Audio Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/turntable-tunes-archive-stream-your-dj-favorites-for-2024/"><u>Turntable Tunes Archive Stream Your DJ Favorites for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-techniques-for-maintaining-audio-fidelity-during-pitch-alteration-with-audacity/"><u>Updated 2024 Approved Techniques for Maintaining Audio Fidelity During Pitch Alteration with Audacity</u></a></li>
 </ul></div>
 

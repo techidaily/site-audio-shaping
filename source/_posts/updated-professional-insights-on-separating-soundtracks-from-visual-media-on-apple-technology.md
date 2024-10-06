@@ -1,7 +1,7 @@
 ---
 title: Updated Professional Insights on Separating Soundtracks From Visual Media on Apple Technology
-date: 2024-09-26T19:58:14.741Z
-updated: 2024-09-30T19:14:32.334Z
+date: 2024-10-04T18:07:51.111Z
+updated: 2024-10-06T19:03:02.155Z
 tags: 
   - audio editing software
   - audio editing
@@ -41,10 +41,10 @@ Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
 Part2\. [Steps to cut the audio from videos on iPhone](#cut-audio-on-iphone)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to cut the audio from videos on Mac
@@ -57,31 +57,24 @@ Import the video to your Filmora. You can also directly drag the video into the 
 
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Mute the audio
 
 After dragging the video to the timeline, right-click the stand-alone video, choose "mute".
 
 ![](https://images.wondershare.com/filmora/guide/edit-audios-mute.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Save your edit
 
 Click the "export" button on the interface and select the desired video format
 
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps to cut the audio from videos on iPhone
 
@@ -99,6 +92,13 @@ There are different pages on the interface but your concern is on the project pa
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Mute the audio
 
 Muting the audio becomes straightforward when you have moved it to the interface. In this step, click on the video clip button as seen in the picture then mute it by selecting the mute option (the picture below shows the mute sign at the lower-left corner) from the audio button. When this is done, your video has been silenced.
@@ -106,13 +106,6 @@ Muting the audio becomes straightforward when you have moved it to the interface
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Section 2. Requirements to extract the music of the video and save
 
@@ -123,10 +116,10 @@ Step1\. import the video into the Filmora
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Another way to import a video is to drag and drop the video into the program. Using any of these two steps allows your video to be listed in the media library
@@ -148,10 +141,10 @@ Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
@@ -165,6 +158,13 @@ For iPhone users, a good video editing software that can be used to successfully
 Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -183,19 +183,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-charting-the-course-for-profitable-youtube-videos-for-2024/"><u>[New] Charting the Course for Profitable Youtube Videos for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-connectivity-aid-fb-stories-saver-pro-for-2024/"><u>[New] Connectivity Aid FB Stories Saver Pro for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-highlight-harmony-the-top-business-tactics-for-insta/"><u>[New] In 2024, Highlight Harmony The Top Business Tactics for Insta</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-convert-kings-playbook-youtube-to-mp4mpeg-edition/"><u>[New] The Convert King's Playbook YouTube to MP4/MPEG Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-securely-snapshot-streaming-top-6-techniques-for-netflix-on-mac-for-2024/"><u>[Updated] Securely Snapshot Streaming Top 6 Techniques for Netflix on Mac for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-t2-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo T2 Pro 5G?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-itel-p55plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Itel P55+ Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-a78-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo A78 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/stand-strong-with-the-ergohead-desk-pad-in-depth-analysis-of-longevity-and-comfort/"><u>Stand Strong with the Ergohead Desk Pad: In-Depth Analysis of Longevity and Comfort</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-harnessing-free-tools-to-turn-audio-into-text-the-essential-guide-with-top-three-strategies-step-by-step/"><u>Updated In 2024, Harnessing Free Tools to Turn Audio Into Text The Essential Guide with Top Three Strategies (Step by Step)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-filmmakers-voice-how-to-raise-your-pitch-for-impact-using-filmora/"><u>Updated In 2024, The Filmmakers Voice How to Raise Your Pitch for Impact Using Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-mastering-desktop-and-mobile-unmuting-zoom-audio-with-ease/"><u>Updated Mastering Desktop & Mobile Unmuting Zoom Audio with Ease</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-silent-streams-cutting-the-chatter-of-video-audio-tracks/"><u>Updated Silent Streams Cutting the Chatter of Video Audio Tracks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-synergy-of-sonic-and-visual-artistry-tips-for-producers-for-2024/"><u>Updated The Synergy of Sonic and Visual Artistry Tips for Producers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-video-formats-for-maximum-youtube-engagement/"><u>[Updated] Top Video Formats for Maximum YouTube Engagement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>2024 Approved A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-problems-with-avatar-frontiers-of-pandora/"><u>Fixing Launch Problems with 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-make-a-youtube-subscribe-link-easy-in-2024/"><u>How to Make a YouTube Subscribe Link - Easy, In 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-adjust-audio-volume-in-videos-4-ways/"><u>In 2024, How to Adjust Audio Volume in Videos 4 Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-bandn-nook-glowlight-4-tablet/"><u>In-Depth Review of the B&N Nook GlowLight 4 Tablet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/most-trending-free-digital-repositories-for-guitar-mood-melodies-and-images/"><u>Most Trending Free Digital Repositories for Guitar Mood Melodies and Images</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-remove-audio-from-video/"><u>New 2024 Approved How to Remove Audio From Video</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audiophiles-toolkit-implementing-smooth-audio-transitions-with-ducking-in-adobe-premiere-pro-mac/"><u>New Audiophiles Toolkit Implementing Smooth Audio Transitions with Ducking in Adobe Premiere Pro (Mac)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-keys-to-free-jumpstart-your-pc-with-unbeatable-windows-11-612lifetime/"><u>The Keys to Free: Jumpstart Your PC with Unbeatable Windows 11, $6.12/Lifetime</u></a></li>
 </ul></div>
 

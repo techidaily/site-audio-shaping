@@ -1,7 +1,7 @@
 ---
 title: Updated The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie for 2024
-date: 2024-09-26T19:23:05.950Z
-updated: 2024-09-30T19:59:25.030Z
+date: 2024-09-29T16:06:05.140Z
+updated: 2024-10-06T18:45:12.068Z
 tags: 
   - audio editing software
   - audio editing
@@ -52,10 +52,10 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
@@ -84,13 +84,6 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
 To fade audios in and out in iMovie with the audio inspector, you can follow these steps:
@@ -114,13 +107,6 @@ If you manually adjust the effect, you can have a better effect.
 #### Step 3. Save the Audio Fade In and Out Effect
 
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -147,10 +133,10 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3. Save Your Video
@@ -159,9 +145,29 @@ Click the "Export" button to select one of the export methods. You can choose yo
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -178,20 +184,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-how-much-does-pewdiepie-make-yearly-financial-report-for-2024/"><u>[New] How Much Does PewDiePie Make - Yearly Financial Report for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-keep-watching-youtube-on-the-go-with-iphoneandroid/"><u>[New] In 2024, Keep Watching YouTube On-the-Go with iPhone/Android</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-dslr-mastery-broadcasting-with-facebook-live-via-computer-for-2024/"><u>[Updated] DSLR Mastery Broadcasting with Facebook Live via Computer for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-cloud-storage-vendors-a-comparative-pricing-analysis/"><u>2024 Approved Leading Cloud Storage Vendors A Comparative Pricing Analysis</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-revolutionizing-sounds-five-key-digital-audio-alteration-tools/"><u>2024 Approved Revolutionizing Sounds Five Key Digital Audio-Alteration Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-essential-users-manual-for-effective-use-of-mobizen-screensaver/"><u>2024 Approved The Essential User's Manual for Effective Use of Mobizen Screensaver</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-elden-ring-lag-6-rapid-fixes-for-fps-drops-and-stutters/"><u>Fix Your 'Elden Ring' Lag: 6 Rapid Fixes for FPS Drops & Stutters</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-digital-soundtrack-the-ultimate-dj-collection-for-2024/"><u>New Digital Soundtrack The Ultimate DJ Collection for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-discovering-areas-where-public-acclaim-echoes-powerfully/"><u>New Discovering Areas Where Public Acclaim Echoes Powerfully</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>New Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/nine-spectacular-platforms-for-accessing-copyright-free-funny-audio-for-2024/"><u>Nine Spectacular Platforms for Accessing Copyright-Free Funny Audio for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-the-spectacle-best-practices-for-cooking-channel-titling-for-2024/"><u>Savor the Spectacle Best Practices for Cooking Channel Titling for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/sonys-game-console-enhance-auditory-experience-for-2024/"><u>Sony's Game Console Enhance Auditory Experience for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-what-you-should-know-about-pexelscom/"><u>Updated 2024 Approved What You Should Know About Pexels.com</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-procuring-immersive-dragon-roar-soundscape/"><u>Updated In 2024, Procuring Immersive Dragon Roar Soundscape</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-8-screen-recorders-list/"><u>[Updated] 2024 Approved Ultimate 8 Screen Recorders List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-7-essential-gif-creation-techniques/"><u>2024 Approved 7 Essential GIF Creation Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v29-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V29 Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-media-migration-tiktok-directly-to-fb/"><u>In 2024, Mastering Media Migration TikTok Directly to FB</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-navigating-iphone-audio-modification-first-time-users-introduction-to-voice-changer-plus/"><u>New 2024 Approved Navigating iPhone Audio Modification First-Time Users Introduction to Voice Changer Plus</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elite-audio-synchronized-cinematic-crafting-applications-of-the-year/"><u>New In 2024, Elite Audio-Synchronized Cinematic Crafting Applications of the Year</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unraveling-the-acoustic-patterns-of-crickets/"><u>New In 2024, Unraveling the Acoustic Patterns of Crickets</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-incorporating-sound-effects-into-presentations-with-powerpoint-strategies-for-both-windows-and-apple-systems/"><u>New Incorporating Sound Effects Into Presentations with PowerPoint Strategies for Both Windows and Apple Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pioneering-medical-messaging-in-digital-advertising/"><u>Pioneering Medical Messaging in Digital Advertising</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-amd-vega-graphics-driver-downloads-and-updates-perfect-for-gaming/"><u>Quick and Easy AMD Vega Graphics Driver Downloads & Updates – Perfect for Gaming</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-preference-poll-here/"><u>Social Media Preference Poll Here</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/your-ultimate-guide-to-top-streamers-platforms/"><u>Your Ultimate Guide to Top Streamers Platforms</u></a></li>
 </ul></div>
 

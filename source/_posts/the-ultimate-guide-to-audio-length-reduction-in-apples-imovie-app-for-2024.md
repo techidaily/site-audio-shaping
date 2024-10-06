@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Audio Length Reduction in Apples iMovie App for 2024
-date: 2024-08-03T01:58:05.851Z
-updated: 2024-08-04T01:58:05.851Z
+date: 2024-09-30T18:17:38.972Z
+updated: 2024-10-06T16:04:50.571Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972da
 
 # Cutting Audio in iMovie: A Guide for Mac and iPhone Users
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.fr/filmora/filmora/MarionDubois.jpg)
 
 ##### Marion Dubois
@@ -33,9 +26,6 @@ No advertising on the website.
 
 Sometimes, we find the desired audio or soundtrack for our videos longer or shorter than we want, and that is where audio editing comes. Audio editing refers to manipulating audio to alter the length, speed, and volume or create additional effects such as loops. Are you new to audio trimming? Don't worry, as our article today would show how to cut audio in iMovie on Mac and iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Cut Music in iMovie on Mac?
 
 Cutting music is audio editing carried out when the music or soundtrack seems longer than desired. To cut music or soundtrack in iMovie using Mac involves the following steps:
@@ -45,8 +35,18 @@ Cutting music is audio editing carried out when the music or soundtrack seems lo
 You can cut an audio clip only when the specified audio is in the timeline. To perform the operation, right-click on the clip and pick out a split clip. This operation cuts the clip into two and divides the two pieces wherever the playhead is situated.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2: Select Split Clip
 
 Right-click and select the **Split Clip**. Once this step is over, you have successfully cut the audio clip.
@@ -72,24 +72,23 @@ You can get both the Windows and Mac versions of this great video editor. It emb
 Using Filmora is quite effortless. The following tutorial will display how to cut audio in it easily and quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 1: Import MP3 Files for Editing
 
 Firstly, drag the specific MP3 file or audio clip into the media library, or you can directly import audio files or video from portable devices such as your digital camera, smartphone, or camcorder, etc.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2: Drag MP3 Files to the Timeline below for Cutting
 
 Filmora provides two ways to cut audio/video files. You can either select to cut from the beginning or the end by trimming. You can also split it into various segments from the mid-sections.
@@ -188,10 +187,14 @@ iMovie permits you to adjust the audio within the clips themselves, each volume 
 
 Finally, with the answers to the question, how to cut audio in iMovie, you can follow the simple step guide and feel free to edit your audio or video to your taste using iMovie or Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.fr/filmora/filmora/MarionDubois.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Marion Dubois
 
@@ -199,11 +202,23 @@ Marion Dubois is a writer and a lover of all things video.
 
 Follow @Marion Dubois
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-diving-into-instagrams-restriction-for-video-content/"><u>[New] 2024 Approved Diving Into Instagram's Restriction for Video Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-agni-2-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Lava Agni 2 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/step-by-step-eliminating-rhythm-units-from-your-songs-digitally/"><u>Step-by-Step Eliminating Rhythm Units From Your Songs Digitally</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-moto-g23s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola Moto G23s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-detailed-vimeo-video-overview-featuring-aspect-ratio/"><u>Updated 2024 Approved Detailed Vimeo Video Overview Featuring Aspect Ratio</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-remove-audio-from-mov-files-on-windows-or-mac/"><u>Updated 2024 Approved How to Remove Audio From MOV Files on Windows or Mac</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-music-meets-motion-advanced-techniques-for-beats-alignment-in-final-cut-pro-x/"><u>Updated 2024 Approved Music Meets Motion Advanced Techniques for Beats Alignment in Final Cut Pro X</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-twinsoundlink-bridging-gaps-between-auditory-elements-in-premiere-pro-projects-2023-overhaul/"><u>Updated 2024 Approved TwinSoundLink Bridging Gaps Between Auditory Elements in Premiere Pro Projects 2023 Overhaul</u></a></li>
+</ul></div>
+

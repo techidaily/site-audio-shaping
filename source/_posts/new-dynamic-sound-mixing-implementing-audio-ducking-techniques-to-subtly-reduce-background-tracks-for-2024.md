@@ -1,7 +1,7 @@
 ---
 title: New Dynamic Sound Mixing Implementing Audio Ducking Techniques to Subtly Reduce Background Tracks for 2024
-date: 2024-08-10T03:18:16.348Z
-updated: 2024-08-11T03:18:16.348Z
+date: 2024-10-02T17:13:07.955Z
+updated: 2024-10-06T16:45:18.317Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
 # How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ _"Can you explain to us the simple method to execute **audio ducking**?”_
 
 I hope you're already aware of **the audio ducking** feature if you're into video editing or any music industry. The audio ducking is commonly to balance two audios. You can see the very typical application while balancing the background music with the person speaking there. So, the different voices would pop up and needs an adjustment according to the scenario. However, selecting the most straightforward process and genuine video editor is the user's responsibility to get the task done effectively. So, here, we would like to discuss the audio ducking function of **CyberLink PowerDirector** along with a suitable alternative - **Wondershare Filmora**.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
 **CyberLink PowerDirector** is a video editing software with impeccable features, including Motion Tracking, Magic Movie Wizard, Encoding, Action Camera Tools, and so on. The **audio ducking** element in PowerDirector has automated the audio adjustment in terms of keyframes.
@@ -58,6 +52,13 @@ Doing so will automatically add the keyframes into the background music you’ve
 
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
 
 If you’re looking for easiness, you must consider the following section for a suitable alternative!
@@ -72,11 +73,6 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
@@ -102,22 +98,40 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Thus, with a discussion over two different ways to implement the **audio ducking** feature, it's time to state our final overview. No doubt, the PowerDirector audio ducking feature offers the simplistic way, but it lacks flexibility. Due to the keyframe setting's automation, you can't check for a specific part in the audio and adjust the volume as per your needs. However, this could have been done pretty quickly in Wondershare Filmora's video editor, making it the best alternative to CyberLink PowerDirector. Keeping it the top priority, begin your journey today!
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 | ![](https://www.google.com/favicon.ico) | ![](https://www.youtube.com/favicon.ico) | ![](https://www.google.com/favicon.ico) | ![](https://www.google.com/images/branding/product/ico/maps_32dp.ico) | ![](https://en.wikipedia.org/favicon.ico) | ![](https://www.amazon.com/favicon.ico) |
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -125,12 +139,29 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-home-studio-ready-essential-webcam-recorders-reviewed/"><u>[New] Home Studio Ready Essential WebCam Recorders Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-pinpointing-precision-with-minecrafts-zoom-feature/"><u>[New] In 2024, Pinpointing Precision with Minecraft's Zoom Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-a-complete-analysis-of-the-new-picsart-guide-and-review-for-updated-app-for-2024/"><u>[Updated] A Complete Analysis of the New PicsArt – Guide & Review for Updated App for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-spread-the-rhythm-sharing-playlists-in-minutes/"><u>[Updated] In 2024, Spread the Rhythm Sharing Playlists in Minutes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288032367-dvd/"><u>新入生向け、優れた防損DVDダビングソフトでジャニーズ作品を保存!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-slow-down-music-without-changing-pitch/"><u>In 2024, How to Slow Down Music without Changing Pitch?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-a38s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo A38s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/integrating-subtle-audio-declines-techniques-for-gradual-volume-reduction-in-imovie-for-2024/"><u>Integrating Subtle Audio Declines Techniques for Gradual Volume Reduction in iMovie for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/melody-and-motion-crafting-music-video-beats-that-drive-visual-narratives-forward/"><u>Melody & Motion Crafting Music Video Beats That Drive Visual Narratives Forward</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-ballad-barren-builder-create-personal-accompaniment-music/"><u>New 2024 Approved Ballad Barren Builder Create Personal Accompaniment Music</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-free-8-best-plugins-for-logic-pro-x/"><u>New 2024 Approved FREE 8 Best Plugins for Logic Pro X</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-digital-bug-noises-easy-access-to-high-quality-online-audio-libraries/"><u>New In 2024, Digital Bug Noises Easy Access to High-Quality Online Audio Libraries</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-premier-list-of-8-modern-daws-elevating-hip-hop-and-rap-music-mixing-for-2024/"><u>New The Premier List of 8 Modern DAWs Elevating Hip-Hop and Rap Music Mixing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/outstanding-unlimited-space-service-index/"><u>Outstanding Unlimited Space Service Index</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ps4-malfunction-heres-how-to-fix-those-irritating-freezes/"><u>PS4 Malfunction? Here's How to Fix Those Irritating Freezes!</u></a></li>
+</ul></div>
 

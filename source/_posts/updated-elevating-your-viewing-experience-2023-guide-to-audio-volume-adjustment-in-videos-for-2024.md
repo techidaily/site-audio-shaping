@@ -1,7 +1,7 @@
 ---
 title: Updated Elevating Your Viewing Experience 2023 Guide to Audio Volume Adjustment in Videos for 2024
-date: 2024-08-03T01:57:52.159Z
-updated: 2024-08-04T01:57:52.159Z
+date: 2024-10-02T17:48:14.721Z
+updated: 2024-10-06T16:50:37.839Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 # How to Adjust Audio Volume in Videos \[4 Ways\]
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,18 +30,12 @@ The fact of the matter is that even a minor error in the video’s soundtrack ca
 
 To increse the volume of your video, [click here.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Four Ways of Adjusting Audio Volume in Filmora
 
 The audio clips often have different volume levels, so in order to create a balanced soundtrack, you have to adjust the volume of each audio track you intend to use in your projects. Filmora offers several different ways to adjust the volume of audio files quickly and effortlessly. Here’s how you can increase or decrease the volume of the audio clips in Filmora.
 
 Download Filmora and watch the video below to get a full knowledge abtou adjusting volume!
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1. Changing the Audio Volume of Entire Track
@@ -63,18 +54,12 @@ Filmora also lets you create the Fade In and Fade Out effect directly from the t
 
 On the left side of the Audio Editing panel that can be accessed by double clicking on an audio file, you will be able to see the **volume slider.** Its value is going to be set to **0 dB** by default and you just have to **drag it upward or downward** in order to adjust the audio volume. As you drag the slider the new audio volume value is going to be displayed in a box below the slider. The **left/right balance value** can be adjusted by **dragging the knob** that is located above the volume slider in either direction. Alternatively, you can **insert a new numerical value in the box** below the knob. If the displayed value is **0 dB, then the left and right channels are balanced**, while the value of **\-100 dB** means that all the sound goes through the left channel and if the displayed value is **100 dB** all the sound will go through the right channel.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![stereo-mode](https://images.wondershare.com/filmora/guide/stereo-mode.jpg)
 
 #### 4. Adding Keyframes to Adjust the Audio Volume
 
 Once you add an audio file to the timeline you can adjust its volume by **adding keyframes** to it. **Place** **the playhead to the exact spot in the audio file** where you want to add the first keyframe and then **double click on the file to bring up the Audio Editing panel**. Click on the **Add Volume Keyframes** icon and **use the volume slider to adjust the volume** at the position of the first keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![animation-customize](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
 Simply **move the playhead and change the value on the volume slider** to add new keyframes to the audio file. This method of adjusting audio volume enables you to set different volume values for different parts of an audio file.[](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -85,9 +70,6 @@ Still not solved? Try this [audio guide of Filmora](https://tools.techidaily.com
 
 Having complete control over the volume of all audio files you use in your projects is important for so many different reasons. Filmora offers four easy ways to adjust the audio volume so you can focus on more important tasks. Which method of adjusting the audio volume in Filmora do you like to use the most? Leave a comment and let us know.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -96,11 +78,40 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-boosting-channel-success-scaling-for-a-million-viewers/"><u>[New] 2024 Approved Boosting Channel Success Scaling for a Million Viewers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-exclusive-access-to-free-switch-clones/"><u>[New] In 2024, Exclusive Access to Free Switch Clones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-steps-for-seamlessly-clearing-youtube-feedback/"><u>[Updated] In 2024, Essential Steps for Seamlessly Clearing YouTube Feedback</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamline-channels-effortlessly-top-10-online-design-aids/"><u>[Updated] Streamline Channels Effortlessly Top 10 Online Design Aids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lens-legends-6-choices-the-finest-4k-dslrs-revealed/"><u>2024 Approved Lens Legends' 6 Choices The Finest 4K DSLRs Revealed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unlocking-hidden-gems-open-source-art-lists/"><u>2024 Approved Unlocking Hidden Gems Open-Source Art Lists</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-x90s-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo X90S to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/rapid-mp3-file-segmentation-the-ultimate-guide-to-quick-audio-division/"><u>Rapid MP3 File Segmentation The Ultimate Guide to Quick Audio Division</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/step-by-step-tutorial-on-installing-latest-drivers-for-the-hp-envy-20-desktop-computer/"><u>Step-by-Step Tutorial on Installing Latest Drivers for the HP ENVY 20 Desktop Computer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-beat-engineers-companion-selecting-from-among-the-top-8-daw-tools-for-todays-urban-music-masters/"><u>The Beat Engineers Companion Selecting From Among the Top 8 DAW Tools for Todays Urban Music Masters</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-premier-selection-of-podcast-audio-to-text-transcribers-freepaid/"><u>The Premier Selection of Podcast Audio-to-Text Transcribers (Free/Paid)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-7-underrated-transition-sounds-for-enhanced-audio-experience-download-now/"><u>Top 7 Underrated Transition Sounds for Enhanced Audio Experience (Download Now!)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-missing-5ghz-network-on-windows-11-top-7-solutions/"><u>Troubleshoot Missing 5GHz Network on Windows 11: Top 7 Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-enhancing-video-storytelling-incorporating-audio-elements/"><u>Updated 2024 Approved Enhancing Video Storytelling Incorporating Audio Elements</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-solo-silence-learning-to-delete-audible-elements-from-mov-footage-on-different-desktops/"><u>Updated 2024 Approved Solo Silence Learning to Delete Audible Elements From MOV Footage on Different Desktops</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-5-best-backwards-music-videos/"><u>Updated 5 Best Backwards Music Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-from-voice-to-verse-a-novices-guide-to-creating-a-polished-podcast-masterpiece/"><u>Updated From Voice to Verse A Novices Guide to Creating a Polished Podcast Masterpiece</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-s-best-time-lapse-video-editing-tools-a-comprehensive-review/"><u>Updated In 2024, S Best Time-Lapse Video Editing Tools A Comprehensive Review</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
