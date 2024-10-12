@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Techniques for Reducing Digital Audio File Sizes
-date: 2024-10-04T17:45:04.080Z
-updated: 2024-10-06T17:51:47.314Z
+date: 2024-10-09T09:20:37.628Z
+updated: 2024-10-12T08:49:53.876Z
 tags: 
   - audio editing software
   - audio editing
@@ -39,10 +39,16 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2 Lower volume of the media files
@@ -54,17 +60,17 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -73,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
 
  Here is a video tutorial for you:
@@ -87,6 +86,19 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  About Filmora video editor:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -105,19 +117,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-yules-magic-unfolds-access-nine-premium-whole-film-holiday-movies-for-free/"><u>[New] Yule's Magic Unfolds Access Nine Premium, Whole-Film Holiday Movies for Free</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/airdroid-replacements-ranked-top-9-ways-to-improve-smartphone-management/"><u>AirDroid Replacements Ranked: Top 9 Ways to Improve Smartphone Management</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo V27e Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-a1x-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo A1x 5G FRP</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-discovering-top-10-speech-to-text-programs-that-thrive-on-windows-platforms/"><u>In 2024, Discovering Top 10 Speech-to-Text Programs that Thrive on Windows Platforms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/israelian-journey-essentials-must-know-guide-and-dialogue-tools/"><u>Israelian Journey Essentials: Must-Know Guide & Dialogue Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-uncover-the-secrets-to-quieting-tiktoks-background-noise-simple-tricks-revealed/"><u>New 2024 Approved Uncover the Secrets to Quieting TikToks Background Noise Simple Tricks Revealed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-elite-selection-best-selling-mac-audio-editing-tools-ranked-for-2024/"><u>New The Elite Selection Best-Selling Mac Audio Editing Tools, Ranked for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-future-of-filmmaking-techniques-for-automatic-audio-and-video-synchronization-for-2024/"><u>New The Future of Filmmaking Techniques for Automatic Audio and Video Synchronization for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/reveal-the-best-7-video-streaming-apps-to-go-live-on-youtube-iphoneandroid-for-2024/"><u>Reveal the Best 7 Video Streaming Apps to Go Live on YouTube (iPhone/Android) for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-academic-inquiry-using-four-key-artificial-intelligence-tools/"><u>Revolutionize Academic Inquiry Using Four Key Artificial Intelligence Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranked-qled-televisions-your-ultimate-guide/"><u>Top-Ranked QLED Televisions : Your Ultimate Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-mp3-conversion-essential-techniques-for-podcasts/"><u>Updated In 2024, Mastering MP3 Conversion Essential Techniques for Podcasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/zoom-into-playtime-score-with-these-speedy-phone-games/"><u>Zoom Into Playtime: Score with These Speedy Phone Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-windows-pc-live-tv-recording-tips-and-tricks/"><u>[New] 2024 Approved Mastering Windows PC Live TV Recording Tips & Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-exploring-essential-gif-sources-for-latest-iphones-for-2024/"><u>[Updated] Exploring Essential GIF Sources for Latest iPhones for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-get-snapchat-on-mac-easy-guide/"><u>[Updated] In 2024, How to Get Snapchat on Mac? [Easy Guide]</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-masterful-persona-design-on-tiktok-the-ultimate-how-to/"><u>[Updated] In 2024, Masterful Persona Design on TikTok - The Ultimate How To</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unleash-creativity-crafting-tiktok-choreographies-on-macos/"><u>[Updated] Unleash Creativity Crafting TikTok Choreographies on MacOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beginners-blueprint-downloading-and-installing-llama-2/"><u>Beginner's Blueprint: Downloading & Installing Llama 2</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-perform-a-full-data-purge-from-your-iphone-for-good-detailed-steps-and-tips-with-stellar/"><u>How to Perform a Full Data Purge From Your iPhone for Good - Detailed Steps & Tips With Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-90-gt-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor 90 GT to iPhone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-best-recommendations-for-music-video-editors-for-2024/"><u>New Best Recommendations for Music Video Editors for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-chorus-cutter-suite-construct-individualized-musical-backdrops/"><u>New In 2024, Chorus Cutter Suite Construct Individualized Musical Backdrops</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-reimagining-auditory-experiences-with-these-industry-standards/"><u>New In 2024, Reimagining Auditory Experiences with These Industry Standards</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-mastering-sound-with-these-top-10-audio-editors-compatible-with-windows-and-mac/"><u>New Mastering Sound with These Top 10 Audio Editors Compatible with Windows and Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-successful-updates/"><u>Unlocking Windows 11 Successful Updates</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/unveiling-song-strings-top-10-approaches-to-eradicating-melodic-voices-in-recordings-for-2024/"><u>Unveiling Song Strings Top 10 Approaches to Eradicating Melodic Voices in Recordings for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-the-art-of-custom-ringtone-creation/"><u>Updated 2024 Approved Mastering the Art of Custom Ringtone Creation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-important-elements-in-assembling-your-go-to-online-source-for-high-quality-youtube-sounds/"><u>Updated In 2024, Important Elements in Assembling Your Go-To Online Source for High-Quality YouTube Sounds</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-sonic-landscape-a-study-on-sound-forgeutility-for-2024/"><u>Updated The Sonic Landscape A Study on Sound Forgeutility for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-5-digital-audio-editors-for-optimal-sound-quality/"><u>Updated Top 5 Digital Audio Editors for Optimal Sound Quality</u></a></li>
 </ul></div>
 

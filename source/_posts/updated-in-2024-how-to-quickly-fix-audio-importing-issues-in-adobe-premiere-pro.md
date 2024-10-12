@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro
-date: 2024-10-03T19:23:56.135Z
-updated: 2024-10-06T19:13:16.354Z
+date: 2024-10-11T06:56:26.633Z
+updated: 2024-10-12T03:31:13.097Z
 tags: 
   - audio editing software
   - audio editing
@@ -45,39 +45,32 @@ If you tried to import a video file into a project and the app notified you that
 ![clear Media File Cache](https://images.wondershare.com/filmora/filmorapro/Clearing-Media-File-Cache-no-sound.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Renaming the Media Cache Folder
 
 The default location of Media Cache Database and Media Cache Files folders is **/Users/Library/Application Support/Adobe/Common** on Mac computers and **\\Users\\\\AppData\\Roaming\\Adobe\\Common** on PC computers. So all you have to do is make sure that all Adobe applications, including the Adobe Premiere Pro, are closed and then go to the location at which these folders are stored and change their names to **Media Cache Files\_OLD** and **Media Cache\_OLD**. Start Adobe Premiere Pro and check if you can import your video files into the editor.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Moving Media Files to a Different Folder
 
 If renaming the folders didn’t do the trick you can try moving them from their default location. You can move them wherever you want on your computer, but it is best if you pick a location that is easy to remember, just so you can access them quickly in case you need to delete files that are stored in them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Installing the QuickTime Player
 
@@ -86,16 +79,10 @@ Sometimes the simplest solution is also the most effective one. Check if QuickTi
 ![install QuickTime](https://images.wondershare.com/filmora/filmorapro/QuickTime-Player-no-sound-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Alternative Way to Import Video Without This Issue
@@ -105,6 +92,13 @@ If you fail to import your video across Adobe Premiere Pro and want to get some 
 While being very simple and effective to use, Filmora provides a very powerful structure which makes it one of the best in the market. It can indeed prove to be an excellent alternative to Adobe Premiere Pro. Considering the user experience of Filmora, users can feel safe while working across it.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps to Import Videos in Wondershare Filmora
 
@@ -128,13 +122,6 @@ The second method calls up users to import audio through a button. The user need
 
 ![tap on import button](https://static.wondershare.com/images-filmora/images/article/fix-audio-importing-issues-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Import by Drag and Drop**
 
 Users can import audios on Filmora in another way. They can drag and drop the audio files directly on the platform and perform functions using different tools.
@@ -142,10 +129,10 @@ Users can import audios on Filmora in another way. They can drag and drop the au
 ![drag and drop audio file](https://static.wondershare.com/images-filmora/images/article/fix-audio-importing-issues-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -153,6 +140,13 @@ Users can import audios on Filmora in another way. They can drag and drop the au
 If the methods of fixing the audio importing issues in Adobe Premiere Pro we presented in this article don’t help you solve this problem, you should consider reinstalling the OS on your computer. Was this article helpful? Leave a comment and let us know.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -171,19 +165,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-top-5-windows-screen-capturing-utilities-for-2024/"><u>[New] Unveiling The Top 5 Windows Screen Capturing Utilities for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-perfect-size-crafting-engaging-thumbnails/"><u>2024 Approved Perfect Size Crafting Engaging Thumbnails</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-prime-picks-excellent-mac-based-video-snatchers/"><u>2024 Approved Prime Picks Excellent Mac-Based Video Snatchers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-photo-edits-guide-for-the-novice-photographer-for-2024/"><u>Essential Photo Edits Guide for the Novice Photographer for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/expert-analysis-on-tech-and-tools-the-toms-hardware-way/"><u>Expert Analysis on Tech and Tools - The Tom's Hardware Way</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-guide-brother-hl-l2380dw-laserjet-print-driver-for-windows-operating-systems/"><u>Free Download Guide: Brother HL-L2380DW Laserjet Print Driver for Windows Operating Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-motorola-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Motorola ?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tackling-common-faults-in-high-definition-video-files/"><u>Tackling Common Faults in High-Definition Video Files</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-dji-phantom-3s-superior-flight-control-features-for-2024/"><u>Unveiling DJI Phantom 3'S Superior Flight Control Features for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-8-free-and-premium-tools-to-enhance-your-logic-pro-x-experience/"><u>Updated In 2024, Top 8 Free and Premium Tools to Enhance Your Logic Pro X Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-omegle-exclusion-no-more-strategies-for-removal-from-the-blacklist-for-2024/"><u>Updated Omegle Exclusion No More Strategies for Removal From the Blacklist for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-compilation-of-affordable-audio-manipulation-software-for-windows-and-mac-os-x/"><u>Updated The Ultimate Compilation of Affordable Audio Manipulation Software for Windows and Mac OS X</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-guide-to-modifying-sound-intensity-in-audacity/"><u>Updated The Ultimate Guide to Modifying Sound Intensity in Audacity</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-unveiling-song-strings-top-10-approaches-to-eradicating-melodic-voices-in-recordings-for-2024/"><u>Updated Unveiling Song Strings Top 10 Approaches to Eradicating Melodic Voices in Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-6-mac-video-snaggers-compiled-here-for-2024/"><u>[Updated] Best 6 Mac Video Snaggers Compiled Here for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-scheduling-zoom-events/"><u>[Updated] In 2024, The Ultimate Guide to Scheduling Zoom Events</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y02t-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-productivity-belkins-revolutionary-new-200w-usb-c-charger-supports-up-to-four-devices-at-once/"><u>Boost Your Productivity: Belkin’s Revolutionary New 200W USB-C Charger Supports Up to Four Devices at Once</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/building-the-ultimate-game-rig-a-comprehensive-look-at-options-from-budget-friendly-bargains-500-to-luxury-gaming-systems-over-4k/"><u>Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-facing-microsoft-exchange-unreachable-in-outlook/"><u>Effective Solutions When Facing 'Microsoft Exchange Unreachable' In Outlook</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-computer-components-through-toms-hardware/"><u>Exploring Computer Components Through Tom's Hardware</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-key-to-infinite-entertainment-master-youtube-video-loops/"><u>In 2024, The Key to Infinite Entertainment Master Youtube Video Loops</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-depth-review-of-the-stunning-and-versatile-dell-xps-13-7390-2-in-1-ultrabook/"><u>In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-stable-gaming-no-more-crashes-with-hitman-3-on-your-pc/"><u>Master the Art of Stable Gaming: No More Crashes with Hitman 3 on Your PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/piceditorpro-assessment-complete-review-for-2024/"><u>PicEditorPro Assessment – Complete Review for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-reviews-for-the-netgear-nighthawk-x6-ac3200s-tri-band-wifi-speed-and-user-friendly-design-perfect-for-households/"><u>Top Reviews for the Netgear Nighthawk X6 - AC3200's Tri-Band WiFi Speed and User-Friendly Design Perfect for Households</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-integrating-moving-images-with-sound-a-comprehensive-guide/"><u>Updated Integrating Moving Images with Sound A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-mobile-a-guide-to-free-audio-to-text-conversion-on-android-and-ios-for-2024/"><u>Updated Mastering Mobile A Guide to Free Audio-to-Text Conversion on Android & iOS for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-optimal-soundscapes-an-exhaustive-compilation-of-top-voice-suppression-tools-for-karaoke-and-productions-for-2024/"><u>Updated Optimal Soundscapes An Exhaustive Compilation of Top Voice Suppression Tools for Karaoke and Productions for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools/"><u>Updated Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-ten-ai-driven-melodic-architects-the-prelude-to-2024s-musical-maestros/"><u>Updated Top Ten AI-Driven Melodic Architects The Prelude to 2024S Musical Maestros</u></a></li>
 </ul></div>
 

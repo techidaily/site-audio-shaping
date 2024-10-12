@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Dynamic Duo How to Automatically Manage Volume Levels Using Audio Ducking in Adobe Premiere Pro for macOS
-date: 2024-09-30T16:01:24.556Z
-updated: 2024-10-06T17:56:20.649Z
+date: 2024-10-10T08:14:40.710Z
+updated: 2024-10-11T23:46:26.844Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,16 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -76,16 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -115,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -136,21 +124,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-first-steps-in-ps-essential-editing-techniques-unlocked-for-2024/"><u>[New] First Steps in PS Essential Editing Techniques Unlocked for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-instant-recording-sight-and-sound-fused/"><u>[New] In 2024, Instant Recording Sight & Sound Fused</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-video-vanguard-showdown-which-is-worthier-obs-or-twitch-studio/"><u>[Updated] 2024 Approved Video Vanguard Showdown Which Is Worthier, OBS or Twitch Studio?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-pitch-perfect-productions-integrating-songs-in-tiktok-vids-for-2024/"><u>[Updated] Pitch-Perfect Productions Integrating Songs in TikTok Vids for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-features-and-functions-in-the-apple-books-app-a-detailed-look/"><u>Exploring Features & Functions in The Apple Books App - A Detailed Look</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-personalize-phone-chimes-a-whatsapp-tone-builders-manual/"><u>In 2024, Personalize Phone Chimes A WhatsApp Tone Builder's Manual</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-the-joy-of-9-premium-complete-christmas-movies-for-free/"><u>Unbox the Joy of 9 Premium, Complete Christmas Movies for Free</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-the-art-of-guitar-production-a-compilation-of-the-best-7-digital-audio-workstations/"><u>Updated In 2024, Mastering the Art of Guitar Production A Compilation of the Best 7 Digital Audio Workstations</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-art-of-a-louder-sharper-speech-filmmakers-guide-to-voice-projection-using-filmora/"><u>Updated In 2024, The Art of a Louder, Sharper Speech Filmmakers Guide to Voice Projection Using Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-art-of-unifying-diverse-sound-files-in-final-projects/"><u>Updated In 2024, The Art of Unifying Diverse Sound Files in Final Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-lyric-locators-discovering-hit-songs-of-the-year-updated/"><u>Updated Lyric Locators Discovering Hit Songs of the Year, Updated</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-no-cost-voice-shaping-secrets-revealed-comprehensive-guide-to-professional-video-voice-edits-using-filmora/"><u>Updated No-Cost Voice Shaping Secrets Revealed Comprehensive Guide to Professional Video Voice Edits Using Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-singing-simplified-accessible-audio-enhancers-for-every-musicians-toolkit/"><u>Updated Singing Simplified Accessible Audio Enhancers for Every Musicians Toolkit</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-audio-splitter-on-mac-2024-update/"><u>Updated Top Audio Splitter on Mac - 2024 Update</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unlock-your-videos-potential-with-these-youtube-seo-insights/"><u>[New] 2024 Approved Unlock Your Videos' Potential with These YouTube SEO Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-dynamic-igtv-covers-design-and-update-strategies/"><u>[New] Dynamic IGTV Covers Design & Update Strategies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-embellish-your-discord-conversations-like-a-pro/"><u>[Updated] Embellish Your Discord Conversations Like a Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exit-strategy-securing-your-data-against-chatgpt/"><u>Exit Strategy: Securing Your Data Against ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-v29-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo V29 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-xr-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone XR online without jailbreak</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>Updated In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-innovative-sound-solutions-for-videographers-streamlining-effect-implementation/"><u>Updated In 2024, Innovative Sound Solutions for Videographers Streamlining Effect Implementation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-syncing-sound-a-comprehensive-approach-to-matching-timelines-of-audio-and-video-in-fcpx/"><u>Updated Syncing Sound A Comprehensive Approach to Matching Timelines of Audio and Video in FCPX</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-synthesizing-authenticity-two-paths-to-cloning-human-like-ai-vocalizations/"><u>Updated Synthesizing Authenticity Two Paths to Cloning Human-Like AI Vocalizations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-free-android-speech-to-text-tools-for-2024/"><u>Updated Top Free Android Speech-to-Text Tools for 2024</u></a></li>
 </ul></div>
 

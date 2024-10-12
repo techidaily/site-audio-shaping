@@ -1,7 +1,7 @@
 ---
 title: Updated Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac
-date: 2024-10-03T17:54:26.368Z
-updated: 2024-10-06T18:33:34.413Z
+date: 2024-10-06T00:17:42.507Z
+updated: 2024-10-12T10:22:54.643Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,16 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,14 +124,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-why-does-facebook-use-a-blue-icon-insights-into-chat-communication-for-2024/"><u>[New] Why Does Facebook Use a Blue Icon? Insights Into Chat Communication for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-simplified-guide-to-iphone-screen-adjustment/"><u>2024 Approved Simplified Guide to iPhone Screen Adjustment</u></a></li>
-<li><a href="https://media-tips.techidaily.com/best-top-7-audio-converters-from-m4a-to-wav-on-any-device/"><u>Best Top 7 Audio Converters: From M4A to WAV on Any Device</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ic-subtitle-artisan-for-2024/"><u>Dynamic Subtitle Artisan for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/learn-how-to-mute-video-audio-on-windows-10-naturally-and-economically-for-2024/"><u>Learn How to Mute Video Audio on Windows 10 Naturally and Economically for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226969423-movavi-mkv-m4a/"><u>Movavi - 무료 공급자: 이미지, 오디오를 MKV, M4A로 쉽게 전환</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-efficient-techniques-for-instant-silence-eliminating-static-sound-in-minutes/"><u>Updated 2024 Approved Efficient Techniques for Instant Silence Eliminating Static Sound in Minutes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-charting-the-top-melodic-havens-s-downloadable-bgm-scores-for-2024/"><u>Updated Charting the Top Melodic Havens S Downloadable BGM Scores for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-locating-high-quality-brush-stroke-reverb-tones/"><u>Updated Locating High-Quality Brush Stroke Reverb Tones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-thumbnails-on-the-go-for-aspiring-mobile-film-makers-for-2024/"><u>[New] Crafting Thumbnails on the Go For Aspiring Mobile Film Makers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-demystifying-igtv-a-compreayers-guide-to-social-media/"><u>[New] In 2024, Demystifying IGTV A Compreayer's Guide to Social Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unleash-potential-best-gaming-content-to-elevate-your-channel/"><u>[New] In 2024, Unleash Potential Best Gaming Content to Elevate Your Channel</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-easy-way-to-get-new-wacom-bamboo-drivers/"><u>Direct, Easy Way to Get New Wacom Bamboo Drivers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/vering-8-prime-video-advancement-aids-for-2024/"><u>Discovering 8 Prime Video Advancement Aids for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Samsung Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-s23plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy S23+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-role-of-ai-in-achieving-silent-soundscape-denoising-techniques-unveiled/"><u>New 2024 Approved The Role of AI in Achieving Silent Soundscape Denoising Techniques Unveiled</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-behind-the-scenes-the-essential-roles-of-film-production-team-members-for-2024/"><u>New Behind the Scenes The Essential Roles of Film Production Team Members for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-creating-a-subtle-auditory-ending-effective-audio-fading-techniques/"><u>New Creating a Subtle Auditory Ending Effective Audio Fading Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-15-audio-collections-matching-melodies-with-every-type-of-visual-narrative-for-2024/"><u>New Top 15 Audio Collections Matching Melodies with Every Type of Visual Narrative for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-sound-with-ideal-cam-mics-list-for-2024/"><u>Perfecting Sound with Ideal Cam Mics List for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/toms-tech-evaluations-comprehensive-reviews-and-advice-on-electronics/"><u>Tom's Tech Evaluations: Comprehensive Reviews & Advice on Electronics</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-a-guide-to-copyright-free-tracks-perfect-for-videographic-artistry-for-2024/"><u>Updated A Guide to Copyright-Free Tracks Perfect for Videographic Artistry for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-from-full-spectrum-to-focus-extracting-core-rhythms-for-multimedia-use-for-2024/"><u>Updated From Full Spectrum to Focus Extracting Core Rhythms for Multimedia Use for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-unparalleled-audio-file-reader-free-top-quality-mp3-creation-from-professional-mpa-soundtracks/"><u>Updated In 2024, Unparalleled Audio File Reader Free, Top Quality MP3 Creation From Professional MPA Soundtracks</u></a></li>
 </ul></div>
 

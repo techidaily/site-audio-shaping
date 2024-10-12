@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac)
-date: 2024-09-30T19:02:30.373Z
-updated: 2024-10-06T17:33:53.803Z
+date: 2024-10-11T07:06:29.554Z
+updated: 2024-10-11T21:37:56.079Z
 tags: 
   - audio editing software
   - audio editing
@@ -68,10 +68,10 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
@@ -87,10 +87,10 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Apply Fade-in or Out options**
@@ -102,10 +102,10 @@ Now, go to the audio segment from the timeline and simply place the audio level 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
@@ -116,18 +116,18 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
 
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -144,21 +144,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-depth-analysis-applying-luts-to-elevate-your-cinematography-for-2024/"><u>[New] In-Depth Analysis Applying LUTs to Elevate Your Cinematography for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-keep-it-hot-ideas-for-uninterrupted-snapchat-connections/"><u>[New] Keep It Hot - Ideas for Uninterrupted Snapchat Connections</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-full-breakdown-mastering-facetune-for-photo-enhancement/"><u>[New] The Full Breakdown Mastering Facetune for Photo Enhancement</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/essential-techniques-effective-chromebook-audio-capture-in-7-steps/"><u>Essential Techniques Effective Chromebook Audio Capture in 7 Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/faster-film-fun-time-lapse-techniques-for-iphones/"><u>Faster Film Fun Time-Lapse Techniques for iPhones</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-past-how-easy-anti-cheat-is-no-more-a-hurdle-in-new-world-launches/"><u>Fixing the Past: How 'Easy Anti-Cheat' Is No More a Hurdle in New World Launches</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-innovative-11-applications-for-streamlined-sound-design/"><u>In 2024, Innovative 11 Applications for Streamlined Sound Design</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-pathway-to-pristine-recordings-removing-unwanted-noises-for-crystal-clear-sound/"><u>In 2024, The Pathway to Pristine Recordings Removing Unwanted Noises for Crystal-Clear Sound</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/moviemeld-insights-full-editing-review-for-2024/"><u>MovieMeld Insights – Full Editing Review for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-techniques-to-remove-audio-from-updated-avi-software-file/"><u>New In 2024, Techniques to Remove Audio From Updated AVI Software File</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unveiling-the-top-10-audio-editing-platforms-a-guide-to-free-and-paid-services-for-musicians/"><u>New In 2024, Unveiling the Top 10 Audio Editing Platforms A Guide to Free & Paid Services for Musicians</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-seamless-integration-of-multiple-audio-layers-creating-a-consolidated-master-file-for-2024/"><u>New Seamless Integration of Multiple Audio Layers Creating a Consolidated Master File for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-silencing-audio-in-updated-mkv-files-a-comprehensive-guide-mkv-2023/"><u>New Silencing Audio in Updated MKV Files - A Comprehensive Guide (MKV-2023)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/photomagic-studio-for-2024/"><u>PhotoMagic Studio for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/triumph-over-win11-blue-screen-with-these-top-11-strategies/"><u>Triumph Over Win11 Blue Screen with These Top 11 Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-key-to-attracting-views-youtube-image-marketing/"><u>[New] The Key to Attracting Views YouTube Image Marketing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>[Updated] In 2024, Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-instagrams-gold-standard-six-tactics-to-attract-more-followers/"><u>[Updated] The Ultimate Guide to Instagram's Gold Standard Six Tactics to Attract More Followers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-facebook-analytics-simplified/"><u>2024 Approved Navigating Facebook Analytics Simplified</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-swift-solutions-for-auditory-clarity-banishing-buildup-noise/"><u>2024 Approved Swift Solutions for Auditory Clarity Banishing Buildup Noise</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/demons-souls-remastered-enhanced-visuals-keep-the-classic-excellence/"><u>Demon's Souls Remastered: Enhanced Visuals Keep the Classic Excellence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-playground-to-pro-how-mavic-air-challenges-the-spark-dominance/"><u>In 2024, From Playground to Pro How Mavic Air Challenges the Spark Dominance</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-interactive-webcast-the-ultimate-informative-experience/"><u>In 2024, Interactive Webcast The Ultimate Informative Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-cut-trim-and-tailor-audio-files-in-seconds-using-these-top-7-web-based-tools/"><u>New 2024 Approved Cut, Trim, and Tailor Audio Files in Seconds Using These Top 7 Web-Based Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-expanding-your-communication-horizons-top-10-android-apps-to-consider-in-place-of-facetime/"><u>New 2024 Approved Expanding Your Communication Horizons Top 10 Android Apps to Consider in Place of FaceTime</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-auditory-excellence-in-action-how-to-identify-the-sound-editor-of-your-dreams-for-2024/"><u>New Auditory Excellence in Action How to Identify the Sound Editor of Your Dreams for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-stay-safe-while-video-chatting-tips-and-top-10-sites-for-2024/"><u>New Stay Safe While Video Chatting Tips and Top 10 Sites for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-transform-any-audio-with-these-7-innovative-cost-free-online-trimming-applications/"><u>New Transform Any Audio with These 7 Innovative, Cost-Free Online Trimming Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-ppt-and-vo-integration-tutorial/"><u>Step-by-Step PPT & VO Integration Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-solve-d3dx930dll-errors-in-windows/"><u>Troubleshooting Steps to Solve d3dx9_30.dll Errors in Windows</u></a></li>
 </ul></div>
 
