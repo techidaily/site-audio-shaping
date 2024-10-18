@@ -1,7 +1,7 @@
 ---
 title: Updated The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie for 2024
-date: 2024-10-10T05:17:20.244Z
-updated: 2024-10-12T02:21:04.204Z
+date: 2024-10-15T21:04:21.831Z
+updated: 2024-10-17T18:22:50.531Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,6 +51,13 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -61,6 +68,13 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
@@ -69,18 +83,18 @@ Move the pointer over a waveform, and drag the small gray fade handle at the lef
 
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Playback to Check
 
 Move the playhead to the beginning part of the clips with fade effects to check the fade-in and fade-out effects. If everything works OK, uncheck "Show Waveforms" to hide the waveforms.
 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -109,10 +123,10 @@ If you manually adjust the effect, you can have a better effect.
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
@@ -120,13 +134,6 @@ After the settings, you can preview the effect in the viewing window to make sur
 Now, that's done! I hope the above information does help you to set the fade effects to smooth your video and audio transitions.
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
@@ -152,13 +159,6 @@ Click the "Export" button to select one of the export methods. You can choose yo
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -178,22 +178,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-conquer-the-blackened-canvas-of-youtube-for-2024/"><u>[New] Conquer the Blackened Canvas of YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhancing-your-instareel-game-with-unbeatable-slow-motion-techniques/"><u>[New] In 2024, Enhancing Your InstaReel Game with Unbeatable Slow Motion Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outube-listening-made-easy-with-direct-recording/"><u>[New] YouTube Listening Made Easy with Direct Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-engaging-sims-4-experience-through-recording-for-2024/"><u>[Updated] Engaging Sims 4 Experience Through Recording for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-rectifying-identity-mix-up-in-fb-text-exchange/"><u>2024 Approved Rectifying Identity Mix-Up in FB Text Exchange</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-defy-2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Defy 2</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-childhood-wings-5-best-drone-companions/"><u>In 2024, Childhood Wings 5 Best Drone Companions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-cut-audio-from-video-on-iphonemac/"><u>In 2024, How to Cut Audio From Video on iPhone/Mac</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-sound-a-comprehensive-guide-to-normalizing-audio-in-multimedia-content/"><u>In 2024, Mastering Sound A Comprehensive Guide to Normalizing Audio in Multimedia Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/methods-to-exclude-sound-from-multimedia-files/"><u>Methods to Exclude Sound From Multimedia Files</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-metamorphosis-transforming-mp3-files-into-mp4-with-ease-for-2024/"><u>New Audio Metamorphosis Transforming MP3 Files Into MP4 with Ease for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-freetranscribe-your-way-android-and-ios-apps-for-effortless-audio-transcription-for-2024/"><u>New FreeTranscribe Your Way Android & iOS Apps for Effortless Audio Transcription for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-top-audio-reversing-applications-for-your-pc-phone-and-tablet/"><u>New In 2024, The Ultimate Guide to Choosing Top Audio Reversing Applications For Your PC, Phone, and Tablet</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-proven-leaders-in-speech-to-text-the-best-6-automatic-transcription-apps/"><u>New Proven Leaders in Speech to Text The Best 6 Automatic Transcription Apps</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-7-converting-audio-to-text-tools/"><u>New Top 7 Converting Audio to Text Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-phantom-v-flip-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Phantom V Flip Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smartphones-superior-topping-video-capture-lists/"><u>Smartphones Superior Topping Video Capture Lists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamers-toolkit-beyond-streamlabs-obs/"><u>[New] In 2024, Streamer's Toolkit Beyond Streamlabs OBS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximize-video-impact-with-full-screen-settings/"><u>[New] Maximize Video Impact with Full-Screen Settings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-stepwise-guide-for-broadcasting-google-meet-on-youtube/"><u>[Updated] In 2024, Stepwise Guide for Broadcasting Google Meet on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/10-t17262287356455/"><u>人気がある字幕ダウンロードサイトランキング【上位10件】 - ベストリストをご紹介します！</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-frame-rate-selection-for-effective-slow-motion-capture/"><u>In 2024, Best Frame Rate Selection for Effective Slow Motion Capture</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-crafting-success-in-youtubes-creator-hub/"><u>In 2024, Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-sound-on-the-go-unveiling-the-8-best-ios-daws-for-ipad-and-iphone-for-2024/"><u>Mastering Sound on the Go Unveiling the 8 Best iOS DAWs for iPad and iPhone for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-visually-pleasing-audio-selections-for-digital-content-streaming/"><u>New 2024 Approved Visually Pleasing Audio Selections for Digital Content Streaming</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-expert-tips-on-isolating-soundtracks-in-adobe-premiere-projects/"><u>New Expert Tips on Isolating Soundtracks in Adobe Premiere Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-mastering-the-fast-conversion-of-whatsapp-soundtracks-into-mp3-files-for-2024/"><u>New Mastering the Fast Conversion of WhatsApp Soundtracks Into MP3 Files for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-sonic-innovation-unleashed-navigating-through-the-seventh-wave-of-audio-manipulation/"><u>New Sonic Innovation Unleashed Navigating Through the Seventh Wave of Audio Manipulation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-straightforward-windows-setup-of-insignia-graphics-card-drivers/"><u>Quick & Straightforward Windows Setup of Insignia Graphics Card Drivers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unlocking-secrets-how-to-bypass-dvd-copy-safeguards/"><u>Unlocking Secrets: How to Bypass DVD Copy Safeguards</u></a></li>
 </ul></div>
 

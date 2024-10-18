@@ -1,7 +1,7 @@
 ---
 title: Updated Professional Insights on Separating Soundtracks From Visual Media on Apple Technology
-date: 2024-10-10T18:32:46.933Z
-updated: 2024-10-11T21:06:15.921Z
+date: 2024-10-16T23:25:31.278Z
+updated: 2024-10-18T04:14:08.059Z
 tags: 
   - audio editing software
   - audio editing
@@ -62,22 +62,15 @@ Click the "export" button on the interface and select the desired video format
 
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to cut the audio from videos on iPhone
 
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Open the iMovie
@@ -92,6 +85,13 @@ There are different pages on the interface but your concern is on the project pa
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Mute the audio
 
 Muting the audio becomes straightforward when you have moved it to the interface. In this step, click on the video clip button as seen in the picture then mute it by selecting the mute option (the picture below shows the mute sign at the lower-left corner) from the audio button. When this is done, your video has been silenced.
@@ -99,10 +99,10 @@ Muting the audio becomes straightforward when you have moved it to the interface
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
@@ -121,6 +121,13 @@ Step 2 Next, right-click the video and choose "Audio Detach." After some time, t
 
  ![mac audio detach1](https://images.wondershare.com/filmora/guide/mac-audio-detach1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can choose to delete the video or keep it. If you want to delete it, simply right-click and choose delete. This will remove the video entirely.
 
 Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the audio editing tools would be displayed. You can adjust the music volume, change voice, and do other edits.
@@ -134,10 +141,10 @@ Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
@@ -153,20 +160,13 @@ Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidail
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -183,24 +183,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-pexels-explained-how-to-maximize-your-use-of-public-domain-photos/"><u>2024 Approved Pexels Explained How to Maximize Your Use of Public Domain Photos</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/collaborative-innovation-in-brand-and-media-synergy/"><u>Collaborative Innovation in Brand and Media Synergy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-overlay-issue-resolved-fix-it-fast-and-simple/"><u>Discord Overlay Issue Resolved: Fix It Fast and Simple</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhancing-usbasp-functionality-on-multiple-windows-editions-7-11/"><u>Enhancing USBasp Functionality on Multiple Windows Editions (7-11)</u></a></li>
-<li><a href="https://facebook.techidaily.com/gauging-content-effectiveness-facebook-seeks-user-feedback/"><u>Gauging Content Effectiveness: Facebook Seeks User Feedback</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/getting-the-most-out-of-budget-cameras-an-insightful-review-on-rexing-v1-dash-cam/"><u>Getting the Most Out of Budget Cameras: An Insightful Review on Rexing V1 Dash Cam</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-snap-camera-in-ms-teams/"><u>Mastering Snap Camera in MS Teams</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/maximizing-creativity-a-look-at-the-6-best-free-online-audio-adjustment-applications/"><u>Maximizing Creativity A Look at the 6 Best Free Online Audio Adjustment Applications</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-instantaneous-voice-eradication-technique-using-audacity/"><u>New 2024 Approved Instantaneous Voice Eradication Technique Using Audacity</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-top-6-online-sources-for-spooky-audio-tones/"><u>New 2024 Approved Top 6 Online Sources for Spooky Audio Tones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-crafting-crystal-clear-soundscapes-for-home-video-filmmakers-what-you-need-to-know-for-2024/"><u>New Crafting Crystal Clear Soundscapes for Home Video Filmmakers (What You Need to Know ) for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unveiling-the-secrets-to-successful-sound-recording-in-garageband/"><u>New In 2024, Unveiling the Secrets to Successful Sound Recording in GarageBand</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-checklist-for-superior-sound-on-personal-video-recording/"><u>New The Ultimate Checklist for Superior Sound on Personal Video Recording</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-tier-ae-templates-for-poetic-visual-storytelling/"><u>New Top-Tier AE Templates for Poetic Visual Storytelling</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-totally-tune-out-mastering-the-art-of-muting-media-on-internet-platforms-for-2024/"><u>New Totally Tune-Out Mastering the Art of Muting Media on Internet Platforms for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/studio-luminance-ranking-the-best-17-light-devices-for-2024/"><u>Studio Luminance Ranking the Best 17 Light Devices for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-efficiently-using-look-up-tables-luts/"><u>The Ultimate Guide to Efficiently Using Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-vrecorder-a-download-and-install-journey-for-2024/"><u>[New] Mastering VRecorder A Download & Install Journey for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-revolutionizing-personal-cinema-with-xiaomis-mi-11-lite-features/"><u>[New] Revolutionizing Personal Cinema with Xiaomi's Mi 11 Lite Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-leaders-free-top-6-youtube-snackers/"><u>[Updated] Unveiling the Leaders Free Top 6 YouTube Snackers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-leading-cost-free-online-audio-editing-software/"><u>2024 Approved Leading Cost-Free Online Audio Editing Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/acer-wi-fibluetooth-touchpad-drivers-for-windows-10-install-directly-and-free/"><u>Acer Wi-Fi/Bluetooth Touchpad Drivers for Windows 10: Install Directly & Free!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-archives-for-articulated-grunt-effects-for-2024/"><u>Exploring Archives for Articulated Grunt Effects for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-score-the-biggest-bargains-on-mystery-boxes-websites/"><u>In 2024, Score the Biggest Bargains on Mystery Boxes Websites</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-tutorials-on-documenting-ps3-gaming-sessions-for-2024/"><u>In-Depth Tutorials on Documenting PS3 Gaming Sessions for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/mastering-the-art-of-video-trimming-a-comprehensive-guide/"><u>Mastering the Art of Video Trimming: A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-audacity-on-ubuntu-step-by-step-tutorials-for-seamless-setup-upgrade-and-cleanup/"><u>New In 2024, Audacity on Ubuntu Step-by-Step Tutorials for Seamless Setup, Upgrade & Cleanup</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unleashing-the-tremors-deepening-vocal-impact-with-filmora-techniques/"><u>New In 2024, Unleashing the Tremors Deepening Vocal Impact with Filmora Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/precision-matters-why-double-checking-component-sizes-is-crucial-for-pc-building-success/"><u>Precision Matters: Why Double-Checking Component Sizes Is Crucial for PC Building Success</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-navigate-through-melodious-comedy-effects/"><u>Updated 2024 Approved Navigate Through Melodious Comedy Effects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-all-encompassing-directory-guide-for-podcast-platforms/"><u>Updated In 2024, All-Encompassing Directory Guide for Podcast Platforms</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-mute-tiktok-audio-easy-ways-to-follow/"><u>Updated In 2024, How to Mute TikTok Audio Easy Ways to Follow</u></a></li>
 </ul></div>
 
