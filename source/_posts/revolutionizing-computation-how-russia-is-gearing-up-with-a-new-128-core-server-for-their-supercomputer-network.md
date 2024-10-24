@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-10-16T01:59:50.256Z
-updated: 2024-10-18T01:27:38.094Z
+date: 2024-10-17T02:43:48.663Z
+updated: 2024-10-24T02:16:12.275Z
 tags:
   - desktop
 categories:
@@ -72,26 +72,37 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions-for-2024/"><u>[Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-capture-create-curate-mobiles-in-action-for-youtube-thumbnails/"><u>[Updated] Capture, Create, Curate Mobiles in Action for YouTube Thumbnails</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y27s-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y27s Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-top-5-tools-all-successful-twitch-streamers-use/"><u>Essential Top 5 Tools All Successful Twitch Streamers Use</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-14-pro-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 14 Pro Max Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/methodes-completes-pour-restaurer-des-clips-de-securite-gopro-perdues-en-2024-un-guide-complet/"><u>Méthodes Complètes Pour Restaurer Des Clips De Sécurité GoPro Perdues en 2024 : Un Guide Complet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726218479227-movavi/"><u>Movavi的送貨退貨政策解說</u></a></li>
-<li><a href="https://video-capture.techidaily.com/scholarly-screening-top-10-educational-equipment-to-preserve-lectures/"><u>Scholarly Screening Top 10 Educational Equipment to Preserve Lectures</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools-for-2024/"><u>Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-sound-engineers-approach-to-detaching-bass-from-mixed-tracks-for-2024/"><u>The Sound Engineers Approach to Detaching Bass From Mixed Tracks for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-4-ways-to-sync-audio-to-video-automatically-in/"><u>Updated 2024 Approved 4 Ways to Sync Audio to Video Automatically In</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-enhancing-audio-clarity-in-diy-home-film-production/"><u>Updated 2024 Approved Enhancing Audio Clarity in DIY Home Film Production</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>Updated 2024 Approved Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-expert-techniques-for-crafting-complex-audio-edits-with-keyframes-in-premiere-pro-mac-edition-for-2024/"><u>Updated Expert Techniques for Crafting Complex Audio Edits with Keyframes in Premiere Pro, Mac Edition for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-deep-dive-into-srt-the-basics-for-beginners-for-2024/"><u>[Updated] Deep Dive Into SRT The Basics for Beginners for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-strike-a-chord-with-instagram-reels-using-tiktoks-hit-hacks-for-2024/"><u>[Updated] Strike a Chord with Instagram Reels Using TikTok's Hit Hacks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-tale-of-htc-vive-and-total-immersion/"><u>2024 Approved The Ultimate Tale of HTC Vive and Total Immersion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-differences-between-apples-new-marvel-the-iphone-15-pro-max-and-samsungs-s24-ultra-phenomenon/"><u>Decoding the Differences Between Apple's New Marvel - The iPhone 15 Pro Max, and Samsung's S24 Ultra Phenomenon</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212043808-how-to-fix-access-denied-file-and-folder-errors-on-windows/"><u>How to Fix “Access Denied” File and Folder Errors on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-dvd-duplication-methods-for-imposingforcing-subtitles-on-your-copies/"><u>Mastering DVD Duplication: Methods for Imposing/Forcing Subtitles on Your Copies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-machine-identification-sid-finder-in-win11/"><u>Mastery of Machine Identification: SID Finder in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/spotify-web-player-performance-issues-troubleshooting-tips/"><u>Spotify Web Player Performance Issues : Troubleshooting Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-transforming-standard-hd-videos-into-ultra-high-definition-on-pc-with-specialized-software-solutions/"><u>Step-by-Step Tutorial for Transforming Standard HD Videos Into Ultra High Definition on PC with Specialized Software Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-benefits-for-studying-german-a-compelling-list/"><u>Top Benefits for Studying German - A Compelling List</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-featured-list-of-best-sounding-pop-melodies-and-lyrics-for-video-production/"><u>Updated In 2024, Featured List of Best-Sounding Pop Melodies and Lyrics for Video Production</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-from-visual-to-audible-harness-the-power-of-audio-extraction-tools-for-videos-on-cross-platform-systems-windows-macos-and-mobile-devices-new/"><u>Updated In 2024, From Visual to Audible Harness the Power of Audio Extraction Tools for Videos on Cross-Platform Systems (Windows, macOS & Mobile Devices - New Insights 2023)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-hidden-harmonics-techniques-for-non-invasively-stripping-voices-from-audio-tracks-using-audacitys-features/"><u>Updated In 2024, The Hidden Harmonics Techniques for Non-Invasively Stripping Voices From Audio Tracks Using Audacitys Features</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-unlocking-free-integration-techniques-for-music-in-online-visual-media/"><u>Updated In 2024, Unlocking Free Integration Techniques for Music in Online Visual Media</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-the-art-of-sound-recording-via-vocaroo-strategies-and-replacements-for-2024/"><u>Updated Mastering the Art of Sound Recording via Vocaroo Strategies and Replacements for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-melody-eraser-pro-craft-personalized-instrumental-compositions/"><u>Updated Melody Eraser Pro Craft Personalized Instrumental Compositions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-play-m4a-audio-files-on-android-devices-for-2024/"><u>Updated Play M4A Audio Files on Android Devices for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-list-of-green-themed-audio-apps-for-smartphones-for-2024/"><u>Updated The Ultimate List of Green-Themed Audio Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-selection-of-secure-online-video-communication-sites-for-2024/"><u>Updated The Ultimate Selection of Secure Online Video Communication Sites for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

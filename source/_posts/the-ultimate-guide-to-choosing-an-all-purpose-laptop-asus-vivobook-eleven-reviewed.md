@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed"
-date: 2024-10-15T08:48:18.519Z
-updated: 2024-10-17T21:49:22.991Z
+date: 2024-10-21T22:19:13.526Z
+updated: 2024-10-23T18:15:13.478Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed"
@@ -42,15 +42,28 @@ Lifewire / Erika Rawes
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -74,6 +87,13 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -89,13 +109,6 @@ Lifewire / Erika Rawes
  The Vivosmart 4 is one of the more comfortable fitness trackers I’ve tested. Most of the time, I’d forget I was even wearing the tracker until it vibrated. The band’s side edges are rounded off, making it feel more comfortable against the skin.
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
 
@@ -116,13 +129,20 @@ Lifewire / Erika Rawes
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Garmin Connect App**
 
@@ -142,13 +162,6 @@ Lifewire / Erika Rawes
 
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
@@ -162,13 +175,6 @@ Lifewire / Erika Rawes
 **A comfortable band with unique perks.**
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -210,20 +216,24 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-prime-8-virtual-vision-composition-program/"><u>[New] Prime 8 Virtual Vision Composition Program</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-7-video-streaming-apps-your-ally-in-going-live-with-youtube-from-iphones-and-android/"><u>[New] Ultimate 7 Video Streaming Apps Your Ally in Going Live with YouTube From iPhones & Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-explore-the-world-of-video-calls-hangouts-for-android/"><u>[Updated] Explore the World of Video Calls Hangouts for Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-efficient-recording-techniques-for-itunes-media/"><u>2024 Approved Efficient Recording Techniques for iTunes Media</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-infinix-smart-8-plus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Smart 8 Plus Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-se-2020-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone SE (2020) Activation Lock</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-multi-platform-speech-to-mp3-technology-for-everyday-use/"><u>In 2024, Multi-Platform Speech-to-MP3 Technology for Everyday Use</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-comprehensive-guide-advanced-avs-sound-editing-tools-and-comparative-analysis/"><u>New 2024 Approved Comprehensive Guide Advanced AVS Sound Editing Tools and Comparative Analysis</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-from-raw-tape-to-polished-production-advanced-techniques-using-sony-vegas-pro/"><u>New 2024 Approved From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-inside-americas-favorite-non-omegle-video-chat-websites-a-current-ranking-guide/"><u>New In 2024, Inside Americas Favorite Non-Omegle Video Chat Websites A Current Ranking Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-essential-collection-selecting-from-6-superior-automatic-transcribers/"><u>New In 2024, The Essential Collection Selecting From 6 Superior Automatic Transcribers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-speech-to-mp3-conversion-tool-windows-mac-android-and-ios-compatibility/"><u>New Speech-to-MP3 Conversion Tool Windows, Mac, Android & iOS Compatibility</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-8-digital-audio-workstations-daws-revolutionizing-contemporary-rap-and-randb-creation-for-2024/"><u>New Top 8 Digital Audio Workstations (DAWs) Revolutionizing Contemporary Rap and R&B Creation for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-a1-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo A1 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pro-tips-for-the-best-pc-snipping-software-of-today/"><u>Pro Tips for the Best PC Snipping Software of Today</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-ideal-mics-for-bloggers-educators-and-entertainment-clips/"><u>[New] In 2024, Ideal Mics for Bloggers, Educators, & Entertainment Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-the-art-of-audio-in-audacity-professionally/"><u>[New] Perfecting the Art of Audio in Audacity Professionally</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-creators-guide-turn-viewers-into-paychecks/"><u>[Updated] The Creator’s Guide Turn Viewers Into Paychecks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808214581-easy-fixes-for-when-skype-fails-to-connect-in-windows-n-discover-your-pathway-to-seamless-communication/"><u>Easy Fixes for When Skype Fails to Connect in Windows N: Discover Your Pathway to Seamless Communication!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-windows-error-states-wrp-cannot-perform-action/"><u>Effective Fixes When Windows Error States WRP Cannot Perform Action</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone X?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-top-8-accessories-for-vr-games-for-2024/"><u>Innovative Top 8 Accessories for VR Games for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/speech-to-mp3-conversion-tool-windows-mac-android-and-ios-compatibility/"><u>Speech-to-MP3 Conversion Tool Windows, Mac, Android & iOS Compatibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-illusion-unveiled-nine-major-issues-with-gpt/"><u>The AI Illusion Unveiled: Nine Major Issues with GPT</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-smartest-spots-to-download-trendy-whoosh-sounds-online/"><u>The Smartest Spots to Download Trendy Whoosh Sounds Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware-1723264116053/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-3-budget-friendly-methods-to-transcribe-sound-into-words-detailed-processes-2023-for-2024/"><u>Top 3 Budget-Friendly Methods to Transcribe Sound Into Words Detailed Processes - 2023 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-15-best-free-online-image-enhancement-tools/"><u>Unveiling the 15 Best Free Online Image Enhancement Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-debunking-digital-audio-studio-myths-the-truth-behind-daw/"><u>Updated 2024 Approved Debunking Digital Audio Studio Myths The Truth Behind DAW</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-innovators-guide-to-non-intrusive-audio-modulation-in-modern-videos/"><u>Updated 2024 Approved The Innovators Guide to Non-Intrusive Audio Modulation in Modern Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-essential-techniques-for-striking-podcast-cover-designs-your-step-by-step-guide-for-2024/"><u>Updated Essential Techniques for Striking Podcast Cover Designs Your Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-add-audio-to-video-in-android-for-2024/"><u>Updated How to Add Audio to Video in Android for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-change-volume-in-media-files-with-filmora/"><u>Updated How to Change Volume in Media Files with Filmora</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-identifying-premium-options-for-customizing-mac-audio-files-for-2024/"><u>Updated Identifying Premium Options for Customizing Mac Audio Files for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mastering Audio Editing Removing Sound From Films with iMovie
-date: 2024-08-22T10:10:42.114Z
-updated: 2024-08-23T10:10:42.114Z
+date: 2024-10-20T23:03:15.103Z
+updated: 2024-10-24T00:14:45.207Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,87 +18,7 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 
 # How to Remove Audio from a Video in iMovie?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-##### Shanoon Cox
-
- Aug 18, 2022• Proven solutions
-
-_“How do you remove audio from a video in Movie on an iPhone or Mac? I have a video, but I want to mute it before sharing it with my friends from my iPhone!”_
-
-As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
-
-If you own an iPhone or an iPad, then you might be familiar with iMovie, which is an inbuilt video editor app, developed by Apple. If the app is not installed on your iOS device, then you can get it for free from the App Store. While there are several editing features in iMovie, it offers a dedicated option to control the audio level or remove it entirely from the video.
-
-To learn how to remove sound from a video in iMovie on iPhone or iPad, you can follow these simple instructions:
-
-**Step 1: Load the video to mute on your iMovie app**
-
-At first, just get the iMovie app from the App Store on your iPhone or iPad and launch it. Once the iMovie app is launched, just tap on the “+” icon and choose to work on a new Movie project.
-
-This will let you browse the available folders on your iPhone or iPad so that you can select the video to edit. Once you find the file, just select it, and load it on the iMovie interface by tapping on the “Create Movie” button.
-
-**Step 2: Remove audio from a video in iMovie on iPhone/iPad**
-
-After when the video is loaded, you can check its icon on the timeline and view its preview at the top. Now, just tap on the video icon from the timeline to get various options at the bottom.
-
-From all the available options at the bottom panel, just tap on the sound icon. You can now scroll the bar left or right to adjust the level of audio in the video. Besides that, you can also tap on the sound icon from the side to remove audio from the video in iMovie on iPhone or iPad.
-
-**Step 3: Save changes and export the edited video**
-
-Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
-
-### Pro Tip: How to Mute Background Noise in iMovie
-
-If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
-
-Just like the iOS app, you can also learn how to remove audio from a video clip in iMovie on Mac as well. Although, the Mac app of iMovie also offers several other editing features that would come in handy to you. To learn how do you remove audio from a video in iMovie on your Mac, you can follow this simple drill.
-
-**Step 1: Import the Video you want to edit on iMovie**
-
-To begin with, just launch the iMovie application on your Mac and choose to work on a new project. Afterward, you can drag-and-drop the video to iMovie or click on the Import button to browse and load the file here.
-
-**Step 2: Remove audio from the video in iMovie on Mac**
-
-After the video has been added, you can view its thumbnail from the files section. At first, just drag the video and drop it to the timeline at the bottom so that you can make the needed edits.
-
-Once the video is loaded, you can just right-click the video thumbnail from the timeline. Now, from the provided context menu, you can simply choose to detach audio from the file.
-
-This will display the audio component of the file just below the video. To separate audio from the video in iMovie, you can right-click the audio component, and choose to delete it. You can further alter the audio component from here if you want to.
-
-**Step 3: Save the Edited Video (with the Deleted Audio)**
-
-That’s it! After making all the desired changes, you can go to the iMovie Menu > File > Share and simply choose to save the “File” of the project on your Mac.
-
-I’m sure that after reading this post, you would be able to remove audio from a video in iMovie on iPhone, iPad, or Mac. As you can see, both the Mac and iOS iMovie app lets us mute audio on any video. Though, if you are looking for more features and want to edit the sound in your videos, then you can give Wondershare Filmora a try. The application has a dedicated audio mixer and even lets us add voiceovers to videos. There are several other audio and video editing features in Wondershare Filmora that you would love to explore!
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
 
 ##### Shanoon Cox
 
@@ -130,13 +50,17 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pro Tip: How to Mute Background Noise in iMovie
 
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
 
 Just like the iOS app, you can also learn how to remove audio from a video clip in iMovie on Mac as well. Although, the Mac app of iMovie also offers several other editing features that would come in handy to you. To learn how do you remove audio from a video in iMovie on your Mac, you can follow this simple drill.
@@ -159,9 +83,6 @@ That’s it! After making all the desired changes, you can go to the iMovie Menu
 
 I’m sure that after reading this post, you would be able to remove audio from a video in iMovie on iPhone, iPad, or Mac. As you can see, both the Mac and iOS iMovie app lets us mute audio on any video. Though, if you are looking for more features and want to edit the sound in your videos, then you can give Wondershare Filmora a try. The application has a dedicated audio mixer and even lets us add voiceovers to videos. There are several other audio and video editing features in Wondershare Filmora that you would love to explore!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -242,9 +163,6 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
 
 If you own an iPhone or an iPad, then you might be familiar with iMovie, which is an inbuilt video editor app, developed by Apple. If the app is not installed on your iOS device, then you can get it for free from the App Store. While there are several editing features in iMovie, it offers a dedicated option to control the audio level or remove it entirely from the video.
@@ -267,9 +185,77 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
+### Pro Tip: How to Mute Background Noise in iMovie
+
+If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
+
+Just like the iOS app, you can also learn how to remove audio from a video clip in iMovie on Mac as well. Although, the Mac app of iMovie also offers several other editing features that would come in handy to you. To learn how do you remove audio from a video in iMovie on your Mac, you can follow this simple drill.
+
+**Step 1: Import the Video you want to edit on iMovie**
+
+To begin with, just launch the iMovie application on your Mac and choose to work on a new project. Afterward, you can drag-and-drop the video to iMovie or click on the Import button to browse and load the file here.
+
+**Step 2: Remove audio from the video in iMovie on Mac**
+
+After the video has been added, you can view its thumbnail from the files section. At first, just drag the video and drop it to the timeline at the bottom so that you can make the needed edits.
+
+Once the video is loaded, you can just right-click the video thumbnail from the timeline. Now, from the provided context menu, you can simply choose to detach audio from the file.
+
+This will display the audio component of the file just below the video. To separate audio from the video in iMovie, you can right-click the audio component, and choose to delete it. You can further alter the audio component from here if you want to.
+
+**Step 3: Save the Edited Video (with the Deleted Audio)**
+
+That’s it! After making all the desired changes, you can go to the iMovie Menu > File > Share and simply choose to save the “File” of the project on your Mac.
+
+I’m sure that after reading this post, you would be able to remove audio from a video in iMovie on iPhone, iPad, or Mac. As you can see, both the Mac and iOS iMovie app lets us mute audio on any video. Though, if you are looking for more features and want to edit the sound in your videos, then you can give Wondershare Filmora a try. The application has a dedicated audio mixer and even lets us add voiceovers to videos. There are several other audio and video editing features in Wondershare Filmora that you would love to explore!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Aug 18, 2022• Proven solutions
+
+_“How do you remove audio from a video in Movie on an iPhone or Mac? I have a video, but I want to mute it before sharing it with my friends from my iPhone!”_
+
+As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
+
+## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
+
+If you own an iPhone or an iPad, then you might be familiar with iMovie, which is an inbuilt video editor app, developed by Apple. If the app is not installed on your iOS device, then you can get it for free from the App Store. While there are several editing features in iMovie, it offers a dedicated option to control the audio level or remove it entirely from the video.
+
+To learn how to remove sound from a video in iMovie on iPhone or iPad, you can follow these simple instructions:
+
+**Step 1: Load the video to mute on your iMovie app**
+
+At first, just get the iMovie app from the App Store on your iPhone or iPad and launch it. Once the iMovie app is launched, just tap on the “+” icon and choose to work on a new Movie project.
+
+This will let you browse the available folders on your iPhone or iPad so that you can select the video to edit. Once you find the file, just select it, and load it on the iMovie interface by tapping on the “Create Movie” button.
+
+**Step 2: Remove audio from a video in iMovie on iPhone/iPad**
+
+After when the video is loaded, you can check its icon on the timeline and view its preview at the top. Now, just tap on the video icon from the timeline to get various options at the bottom.
+
+From all the available options at the bottom panel, just tap on the sound icon. You can now scroll the bar left or right to adjust the level of audio in the video. Besides that, you can also tap on the sound icon from the side to remove audio from the video in iMovie on iPhone or iPad.
+
+**Step 3: Save changes and export the edited video**
+
+Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
+
 ### Pro Tip: How to Mute Background Noise in iMovie
 
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
@@ -316,9 +302,6 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Exploring Top 5 Gratis Volume Calibration Options for MP3s"
 
 When you are listening to music, or to podcast, or some other type of audio files, would it make it enjoyable if the volume was so low at some point that you couldn’t understand anything? Now add another possibility to this very unpleasant imagination – what if the volume was so high at another point that your ears can’t handle it? – Of course, you would stop listening, and you would also not think high of the creator of this content. In other words, this will become the reason why this creator might lose their audiences. Well, sad story for the creator, isn’t it? And, what if YOU were the creator? A little laziness or a failure in paying attention to detail and your content goes to waste!
@@ -345,9 +328,6 @@ Now, even though we already know how to normalize audio in VLC in the simplest, 
 
 When it is done installing, open the software. Now, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare filmora x](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-01.jpg)
 
 Now if you have this kind of graphic before your eyes, you can be pretty sure without even listening, that the noises are really, really different from each other, which highlights once again how useful audio normalization can be:
@@ -356,18 +336,12 @@ Now if you have this kind of graphic before your eyes, you can be pretty sure wi
 
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-03.jpg)
 
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-04.jpg)
 
 After you have clicked on it, wait until the normalization completes.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![complete normalization](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-05.jpg)
 
 Soon, all audio will be normalized, and you will already be able to see on the graphics that the volumes are almost on the same level and when you listen to it, you will make sure that there is no longer apparent difference between how they sound. And from there on, you can save the file you just normalized!
@@ -384,18 +358,12 @@ To normalize audio Adobe Premiere Pro, first, import your MP3 there. In the time
 
 Now, the track is high, and you can see more of your track. So, say that one of your MP3’s seems very loud, and another is much quieter. Speaking of the loud one, if you can see on the right that there is some red light, it is not a good sign – meaning that audio went above zero (so-called clipping), so you need to avoid it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![avoid clipping](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-08.jpg)
 
 (If you can not see your audio meters, just go to Window menu and choose Audio Meters).
 
 So, here, our goal is to bring our audio clips around -3 – and for it, it’s possible to bring up and down the white line on the track, but it can be pretty time-consuming actually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![bring audio clips around-3](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-09.jpg)
 
 So a better way to do it would be next: click on the track and then right-click, find Audio Gain, and choose Normalize Max Peak to…:
@@ -430,9 +398,6 @@ Here, concentrate the most on Makeup gain, Threshold, and Ratio. The first one i
 
 Attack time and release time can also be very helpful. You can play around with them set them to your liking, and see if it’s better sounding, because actually this will ensure that you have a fluid transition in and out of the scene and there are less sudden, unexpected volume changes.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## MP3Gain
 
 MP3Gain is actually the only one in this list which is developed exactly for the task we are discussing in this article. It is an audio normalization software tool. The tool is available on multiple platforms and is free software. It analyzes the MP3 and reversibly changes its volume. The volume can be adjusted for single files or as album where all files would have the same perceived loudness. When applying the tool, there is no quality lost in the change because the program adjusts the mp3 file directly, without decoding and re-encoding.
@@ -449,17 +414,27 @@ Now, find the Target “Normal” Volume above the files, and fill in the gap, i
 
 ![find and target normal](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The software will show you the volume of each of the file, and then you will need to just click on Track Gain.
 
 ![click on track gain](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-17.jpg)
 
 Now, wait for the process to be completed, and then you will see that the volumes changed for each of your files – so, it’s done!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![volumes changed for each files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Movavi
 
@@ -467,18 +442,6 @@ Powerful multimedia software for creating and editing videos – this is Movavi.
 
 Install and open the program and then proceed directly to Adding Files. After having chosen your file, you drag and drop it in the timeline sequence.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install and open program](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-19.jpg)
 
 If the audio is uneven, now double-click on the audio track, which will open the Clip Properties window. You will see the Normalize box, which you need to check. Doing this will even out the sound level for the whole track.
@@ -493,9 +456,6 @@ So, it’s done – now you know a whole lot more about audio normalization, its
 
 When it is done installing, open the software. Now, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare filmora x](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-01.jpg)
 
 Now if you have this kind of graphic before your eyes, you can be pretty sure without even listening, that the noises are really, really different from each other, which highlights once again how useful audio normalization can be:
@@ -506,18 +466,17 @@ Select these files, right-click and choose Adjust Audio. New panel will be opene
 
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After you have clicked on it, wait until the normalization completes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![complete normalization](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-05.jpg)
 
 Soon, all audio will be normalized, and you will already be able to see on the graphics that the volumes are almost on the same level and when you listen to it, you will make sure that there is no longer apparent difference between how they sound. And from there on, you can save the file you just normalized!
@@ -528,10 +487,14 @@ Adobe Premiere Pro is the industry-leading video editing software, and it is a t
 
 To normalize audio Adobe Premiere Pro, first, import your MP3 there. In the timeline, you will see your files in the sequence, in the sound section. Now, the best way to work on them is increase the track height – for that, you need to double-click on the empty space there, next to the little microphone icon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![import mp3](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![increase track height](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-07.jpg)
 
@@ -543,9 +506,6 @@ Now, the track is high, and you can see more of your track. So, say that one of 
 
 So, here, our goal is to bring our audio clips around -3 – and for it, it’s possible to bring up and down the white line on the track, but it can be pretty time-consuming actually.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bring audio clips around-3](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-09.jpg)
 
 So a better way to do it would be next: click on the track and then right-click, find Audio Gain, and choose Normalize Max Peak to…:
@@ -555,8 +515,12 @@ So a better way to do it would be next: click on the track and then right-click,
 Max Peak is basically the loudest, highest peak in the audio clip. So, you can write in -3 and click OK, which will ensure the entire audio waveform will have the gain of it adjusted so that the max peak is at -3\. You can proceed to the next track and carry out the exact same process on it too. Then, on Audio Meters on the right again, you will be able to see that both tracks (or more, if you have them) peak at -3\. In case you have a lot of clips on the timeline, you can select them all, then go to Audio Gain and normalize all of their max peaks simultaneously, which will save you so much time and help you enormously!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## VLC Media Player
 
 VLC is a well-known media player, it is a free-to-use, robust, and feature-packed software that plays a wide range of audio, image, and video files. It is worth noting that it can also play multimedia files directly from extractable devices or the PC and can stream from the most successful websites such as Disney+, Hulu, Netflix, and so on.
@@ -575,11 +539,15 @@ Find Tools and in the menu, go to Preferences. The window will open, and you nee
 
 ![get more editing on vlc](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the left panel, find Compressor and select it. From now, you can make the changes to the levels as you wish.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![find and select compressor](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-13.jpg)
 
 Here, concentrate the most on Makeup gain, Threshold, and Ratio. The first one is by which you adjust in quiet sequences to raise the volume, the second will help you reduce louder sequences to even things out, and ratio is the maximum level of all audio within a movie, let’s say.
@@ -596,16 +564,10 @@ So, to use this software, go and download MP3Gain. Install and open it when it i
 
 Now, you can either choose adding files manually, with you choosing each of them, but let’s say you have an album (which would be more comfortable, needless to say) in which you want to change the volume of all MP3’s. So, in this case, you can choose Add Folder, and when the window opens, choose the folder full of your MP3’s – all your files will be added in the program.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![choose to add files](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-15.jpg)
 
 Now, find the Target “Normal” Volume above the files, and fill in the gap, if you will, or just use default dB. Then, click Album Analysis, and the process will start.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![find and target normal](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-16.jpg)
 
 The software will show you the volume of each of the file, and then you will need to just click on Track Gain.
@@ -622,9 +584,6 @@ Powerful multimedia software for creating and editing videos – this is Movavi.
 
 Install and open the program and then proceed directly to Adding Files. After having chosen your file, you drag and drop it in the timeline sequence.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install and open program](https://images.wondershare.com/filmora/article-images/2022/07/free-mp3-normalizer-19.jpg)
 
 If the audio is uneven, now double-click on the audio track, which will open the Clip Properties window. You will see the Normalize box, which you need to check. Doing this will even out the sound level for the whole track.
@@ -651,10 +610,26 @@ So, it’s done – now you know a whole lot more about audio normalization, its
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://audio-shaping.techidaily.com/asus-latest-innovation-the-nuc-14-proplus-superior-processing-power-with-meteor-lake-cpus-for-only-860/"><u>Asus' Latest Innovation - The NUC 14 Pro+: Superior Processing Power with Meteor Lake CPUs for Only $860</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-generative-ai-the-basics-for-beginners/"><u>Demystifying Generative AI: The Basics for Beginners</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-investigating-authenticitys-role-in-social-media-selfie-presentation/"><u>In 2024, Investigating Authenticity’s Role in Social Media Selfie Presentation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-skyline-design-studio-evaluation-insightful-review-for-the-year/"><u>In 2024, Skyline Design Studio Evaluation Insightful Review for the Year</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-sonicsoothsayer-listening-inspection-report/"><u>In 2024, SonicSoothsayer Listening Inspection Report</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-and-fastest-msi-z370-a-pro-chipset-drivers-available-free/"><u>Latest & Fastest MSI Z370-A Pro Chipset Drivers Available Free!</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/m4a-windows-1011/"><u>M4Aファイルの非劣化編集手順 - Windows 10/11向けガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcome-unable-to-sync-hiccup-with-steam-cloud-services/"><u>Resolved: Overcome 'Unable to Sync' Hiccup with Steam Cloud Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-c1900101-error-during-installation/"><u>Solving C1900101 Error During Installation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-windows-os-not-found-error/"><u>Swift Solution to Windows OS 'Not Found' Error</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/synching-visuals-and-audio-step-by-step-process/"><u>Synching Visuals and Audio Step-by-Step Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-faulty-keyboard-issue-resolved-functionality-restored/"><u>Update: Faulty Keyboard Issue Resolved - Functionality Restored</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-audio-recording-and-integrating-narration-into-video-projects/"><u>Updated 2024 Approved Mastering Audio Recording and Integrating Narration Into Video Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-gaming-the-8-best-sound-effects-available-without-a-price-tag/"><u>Updated 2024 Approved Mastering Gaming The 8 Best Sound Effects Available Without a Price Tag</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-navigating-through-various-audio-recorders-from-apowersoft-alternatives-to-best-practices/"><u>Updated 2024 Approved Navigating Through Various Audio Recorders From Apowersoft Alternatives to Best Practices</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-add-music-background-music-to-video-without-hassle/"><u>Updated In 2024, How to Add Music (Background Music) to Video without Hassle</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-leading-auditory-booster-applications-for-android-and-ios-in-the-new-year/"><u>Updated In 2024, Leading Auditory Booster Applications for Android and iOS in the New Year</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-windows-and-macos-compatible-daws-the-ultimate-selection/"><u>Updated Top 10 Windows & macOS Compatible DAWs The Ultimate Selection</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-guide-to-protected-and-entertaining-chatting-apps-for-unknown-individuals-for-2024/"><u>Updated Ultimate Guide to Protected and Entertaining Chatting Apps for Unknown Individuals for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects for 2024
-date: 2024-10-13T01:48:33.275Z
-updated: 2024-10-17T20:28:36.736Z
+date: 2024-10-18T03:59:33.800Z
+updated: 2024-10-24T02:26:08.510Z
 tags: 
   - audio editing software
   - audio editing
@@ -38,13 +38,6 @@ Once you've created a new project in AE and you've imported the audio files you'
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Add a keyframe to the audio file
 
 The next thing you will have to do is place the playhead at the exact location where you want the Fade In effect to start. In most cases, Fade effects are added at the starting point of the audio file, so you should position the playhead at the beginning of the timeline or zero seconds. You will be able to see a stopwatch next to the Audio Levels option located in the Composition tab. Click on it to add the first keyframe and assign a negative value to the Audio Level setting. -100db or -50db values will make the audio file silent, and you can pick either based on how long you want the Fade in effect to last. If you don't know how to use keyframes in After Effects, [this article will give you some info](https://www.schoolofmotion.com/blog/how-to-set-keyframes-after-effects).
@@ -60,28 +53,15 @@ Move the playhead to the location where you want the effect to end and add anoth
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
 
@@ -89,15 +69,22 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Be Mindful of Audio Compression
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Use the Fade In and Fade Out Effects Creatively
@@ -111,6 +98,13 @@ Fading in or fading out audio files in Adobe After Effects doesn't require much 
 If you want to fade in/out audio easily, we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is designed for people who wish to edit professional videos with simple-to-use features. Besides Fade in/out audio in Filmora, you can automatically sync audio to video. Download it now to have a try (free)!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -127,20 +121,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-effortless-online-transformation-ff-vids-to-mp4-in-high-definition/"><u>[New] Effortless Online Transformation FF Vids to MP4 in High Definition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-tutorial-on-vlcs-automatic-screen-recorder/"><u>[New] In 2024, Tutorial on VLC's Automatic Screen Recorder</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-inside-out-the-true-significance-behind-snapchats-emojis/"><u>[Updated] 2024 Approved Inside Out The True Significance Behind Snapchat's Emojis</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-draw-deftly-delight-fast-win10s-pathway-to-proficient-picture-edits/"><u>2024 Approved Draw Deftly, Delight Fast Win10's Pathway to Proficient Picture Edits</u></a></li>
-<li><a href="https://win-news.techidaily.com/comment-supprimer-avec-efficacite-la-version-23h2-de-windows-11-guide-dexperts/"><u>Comment Supprimer Avec Efficacité La Version 23H2 De Windows 11 - Guide D'Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-newly-introduced-grok-ai-by-elon-musk-capabilities-and-investment-needed/"><u>Exploring the Newly Introduced Grok AI by Elon Musk – Capabilities and Investment Needed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-harnessing-spotifys-melodies-practical-steps-for-digitally-capturing-playlists-and-songs/"><u>In 2024, Harnessing Spotifys Melodies Practical Steps for Digitally Capturing Playlists and Songs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-top-10-alternatives-of-facetime-on-android/"><u>In 2024, Top 10 Alternatives of FaceTime on Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-free-and-easy-a-comparative-analysis-of-3-effective-audio-to-text-techniques-for-the-modern-era/"><u>New 2024 Approved Free & Easy A Comparative Analysis of 3 Effective Audio-to-Text Techniques for the Modern Era</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-secure-online-forums-dedicated-to-meeting-fellow-netizens/"><u>New In 2024, 10 Secure Online Forums Dedicated to Meeting Fellow Netizens</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-how-to-mix-audio-tracks-into-one-file-for-a-video/"><u>New In 2024, How to Mix Audio Tracks Into One File for A Video?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-prime-11-mobile-audio-processing-software-for-creatives/"><u>New In 2024, Prime 11 Mobile Audio Processing Software for Creatives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/phantom-replay-masterclass-for-2024/"><u>Phantom Replay Masterclass for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/top-recommended-software-for-granular-drive-image-backups/"><u>Top Recommended Software for Granular Drive Image Backups</u></a></li>
-<li><a href="https://win-info.techidaily.com/ultimate-guide-to-editing-your-videos-with-new-backdrops/"><u>Ultimate Guide to Editing Your Videos with New Backdrops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-past-to-present-using-camera-roll-in-snapchats/"><u>[New] From Past To Present Using Camera Roll in Snapchats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-watch-9-free-full-length-christmas-movies-on-youtube-for-2024/"><u>[New] Watch 9 Free Full Length Christmas Movies On YouTube for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-achieve-professionalism-in-sims-4-videography/"><u>[Updated] 2024 Approved Achieve Professionalism in Sims 4 Videography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-efficiently-edit-your-youtube-videos-using-sony-vegas-for-2024/"><u>[Updated] Efficiently Edit Your YouTube Videos Using Sony Vegas for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-roadmap-to-captivating-music-visuals-lyric-video-maker-guidebook/"><u>[Updated] The Roadmap to Captivating Music Visuals Lyric Video Maker Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-captioning-faults-in-win-10-systems/"><u>Addressing Captioning Faults in Win 10 Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-pros-5-virtual-helmets-a-drone-racers-choice/"><u>In 2024, Pro's 5 Virtual Helmets A Drone Racer's Choice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-flash-drive-video-errors-top-7-solutions-for-seamless-viewing/"><u>Resolving Flash Drive Video Errors: Top 7 Solutions for Seamless Viewing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-insiders-scoop-on-building-a-beast-with-toms-tech-hardware-picks/"><u>The Insider's Scoop on Building a Beast with Tom's Tech Hardware Picks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated In 2024, Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-pop-song-selections-for-film-and-media-production-for-2024/"><u>Updated Premier Pop Song Selections for Film and Media Production for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premiere-pairing-programs-ultimate-beat-match-video-editor-companion-2023/"><u>Updated Premiere Pairing Programs Ultimate Beat Match Video Editor Companion, 2023</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors-for-2024/"><u>Updated Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors for 2024</u></a></li>
 </ul></div>
 

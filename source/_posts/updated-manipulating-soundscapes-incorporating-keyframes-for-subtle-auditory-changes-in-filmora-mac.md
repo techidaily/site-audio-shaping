@@ -1,7 +1,7 @@
 ---
 title: Updated Manipulating Soundscapes Incorporating Keyframes for Subtle Auditory Changes in Filmora (Mac)
-date: 2024-10-16T01:31:16.902Z
-updated: 2024-10-17T21:26:36.249Z
+date: 2024-10-21T04:20:12.164Z
+updated: 2024-10-23T22:41:18.591Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,16 +53,10 @@ Now, click on the keyframe icon on the left side panel, make the volume adjustme
 To add the second **audio keyframe**, move the playhead to the desired spot, and once done, perform step 3 again.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Modify Audio Keyframes in Filmora for Mac?
@@ -92,10 +86,10 @@ If you want to lower the volume of other clips in the video, you can use the “
 It’s not just one, but Filmora offers five attractive choices to modify the created **audio keyframe**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Fade In/Out Audio with Keyframes in Filmora for Mac?
@@ -116,10 +110,10 @@ Now that you are familiar with the method to add **Filmora keyframes** for audio
 * Dragging the **fade audio in the** handle at the beginning of the clip will impose the effect and set its duration automatically. Pulling the **fade audio out** handle at the end of the clip will impose the fade-out effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,10 +123,10 @@ No doubt, Wondershare Filmora is the best choice to carry over your **audio keyf
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -150,22 +144,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-astrological-flair-crafting-bios-for-each-zodiac-house/"><u>[New] Astrological Flair Crafting Bios for Each Zodiac House</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>[Updated] In 2024, Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-15-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 15 with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-dell-wireless-network-card-up-and-running-download-the-latest-drivers/"><u>Get Your Dell Wireless Network Card Up and Running: Download the Latest Drivers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/igadget-restoration-kit-confident-and-precise-recovery/"><u>IGadget Restoration Kit: Confident & Precise Recovery</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-resurrects-trumps-social-media-presence/"><u>Meta Resurrects Trump's Social Media Presence</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-dynamic-sound-mixing-implementing-audio-ducking-techniques-to-subtly-reduce-background-tracks-for-2024/"><u>New Dynamic Sound Mixing Implementing Audio Ducking Techniques to Subtly Reduce Background Tracks for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-and-modify-audio-keyframes-in-final-cut-pro-x/"><u>New How to Add and Modify Audio Keyframes in Final Cut Pro X</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-boost-visual-speakers-output-enhance-movie-and-video-audibility/"><u>New In 2024, Boost Visual Speakers Output Enhance Movie and Video Audibility</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-quick-fix-guide-resolving-auditory-import-problems-in-premiere-pro-2023/"><u>New In 2024, Quick-Fix Guide Resolving Auditory Import Problems in Premiere Pro 2023</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-synchronizing-sounds-with-imagery-the-quintet-of-premium-and-free-music-visualizers-to-watch/"><u>New In 2024, Synchronizing Sounds with Imagery The Quintet of Premium & Free Music Visualizers to Watch</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-essential-list-top-8-android-daws-revolutionizing-music/"><u>New In 2024, The Essential List Top 8 Android DAWs Revolutionizing Music</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-10-browser-compatible-daw-platforms-free-edition/"><u>New Top 10 Browser-Compatible DAW Platforms (Free Edition)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/starting-an-online-platform-for-consumer-goods-reviews-for-2024/"><u>Starting an Online Platform for Consumer Goods Reviews for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-y100a-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo Y100A FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-flv-format-a-complete-guide-on-opening-and-using-flv-files/"><u>Understanding FLV Format: A Complete Guide on Opening and Using FLV Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0x800713f-windows-11s-mail-woes/"><u>Unraveling Error Code 0X800713F: Windows 11'S Mail Woes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-advanced-ar-visualization-techniques-using-custom-luts/"><u>[New] Unlocking Advanced AR Visualization Techniques Using Custom LUTs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-social-splash-10-best-templates-for-online-shares/"><u>[Updated] 2024 Approved Social Splash 10 Best Templates for Online Shares</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-radiant-rooms-a-compilation-of-betterdiscords-top-10-themes/"><u>[Updated] Radiant Rooms A Compilation of BetterDiscord’s Top 10 Themes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-10-best-cost-free-subtitle-grabs-from-youtube/"><u>2024 Approved 10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beats-and-moves-creating-music-infused-instagram-content-for-2024/"><u>Beats & Moves Creating Music-Infused Instagram Content for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/easy-steps-for-copying-and-saving-a-dvd-on-pcs-with-windows-and-macos/"><u>Easy Steps for Copying and Saving a DVD on PCs with Windows & macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-transform-high-definition-footage-from-h264-to-h265-maximize-space-maintain-superior-quality/"><u>How to Transform High-Definition Footage From H.264 To H.265 - Maximize Space, Maintain Superior Quality</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-best-mobile-app-dev-editing-systems/"><u>In 2024, Best Mobile App Dev Editing Systems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-decoding-ditties-techniques-to-pinpoint-songs-without-music-recognition-apps/"><u>Updated In 2024, Decoding Ditties Techniques to Pinpoint Songs Without Music Recognition Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-ensuring-cyber-wellness-in-remote-relationships-tips-to-shield-against-digital-risks/"><u>Updated In 2024, Ensuring Cyber Wellness in Remote Relationships Tips to Shield Against Digital Risks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-investigating-crickets-sonic-palette-for-effects/"><u>Updated Investigating Crickets Sonic Palette for Effects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-navigating-the-world-of-amr-wmas-an-in-depth-guide-to-file-conversion-techniques-2023-for-2024/"><u>Updated Navigating the World of AMR WMAs An In-Depth Guide to File Conversion Techniques 2023 for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-a-louder-sharper-speech-filmmakers-guide-to-voice-projection-using-filmora/"><u>Updated The Art of a Louder, Sharper Speech Filmmakers Guide to Voice Projection Using Filmora</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-safe-speakers-guide-to-video-conferencing-top-tips-and-trusted-platforms-for-2024/"><u>Updated The Safe Speakers Guide to Video Conferencing Top Tips and Trusted Platforms for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-free-and-paid-podcast-editors-essential-tools-for-quality-sound-production-for-2024/"><u>Updated Top 10 Free and Paid Podcast Editors Essential Tools for Quality Sound Production for 2024</u></a></li>
 </ul></div>
 

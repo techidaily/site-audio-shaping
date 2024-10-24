@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering Volume Transitions Audio Panning Techniques in iMovie
-date: 2024-10-15T11:16:01.130Z
-updated: 2024-10-17T16:21:33.280Z
+date: 2024-10-17T05:03:48.809Z
+updated: 2024-10-23T23:47:30.224Z
 tags: 
   - audio editing software
   - audio editing
@@ -62,16 +62,10 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
@@ -88,19 +82,6 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
@@ -112,6 +93,13 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -133,11 +121,25 @@ Now, that's done! I hope the above information does help you to set the fade eff
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
 Let watch the video below to check how to apply fade-in and fade-out effects in an easier way with [**Wondershare Filmora for Mac**](https://tools.techidaily.com/wondershare/filmora/download/). And download it now to try it by yourself.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to quickly apply fade-in or fade-out effects, [iMovie's alternative for Mac](https://tools.techidaily.com/wondershare/filmora/download/) \- Wondershare Filmora can help you. It enables you to easily edit videos. After you've made your creation, it also allows you to directly upload the complete video file to YouTube and Vimeo for sharing. Check out the quick guide below to see how to add audio fade effects in Filmora.
 
@@ -151,25 +153,11 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
@@ -190,19 +178,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-apowersoft-screen-recorder-review-and-alternative/"><u>[New] 2024 Approved Apowersoft Screen Recorder Review and Alternative</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-comprehensive-synopsis-exploring-googles-podcast-ecosystem-for-2024/"><u>[New] Comprehensive Synopsis Exploring Google's Podcast Ecosystem for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-imagemosaic-supreme-online-blend-and-designers-choice-for-2024/"><u>[Updated] ImageMosaic Supreme Online Blend & Designer's Choice for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-deep-dive-sonys-s6700-updates-review/"><u>2024 Approved Deep Dive Sony's S6700 Updates Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-visual-magic-essential-techniques-for-ps-3d-luts-for-2024/"><u>Crafting Visual Magic Essential Techniques for PS 3D Luts for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-6-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 6 Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-x100-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo X100 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/simple-vocal-transformation-facilities-analysis-of-capabilities-guidelines-for-usage-and-multiple-approaches-for-2024/"><u>Simple Vocal Transformation Facilities Analysis of Capabilities, Guidelines for Usage, and Multiple Approaches for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-enhanced-samsung-k850u-experience/"><u>Unveiling the Enhanced Samsung K850U Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-clearing-the-clutter-streamlined-methods-for-reducing-ambient-noise-in-audio-editing-software-audacity-and-filmorapro/"><u>Updated 2024 Approved Clearing the Clutter Streamlined Methods for Reducing Ambient Noise in Audio Editing Software (Audacity & FilmoraPro)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-brand-building-through-social-lenses-top-podcast-episodes-for-strategic-planning-for-2024/"><u>Updated Brand Building Through Social Lenses Top Podcast Episodes for Strategic Planning for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-harnessing-the-power-of-tension-building-melodies-in-cinematic-storytelling-for-2024/"><u>Updated Harnessing the Power of Tension-Building Melodies in Cinematic Storytelling for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-crafting-the-ultimate-strum-a-comprehensive-look-at-the-top-7-daws-designed-for-guitar-recordings/"><u>Updated In 2024, Crafting the Ultimate Strum A Comprehensive Look at the Top 7 DAWs Designed for Guitar Recordings</u></a></li>
-<li><a href="https://techidaily.com/will-redmi-note-12t-pro-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Redmi Note 12T Pro play AVCHD mts files?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decision-time-comparing-the-pros-and-cons-of-apple-watch-ultra-and-series-8-to-guide-your-purchase/"><u>Decision Time: Comparing the Pros and Cons of Apple Watch Ultra & Series 8 to Guide Your Purchase.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/demystifying-youtube-seo-terminology-and-tactics/"><u>Demystifying YouTube SEO Terminology and Tactics</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/harmonizing-soundscape-a-comprehensive-guide-to-eq-adjustments/"><u>Harmonizing Soundscape A Comprehensive Guide to EQ Adjustments</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-12-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 12 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-innovative-methods-for-detaching-rhythmic-elements-in-music-files-online/"><u>In 2024, Innovative Methods for Detaching Rhythmic Elements in Music Files Online</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-pluraleyes-the-best-plug-in-to-sync-audio-in-premiere-pro/"><u>In 2024, PluralEyes The Best Plug in to Sync Audio in Premiere Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-f25-pro-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo F25 Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-volume-transitions-audio-panning-techniques-in-imovie/"><u>Mastering Volume Transitions Audio Panning Techniques in iMovie</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-quieting-the-cinematic-chaos-techniques-for-audio-trimming-in-imovie-videos/"><u>New In 2024, Quieting the Cinematic Chaos Techniques for Audio Trimming in iMovie Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project-for-2024/"><u>New Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-15-non-copyrighted-music-for-montages/"><u>New Top 15 Non Copyrighted Music for Montages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-frustration-establish-a-stable-link-between-your-iphone-and-desktop/"><u>No More Frustration: Establish a Stable Link Between Your iPhone & Desktop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-connection-issues-making-your-ipad-compatible-with-your-printer-again/"><u>Solving Connection Issues: Making Your iPad Compatible with Your Printer Again</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-motherboards-driver-in-windows/"><u>Step-by-Step Guide: Updating Your Motherboard's Driver in Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-undo-button-retracing-your-youtube-steps-for-2024/"><u>The Undo Button Retracing Your YouTube Steps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-use-of-windows-tools-in-linux/"><u>Transformative Use of Windows Tools in Linux</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-animation-enthusiasts-choice-top-8-downloaded-sound-effects-for-your-projects/"><u>Updated 2024 Approved Animation Enthusiasts Choice Top 8 Downloaded Sound Effects for Your Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity/"><u>Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/wonderfox-video-converter-unleashed-compatible-with-lumia-xperia-z1s-and-beyond-for-stellar-results/"><u>WonderFox Video Converter Unleashed: Compatible with Lumia, Xperia Z1S, and Beyond for Stellar Results</u></a></li>
 </ul></div>
 

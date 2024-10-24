@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro
-date: 2024-10-13T10:35:52.981Z
-updated: 2024-10-18T05:16:09.499Z
+date: 2024-10-22T19:42:47.959Z
+updated: 2024-10-23T20:12:37.222Z
 tags: 
   - audio editing software
   - audio editing
@@ -36,6 +36,13 @@ This can be quite frustrating, even though, in most cases, you won’t use the s
 
 There are numerous factors that can cause Adobe Premiere Pro to [stop functioning properly](https://forums.adobe.com/thread/2356540), and if the app won’t let you import video files into a project because it has no audio or video streams, there are few things you can do to fix this without having to reinstall the operating system on your computer or the version of Adobe Premiere Pro you’re currently using.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### 1\. Clearing the Media File Cache
@@ -43,13 +50,6 @@ There are numerous factors that can cause Adobe Premiere Pro to [stop functionin
 If you tried to import a video file into a project and the app notified you that it cannot import the file because there is no audio stream, you should head over to the **Edit menu** and select the **Preferences Tab.** Once the Preferences window pops up on the screen, click on the **Media tab** and then proceed to delete all files that are stored in the **Media Cache Database** and **Media Cache Files** folders. Restart the application after you’ve cleaned both of these folders and try to import the video clips into the project once more. If the issue persists, there are a few more things you can do.
 
 ![clear Media File Cache](https://images.wondershare.com/filmora/filmorapro/Clearing-Media-File-Cache-no-sound.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Renaming the Media Cache Folder
 
@@ -59,25 +59,11 @@ The default location of Media Cache Database and Media Cache Files folders is **
 
 If renaming the folders didn’t do the trick you can try moving them from their default location. You can move them wherever you want on your computer, but it is best if you pick a location that is easy to remember, just so you can access them quickly in case you need to delete files that are stored in them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Installing the QuickTime Player
 
 Sometimes the simplest solution is also the most effective one. Check if QuickTime is installed on your computer because installing this player can solve the audio importing issues in Adobe Premiere Pro. Furthermore, if you just reinstalled the OS on your computer, you should [download and install QuickTime](https://support.apple.com/quicktime), before launching Adobe Premiere Pro. Once you create a new project go to the **Edit menu**, find the **Preferences submenu and select the Media option**. Clean both the **Media Cache Database and Media Cache Files** folders, restart Adobe Premiere Pro and then import the video files into your project.
 
 ![install QuickTime](https://images.wondershare.com/filmora/filmorapro/QuickTime-Player-no-sound-premiere.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An Alternative Way to Import Video Without This Issue
 
@@ -88,16 +74,10 @@ While being very simple and effective to use, Filmora provides a very powerful s
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to Import Videos in Wondershare Filmora
@@ -110,6 +90,19 @@ You need to access the official website of Filmora and download the software. On
 
 ![make a new project](https://static.wondershare.com/images-filmora/images/article/fix-audio-importing-issues-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Import from File Tab**
 
 Once a new window opens, three different methods can be used to import audio on Filmora. Tap on "File" to select the option of "Import Media Files" from "Import Media" in the drop-down menu.
@@ -117,10 +110,10 @@ Once a new window opens, three different methods can be used to import audio on 
 ![use file tab to import audio](https://static.wondershare.com/images-filmora/images/article/fix-audio-importing-issues-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Import from Import Button**
@@ -130,10 +123,16 @@ The second method calls up users to import audio through a button. The user need
 ![tap on import button](https://static.wondershare.com/images-filmora/images/article/fix-audio-importing-issues-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4: Import by Drag and Drop**
@@ -147,6 +146,13 @@ Users can import audios on Filmora in another way. They can drag and drop the au
 If the methods of fixing the audio importing issues in Adobe Premiere Pro we presented in this article don’t help you solve this problem, you should consider reinstalling the OS on your computer. Was this article helpful? Leave a comment and let us know.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -165,18 +171,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-industry-leaders-list-top-5-unbeatable-motion-recognizers/"><u>[New] Industry Leaders' List Top 5 Unbeatable Motion Recognizers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-digital-laughter-lab-for-2024/"><u>[Updated] Digital Laughter Lab for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-gionee-f3-pro-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Gionee F3 Pro.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722960411860-corsair-gaming-mouse-firmware-update-get-it-now/"><u>Corsair Gaming Mouse Firmware Update - Get It Now!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-a59-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo A59 5G Is Unlocked</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-google-nest-hello-a-look-at-its-advanced-security-capabilities-including-face-recognition/"><u>In-Depth Analysis: Google Nest Hello - A Look at Its Advanced Security Capabilities Including Face Recognition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-elite-lineup-of-audio-reverse-applications-discovering-your-ideal-choices-for-mobile-and-computing/"><u>The Elite Lineup of Audio Reverse Applications Discovering Your Ideal Choices for Mobile & Computing</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-compendium-for-utilizing-vocaroo-as-a-voice-archive-tool/"><u>The Ultimate Compendium for Utilizing Vocaroo as a Voice Archive Tool</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-full-potential-in-windows-11-touch-style/"><u>Unleash Full Potential in Windows 11, Touch Style</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-composing-for-cinema-adding-musical-layers-to-video-content/"><u>Updated Composing for Cinema Adding Musical Layers to Video Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-echo-free-editing-five-approaches-for-audio-cleansing-in-video-content-for-2024/"><u>Updated Echo-Free Editing Five Approaches for Audio Cleansing in Video Content for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-explore-the-8-premier-ios-daw-apps-recommended-for-ipad-and-iphone-users-this-year/"><u>Updated Explore the 8 Premier iOS DAW Apps Recommended for iPad and iPhone Users This Year</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-slow-down-music-without-changing-pitch-in-2024/"><u>Updated How to Slow Down Music without Changing Pitch, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-beatback-bungalow-recordings-downloads-and-reviews/"><u>[New] In 2024, Beatback Bungalow Recordings Downloads & Reviews</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-k850-ultrahd-samsung-2023-tech-review/"><u>2024 Approved K850 UltraHD Samsung 2023 Tech Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capture-every-moment-exploring-free-high-quality-cameras/"><u>Capture Every Moment – Exploring Free, High-Quality Cameras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-apowersoft-vs-competitors-screen-capture/"><u>In 2024, Apowersoft Vs. Competitor's Screen Capture</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-tutorial-on-making-hard-drives-and-usbs-bootable-using-windows-10-and-11/"><u>Ultimate Tutorial on Making Hard Drives and USBs Bootable Using Windows 10 & 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-harnessing-free-tools-to-turn-audio-into-text-the-essential-guide-with-top-three-strategies-step-by-step/"><u>Updated In 2024, Harnessing Free Tools to Turn Audio Into Text The Essential Guide with Top Three Strategies (Step by Step)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-ultimate-guide-to-auditory-data-retrieval-from-multimedia-files-video-edition/"><u>Updated In 2024, The Ultimate Guide to Auditory Data Retrieval From Multimedia Files (Video Edition)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-desktop-and-mobile-unmuting-zoom-audio-with-ease/"><u>Updated Mastering Desktop & Mobile Unmuting Zoom Audio with Ease</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-guide-to-the-leading-11-free-voice-changing-applications-on-ios-and-android-platforms-for-2024/"><u>Updated Ultimate Guide to the Leading 11 Free Voice Changing Applications on iOS & Android Platforms for 2024</u></a></li>
 </ul></div>
 
