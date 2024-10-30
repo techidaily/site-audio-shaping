@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Dynamic Duo How to Automatically Manage Volume Levels Using Audio Ducking in Adobe Premiere Pro for macOS
-date: 2024-10-20T16:04:52.577Z
-updated: 2024-10-23T21:12:28.116Z
+date: 2024-10-25T19:46:56.783Z
+updated: 2024-10-29T19:24:59.100Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,16 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,16 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -136,22 +124,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope/"><u>[New] 2024 Approved Unleash the Potential of Your Gopro Streaming Made Easy on Facebook/Periscope</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/comprehensive-audio-cleanse-kit-windows-and-os-x-supported-2024-enhanced-model/"><u>Comprehensive Audio Cleanse Kit Windows and OS X Supported (2024 Enhanced Model)</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-niche-expertise-to-viral-star/"><u>From Niche Expertise to Viral Star</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/how-to-add-audio-fade-in-effect/"><u>How to Add Audio Fade In Effect</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-leveraging-machine-learning-for-clean-audio-transmission/"><u>In 2024, Leveraging Machine Learning for Clean Audio Transmission</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-record-breaking-reddit-threads-ranked-1-10/"><u>In 2024, Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-why-cant-i-see-video-on-sony-a6400/"><u>In 2024, Why Can’t I See Video on Sony A6400?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-nvme-drives-with-windows-drivers-the-ultimate-guide/"><u>Installing NVMe Drives with Windows Drivers: The Ultimate Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-are-there-better-alternatives-to-magix-samplitude-for-professional-sound-design/"><u>New 2024 Approved Are There Better Alternatives to MAGIX Samplitude for Professional Sound Design?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/smirk-sessions-humorous-content-for-all-events-for-2024/"><u>Smirk Sessions Humorous Content for All Events for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unlocking-potential-innovations-in-gif-artistry-for-2024/"><u>Unlocking Potential Innovations in GIF Artistry for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-calm-in-the-digital-realm-navigating-to-your-personal-sanctuary-online/"><u>Updated 2024 Approved Calm in the Digital Realm Navigating to Your Personal Sanctuary Online</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-reimagining-auditory-experiences-with-these-industry-standards/"><u>Updated 2024 Approved Reimagining Auditory Experiences with These Industry Standards</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audio-balance-simplified-normalizing-sound-in-davinci-resolve-for-2024/"><u>Updated Audio Balance Simplified Normalizing Sound in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-harmonizing-tech-with-creativity-best-10-song-editors-for-windowsmac-enthusiasts/"><u>Updated In 2024, Harmonizing Tech with Creativity – Best 10 Song Editors for Windows/Mac Enthusiasts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/windows-watchers-beware-no-more-offline-movie-downloads-from-netflix/"><u>Windows Watchers Beware: No More Offline Movie Downloads From Netflix!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-conquering-cross-platform-content-sharing-youtubes-and-fbs/"><u>[New] In 2024, Conquering Cross-Platform Content Sharing YouTubes & FBs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweetstream-extractor-pull-twitter-videos-to-iphone/"><u>[Updated] 2024 Approved TweetStream Extractor Pull Twitter Videos to iPhone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expertly-curated-best-photodocument-scanners/"><u>Expertly Curated Best Photo/Document Scanners</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210196827-9781592338085-moon-power/"><u>Moon Power | Free Book</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audiomastery-the-definitive-guide-to-choosing-the-best-voice-recorders/"><u>New AudioMastery The Definitive Guide to Choosing the Best Voice Recorders</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audiovisual-archive-top-10-digital-destinations-for-sound-track-download-for-2024/"><u>New Audiovisual Archive Top 10 Digital Destinations for Sound Track Download for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-premier-voice-recorders-for-android-comprehensive-and-cost-free/"><u>New Premier Voice Recorders for Android - Comprehensive and Cost-Free</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-sound-engineers-toolkit-removing-high-pitched-rattling-from-audio-files/"><u>New The Sound Engineers Toolkit Removing High-Pitched Rattling From Audio Files</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speaking-italian-with-ease-on-your-next-trip/"><u>Speaking Italian with Ease on Your Next Trip</u></a></li>
 </ul></div>
 

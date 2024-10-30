@@ -1,7 +1,7 @@
 ---
 title: Updated Professional Insights on Separating Soundtracks From Visual Media on Apple Technology
-date: 2024-10-17T02:34:57.118Z
-updated: 2024-10-24T04:45:07.259Z
+date: 2024-10-25T22:37:25.409Z
+updated: 2024-10-29T23:49:30.120Z
 tags: 
   - audio editing software
   - audio editing
@@ -50,18 +50,18 @@ Import the video to your Filmora. You can also directly drag the video into the 
 
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Mute the audio
 
 After dragging the video to the timeline, right-click the stand-alone video, choose "mute".
 
 ![](https://images.wondershare.com/filmora/guide/edit-audios-mute.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Save your edit
 
@@ -70,10 +70,10 @@ Click the "export" button on the interface and select the desired video format
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to cut the audio from videos on iPhone
@@ -83,13 +83,6 @@ If you want to do the mute on an iPhone, you will need to also follow some steps
 ### Step 1: Open the iMovie
 
 Opening the iMovie app goes beyond just clicking it to open, you also have to follow up this process by clicking the continue button that pops up. If the app has opened and you can see an inviting interface, move to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Select a video you want
 
@@ -106,13 +99,26 @@ Muting the audio becomes straightforward when you have moved it to the interface
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Section 2. Requirements to extract the music of the video and save
 
@@ -123,10 +129,10 @@ Step1\. import the video into the Filmora
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Another way to import a video is to drag and drop the video into the program. Using any of these two steps allows your video to be listed in the media library
@@ -160,10 +166,10 @@ Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidail
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -183,22 +189,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-joke-to-jest-constructing-impactful-social-media-memes-for-2024/"><u>[New] From Joke to Jest Constructing Impactful Social Media Memes for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-make-asmr-videos-all-you-need-to-know-for-2024/"><u>[New] How to Make ASMR Videos All You Need to Know for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-master-the-art-of-hulu-screen-capturing-windows-mac-and-mobile-edition/"><u>[Updated] Master the Art of Hulu Screen Capturing Windows, Mac & Mobile Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-new-release-showdown-iphone-15-pro-against-iphone-13-pro-making-the-right-choice-gadgetguide/"><u>Apple's New Release Showdown: IPhone 15 Pro Against iPhone 13 Pro - Making the Right Choice | GadgetGuide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/bridging-the-gap-between-sound-waves-and-storage-space-a-guide-to-downloading-audio-programs-onto-computers-for-2024/"><u>Bridging the Gap Between Sound Waves and Storage Space A Guide to Downloading Audio Programs Onto Computers for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-digital-disruptions-a-comprehensive-collection-of-online-sound-effects/"><u>In 2024, Digital Disruptions A Comprehensive Collection of Online Sound Effects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-moto-e13-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Moto E13 Phones? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-in-depth-exploration-and-scrutiny-of-the-2023-cambridge-cxu-surround-system/"><u>New In 2024, In-Depth Exploration and Scrutiny of the 2023 Cambridge CXU Surround System</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-inverted-soundscapes-the-premier-backwards-music-videos-for-2024/"><u>New Inverted Soundscapes The Premier Backwards Music Videos for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-no-loudness-left-behind-a-comprehensive-guide-to-audio-cutting-in-imovie/"><u>New No Loudness Left Behind A Comprehensive Guide to Audio Cutting in iMovie</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-best-automatic-transcription-software/"><u>New The Best Automatic Transcription Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-popular-radio-ambiance-for-2024/"><u>New The Ultimate Guide to Popular Radio Ambiance for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-10-best-websites-like-omegle/"><u>New Top 10 Best Websites Like Omegle</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-w7-bluetooth-installation/"><u>Seamless W7 Bluetooth Installation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-acsm-file-format-an-in-depth-guide-with-frequently-asked-questions/"><u>Understanding the ACSM File Format: An In-Depth Guide with Frequently Asked Questions</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-shutdowns-on-windows-11/"><u>Unexpected Shutdowns on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-tools-for-effortless-video-image-retrieval-for-2024/"><u>[New] Free Tools for Effortless Video Image Retrieval for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-guide-to-make-your-shorts-thumbnail-pop-up/"><u>[New] Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-magix-samplitude-is-it-really-the-best-music-production-software/"><u>2024 Approved MAGIX Samplitude Is It Really The Best Music Production Software?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ultimate-guide-to-beauty-on-youtube-gear-makeup-tutorials-and-more/"><u>2024 Approved Ultimate Guide to Beauty on YouTube - Gear, Makeup Tutorials, and More</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/critical-take-on-watch-dogs-legion-series-new-setting-unveiled/"><u>Critical Take on Watch Dogs: Legion - Series' New Setting Unveiled</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastery-in-media-manipulation-ttml-and-xml-for-superior-srt-outputs/"><u>In 2024, Mastery in Media Manipulation TTML & XML for Superior SRT Outputs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-multimedia-fusion-adding-videos-to-audio-projects/"><u>Mastering Multimedia Fusion Adding Videos to Audio Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discover-hilarious-audio-cues/"><u>New 2024 Approved Discover Hilarious Audio Cues</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-advanced-techniques-for-rendering-audio-waveform-graphs-and-incorporating-animation-into-video-projects-using-premiere-pro-for-2024/"><u>New Advanced Techniques for Rendering Audio Waveform Graphs and Incorporating Animation Into Video Projects Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-lag-and-hang-ups-in-minecraft-on-personal-computers-easily/"><u>Overcome Lag and Hang-Ups in Minecraft on Personal Computers Easily</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/sonic-innovation-unleashed-navigating-through-the-seventh-wave-of-audio-manipulation-for-2024/"><u>Sonic Innovation Unleashed Navigating Through the Seventh Wave of Audio Manipulation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-8-must-haves-for-an-optimal-gaming-browser/"><u>The 8 Must-Haves for an Optimal Gaming Browser</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-audiovisual-transition-incorporating-a-subtle-decline-into-your-soundscapes-updated/"><u>Updated Audiovisual Transition Incorporating a Subtle Decline Into Your Soundscapes (Updated)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-connecting-airpods-pro-to-a-pc-an-instructional-article/"><u>Updated Connecting AirPods Pro to a PC An Instructional Article</u></a></li>
 </ul></div>
 

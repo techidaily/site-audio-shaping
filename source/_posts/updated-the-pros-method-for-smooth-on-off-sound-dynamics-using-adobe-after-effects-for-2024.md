@@ -1,7 +1,7 @@
 ---
 title: Updated The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects for 2024
-date: 2024-10-18T03:59:33.800Z
-updated: 2024-10-24T02:26:08.510Z
+date: 2024-10-27T18:50:21.427Z
+updated: 2024-10-29T19:07:13.978Z
 tags: 
   - audio editing software
   - audio editing
@@ -44,6 +44,13 @@ The next thing you will have to do is place the playhead at the exact location w
 
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Step 3: Complete Fade out/in audio in After Effects
@@ -51,13 +58,6 @@ You may also like: [15 Free After Effects Templates to Power up Your Video](http
 Move the playhead to the location where you want the effect to end and add another keyframe by clicking on the 'Add or remove keyframe at current time' icon. Set the Audio Level value to 0db, and that is it. You've created the Fade in effect. Keep in mind that you can use more than two keyframes to fade in audio, enabling you to increase the audio level gradually. The process of creating the Fade effect requires you to add a keyframe that has a 0db value a few seconds before the clip ends and then add another keyframe at the very end of the audio file that has -50 or -100db audio level value.
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips For Making Better Fade In and Fade Out Effects
 
@@ -70,26 +70,26 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -100,10 +100,10 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,18 +121,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-past-to-present-using-camera-roll-in-snapchats/"><u>[New] From Past To Present Using Camera Roll in Snapchats</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-watch-9-free-full-length-christmas-movies-on-youtube-for-2024/"><u>[New] Watch 9 Free Full Length Christmas Movies On YouTube for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-achieve-professionalism-in-sims-4-videography/"><u>[Updated] 2024 Approved Achieve Professionalism in Sims 4 Videography</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-efficiently-edit-your-youtube-videos-using-sony-vegas-for-2024/"><u>[Updated] Efficiently Edit Your YouTube Videos Using Sony Vegas for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-roadmap-to-captivating-music-visuals-lyric-video-maker-guidebook/"><u>[Updated] The Roadmap to Captivating Music Visuals Lyric Video Maker Guidebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-captioning-faults-in-win-10-systems/"><u>Addressing Captioning Faults in Win 10 Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-pros-5-virtual-helmets-a-drone-racers-choice/"><u>In 2024, Pro's 5 Virtual Helmets A Drone Racer's Choice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-flash-drive-video-errors-top-7-solutions-for-seamless-viewing/"><u>Resolving Flash Drive Video Errors: Top 7 Solutions for Seamless Viewing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-insiders-scoop-on-building-a-beast-with-toms-tech-hardware-picks/"><u>The Insider's Scoop on Building a Beast with Tom's Tech Hardware Picks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated In 2024, Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premier-pop-song-selections-for-film-and-media-production-for-2024/"><u>Updated Premier Pop Song Selections for Film and Media Production for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premiere-pairing-programs-ultimate-beat-match-video-editor-companion-2023/"><u>Updated Premiere Pairing Programs Ultimate Beat Match Video Editor Companion, 2023</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors-for-2024/"><u>Updated Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-budget-friendly-stopwatch-service/"><u>[New] Best Budget-Friendly Stopwatch Service</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unleash-window-history-an-in-depth-look-at-springs-tech/"><u>[Updated] In 2024, Unleash Window History An In-Depth Look at Spring's Tech</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-hunt-for-console-game-acoustics/"><u>2024 Approved Hunt for Console Game Acoustics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-cambiar-musica-ape-a-formato-mp4-gratuito-en-linea-facilmente-con-movavi-solutions/"><u>Cómo Cambiar Música APE a Formato MP4 Gratuito en Línea Fácilmente Con Movavi Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/echoes-of-rebellion-celebrating-the-top-15-most-captivating-rock-songs-of-2-written-by/"><u>Echoes of Rebellion Celebrating the Top 15 Most Captivating Rock Songs of 2 Written By</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y200-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y200 to iPod | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-adjusting-sound-levels-in-audacity-raising-the-volume-up-lowering-it-down/"><u>In 2024, Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-best-beat-sync-video-editing-apps/"><u>In 2024, Best Beat Sync Video Editing Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus 12R Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-optimizing-live-obs-broadcasts-for-fb-viewers/"><u>In 2024, Optimizing Live OBS Broadcasts for FB Viewers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/maximize-your-experience-with-these-5-overlooked-features-in-chatgpt/"><u>Maximize Your Experience with These 5 Overlooked Features in ChatGPT</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-discover-the-8-most-compelling-soundscapes-for-youtube-debut-videos/"><u>New Discover the 8 Most Compelling Soundscapes for YouTube Debut Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-extensive-survey-of-neroutility-for-soundediting/"><u>New Extensive Survey of Neroutility for SoundEditing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-role-of-dissonant-harmonies-and-pacing-in-creating-film-music-suspense/"><u>New The Role of Dissonant Harmonies and Pacing in Creating Film Music Suspense</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-10-alternatives-of-facetime-on-android/"><u>New Top 10 Alternatives of FaceTime on Android</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-p40plus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - P40+</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-ultra-black-screen-issue-in-rainbow-six-siege-on-pc/"><u>Ultimate Guide: Resolving the Ultra-Black Screen Issue in Rainbow Six Siege on PC</u></a></li>
 </ul></div>
 
