@@ -1,7 +1,7 @@
 ---
 title: Updated The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie for 2024
-date: 2024-10-25T18:54:30.684Z
-updated: 2024-10-29T19:57:41.810Z
+date: 2024-11-02T16:46:33.760Z
+updated: 2024-11-04T16:06:40.488Z
 tags: 
   - audio editing software
   - audio editing
@@ -62,10 +62,10 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
@@ -84,6 +84,13 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
 To fade audios in and out in iMovie with the audio inspector, you can follow these steps:
@@ -93,13 +100,6 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -139,34 +139,28 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -184,18 +178,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-acethinker-screen-recorder-review/"><u>[New] AceThinker Screen Recorder Review</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[Updated] 2024 Approved Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-the-ultimate-list-of-the-top-8-premium-hd-video-capture-devices/"><u>1. The Ultimate List of the Top 8 Premium HD Video Capture Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-x50-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor X50 to Roku | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparison-samsung-galaxy-s23-ultra-vs-s21-ultra/"><u>Comparison: Samsung Galaxy S23 Ultra Vs. S21 Ultra</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/how-to-change-pitch-without-losing-quality-in-audacity-for-2024/"><u>How to Change Pitch without Losing Quality in Audacity for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y28-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y28 5G?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-ultimate-imovie-strategy-to-eliminate-unwanted-sounds-in-your-projects/"><u>In 2024, The Ultimate iMovie Strategy to Eliminate Unwanted Sounds in Your Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-a-comparative-exploration-of-leading-mac-mp3-tagging-applications-for-2024/"><u>New A Comparative Exploration of Leading Mac MP3 Tagging Applications for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-metaai-beyond-basic-chatbot-capabilities/"><u>Understanding MetaAI: Beyond Basic Chatbot Capabilities</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-compatibility-made-easy-the-best-5-audio-mixers-for-your-mac-device-for-2024/"><u>Updated Compatibility Made Easy The Best 5 Audio Mixers for Your Mac Device for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>[New] 2024 Approved 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit/"><u>[New] Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>[New] The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-strategic-blending-elevating-video-sequence-harmony/"><u>2024 Approved Strategic Blending Elevating Video Sequence Harmony</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-first-to-fourth-a-comprehensive-analysis-of-openais-improved-gpt-versions/"><u>From First to Fourth: A Comprehensive Analysis of OpenAI's Improved GPT Versions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-use-of-custom-gifs-in-your-instagram-stories-for-2024/"><u>Mastering the Use of Custom GIFs in Your Instagram Stories for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/preserving-audio-integrity-techniques-for-altering-pitch-in-audacity/"><u>Preserving Audio Integrity Techniques for Altering Pitch in Audacity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-fast-track-to-fixing-iphone-glitches-with-the-apple-support-app-a-comprehensive-guide/"><u>The Fast Track to Fixing iPhone Glitches with the Apple Support App – A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-affordable-internet-based-auditory-refinement-platforms-ranked-for-2024/"><u>The Ultimate List of Affordable, Internet-Based Auditory Refinement Platforms – Ranked for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmonizing-hues-the-10-best-free-mobile-apps-that-transform-songs-into-vibrant-graphics-for-iphoneandroid/"><u>Updated 2024 Approved Harmonizing Hues The 10 Best Free Mobile Apps That Transform Songs Into Vibrant Graphics for iPhone/Android</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>Updated 2024 Approved Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-a-curated-list-of-8-exceptional-downloads-realistic-and-authentic-rain-audio-samples/"><u>Updated A Curated List of 8 Exceptional Downloads Realistic and Authentic Rain Audio Samples</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-audio-assets-almanac-unveiling-the-best-online-sources-for-video-clip-melodies/"><u>Updated Audio Assets Almanac Unveiling the Best Online Sources for Video Clip Melodies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-best-10-volume-boosters-for-windows-increase-volume-right-now/"><u>Updated Best 10 Volume Boosters for Windows-Increase Volume Right Now</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-discovering-the-top-six-no-cost-daw-programs-for-novice-producers-for-2024/"><u>Updated Discovering the Top Six No-Cost DAW Programs for Novice Producers for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/wie-ubertrage-ich-iphone-bilder-auf-windows-1011/"><u>Wie Übertrage Ich iPhone-Bilder Auf Windows 10/11?</u></a></li>
 </ul></div>
 

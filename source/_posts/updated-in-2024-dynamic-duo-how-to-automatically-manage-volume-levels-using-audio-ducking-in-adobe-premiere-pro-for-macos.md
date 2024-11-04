@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Dynamic Duo How to Automatically Manage Volume Levels Using Audio Ducking in Adobe Premiere Pro for macOS
-date: 2024-10-25T19:46:56.783Z
-updated: 2024-10-29T19:24:59.100Z
+date: 2024-10-28T17:31:42.836Z
+updated: 2024-11-04T16:49:25.660Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,16 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +76,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +109,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,14 +130,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-conquering-cross-platform-content-sharing-youtubes-and-fbs/"><u>[New] In 2024, Conquering Cross-Platform Content Sharing YouTubes & FBs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweetstream-extractor-pull-twitter-videos-to-iphone/"><u>[Updated] 2024 Approved TweetStream Extractor Pull Twitter Videos to iPhone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expertly-curated-best-photodocument-scanners/"><u>Expertly Curated Best Photo/Document Scanners</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210196827-9781592338085-moon-power/"><u>Moon Power | Free Book</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audiomastery-the-definitive-guide-to-choosing-the-best-voice-recorders/"><u>New AudioMastery The Definitive Guide to Choosing the Best Voice Recorders</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audiovisual-archive-top-10-digital-destinations-for-sound-track-download-for-2024/"><u>New Audiovisual Archive Top 10 Digital Destinations for Sound Track Download for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-premier-voice-recorders-for-android-comprehensive-and-cost-free/"><u>New Premier Voice Recorders for Android - Comprehensive and Cost-Free</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-sound-engineers-toolkit-removing-high-pitched-rattling-from-audio-files/"><u>New The Sound Engineers Toolkit Removing High-Pitched Rattling From Audio Files</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speaking-italian-with-ease-on-your-next-trip/"><u>Speaking Italian with Ease on Your Next Trip</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-economical-choices-in-action-cinematography/"><u>[New] 2024 Approved Economical Choices in Action Cinematography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-palette-perfection-a-guide-to-grading-filmmaking/"><u>[New] 2024 Approved Palette Perfection A Guide to Grading Filmmaking</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-vlc-player-tips-10-hidden-features/"><u>[New] In 2024, Vlc Player Tips 10 Hidden Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-benq-bl2711u-where-art-meets-science-in-professional-4k-monitoring/"><u>[Updated] BenQ BL2711U - Where Art Meets Science in Professional 4K Monitoring</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-your-channels-subscribe-button-pop/"><u>2024 Approved Making Your Channel's Subscribe Button Pop</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-straightforward-voice-customization-techniques-summary-of-features-protocols-and-alternative-solutions/"><u>2024 Approved Straightforward Voice Customization Techniques Summary of Features, Protocols, and Alternative Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-websites-performance-using-the-power-of-cookiebot-technology/"><u>Boost Your Website's Performance Using the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-5-best-cellphone-tunes-of-the-year/"><u>In 2024, 5 Best Cellphone Tunes of the Year</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-reimagine-old-school-vhs-with-modern-computer-techniques/"><u>In 2024, Reimagine Old-School VHS with Modern Computer Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy XCover 6 Pro Tactical Edition? Fixed | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-combining-sounds-and-visuals-a-guide-to-blending-video-and-audio/"><u>New 2024 Approved Combining Sounds & Visuals A Guide to Blending Video and Audio</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-5-prime-destinations-for-finding-and-downloading-legal-funny-tunes-online/"><u>New In 2024, 5 Prime Destinations for Finding and Downloading Legal Funny Tunes Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/pre-purchase-wisdom-choosing-a-ps5-rightly/"><u>Pre-Purchase Wisdom: Choosing a PS5 Rightly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-moto-g-5g-2023-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Moto G 5G (2023) Location | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-leading-audio-modification-programs-a-comprehensive-guide/"><u>Updated In 2024, Leading Audio-Modification Programs A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-audio-visualization-creating-waveforms-and-enhancing-with-animations-in-adobe-premiere-pro/"><u>Updated In 2024, Mastering Audio Visualization Creating Waveforms & Enhancing with Animations in Adobe Premiere Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-seamless-integration-of-audios-in-next-gen-avi-updates/"><u>Updated In 2024, Seamless Integration of Audios in Next-Gen AVI Updates</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-soundless-screen-experience-a-walkthrough-to-remove-loud-elements-from-multiple-video-formats-mp4mkvavimov/"><u>Updated In 2024, Soundless Screen Experience A Walkthrough to Remove Loud Elements From Multiple Video Formats (MP4/MKV/AVI/MOV)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-synchronizing-video-to-music-techniques/"><u>Updated The Art of Synchronizing Video to Music Techniques</u></a></li>
 </ul></div>
 

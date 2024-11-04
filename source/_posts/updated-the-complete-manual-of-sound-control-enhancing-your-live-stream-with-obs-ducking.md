@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking
-date: 2024-10-23T23:09:03.726Z
-updated: 2024-10-29T22:16:29.200Z
+date: 2024-10-29T16:41:15.124Z
+updated: 2024-11-04T16:28:31.027Z
 tags: 
   - audio editing software
   - audio editing
@@ -54,6 +54,13 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: The Best Audio Ducking Alternative to OBS
 
 Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
@@ -66,22 +73,21 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to use the audio ducking feature in Wondershare Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
 
@@ -102,10 +108,10 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -115,10 +121,16 @@ I hope you have now come to know why **ducking sound** is a must and how well **
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -136,24 +148,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-best-8-stability-tools-for-high-definition-cameras/"><u>[New] In 2024, Best 8 Stability Tools for High-Definition Cameras</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-feel-motivated-10-epic-movies-with-deep-impact/"><u>[New] In 2024, Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>[New] In 2024, Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-subscriber-identification-on-youtube/"><u>[New] Mastering Subscriber Identification on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-enhance-mac-screenshot-with-quick-shortcut-tips/"><u>[Updated] In 2024, Enhance Mac Screenshot with Quick Shortcut Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-fundamentals-made-simple-top-8-learning-resources/"><u>2024 Approved YouTube Fundamentals Made Simple Top 8 Learning Resources</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-mastery-spotting-unique-audience-groups/"><u>2024 Approved Youtube Mastery Spotting Unique Audience Groups</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bringing-short-form-videos-to-life-how-to-showcase-tiktok-on-your-home-tv-setup/"><u>Bringing Short-Form Videos to Life: How to Showcase TikTok on Your Home TV Setup</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-realme-c51-by-fonelab-android-recover-data/"><u>How to recover lost data from Realme C51?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-seamless-integration-of-multiple-audio-layers-creating-a-consolidated-master-file/"><u>In 2024, Seamless Integration of Multiple Audio Layers Creating a Consolidated Master File</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-top-11-premium-mobile-apps-for-enhancing-sound-quality/"><u>In 2024, Top 11 Premium Mobile Apps for Enhancing Sound Quality</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-integrating-autotune-into-your-audacity-projects/"><u>New 2024 Approved Integrating AutoTune Into Your Audacity Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-music-creation-at-home-ranking-the-top-10-digital-audio-environments/"><u>New 2024 Approved Mastering Music Creation at Home Ranking the Top 10 Digital Audio Environments</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-assets-almanac-unveiling-the-best-online-sources-for-video-clip-melodies-for-2024/"><u>New Audio Assets Almanac Unveiling the Best Online Sources for Video Clip Melodies for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-efficient-mp3-dividing-techniques-mastering-audio-splitting-speedily/"><u>New Efficient MP3 Dividing Techniques Mastering Audio Splitting Speedily</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-pioneering-digital-maestros-a-comprehensive-list-of-ais-finest-composers-for-2024/"><u>New Pioneering Digital Maestros A Comprehensive List of AIs Finest Composers for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-reclaiming-your-omegle-presence-steps-to-overcome-an-online-ban/"><u>New Reclaiming Your Omegle Presence Steps to Overcome an Online Ban</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-synergizing-individual-tracks-into-a-singular-polished-auditory-assembly/"><u>New Synergizing Individual Tracks Into a Singular, Polished Auditory Assembly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/your-vlogging-journey-starts-here-essentials/"><u>Your Vlogging Journey Starts Here Essentials</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-accidental-tiktok-update-restore-or-reload-content-for-2024/"><u>[Updated] Accidental TikTok Update Restore or Reload Content for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-efficiently-share-your-vision-via-igtv/"><u>[Updated] In 2024, Efficiently Share Your Vision via IGTV</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>2024 Approved Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free</u></a></li>
+<li><a href="https://facebook.techidaily.com/battle-against-facebooks-covert-watchers/"><u>Battle Against Facebook’s Covert Watchers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comprehensive-language-translation-hub/"><u>Comprehensive Language Translation Hub</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-unsuccessful-deployment-of-windows-10s-version-1903-upgrade/"><u>Effective Solutions for the Unsuccessful Deployment of Windows 10'S Version 1903 Upgrade</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-download-podcasts-to-computers/"><u>In 2024, How To Download Podcasts to Computers?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-multitasking-media-expertise-in-using-picture-in-picture/"><u>Navigating Multitasking Media Expertise in Using Picture-in-Picture</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/procuring-growls-and-whispers-audio-packages/"><u>Procuring Growls and Whispers Audio Packages</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-to-reduce-audio-noise-with-the-right-tools-offlineonline/"><u>Updated 2024 Approved How To Reduce Audio Noise With The Right Tools (Offline/Online)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-comprehensive-list-of-trending-pop-tracks-for-cinematic-videos-2024-selection/"><u>Updated Comprehensive List of Trending Pop Tracks for Cinematic Videos (2024 Selection)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-convert-text-to-mp3-on-windows-mac-android-and-iphone-for-2024/"><u>Updated Convert Text to MP3 on Windows, Mac, Android and iPhone for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-autotune-a-step-by-step-guide-for-audacity-users-for-2024/"><u>Updated Mastering Autotune A Step-by-Step Guide for Audacity Users for 2024</u></a></li>
 </ul></div>
 

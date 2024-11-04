@@ -1,7 +1,7 @@
 ---
 title: Updated Manipulating Soundscapes Incorporating Keyframes for Subtle Auditory Changes in Filmora (Mac)
-date: 2024-10-24T16:11:00.283Z
-updated: 2024-10-29T20:40:11.994Z
+date: 2024-11-02T17:18:30.482Z
+updated: 2024-11-04T17:35:54.051Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,10 @@ Now, click on the keyframe icon on the left side panel, make the volume adjustme
 To add the second **audio keyframe**, move the playhead to the desired spot, and once done, perform step 3 again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Modify Audio Keyframes in Filmora for Mac?
@@ -86,10 +86,10 @@ If you want to lower the volume of other clips in the video, you can use the “
 It’s not just one, but Filmora offers five attractive choices to modify the created **audio keyframe**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Fade In/Out Audio with Keyframes in Filmora for Mac?
@@ -110,10 +110,10 @@ Now that you are familiar with the method to add **Filmora keyframes** for audio
 * Dragging the **fade audio in the** handle at the beginning of the clip will impose the effect and set its duration automatically. Pulling the **fade audio out** handle at the end of the clip will impose the fade-out effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -123,10 +123,10 @@ No doubt, Wondershare Filmora is the best choice to carry over your **audio keyf
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -144,20 +144,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-streamline-yt-playlist-integration-in-htmlcss-for-2024/"><u>[New] Guide to Streamline YT Playlist Integration in HTML/CSS for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-brief-bliss-in-photo-collage-crafting-the-google-way-for-2024/"><u>[Updated] Brief Bliss in Photo Collage Crafting - The Google Way for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-unstuck-a-sticker-free-tiktok-journey/"><u>[Updated] Seamlessly Unstuck A Sticker-Free TikTok Journey</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/dvd-apple-mobile-mac-dvd-iphoneapple-tvitunes-mp4mov/"><u>DVD 转换为 Apple Mobile设备 - Mac上复制任意 DVD 并将其转换成iPhone/Apple TV/iTunes MP4/MOV格式的最佳软件解决方案</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-m6-pro-4g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco M6 Pro 4G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-gt-5-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme GT 5 Activity | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-digital-de-drumming-guide-simplifying-the-silencing-of-percussion-in-music-files/"><u>In 2024, Digital De-Drumming Guide Simplifying the Silencing of Percussion in Music Files</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-advanced-11-smartphone-apps-for-masterful-audio-production/"><u>New Advanced 11 Smartphone Apps for Masterful Audio Production</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-elevating-video-experience-perfecting-the-mix-of-music-and-cinematography-for-2024/"><u>New Elevating Video Experience Perfecting the Mix of Music and Cinematography for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-enhancing-film-quality-with-simplified-audio-layer-control-in-premiere-pro-2023-for-2024/"><u>New Enhancing Film Quality with Simplified Audio Layer Control in Premiere Pro 2023 for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-find-the-best-spots-on-the-internet-to-download-high-quality-ding-sounds-2023-compilation/"><u>New How to Find the Best Spots on the Internet to Download High-Quality Ding Sounds (2023 Compilation)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-integrating-moving-images-with-sound-a-comprehensive-guide/"><u>New Integrating Moving Images with Sound A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/setting-up-time-lapse-photography-a-guide-to-using-the-iphone-camera-timers/"><u>Setting Up Time-Lapse Photography: A Guide to Using the iPhone Camera Timers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-choosing-the-best-free-pdf-editor-amongst-competitors-november-2024/"><u>The Ultimate Guide to Choosing the Best Free PDF Editor Amongst Competitors (November 2024)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-windows-inoperative-scanners/"><u>Troubleshooting Steps for Windows' Inoperative Scanners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sparkle-in-the-spotlight-personalized-logos-made-easy-and-free/"><u>2024 Approved Sparkle in the Spotlight Personalized Logos Made Easy & Free</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-top-strategies-for-transforming-podcast-audio-into-mp3-format/"><u>2024 Approved Top Strategies for Transforming Podcast Audio Into MP3 Format</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/auditory-treasure-trove-unearth-top-hits-at-no-charge/"><u>Auditory Treasure Trove Unearth Top Hits at No Charge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cant-keep-up-with-all-those-open-tabs-in-google-chrome-regain-order-and-efficiency-now/"><u>Can't Keep Up with All Those Open Tabs in Google Chrome? Regain Order and Efficiency Now!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/excellent-e-recorders-for-voices-for-2024/"><u>Excellent E-Recorders for Voices for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-11-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 11 and iPad</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-duties-assigned-to-film-set-personnel/"><u>New In 2024, Duties Assigned to Film Set Personnel</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pro-tips-capturing-graphical-elements-and-preserving-them-as-image-files-from-word/"><u>Pro Tips: Capturing Graphical Elements and Preserving Them as Image Files From Word</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-on-windows-a-step-by-step-guide/"><u>Solving 'No Rest for the Wicked' Game Crashes on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-complete-guide-to-podcast-editing-with-audacity/"><u>The Complete Guide to Podcast Editing with Audacity</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fcpx-title-effects-take-your-videos-to-the-next-level/"><u>Updated In 2024, FCPX Title Effects Take Your Videos to the Next Level</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-pursuit-of-quality-sound-capture-on-a-budget-ultimate-guide-to-free-voice-recorders-for-the-year-2024/"><u>Updated In Pursuit of Quality Sound Capture on a Budget - Ultimate Guide to Free Voice Recorders for the Year 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-task-distribution-amongst-crew-members-for-successful-shootings-for-2024/"><u>Updated Task Distribution Amongst Crew Members for Successful Shootings for 2024</u></a></li>
 </ul></div>
 

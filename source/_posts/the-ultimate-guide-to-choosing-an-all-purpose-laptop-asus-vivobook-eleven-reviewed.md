@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed"
-date: 2024-10-27T00:51:35.008Z
-updated: 2024-10-29T22:01:41.106Z
+date: 2024-10-29T16:54:12.088Z
+updated: 2024-11-04T17:01:32.165Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed"
@@ -41,6 +41,13 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
@@ -67,13 +74,6 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -82,7 +82,21 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Comfort: You’ll forget you’re wearing it**
 
@@ -91,10 +105,10 @@ Lifewire / Erika Rawes
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
@@ -115,6 +129,13 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Software: Garmin Connect App**
@@ -127,13 +148,6 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 ## **Battery: May last a full seven days**
@@ -142,29 +156,9 @@ Lifewire / Erika Rawes
 
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
@@ -216,24 +210,21 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-enthralling-soundscapes-win/"><u>[New] 2024 Approved Enthralling Soundscapes, WIN</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-comprehensive-overview-simple-hdr-excellence/"><u>[New] In 2024, Comprehensive Overview Simple HDR Excellence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-create-a-unique-identity-personalize-your-youtube-url-today/"><u>[New] In 2024, Create a Unique Identity Personalize Your YouTube URL Today</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-optimize-iphone-cinematography-ultimate-capture-additions/"><u>[New] Optimize iPhone Cinematography Ultimate Capture Additions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-right-approach-to-uploading-photos-from-your-device-to-snapchat/"><u>[New] The Right Approach to Uploading Photos From Your Device to Snapchat</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-world-of-subtitle-uploads-social-media-edition/"><u>[Updated] Navigating the World of Subtitle Uploads Social Media Edition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-s23-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel S23 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-vanguard-6-audio-file-segmentation-systems/"><u>New 2024 Approved Vanguard 6 Audio File Segmentation Systems</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-7-best-transition-sound-effects-free-download-that-you-dont-know/"><u>New 7 Best Transition Sound Effects (Free Download) That You Dont Know</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-amr-audio-converter-complete-guide-to-amr-files/"><u>New AMR Audio Converter Complete Guide to AMR Files</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-decoding-vimeos-video-dimensions-a-complete-perspective-on-aspect-ratios/"><u>New Decoding Vimeos Video Dimensions A Complete Perspective on Aspect Ratios</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-musicaudio-to-a-gif-on-mac-in-2024/"><u>New How to Add Music/Audio to a GIF on Mac, In 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-cutting-edge-window-sound-solutions-top-picks-for-background-noise-eviction-from-recordings/"><u>New In 2024, Cutting Edge Window Sound Solutions Top Picks for Background Noise Eviction From Recordings</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-essential-free-resources-for-aspiring-guitarists-a-collection-of-background-images-and-tunes/"><u>New In 2024, Essential Free Resources for Aspiring Guitarists A Collection of Background Images and Tunes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-rhythmic-editing-made-easy-aligning-video-and-sound-in-adobe-premiere-pro-for-2024/"><u>New Rhythmic Editing Made Easy Aligning Video and Sound in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-6-online-auditory-sampling-programs/"><u>New Top 6 Online Auditory Sampling Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/tweaking-window-thumbnails-dimensions/"><u>Tweaking Window Thumbnails' Dimensions</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-6s-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 6s</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-conceptualize-entertaining-posts-in-adobe-for-2024/"><u>[New] Conceptualize Entertaining Posts in Adobe for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-simplified-techniques-for-capturing-vimeo-content/"><u>[New] In 2024, Simplified Techniques for Capturing Vimeo Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-optimizing-apex-dive-deep-into-single-platform-solitude/"><u>[Updated] 2024 Approved Optimizing Apex Dive Deep Into Single-Platform Solitude</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-building-business-via-beauty-vlogs/"><u>[Updated] Building Business via Beauty Vlogs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-essential-guide-integrating-audio-with-animated-gifs-on-macos/"><u>2024 Approved Essential Guide Integrating Audio with Animated GIFs on macOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-trustworthy-source-for-your-easycap-driver-downloads/"><u>Effortless Installation: Trustworthy Source for Your EasyCap Driver Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-essential-top-ten-gratis-global-audio-equalization-tools/"><u>New 2024 Approved Essential Top Ten Gratis Global Audio Equalization Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-guide-to-visualizing-sound-integrating-audio-waves-and-enhancing-them-with-motion-effects-in-adobe-premiere-pro-for-2024/"><u>New Guide to Visualizing Sound Integrating Audio Waves and Enhancing Them with Motion Effects in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-popular-sites-to-download-bgm-music/"><u>New In 2024, 10 Popular Sites to Download BGM Music</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mastering-the-art-of-downloading-podcast-episodes-on-laptops-and-desktops/"><u>New In 2024, Mastering the Art of Downloading Podcast Episodes on Laptops and Desktops</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mp4-to-mono-separating-sound-from-video/"><u>New In 2024, MP4 to Mono Separating Sound From Video</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-unblocking-omegle-a-step-by-step-plan-for-the-banned-user/"><u>New Unblocking Omegle A Step-by-Step Plan for the Banned User</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/share-the-ultimate-free-youtube-downloader-the-best-app-to-convert-videos-and-spread-the-word/"><u>Share the Ultimate Free YouTube Downloader: The Best App to Convert Videos and Spread the Word</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 
