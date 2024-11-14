@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
-date: 2024-10-22T16:19:05.913Z
-updated: 2024-10-23T18:08:08.945Z
+date: 2024-11-08T16:35:14.127Z
+updated: 2024-11-13T16:38:03.408Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
@@ -41,10 +41,10 @@ Lifewire / Andrew Hayward
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LG Gram 15.6-inch (2018)
@@ -83,10 +83,10 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Amazingly light, but not wholly convincing**
@@ -113,6 +113,13 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Just follow the directions**
 
  There's little reason to worry about getting the LG Gram 15.6-inch laptop up and running quickly. It has Windows 10 pre-installed, so you'll simply follow the onscreen prompts to enter your Wi-Fi info, check for updates, select a few options, and ultimately find yourself ready to roll on the desktop. It shouldn't take more than a handful of minutes.
@@ -128,13 +135,6 @@ Lifewire / Andrew Hayward
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/TFbt9G36hk5JyrBL8cIdIuYQ66E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Keyboard_03-fd7e355ac5944f12a8107746d0afbf24.jpg)
 
  Lifewire / Andrew Hayward
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Solid power for everyday tasks**
 
@@ -152,13 +152,6 @@ Lifewire / Andrew Hayward
 
  You won't see the speakers when the LG Gram is standing up as normal, but you'll hear them loud and clear. The stereo speakers are tucked underneath the laptop at the left and right edges near where your wrists rest, and thanks to the slight elevation from the rubbery feet on the bottom of the laptop, they're given enough space for the output to shine. Audio playback sounds robust and clear—not quite to the level of Apple's current MacBook Air and MacBook Pro, but very close. We were pleased with it.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network: Connects as expected**
 
  The LG Gram had no problem connecting to a few different networks, including a home Wi-Fi network, the Google Wi-Fi network at Starbucks, and a mobile hotspot. The connection always seemed speedy and downloads ran at a steady clip. Testing it on a home Wi-Fi network during peak evening hours, we saw a download speed of about 30Mbps and an upload speed of 13Mbps. We tested the network on an iPhone XS Max immediately after and saw comparable speeds there, as well. You can connect to both 2.4Ghz and 5Ghz networks with ease.
@@ -169,13 +162,6 @@ Lifewire / Andrew Hayward
 
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery: Seriously amazing**
 
  The battery is undoubtedly one of the key highlights of the LG Gram 15.6-inch (2018) experience. This massive 72Wh cell is estimated to provide upwards of 19 hours of uptime, according to LG—but as is usually the case with[laptops](https://www.lifewire.com/best-laptops-to-buy-4043650) , that estimate isn't reflective of typical use cases. Even so, with max brightness, the fact that we could get about half that amount still makes for a long-lasting experience.
@@ -183,6 +169,13 @@ Lifewire / Andrew Hayward
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100 percent brightness. That means it's built for a full-on workday, which makes it a great option for productivity. In our video rundown test, in which we constantly stream a Netflix movie at 100 percent brightness, the LG Gram 15.6-inch lasted for 9 hours, 14 minutes. With locally-stored video, you're sure to get a whole lot more out of it.
 
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Hello, Windows (but no Windows Hello)**
 
@@ -199,13 +192,20 @@ Lifewire / Andrew Hayward
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/5yzhAkphyYfWOMofqawuktHJlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-v.-Surface-comparison-4946178bf2e94230820d2b19d2fb7197.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **LG Gram 15.6-inch (2018) vs. Microsoft Surface Laptop 2: Better than Microsoft's own?**
 
@@ -253,18 +253,20 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/hannel-cash-flow-management-for-youtubers-for-2024/"><u>[New] Channel Cash Flow Management for YouTubers for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-decoding-the-dynamics-of-whatsapp-audio-communication/"><u>[New] Decoding the Dynamics of WhatsApp Audio Communication</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-magical-voice-change-tools-for-efficient-calls/"><u>[Updated] 2024 Approved Magical Voice Change Tools for Efficient Calls</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>[Updated] In 2024, Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-crash-and-recovery-of-default-amd-radeon-wattman-settings-comprehensive-solutions/"><u>How to Fix the 'Crash & Recovery' Of Default AMD Radeon Wattman Settings: Comprehensive Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>In 2024, Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mp4s-melodic-mysteries-solved-nine-easy-to-implement-audio-extraction-methods-for-the-new-decade-for-2024/"><u>MP4s Melodic Mysteries Solved Nine Easy-to-Implement Audio Extraction Methods for the New Decade for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-open-source-audio-sources-a-filmmakers-resource-list/"><u>New 2024 Approved Open Source Audio Sources A Filmmakers Resource List</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-avoiding-audible-distractions-silencing-audio-in-current-avi-updates/"><u>New Avoiding Audible Distractions Silencing Audio in Current AVI Updates</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/spectacular-stop-motion-animations-15-list-for-2024/"><u>Spectacular Stop-Motion Animations #15 List for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-5-effects-for-reshaping-sound-tracks/"><u>Updated Top 5 Effects for Reshaping Sound Tracks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[New] From Casual Follower to Dedicated Subscriber Inspirational Journey</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-elevating-your-existence-on-the-web-expanding-your-youtube-following/"><u>[New] In 2024, Elevating Your Existence on the Web Expanding Your Youtube Following</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>[New] Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-synergy-of-enterprises-and-immersive-virtual-worlds/"><u>[Updated] 2024 Approved Synergy of Enterprises and Immersive Virtual Worlds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-circle-construction-techniques-for-the-aspiring-minecraft-artist/"><u>[Updated] Circle Construction Techniques for the Aspiring Minecraft Artist</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-deal-with-youtube-trolls-and-negative-comments-for-2024/"><u>[Updated] How To Deal with YouTube Trolls and Negative Comments for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enriching-your-storys-personas-with-the-best-gpt-prompts/"><u>Enriching Your Story's Personas with the Best GPT Prompts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/how-to-remove-audio-from-mp4/"><u>How to Remove Audio From MP4</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-power-of-first-impressions-crafting-impactful-youtube-images/"><u>In 2024, The Power of First Impressions Crafting Impactful YouTube Images</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-the-art-of-downloading-podcast-episodes-on-laptops-and-desktops/"><u>Mastering the Art of Downloading Podcast Episodes on Laptops and Desktops</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-assessing-whether-magix-samplitude-truly-dominates-music-production-tools/"><u>New Assessing Whether MAGIX Samplitude Truly Dominates Music Production Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-curated-collection-unrestricted-melodies-ideal-for-visual-storytelling/"><u>New In 2024, Curated Collection Unrestricted Melodies Ideal for Visual Storytelling</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-virtual-sound-editor-with-cut-and-join-features/"><u>New Virtual Sound Editor with Cut & Join Features</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/unmissable-web-based-mp3-metadata-manipulators-heres-the-list-for-2024/"><u>Unmissable Web-Based MP3 Metadata Manipulators – Heres the List for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-from-default-dial-tones-to-signature-sounds-the-ringtone-artisans-manual-for-2024/"><u>Updated From Default Dial-Tones to Signature Sounds The Ringtone Artisans Manual for 2024</u></a></li>
 </ul></div>
 

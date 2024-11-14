@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Streamlining Sound Sync How to Implement Audio Ducking for Dynamic Volume Control in PowerDirector
-date: 2024-10-31T16:59:36.002Z
-updated: 2024-11-04T16:40:58.850Z
+date: 2024-11-12T16:00:57.424Z
+updated: 2024-11-13T18:21:34.823Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,16 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -74,13 +80,6 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
 
@@ -105,10 +104,10 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,13 +117,26 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | ![](https://www.google.com/favicon.ico) | ![](https://www.youtube.com/favicon.ico) | ![](https://www.google.com/favicon.ico) | ![](https://www.google.com/images/branding/product/ico/maps_32dp.ico) | ![](https://en.wikipedia.org/favicon.ico) | ![](https://www.amazon.com/favicon.ico) |
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,20 +154,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>[New] 2024 Approved Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>[New] In 2024, Gourmet Gurus Who You Should Subscribe To</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-iphone-composition-choosing-right-angles/"><u>[New] The Ultimate Guide to iPhone Composition Choosing Right Angles</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-channel-your-earnings-effective-youtube-money-methods/"><u>[Updated] In 2024, Channel Your Earnings Effective YouTube Money Methods</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-superior-app-dev-editors-top-15-selection/"><u>[Updated] Superior App Dev Editors Top 15 Selection</u></a></li>
-<li><a href="https://win-info.techidaily.com/expert-tips-for-efficiently-downloading-films-and-captions-with-yts-yify-platform/"><u>Expert Tips for Efficiently Downloading Films & Captions with YTS YIFY Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-setting-up-high-quality-internet-streaming-for-a-captivating-at-home-movie-theater/"><u>How-To: Setting Up High-Quality Internet Streaming for a Captivating At-Home Movie Theater</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/july-19th-new-york-times-brainteaser-challenge-solutions-and-insights-404/"><u>July 19Th New York Times Brainteaser Challenge: Solutions & Insights #404</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-pros-pathway-to-purging-percussion-from-digital-melodies-for-2024/"><u>The Pros Pathway to Purging Percussion From Digital Melodies for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/unveiling-omegle-understanding-online-chat-rooms-and-their-security-implications/"><u>Unveiling Omegle Understanding Online Chat Rooms and Their Security Implications</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-best-lyric-video-templates-for-after-effects/"><u>Updated 2024 Approved Best Lyric Video Templates for After Effects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-premier-roundup-of-win-compatible-daws-evaluating-free-and-paid-software-options/"><u>Updated 2024 Approved The Premier Roundup of Win-Compatible DAWs Evaluating Free and Paid Software Options</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audio-cutting-101-disconnecting-sounds-from-your-iphonemac-videos-for-2024/"><u>Updated Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-elite-voice-mimicry-suite-windows-and-apple-harmonization/"><u>Updated Elite Voice Mimicry Suite - Windows & Apple Harmonization</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-harmonizing-media-effective-techniques-to-combine-multiple-audio-files-in-videos-for-2024/"><u>Updated Harmonizing Media Effective Techniques to Combine Multiple Audio Files in Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unearthing-the-best-storytelling-channels-yearly-roundup/"><u>[New] 2024 Approved Unearthing the Best Storytelling Channels Yearly Roundup</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-a-compilation-of-best-video-chatting-applications-mobilepluspc/"><u>[Updated] 2024 Approved A Compilation of Best Video Chatting Applications (Mobile+PC)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/6-leading-nft-makers-elevating-artist-expression/"><u>6 Leading NFT Makers Elevating Artist Expression</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-hassle-fixing-non-detectable-usb-drives-with-these-tips/"><u>Bypass the Hassle: Fixing Non-Detectable USB Drives with These Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-asus-rog-phone-7-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Asus ROG Phone 7 Phones? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleash-your-time-potential-with-gratuitous-clock-tools/"><u>In 2024, Unleash Your Time Potential with Gratuitous Clock Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-eradicate-minecraft-launcher-error-0x803f8001/"><u>Methods to Eradicate Minecraft Launcher Error 0X803F8001</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-essential-list-top-8-android-daws-revolutionizing-music/"><u>New 2024 Approved The Essential List Top 8 Android DAWs Revolutionizing Music</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audio-metamorphosis-transforming-mp3-files-into-mp4-with-ease-for-2024/"><u>New Audio Metamorphosis Transforming MP3 Files Into MP4 with Ease for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-freetranscribe-your-way-android-and-ios-apps-for-effortless-audio-transcription-for-2024/"><u>New FreeTranscribe Your Way Android & iOS Apps for Effortless Audio Transcription for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-proven-leaders-in-speech-to-text-the-best-6-automatic-transcription-apps/"><u>New Proven Leaders in Speech to Text The Best 6 Automatic Transcription Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-7-converting-audio-to-text-tools/"><u>New Top 7 Converting Audio to Text Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionizing-sketches-prime-ipados-drawing-software/"><u>Revolutionizing Sketches Prime iPadOS Drawing Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/shining-up-photos-on-instagram-three-effective-ways/"><u>Shining Up Photos on Instagram Three Effective Ways</u></a></li>
 </ul></div>
 

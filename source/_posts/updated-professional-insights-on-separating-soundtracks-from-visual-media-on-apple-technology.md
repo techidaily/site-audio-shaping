@@ -1,7 +1,7 @@
 ---
 title: Updated Professional Insights on Separating Soundtracks From Visual Media on Apple Technology
-date: 2024-11-03T17:07:21.402Z
-updated: 2024-11-04T16:46:09.695Z
+date: 2024-11-09T17:36:34.537Z
+updated: 2024-11-13T18:37:24.918Z
 tags: 
   - audio editing software
   - audio editing
@@ -40,6 +40,13 @@ Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
 
 Part2\. [Steps to cut the audio from videos on iPhone](#cut-audio-on-iphone)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to cut the audio from videos on Mac
 
 If you are using a Mac for editing, knowing that [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best way to go about it is good but knowing how to navigate is key. Not to worry, the steps you need to get started are all listed in these three steps.
@@ -63,40 +70,19 @@ Click the "export" button on the interface and select the desired video format
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to cut the audio from videos on iPhone
 
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Open the iMovie
 
 Opening the iMovie app goes beyond just clicking it to open, you also have to follow up this process by clicking the continue button that pops up. If the app has opened and you can see an inviting interface, move to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Select a video you want
 
@@ -104,21 +90,7 @@ There are different pages on the interface but your concern is on the project pa
 
  ![new project on imovie](https://images.wondershare.com/filmora/Mac-articles/new-project-on-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Mute the audio
 
@@ -127,6 +99,13 @@ Muting the audio becomes straightforward when you have moved it to the interface
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Section 2. Requirements to extract the music of the video and save
 
@@ -142,17 +121,38 @@ Step 2 Next, right-click the video and choose "Audio Detach." After some time, t
 
  ![mac audio detach1](https://images.wondershare.com/filmora/guide/mac-audio-detach1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can choose to delete the video or keep it. If you want to delete it, simply right-click and choose delete. This will remove the video entirely.
 
 Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the audio editing tools would be displayed. You can adjust the music volume, change voice, and do other edits.
 
 ![8audio balance](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.audio-balance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4\. If the audio has some sounds you would like to take out, place your cursor at the exact place you want the deletion to start. Next, press the split button. This step can be used to delete any aspect of the music sound you don't like.
 
 Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music, click the export button. You will be provided with different options to save the audio. Click on the one you prefer.
 
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
 
@@ -183,21 +183,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-elite-metaverse-visor-choices-the-top-8-list-for-2024/"><u>[Updated] Elite Metaverse Visor Choices The Top 8 List for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-detailed-methods-for-seamless-wirecast-livestreams-on-youtube/"><u>2024 Approved Detailed Methods for Seamless WireCast Livestreams on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/effortless-video-segmentation-techniques/"><u>Effortless Video Segmentation Techniques</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/expert-tips-on-protecting-your-mysql-database-free-backup-tools-and-strategies/"><u>Expert Tips on Protecting Your MySQL Database - Free Backup Tools & Strategies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-smart-7-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Smart 7?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-unleash-the-power-of-your-vocal-projection-filmora-tips-and-tricks-for-2024/"><u>New Unleash the Power of Your Vocal Projection Filmora Tips and Tricks for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professional-video-shooting-on-the-go-the-10-leading-smartphone-titans-with-ois-for-2024/"><u>Professional Video Shooting on the Go The 10 Leading Smartphone Titans with OIS for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-msodll-error-a-comprehensive-guide/"><u>Solving the 'mso.dll' Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-noise-free-zone-step-by-step-guide-to-refining-audio-quality-with-audacity-and-filmorapro/"><u>The Noise-Free Zone Step-by-Step Guide to Refining Audio Quality with Audacity and FilmoraPro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-8-powerful-daw-options-revolutionize-your-music-production-process-for-2024/"><u>The Ultimate List of 8 Powerful DAW Options Revolutionize Your Music Production Process for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-insiders-guide-to-preserving-your-spotify-collection-in-local-formats/"><u>Updated 2024 Approved The Insiders Guide to Preserving Your Spotify Collection in Local Formats</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-efficient-auditory-import-techniques-for-adobe-premiere-pro-users/"><u>Updated Efficient Auditory Import Techniques for Adobe Premiere Pro Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-10plus-best-podcast-player-apps-for-iphone-and-android/"><u>Updated In 2024, 10+ Best Podcast Player Apps for iPhone and Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-composing-accompaniment-for-film-scenes/"><u>Updated In 2024, Composing Accompaniment for Film Scenes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-your-ultimate-selfie-validation-handbook/"><u>[New] In 2024, Your Ultimate Selfie Validation Handbook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs-for-2024/"><u>[New] Navigating the World of Online Broadcasts on YouTube and Twitch with OBS for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-crafting-your-virtual-identity-essential-tech-you-need-top-7/"><u>[Updated] Crafting Your Virtual Identity - Essential Tech You Need (Top 7)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rapid-rendering-of-epic-battle-royale-tiles/"><u>[Updated] Rapid Rendering of Epic Battle Royale Tiles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-content-strategy-amplified-selective-rank-watcher-solutions/"><u>2024 Approved Content Strategy Amplified Selective Rank Watcher Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/echoes-of-rebellion-celebrating-the-top-15-most-captivating-rock-songs-of-2-written-by/"><u>Echoes of Rebellion Celebrating the Top 15 Most Captivating Rock Songs of 2 Written By</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exciting-ride-into-the-world-of-holy-stones-remote-control-racing-toys-a-user-friendly-analysis/"><u>Exciting Ride Into the World of Holy Stone's Remote Control Racing Toys - A User Friendly Analysis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-hot-30-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Hot 30 5G PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-10-audio-disruptors-androidios-edition/"><u>In 2024, Top 10 Audio Disruptors Android/iOS Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-customizing-audio-intensity-the-ultimate-guide-to-volume-management-in-audacity/"><u>New 2024 Approved Customizing Audio Intensity The Ultimate Guide to Volume Management in Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-extensive-survey-of-neroutility-for-soundediting/"><u>New Extensive Survey of Neroutility for SoundEditing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-role-of-dissonant-harmonies-and-pacing-in-creating-film-music-suspense/"><u>New The Role of Dissonant Harmonies and Pacing in Creating Film Music Suspense</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-access-add-admin-to-your-social-media-hub/"><u>Secure Access: Add Admin to Your Social Media Hub</u></a></li>
 </ul></div>
 

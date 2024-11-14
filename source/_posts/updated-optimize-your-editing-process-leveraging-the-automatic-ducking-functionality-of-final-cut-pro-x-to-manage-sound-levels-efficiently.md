@@ -1,7 +1,7 @@
 ---
 title: Updated Optimize Your Editing Process Leveraging the Automatic Ducking Functionality of Final Cut Pro X to Manage Sound Levels Efficiently
-date: 2024-10-16T01:48:08.183Z
-updated: 2024-10-18T09:11:01.321Z
+date: 2024-11-09T19:21:30.079Z
+updated: 2024-11-13T16:29:39.477Z
 tags: 
   - audio editing software
   - audio editing
@@ -93,10 +93,16 @@ Once your video is imported, you can drag it to the timeline at the bottom to wo
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
@@ -110,10 +116,10 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
@@ -121,10 +127,10 @@ Afterward, right-click the audio track and select the “Adjust Audio” option 
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
@@ -142,10 +148,10 @@ There you go! After following this guide, you can easily learn how to do audio d
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -163,24 +169,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-bring-your-video-to-life-from-standard-to-hdri-excellence-for-2024/"><u>[New] Bring Your Video to Life From Standard to HDRI Excellence for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-youtube-trailers-a-filmora-guide/"><u>[New] In 2024, Crafting YouTube Trailers A Filmora Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-advanced-movie-editing-saving-and-enhancing-mov-files-in-windows-11/"><u>[Updated] In 2024, Advanced Movie Editing Saving and Enhancing MOV Files in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-14-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi 14 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-unsung-heroes-key-contributions-of-each-cinematic-craftsperson/"><u>2024 Approved The Unsung Heroes Key Contributions of Each Cinematic Craftsperson</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/advanced-audio-editing-techniques-with-avidemux-for-2024/"><u>Advanced Audio Editing Techniques with Avidemux for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/assessing-whether-magix-samplitude-truly-dominates-music-production-tools-for-2024/"><u>Assessing Whether MAGIX Samplitude Truly Dominates Music Production Tools for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/essential-online-tools-to-refine-your-music-with-superior-mp3-processing-for-2024/"><u>Essential Online Tools to Refine Your Music with Superior MP3 Processing for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pro-level-playback-advanced-techniques-for-capturing-minecraft-games-on-mac/"><u>In 2024, Pro-Level Playback Advanced Techniques for Capturing Minecraft Games on Mac</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-pathway-from-podcast-to-mp3-three-effective-steps-for-successful-transfer/"><u>In 2024, The Pathway From Podcast to MP3 Three Effective Steps for Successful Transfer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/melodic-moments-to-augment-your-status/"><u>Melodic Moments to Augment Your Status</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-free-open-source-audio-editing-wonders-of-windows-top-picks-for-2024/"><u>New Free, Open-Source Audio Editing Wonders of Windows - Top Picks for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/next-level-processing-power-russia-prepares-to-implement-128-cores-in-their-supercomputer-infrastructure/"><u>Next Level Processing Power: Russia Prepares to Implement 128 Cores in Their Supercomputer Infrastructure</u></a></li>
-<li><a href="https://techidaily.com/re-download-and-setup-of-realtek-hd-sound-driver-for-windows-1011-systems/"><u>Re-Download & Setup of Realtek HD Sound Driver for Windows 10/11 Systems</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-discover-the-best-5-mp3-harmonizers-for-your-macs-audiophile-experience/"><u>Updated 2024 Approved Discover the Best 5 MP3 Harmonizers for Your Macs Audiophile Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-enhancing-visuals-the-guide-to-blending-photos-with-music-for-2024/"><u>Updated Enhancing Visuals The Guide to Blending Photos with Music for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-eliminating-audio-turbulence-in-recordings-across-devices/"><u>Updated In 2024, Eliminating Audio Turbulence in Recordings Across Devices</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-pinnacle-studio-not-working-try-these-mac-alternatives-instead-for-2024/"><u>Updated Pinnacle Studio Not Working? Try These Mac Alternatives Instead for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-strategies-to-quicken-vimeo-videos/"><u>[New] 2024 Approved Strategies to Quicken Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tag-tactics-amplifying-your-gaming-content-online/"><u>[Updated] Tag Tactics Amplifying Your Gaming Content Online</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/10-best-sites-to-download-bgm-music-for-2024/"><u>10 Best Sites to Download BGM Music for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-the-power-of-instream-ads-detailed-guidelines-on-setup-and-evaluation-in-fb/"><u>2024 Approved Unlock the Power of Instream Ads Detailed Guidelines on Setup & Evaluation in FB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-addressing-challenges-encountered-in-pci-cipher-suite-management-drivers/"><u>Guide to Addressing Challenges Encountered in PCI Cipher Suite Management Drivers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-engage-fully-with-podcasts-15-essential-tasks/"><u>In 2024, Engage Fully with Podcasts 15 Essential Tasks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-seamless-setup-of-ifunny-meme-toolkit/"><u>In 2024, How-To Seamless Setup of iFunny Meme Toolkit</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-procuring-growls-and-whispers-audio-packages/"><u>New 2024 Approved Procuring Growls and Whispers Audio Packages</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-premier-selection-of-cost-free-online-daw-software-users/"><u>New 2024 Approved The Premier Selection of Cost-Free Online DAW Software Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-audio-file-transformation-mp3-to-mp4-format-conversion-explained/"><u>New In 2024, Audio File Transformation MP3 to MP4 Format Conversion Explained</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-navigating-the-world-of-amr-wmas-an-in-depth-guide-to-file-conversion-techniques-2023/"><u>New In 2024, Navigating the World of AMR WMAs An In-Depth Guide to File Conversion Techniques 2023</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-techniques-for-reducing-room-acoustics-on-taped-music/"><u>New Techniques for Reducing Room Acoustics on Taped Music</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-sound-engineers-toolkit-removing-high-pitched-rattling-from-audio-files-for-2024/"><u>New The Sound Engineers Toolkit Removing High-Pitched Rattling From Audio Files for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/tecnicas-faciles-de-rotacion-en-videos-mp4-a-angulos-rectos-sin-reducir-la-calidad-visual-guia-detallada-para-90-180-y-270-grados/"><u>Técnicas Fáciles De Rotación en Videos MP4 a Ángulos Rectos Sin Reducir La Calidad Visual - Guía Detallada Para 90, 180 Y 270 Grados</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a24-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A24</u></a></li>
 </ul></div>
 

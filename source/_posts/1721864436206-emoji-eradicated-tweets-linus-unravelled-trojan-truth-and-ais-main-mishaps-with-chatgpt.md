@@ -1,7 +1,7 @@
 ---
 title: Emoji Eradicated Tweets, Linus Unravelled, Trojan Truth, and AI's Main Mishaps with ChatGPT
-date: 2024-09-23T23:47:58.403Z
-updated: 2024-09-30T21:38:48.804Z
+date: 2024-11-07T18:55:40.493Z
+updated: 2024-11-13T19:54:08.415Z
 tags:
   - chatgpt
   - open-ai
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -110,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -151,18 +151,16 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-complete-guide-what-does-unlisted-mean-on-youtube-for-2024/"><u>[Updated] Complete Guide What Does Unlisted Mean on YouTube for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-hush-the-hubbub-innovative-methods-for-diminishing-noise-in-microphones/"><u>2024 Approved Hush the Hubbub Innovative Methods for Diminishing Noise in Microphones</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevate-your-photography-skills-discover-5-remarkable-tools-for-upgrading-and-perfecting-images-beyond-remini/"><u>Elevate Your Photography Skills: Discover 5 Remarkable Tools for Upgrading and Perfecting Images Beyond Remini</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a56s-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo A56s 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/movie-magic-at-work-the-crucial-functions-and-impact-of-every-film-set-team-member/"><u>Movie Magic at Work The Crucial Functions and Impact of Every Film Set Team Member</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-deep-dive-into-the-technological-framework-of-sound-forge/"><u>New 2024 Approved Deep Dive Into the Technological Framework of Sound Forge</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-find-clapping-sound-effect/"><u>New Find Clapping Sound Effect</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos/"><u>The Complete Guide to Downloading, Setting up and Using OBS on macOS</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-techniques-to-fix-frozen-software-issues-on-a-windows-11-pc/"><u>Top Techniques to Fix Frozen Software Issues on a Windows 11 PC</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-audacity-on-ubuntu-step-by-step-tutorials-for-seamless-setup-upgrade-and-cleanup/"><u>Updated 2024 Approved Audacity on Ubuntu Step-by-Step Tutorials for Seamless Setup, Upgrade & Cleanup</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-sculpt-your-media-techniques-for-excising-audio-in-iphones-and-mac-videos-for-2024/"><u>Updated Sculpt Your Media Techniques for Excising Audio in iPhones & Mac Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-whats-fresh-with-facebook-latest-info-here-for-2024/"><u>[Updated] What’s Fresh with Facebook? Latest Info Here for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/instant-volume-amplification-solutions-for-windows-users-discover-the-top-10-for-2024/"><u>Instant Volume Amplification Solutions for Windows Users - Discover the Top 10 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-pro-fresh-start-techniques-how-to-restart-with-ease/"><u>MacBook Pro Fresh Start Techniques: How to Restart with Ease</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-volume-transitions-audio-panning-techniques-in-imovie-for-2024/"><u>Mastering Volume Transitions Audio Panning Techniques in iMovie for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-lipsync-lite-top-picks-for-cost-free-audio-conversion-on-your-smartphone-and-tablet/"><u>New 2024 Approved LipSync Lite Top Picks for Cost-Free Audio Conversion on Your Smartphone & Tablet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-sound-on-your-mac-the-top-8-daws-ranked/"><u>New 2024 Approved Mastering Sound on Your Mac The Top 8 DAWs Ranked</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-chorus-of-knowledge-empowering-you-to-name-any-song-via-iphone-technology/"><u>New In 2024, Chorus of Knowledge Empowering You to Name Any Song via iPhone Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-converting-mts-files-for-imovie-compatibility/"><u>Step-by-Step Guide: Converting MTS Files for iMovie Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-strategies-to-overcome-access-barriers-on-win-pcs/"><u>Top 8 Strategies to Overcome Access Barriers on Win PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-repairing-windows-component-configuration-failures/"><u>Troubleshooting Guide: Successfully Repairing Windows Component Configuration Failures</u></a></li>
 </ul></div>
 

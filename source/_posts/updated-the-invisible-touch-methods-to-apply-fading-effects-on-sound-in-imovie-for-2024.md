@@ -1,7 +1,7 @@
 ---
 title: Updated The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie for 2024
-date: 2024-11-02T16:46:33.760Z
-updated: 2024-11-04T16:06:40.488Z
+date: 2024-11-11T19:12:18.537Z
+updated: 2024-11-13T18:09:00.873Z
 tags: 
   - audio editing software
   - audio editing
@@ -61,13 +61,6 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
@@ -83,13 +76,6 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
@@ -115,6 +101,13 @@ If you manually adjust the effect, you can have a better effect.
 
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
 Now, that's done! I hope the above information does help you to set the fade effects to smooth your video and audio transitions.
@@ -139,6 +132,13 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
@@ -146,10 +146,16 @@ Click the "Export" button to select one of the export methods. You can choose yo
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
@@ -157,10 +163,10 @@ That's all about how to fade music and audio with iMovie and its alternative. If
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -178,22 +184,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>[New] 2024 Approved 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit/"><u>[New] Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>[New] The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-strategic-blending-elevating-video-sequence-harmony/"><u>2024 Approved Strategic Blending Elevating Video Sequence Harmony</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-first-to-fourth-a-comprehensive-analysis-of-openais-improved-gpt-versions/"><u>From First to Fourth: A Comprehensive Analysis of OpenAI's Improved GPT Versions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-the-use-of-custom-gifs-in-your-instagram-stories-for-2024/"><u>Mastering the Use of Custom GIFs in Your Instagram Stories for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/preserving-audio-integrity-techniques-for-altering-pitch-in-audacity/"><u>Preserving Audio Integrity Techniques for Altering Pitch in Audacity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-fast-track-to-fixing-iphone-glitches-with-the-apple-support-app-a-comprehensive-guide/"><u>The Fast Track to Fixing iPhone Glitches with the Apple Support App – A Comprehensive Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-affordable-internet-based-auditory-refinement-platforms-ranked-for-2024/"><u>The Ultimate List of Affordable, Internet-Based Auditory Refinement Platforms – Ranked for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmonizing-hues-the-10-best-free-mobile-apps-that-transform-songs-into-vibrant-graphics-for-iphoneandroid/"><u>Updated 2024 Approved Harmonizing Hues The 10 Best Free Mobile Apps That Transform Songs Into Vibrant Graphics for iPhone/Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>Updated 2024 Approved Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-a-curated-list-of-8-exceptional-downloads-realistic-and-authentic-rain-audio-samples/"><u>Updated A Curated List of 8 Exceptional Downloads Realistic and Authentic Rain Audio Samples</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audio-assets-almanac-unveiling-the-best-online-sources-for-video-clip-melodies/"><u>Updated Audio Assets Almanac Unveiling the Best Online Sources for Video Clip Melodies</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-best-10-volume-boosters-for-windows-increase-volume-right-now/"><u>Updated Best 10 Volume Boosters for Windows-Increase Volume Right Now</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-discovering-the-top-six-no-cost-daw-programs-for-novice-producers-for-2024/"><u>Updated Discovering the Top Six No-Cost DAW Programs for Novice Producers for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/wie-ubertrage-ich-iphone-bilder-auf-windows-1011/"><u>Wie Übertrage Ich iPhone-Bilder Auf Windows 10/11?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-redmi-note-13-proplus-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Redmi Note 13 Pro+ 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-lava-yuva-2-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Lava Yuva 2.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-8-best-daw-for-chromebook-to-make-music/"><u>New In 2024, 8 Best DAW for Chromebook to Make Music</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-in-depth-exploration-and-scrutiny-of-the-2023-cambridge-cxu-surround-system/"><u>New In 2024, In-Depth Exploration and Scrutiny of the 2023 Cambridge CXU Surround System</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-best-automatic-transcription-software/"><u>New The Best Automatic Transcription Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-popular-radio-ambiance-for-2024/"><u>New The Ultimate Guide to Popular Radio Ambiance for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-patching-warframe-avoidance-strategies-for-common-update-errors/"><u>Successfully Patching Warframe: Avoidance Strategies for Common Update Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-elevating-your-pcs-performance-in-windows-10-for-epic-gaming-experiences/"><u>Ultimate Strategies: Elevating Your PC's Performance in Windows 10 for Epic Gaming Experiences</u></a></li>
 </ul></div>
 

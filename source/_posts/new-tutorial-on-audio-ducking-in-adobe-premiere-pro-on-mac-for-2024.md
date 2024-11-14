@@ -1,7 +1,7 @@
 ---
 title: New Tutorial on Audio Ducking in Adobe Premiere Pro on Mac for 2024
-date: 2024-09-29T23:05:50.398Z
-updated: 2024-10-01T11:22:14.651Z
+date: 2024-11-11T16:44:50.574Z
+updated: 2024-11-13T18:57:20.539Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,16 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,20 +124,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-elevate-your-visual-narratives-with-mastered-stories-bokeh/"><u>[New] 2024 Approved Elevate Your Visual Narratives with Mastered Stories Bokeh</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/est-alternative-editors-for-youtube-creators-seeking-new-horizons/"><u>[New] Best Alternative Editors for YouTube Creators Seeking New Horizons</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-synthetic-cat-chirp-recording/"><u>2024 Approved Synthetic Cat Chirp Recording</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726026727722-windows-11/"><u>限定的なオーディオ設定でWindows 11スクリーンを効果的に録画するテクニック</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/compact-and-efficient-ourlink-usb-wireless-adapter-model-u631/"><u>Compact & Efficient OURLINK USB Wireless Adapter - Model U631</u></a></li>
-<li><a href="https://win-answers.techidaily.com/demystifying-solutions-for-death-stranding-pc-freezing-dilemmas/"><u>Demystifying Solutions for Death Stranding PC Freezing Dilemmas</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-advice-erasing-phone-data-without-professional-help/"><u>Expert Advice: Erasing Phone Data Without Professional Help</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a05-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy A05 Phone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-exploring-lexis-audio-editor-insights-demos-and-step-by-step-guides/"><u>New 2024 Approved Exploring Lexis Audio Editor Insights, Demos, and Step-by-Step Guides</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-exploring-acoustic-illusions-in-motion-techniques-to-illustrate-sound-tracks-via-animated-waveforms-within-premiere-pro-workflow-for-2024/"><u>New Exploring Acoustic Illusions in Motion Techniques to Illustrate Sound Tracks via Animated Waveforms Within Premiere Pro Workflow for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-harmonious-editing-adding-music-to-media-projects-via-filmora-software-for-2024/"><u>New Harmonious Editing Adding Music to Media Projects via Filmora Software for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-untangling-the-web-of-words-approaches-to-remove-unwanted-auditory-elements-from-video-streaming-for-2024/"><u>New Untangling the Web of Words Approaches to Remove Unwanted Auditory Elements From Video Streaming for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/understanding-the-m4v-format-a-comprehensive-guide-on-how-to-access-and-play-your-videos/"><u>Understanding the M4V Format: A Comprehensive Guide on How to Access and Play Your Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-iconic-public-music-pieces-for-sequential-artworks/"><u>Updated Iconic Public Music Pieces for Sequential Artworks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-guide-to-adding-auto-tuned-magic-in-audacity-for-2024/"><u>Updated The Ultimate Guide to Adding Auto-Tuned Magic in Audacity for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-why-are-my-instagram-videos-playing-sideways-troubleshoot/"><u>[New] In 2024, Why Are My Instagram Videos Playing Sideways? Troubleshoot</u></a></li>
+<li><a href="https://win-news.techidaily.com/complete-step-by-step-tutorial-how-to-transfer-disk-sectors-using-gparted/"><u>Complete Step-by-Step Tutorial: How to Transfer Disk Sectors Using GParted</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-hangouts-demystified-what-was-it-designed-for/"><u>Google Hangouts Demystified: What Was It Designed For?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-guide-to-fb-messenger-call-archiving/"><u>In 2024, The Ultimate Guide to FB Messenger Call Archiving</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/leading-edge-vocal-frequency-separators-for-contemporary-choirs-and-duos/"><u>Leading Edge Vocal Frequency Separators for Contemporary Choirs and Duos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-unlocking-podcast-quality-learn-how-to-craft-a-professional-audio-experience/"><u>New 2024 Approved Unlocking Podcast Quality Learn How to Craft a Professional Audio Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-essential-guide-integrating-audio-with-animated-gifs-on-macos-for-2024/"><u>New Essential Guide Integrating Audio with Animated GIFs on macOS for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-approaches-to-disable-audio-elements-within-a-video/"><u>New In 2024, Approaches to Disable Audio Elements Within a Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-safe-toy-drones-for-2024/"><u>The Ultimate List of Safe Toy Drones for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Distinctive Chinese Mini Computer: Exceptional U Form Factor & Extra External PCIe Interface"
-date: 2024-11-02T17:16:48.914Z
-updated: 2024-11-04T17:26:00.635Z
+date: 2024-11-07T16:02:04.012Z
+updated: 2024-11-13T19:03:03.055Z
 tags:
   - desktop
 categories:
@@ -71,13 +71,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Amazon)
 
  Swipe to scroll horizontally
@@ -108,6 +101,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The card can also do some ray tracing as it averaged 41.7 fps on 1080p ultra with ray tracing enabled. Forget about playing in 2K with ray tracing as that only gave us 25.8 fps.
@@ -115,6 +115,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  For our storage, we're going with the 1TB Silicon Power UD90\. This budget-oriented PCIe 4.0 SSD can't beat the top-of-the-line drives like the Samsung 990 Pro or[WD](https://www.tomshardware.com/tag/western-digital) Black SN850X, but it has really strong performance for the money, promising sequential reads and writes of 4,800 and 4,200 MBps.
 
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -127,10 +134,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Phanteks XT Pro](https://cdn.mos.cms.futurecdn.net/AeCzMV4DUqQFiBnV2hPQuf-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Newegg)
@@ -157,19 +164,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Newegg)
 
  To support our Ryzen 7 57003XD, we're using a Gigabyte B550 UD AC motherboard. This board has built-in Wi-Fi 6 and it also has Q-Flash, which allows you to[update the BIOS](https://www.tomshardware.com/how-to/update-bios-on-a-pc) , before you install the CPU. This may be necessary as the 5700X3D just came out a few months ago.
@@ -181,6 +175,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  For storage, we're stepping up to a faster, higher-capacity SSD: the 2TB version of WD Black SN580\. This PCIe 4.0 drive promises sequential read and write speeds of 4,150 MBps, along with random read / write IOPS of 600K and 750K respectively. It's not the fastest drive on the market, but it gets the job done.
 
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -216,13 +217,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're also upgrading the CPU to[Intel's Core i5-14600KF](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , an overclockable processor that has 6 performance cores, 8 efficiency cores, 20 threads and a boost clock of 5.3 GHz. That's before you attempt to overclock it.
@@ -235,6 +229,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
@@ -242,28 +243,15 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best $2000 PC Build for Gaming
 
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -295,6 +283,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  To cool the CPU, we're using an Iceberg Thermal IceFLOE Oasis 360\. When we[tested the IceFLOE](https://www.tomshardware.com/pc-components/liquid-cooling/iceberg-thermal-icefloe-oasis-360mm-240mm-review) , we were impressed with its low noise output and fantastic cooling output that allowed it to disperse up to 237 watts of heat. It has attractive RGB and you get all of that for a measly $89.
@@ -310,6 +305,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our case is Hyte Y40, which is a great showcase for our components. It has beautiful wraparound glass that extends from the front to the left side. The case is available in three colors but we really like it in red.
 
  To power all these high-end components, we're using a Corsair RM750e PSU which is 80+ Gold certified and fully modular.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best $4000+ PC Build for Gaming
 
@@ -357,25 +359,11 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We decided to go with a case that has a unique, premium look in the[Fractal Design North XL.](https://www.tomshardware.com/pc-components/pc-cases/fractal-design-north-xl-review) With its wood paneled front, this chassis looks more like a mid-century modern piece of furniture than a gaming PC, which is a nice subtle touch. However, it also has a tempered glass side panel which you can use to show off all of your RGB components (or you can buy it with a solid panel and no window). It also has fantastic thermal performance and plenty of room for more drives and fans. The XL model can accommodate up to an E-ATX motherboard, giving you plenty of room for future upgrades.
 
  With these high-end components, we don't want to skimp on the power supply, and having something that's fit for a future graphics card upgrade makes sense. We're going with a full 1000-watts of power and the Corsair HX1000\. This power supply is 80+ Platinum certified and fully modular.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Finding Discounts on the Best PC Components
 
@@ -396,18 +384,20 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-your-gateway-to-innovation-windows-10s-latest-apps-and-games/"><u>[New] 2024 Approved Your Gateway to Innovation Windows 10’S Latest Apps & Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-top-picks-essential-voice-transformers-for-vtuber-success/"><u>[New] Top Picks Essential Voice Transformers for VTuber Success</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capture-video-like-a-pro-on-modern-laptops/"><u>[Updated] 2024 Approved Capture Video Like a Pro on Modern Laptops</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/detailed-overview-of-windows-11-mobile-unveiling-the-specifications-launch-timeline-and-pricing-for-lumia-950-and-950-xl/"><u>Detailed Overview of Windows 11 Mobile: Unveiling the Specifications, Launch Timeline & Pricing for Lumia 950 and 950 XL</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fixing-the-troublesome-yellow-symbol-error-in-my-computers-device-manager/"><u>Fixing the Troublesome Yellow Symbol Error in My Computer's Device Manager</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/hilariously-amusing-shooter-gaming-detailed-reviews-of-plants-vs-zombies-battle-for-neighborville/"><u>Hilariously Amusing Shooter Gaming - Detailed Reviews of 'Plants Vs. Zombies: Battle for Neighborville'</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-logitech-g203-headset-driver-for-windows-7-11-pcs/"><u>How to Get the Latest Logitech G203 Headset Driver for Windows 7-11 PCs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c65-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco C65 Phone without PIN</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-deadly-glitches-solving-ghostrunner-problems-on-windows-11/"><u>Overcoming Deadly Glitches: Solving Ghostrunner Problems on Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-build-for-gamers-and-professionals-beelinks-meteor-lake-gti14-with-powerful-pcie-x8-and-integrated-psu/"><u>The Ultimate Build for Gamers & Professionals: Beelink's Meteor Lake GTi14 with Powerful PCIe X8 and Integrated PSU</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-essential-list-top-8-android-daws-revolutionizing-music/"><u>Updated In 2024, The Essential List Top 8 Android DAWs Revolutionizing Music</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-tapping-into-tempo-step-by-step-approach-to-isolate-musics-heartbeat/"><u>Updated Tapping Into Tempo Step-by-Step Approach to Isolate Musics Heartbeat</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-premier-list-smartphone-applications-that-revolutionize-vocal-identity/"><u>Updated The Premier List Smartphone Applications That Revolutionize Vocal Identity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-guide-to-youtube-thumbnails/"><u>[New] 2024 Approved The Ultimate Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-upgrade-your-media-skills-windows-xp-edition/"><u>[New] Upgrade Your Media Skills Windows XP Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>[Updated] A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-designs-using-color-principles-wisely/"><u>[Updated] Harmonizing Designs Using Color Principles Wisely</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/adding-mp4-videos-to-itunes-easy-troubleshooting-guide-for-smooth-playback/"><u>Adding MP4 Videos to iTunes: Easy Troubleshooting Guide for Smooth Playback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-how-to-get-back-deleted-sms-across-all-phones/"><u>Expert Advice: How to Get Back Deleted SMS Across All Phones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-graphics-boost-download-nvidias-rtx/"><u>Get the Latest Graphics Boost: Download NVIDIA's RTX</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-maintenance-made-simple-how-to-swap-out-an-old-battery-correctly/"><u>IPad Maintenance Made Simple: How to Swap Out an Old Battery Correctly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-the-art-of-photo-border-elimination/"><u>Mastering the Art of Photo Border Elimination</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-to-dub-a-video-video-dubbing/"><u>Updated 2024 Approved How to Dub a Video Video Dubbing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-social-sphere-selecting-the-best-marketing-focused-podcasts-for-todays-businesses/"><u>Updated 2024 Approved The Social Sphere Selecting the Best Marketing-Focused Podcasts for Todays Businesses</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-approaches-to-isolate-and-omit-audio-from-video-content-for-2024/"><u>Updated Approaches to Isolate and Omit Audio From Video Content for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-behind-the-scenes-sound-management-expert-insights-into-using-ducking-effects-for-2024/"><u>Updated Behind-the-Scenes Sound Management Expert Insights Into Using Ducking Effects for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-cutting-edge-audio-tricks-for-a-polished-imovie-experience-for-2024/"><u>Updated Cutting-Edge Audio Tricks for a Polished iMovie Experience for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-creative-freedom-at-no-cost-top-free-audio-engineering-tools-of-the-year/"><u>Updated In 2024, Creative Freedom at No Cost Top Free Audio Engineering Tools of the Year</u></a></li>
 </ul></div>
 

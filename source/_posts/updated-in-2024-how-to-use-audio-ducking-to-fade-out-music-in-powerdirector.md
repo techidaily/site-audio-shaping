@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2024-10-30T16:21:08.106Z
-updated: 2024-11-04T16:41:15.084Z
+date: 2024-11-06T17:11:45.624Z
+updated: 2024-11-13T16:01:34.682Z
 tags: 
   - audio editing software
   - audio editing
@@ -52,13 +52,6 @@ Doing so will automatically add the keyframes into the background music you’ve
 
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
 
 If you’re looking for easiness, you must consider the following section for a suitable alternative!
@@ -74,6 +67,13 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
 
@@ -98,16 +98,10 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,19 +112,19 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -148,20 +142,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-elite-setup-pieces-for-uninterrupted-streaming/"><u>[New] Elite Setup Pieces for Uninterrupted Streaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-easy-streaming-managing-and-publishing-videos-for-2024/"><u>[Updated] Easy Streaming, Managing, and Publishing Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-isyncslideshow-integrate-ios-plus-sierra-images/"><u>[Updated] ISyncSlideshow Integrate iOS + Sierra Images</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-7-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 7 Plus How to Bypass?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-ace-2-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your OnePlus Ace 2 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-moto-g04-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Moto G04?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-radiant-skin-without-plugins-fcpx-editing-hacks/"><u>New In 2024, Get Radiant Skin without Plugins FCPX Editing Hacks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-tutorial-on-audio-ducking-in-adobe-premiere-pro-on-mac-for-2024/"><u>New Tutorial on Audio Ducking in Adobe Premiere Pro on Mac for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-unveiling-song-strings-top-10-approaches-to-eradicating-melodic-voices-in-recordings-for-2024/"><u>New Unveiling Song Strings Top 10 Approaches to Eradicating Melodic Voices in Recordings for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-complete-guide-to-audio-manipulation-in-avidemux-for-2024/"><u>The Complete Guide to Audio Manipulation in Avidemux for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-techniques-for-quieting-the-soundscape-in-recorded-movies/"><u>Updated 2024 Approved Techniques for Quieting the Soundscape in Recorded Movies</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-echoes-and-rhythms-discovering-the-top-radio-sounds/"><u>Updated Echoes and Rhythms Discovering the Top Radio Sounds</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-exploring-the-best-a-ranked-list-of-10-podcast-transcription-software-options-for-2024/"><u>Updated Exploring the Best A Ranked List of 10 Podcast Transcription Software Options for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-aiff-to-mp3-an-experts-methodology-for-audio-conversion/"><u>Updated In 2024, AIFF to MP3 An Experts Methodology for Audio Conversion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-excellent-multimedia-collaboration-apps/"><u>[New] 2024 Approved Excellent Multimedia Collaboration Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-strategic-endings-keeping-viewers-engaged-on-yt/"><u>[New] In 2024, Strategic Endings Keeping Viewers Engaged on YT</u></a></li>
+<li><a href="https://fox-within.techidaily.com/download-adult-films-from-bdsmstreak-with-bdsmstreak-downloader/"><u>Download Adult Films From BDSMSTREAK with BDSMSTREAK Downloader</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-disable-built-in-dell-restore-feature-steps-and-effective-backup-methods-as-an-alternative/"><u>How to Disable Built-In Dell Restore Feature: Steps and Effective Backup Methods as an Alternative</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-beyond-vlc-a-deep-dive-into-media-players/"><u>In 2024, Beyond VLC A Deep Dive Into Media Players</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians/"><u>In 2024, Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-video-recorder-disentangler/"><u>In 2024, Video Recorder Disentangler</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-pathway-to-pristine-recordings-removing-unwanted-noises-for-crystal-clear-sound/"><u>New 2024 Approved The Pathway to Pristine Recordings Removing Unwanted Noises for Crystal-Clear Sound</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-achieve-deeper-sound-from-your-windows-system-three-easy-and-free-audio-enhancement-tricks-for-2024/"><u>New Achieve Deeper Sound From Your Windows System – Three Easy and Free Audio Enhancement Tricks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-guideline-for-beginners-about-lexis-audio-editor/"><u>New Guideline for Beginners About Lexis Audio Editor</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-increase-volume-of-the-media-files-for-2024/"><u>New How to Increase Volume of the Media Files for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-perfect-your-sound-mix-expert-strategies-for-utilizing-audio-ducking-in-adobe-premiere-pro-macos-edition-for-2024/"><u>New Perfect Your Sound Mix Expert Strategies for Utilizing Audio Ducking in Adobe Premiere Pro (macOS Edition) for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-skypepersona-transforming-your-digital-presence-with-customized-vocal-features/"><u>New SkypePersona Transforming Your Digital Presence with Customized Vocal Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-cache-mismatch-effective-solutions-for-errcachemiss-error-in-chrome/"><u>Overcoming the Cache Mismatch: Effective Solutions for ERR_CACHE_MISS Error in Chrome</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-vivacut-video-editing-complete-guide-for-24-for-2024/"><u>Step-by-Step VivaCut Video Editing Complete Guide for '24 for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Lower Volume of the Media Files
-date: 2024-10-15T22:43:37.107Z
-updated: 2024-10-18T09:25:56.136Z
+date: 2024-11-08T16:53:22.768Z
+updated: 2024-11-13T19:22:20.346Z
 tags: 
   - audio editing software
   - audio editing
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 ## Lower Volume of the Media Files Step by Step Guide
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1 Add media files you want to lower volume
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2 Lower volume of the media files
 
@@ -61,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
@@ -89,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -105,17 +105,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-enabling-windows-11-dynamic-hdr-capability/"><u>[New] Enabling Windows 11 Dynamic HDR Capability</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-ideas-to-boost-the-impact-of-fb-video-campaigns/"><u>[New] Ideas to Boost the Impact of FB Video Campaigns</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-differences-between-igtv-and-youtube-for-effective-posts/"><u>[New] In 2024, Exploring Differences Between IGTV and YouTube for Effective Posts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/implified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices-for-2024/"><u>[New] Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audio-visual-harmony-merging-films-and-recordings-in-the-digital-age/"><u>Audio-Visual Harmony Merging Films and Recordings in the Digital Age</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-upgrade-your-geforce-gtx-1660-super-graphics-card-drivers/"><u>Download and Upgrade Your GeForce GTX 1660 Super Graphics Card Drivers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-sound-engineering-essentials-perfecting-the-gradual-volume-change/"><u>New Sound Engineering Essentials Perfecting the Gradual Volume Change</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/perfecting-audio-precision-key-eq-settings-explored-for-2024/"><u>Perfecting Audio Precision Key EQ Settings Explored for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-minimizing-disruptions-in-windows-updates/"><u>The Art of Minimizing Disruptions in Windows Updates</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-clean-audio-tactics-to-eradicate-background-noise/"><u>Updated In 2024, Mastering Clean Audio Tactics to Eradicate Background Noise</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>Updated Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-itel-s23plus-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel S23+ Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-fast-forward-altering-instagram-stories-tempo/"><u>2024 Approved Fast-Forward Altering Instagram Stories' Tempo</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-huawei-nova-y71-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Huawei Nova Y71 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-free-webcam-driver-downloads-from-logitech-for-windows-computers/"><u>Best Free Webcam Driver Downloads From Logitech for Windows Computers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-fixes-for-when-fortnite-wont-load-easy-strategies-inside/"><u>Instant Fixes for When Fortnite Won’t Load - Easy Strategies Inside!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-superior-audio-format-changer-instant-mp3-creation-with-zero-hassle/"><u>New 2024 Approved Superior Audio Format Changer Instant MP3 Creation with Zero Hassle</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-methodologies-for-detaching-audio-elements-from-new-mkv-file-types/"><u>New Methodologies for Detaching Audio Elements From New MKV File Types</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-primetag-suite-for-streamlined-mp3-management-on-windows-and-mac/"><u>New PrimeTag Suite for Streamlined MP3 Management on Windows and Mac</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer-for-2024/"><u>New Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ins-and-outs-of-anime-localization-from-translation-to-sound-design/"><u>New The Ins and Outs of Anime Localization From Translation to Sound Design</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ly-expand-your-youtube-following-for-minimal-cost/"><u>Swiftly Expand Your YouTube Following for Minimal Cost</u></a></li>
 </ul></div>
 
