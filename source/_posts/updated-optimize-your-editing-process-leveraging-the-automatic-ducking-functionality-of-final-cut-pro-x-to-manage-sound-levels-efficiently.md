@@ -1,7 +1,7 @@
 ---
 title: Updated Optimize Your Editing Process Leveraging the Automatic Ducking Functionality of Final Cut Pro X to Manage Sound Levels Efficiently
-date: 2024-11-09T19:21:30.079Z
-updated: 2024-11-13T16:29:39.477Z
+date: 2024-11-12T16:20:22.611Z
+updated: 2024-11-13T23:30:16.524Z
 tags: 
   - audio editing software
   - audio editing
@@ -93,16 +93,10 @@ Once your video is imported, you can drag it to the timeline at the bottom to wo
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
@@ -116,10 +110,10 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
@@ -127,10 +121,10 @@ Afterward, right-click the audio track and select the “Adjust Audio” option 
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
@@ -143,16 +137,16 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 
 ![Filmora Export](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -169,21 +163,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-strategies-to-quicken-vimeo-videos/"><u>[New] 2024 Approved Strategies to Quicken Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tag-tactics-amplifying-your-gaming-content-online/"><u>[Updated] Tag Tactics Amplifying Your Gaming Content Online</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/10-best-sites-to-download-bgm-music-for-2024/"><u>10 Best Sites to Download BGM Music for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-the-power-of-instream-ads-detailed-guidelines-on-setup-and-evaluation-in-fb/"><u>2024 Approved Unlock the Power of Instream Ads Detailed Guidelines on Setup & Evaluation in FB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-addressing-challenges-encountered-in-pci-cipher-suite-management-drivers/"><u>Guide to Addressing Challenges Encountered in PCI Cipher Suite Management Drivers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-engage-fully-with-podcasts-15-essential-tasks/"><u>In 2024, Engage Fully with Podcasts 15 Essential Tasks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-seamless-setup-of-ifunny-meme-toolkit/"><u>In 2024, How-To Seamless Setup of iFunny Meme Toolkit</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-procuring-growls-and-whispers-audio-packages/"><u>New 2024 Approved Procuring Growls and Whispers Audio Packages</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-premier-selection-of-cost-free-online-daw-software-users/"><u>New 2024 Approved The Premier Selection of Cost-Free Online DAW Software Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-audio-file-transformation-mp3-to-mp4-format-conversion-explained/"><u>New In 2024, Audio File Transformation MP3 to MP4 Format Conversion Explained</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-navigating-the-world-of-amr-wmas-an-in-depth-guide-to-file-conversion-techniques-2023/"><u>New In 2024, Navigating the World of AMR WMAs An In-Depth Guide to File Conversion Techniques 2023</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-techniques-for-reducing-room-acoustics-on-taped-music/"><u>New Techniques for Reducing Room Acoustics on Taped Music</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-sound-engineers-toolkit-removing-high-pitched-rattling-from-audio-files-for-2024/"><u>New The Sound Engineers Toolkit Removing High-Pitched Rattling From Audio Files for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/tecnicas-faciles-de-rotacion-en-videos-mp4-a-angulos-rectos-sin-reducir-la-calidad-visual-guia-detallada-para-90-180-y-270-grados/"><u>Técnicas Fáciles De Rotación en Videos MP4 a Ángulos Rectos Sin Reducir La Calidad Visual - Guía Detallada Para 90, 180 Y 270 Grados</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a24-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A24</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-webcam-tech-unveiled-best-recording-practices-for-2024/"><u>[New] WebCam Tech Unveiled Best Recording Practices for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-influence-without-compromise/"><u>[Updated] 2024 Approved Instagram Influence Without Compromise</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-easycast-essential-steps-for-beginner-podcast-streamers/"><u>2024 Approved EasyCast Essential Steps for Beginner Podcast Streamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-rescue-a-stuck-macbook-air-from-its-frozen-state-a-step-by-step-guide/"><u>How to Rescue a Stuck MacBook Air From Its Frozen State: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-radiance-reimagined-top-video-tools-list/"><u>In 2024, Radiance Reimagined Top Video Tools List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/precision-and-power-a-filmmakers-guide-to-professional-voice-over-techniques/"><u>Precision and Power A Filmmaker's Guide to Professional Voice-Over Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-new-iphone-16-the-smart-way-expert-tips-on-choosing-the-right-case-even-if-youve-never-used-one-advice-series/"><u>Protect Your New iPhone 16 the Smart Way: Expert Tips on Choosing the Right Case - Even If You've Never Used One Advice Series</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2023s-top-methods-for-harmonizing-audio-levels-a-trifecta-of-speed-and-efficiency-for-2024/"><u>Updated 2023S Top Methods for Harmonizing Audio Levels A Trifecta of Speed and Efficiency for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-curated-selection-of-platforms-offering-no-cost-ending-music-pieces-no-intellectual-property-rights/"><u>Updated 2024 Approved Curated Selection of Platforms Offering No-Cost Ending Music Pieces No Intellectual Property Rights</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-list-of-8-powerful-daw-options-revolutionize-your-music-production-process/"><u>Updated 2024 Approved The Ultimate List of 8 Powerful DAW Options Revolutionize Your Music Production Process</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elevating-your-viewing-experience-2023-guide-to-audio-volume-adjustment-in-videos-for-2024/"><u>Updated Elevating Your Viewing Experience 2023 Guide to Audio Volume Adjustment in Videos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-essential-no-cost-android-microphone-recorders-reviewed-for-2024/"><u>Updated Essential No-Cost Android Microphone Recorders Reviewed for 2024</u></a></li>
 </ul></div>
 

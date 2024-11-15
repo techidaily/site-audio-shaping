@@ -1,7 +1,7 @@
 ---
 title: New Tutorial on Audio Ducking in Adobe Premiere Pro on Mac for 2024
-date: 2024-11-11T16:44:50.574Z
-updated: 2024-11-13T18:57:20.539Z
+date: 2024-11-10T03:54:36.678Z
+updated: 2024-11-14T07:44:24.924Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,14 +124,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-why-are-my-instagram-videos-playing-sideways-troubleshoot/"><u>[New] In 2024, Why Are My Instagram Videos Playing Sideways? Troubleshoot</u></a></li>
-<li><a href="https://win-news.techidaily.com/complete-step-by-step-tutorial-how-to-transfer-disk-sectors-using-gparted/"><u>Complete Step-by-Step Tutorial: How to Transfer Disk Sectors Using GParted</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/google-hangouts-demystified-what-was-it-designed-for/"><u>Google Hangouts Demystified: What Was It Designed For?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-guide-to-fb-messenger-call-archiving/"><u>In 2024, The Ultimate Guide to FB Messenger Call Archiving</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/leading-edge-vocal-frequency-separators-for-contemporary-choirs-and-duos/"><u>Leading Edge Vocal Frequency Separators for Contemporary Choirs and Duos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-unlocking-podcast-quality-learn-how-to-craft-a-professional-audio-experience/"><u>New 2024 Approved Unlocking Podcast Quality Learn How to Craft a Professional Audio Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-essential-guide-integrating-audio-with-animated-gifs-on-macos-for-2024/"><u>New Essential Guide Integrating Audio with Animated GIFs on macOS for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-approaches-to-disable-audio-elements-within-a-video/"><u>New In 2024, Approaches to Disable Audio Elements Within a Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-safe-toy-drones-for-2024/"><u>The Ultimate List of Safe Toy Drones for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-efficiently-archive-your-content-vimeo-record-basics/"><u>[New] In 2024, Efficiently Archive Your Content Vimeo Record Basics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-content-creation-in-todays-revenue-landscape/"><u>[Updated] 2024 Approved Content Creation in Today’s Revenue Landscape</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-stealthy-surveillance-erasing-sensitive-elements-from-footage/"><u>[Updated] Stealthy Surveillance Erasing Sensitive Elements From Footage</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-echoes-to-silence-advanced-noise-reduction-tactics-using-audacity/"><u>2024 Approved Echoes to Silence Advanced Noise Reduction Tactics Using Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-these-best-5-iphone-podcast-platforms-now/"><u>2024 Approved Explore These Best 5 iPhone Podcast Platforms Now</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-top-6-best-free-online-audio-editor-to-use-100-free/"><u>2024 Approved Top 6 Best Free Online Audio Editor to Use (100 Free)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-fixes-for-when-your-system-cant-find-normalizdll/"><u>Effective Fixes for When Your System Can't Find Normaliz.dll</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-12-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 12 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-uncover-the-secrets-to-quieting-tiktoks-background-noise-simple-tricks-revealed/"><u>New In 2024, Uncover the Secrets to Quieting TikToks Background Noise Simple Tricks Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-to-top-8-fb-movies-to-download/"><u>The Ultimate Guide to Top 8 FB Movies to Download</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-elimination-mastery-a-step-by-step-guide-on-trimming-sounds-from-apple-videos/"><u>Updated In 2024, Audio Elimination Mastery A Step-by-Step Guide on Trimming Sounds From Apple Videos</u></a></li>
 </ul></div>
 

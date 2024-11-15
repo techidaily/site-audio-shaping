@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-11-08T17:40:18.713Z
-updated: 2024-11-13T17:21:35.895Z
+date: 2024-11-06T22:16:36.591Z
+updated: 2024-11-14T05:56:06.569Z
 tags:
   - desktop
 categories:
@@ -72,29 +72,26 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlocking-the-secrets-of-irecorder/"><u>[New] 2024 Approved Unlocking the Secrets of iRecorder</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools/"><u>[Updated] 2024 Approved Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-concept-to-completion-an-instagram-video-strategy-manual/"><u>[Updated] From Concept to Completion An Instagram Video Strategy Manual</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-3dr-solo-unveiling-the-single-user-experience/"><u>[Updated] In 2024, '3DR Solo' Unveiling the Single User Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-itel-s23plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Itel S23+</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/not-found-alert-handling-http-404-mistakes/"><u>Not Found Alert: Handling HTTP 404 Mistakes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-random-shortcut-activation-in-windows/"><u>Overcoming Random Shortcut Activation in Windows</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/steering-abbyy-forward-with-expertise-meet-anubhav-saxena-key-figure-in-our-leadership-ensemble/"><u>Steering ABBYY Forward with Expertise - Meet Anubhav Saxena, Key Figure in Our Leadership Ensemble</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/top-mobile-playlists-discovering-the-ultimate-melodies-for-your-android-device-for-2024/"><u>Top Mobile Playlists Discovering the Ultimate Melodies for Your Android Device for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-exploring-the-best-macdaws-an-extensive-review-of-the-top-8-software/"><u>Updated 2024 Approved Exploring the Best MacDAWs An Extensive Review of the Top 8 Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-step-by-step-on-incorporating-sound-into-videos-using-magix/"><u>Updated 2024 Approved The Ultimate Step-by-Step on Incorporating Sound Into Videos Using Magix</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-applications-for-adding-audio-to-video-in-android/"><u>Updated Applications for Adding Audio to Video in Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-canticle-cleanse-software-generate-artisanal-harmony-tracks-for-2024/"><u>Updated Canticle Cleanse Software Generate Artisanal Harmony Tracks for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-add-audio-to-mp4-mpeg-mpg-video/"><u>Updated How to Add Audio to MP4 (MPEG, MPG) Video</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-syncing-simplified-2023s-innovative-methods-for-perfectly-timed-video-content/"><u>Updated In 2024, Audio Syncing Simplified 2023S Innovative Methods for Perfectly Timed Video Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10-best-youtube-music-reaction-video-and-how-to-make-one/"><u>[Updated] 2024 Approved 10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-navigating-the-transition-from-tiktok-to-twitter-sharing/"><u>[Updated] In 2024, Navigating the Transition From TikTok to Twitter Sharing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>2024 Approved Record-Setting Stories A List of the Most Popular Reddit Threads</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-synthetic-cat-chirp-recording/"><u>2024 Approved Synthetic Cat Chirp Recording</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-windows-10-sound-fusion-a-guide-to-the-top-mixers/"><u>In 2024, Windows 10 Sound Fusion A Guide to the Top Mixers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96393656-9781620558058-instructions-for-spiritual-living-3rd-ed/"><u>Instructions for Spiritual Living (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netgear-secure-start-essential-default-credentials-for-all-your-devices-released-in-july-2024/"><u>NETGEAR Secure Start: Essential Default Credentials for All Your Devices, Released in July 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-accessibility-adding-subtitles-and-captions-in-final-cut-pro-x/"><u>New 2024 Approved Unlock Accessibility Adding Subtitles and Captions in Final Cut Pro X</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-untangling-the-web-of-words-approaches-to-remove-unwanted-auditory-elements-from-video-streaming-for-2024/"><u>New Untangling the Web of Words Approaches to Remove Unwanted Auditory Elements From Video Streaming for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-a15-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy A15 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-premium-sounds-use-no-cost-music-library-for-video-production/"><u>Unlock Premium Sounds: Use No-Cost Music Library for Video Production</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-iconic-public-music-pieces-for-sequential-artworks/"><u>Updated Iconic Public Music Pieces for Sequential Artworks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-guide-to-adding-auto-tuned-magic-in-audacity-for-2024/"><u>Updated The Ultimate Guide to Adding Auto-Tuned Magic in Audacity for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-easier-optimize-hp-graphics-performance/"><u>Win7 Easier: Optimize HP Graphics Performance</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

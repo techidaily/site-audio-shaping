@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Techniques for Reducing Digital Audio File Sizes
-date: 2024-11-11T16:36:17.280Z
-updated: 2024-11-13T18:53:52.423Z
+date: 2024-11-06T22:01:54.664Z
+updated: 2024-11-14T08:01:32.471Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,18 +32,18 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ## Lower Volume of the Media Files Step by Step Guide
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1 Add media files you want to lower volume
 
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2 Lower volume of the media files
 
@@ -53,18 +53,18 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3 Save the files
 
  Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
 
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
 
@@ -75,19 +75,19 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -105,20 +105,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discover-the-10-best-cookie-places-in-town-with-unbeatable-taste/"><u>[New] In 2024, Discover the 10 Best Cookie Places in Town with Unbeatable Taste</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-your-freedom-awaits-explore-these-top-6-youtube-shortdowners/"><u>2024 Approved Your Freedom Awaits Explore These Top 6 YouTube Shortdowners</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-crafting-new-dimensions-a-look-at-mixed-reality/"><u>In 2024, Crafting New Dimensions A Look at Mixed Reality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-iphone-6s-plus-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile iPhone 6s Plus online without SIM Card?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-multi-platform-speech-to-mp3-technology-for-everyday-use/"><u>In 2024, Multi-Platform Speech-to-MP3 Technology for Everyday Use</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-strategic-use-of-twitters-wayback-machine-features/"><u>In 2024, Strategic Use of Twitter's Wayback Machine Features</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-mini-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 mini Without Passcode Easily</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-10-best-podcast-hosting-platforms/"><u>New 10 Best Podcast Hosting Platforms</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-comprehensive-guide-advanced-avs-sound-editing-tools-and-comparative-analysis/"><u>New 2024 Approved Comprehensive Guide Advanced AVS Sound Editing Tools and Comparative Analysis</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-from-raw-tape-to-polished-production-advanced-techniques-using-sony-vegas-pro/"><u>New 2024 Approved From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-essential-collection-selecting-from-6-superior-automatic-transcribers/"><u>New In 2024, The Essential Collection Selecting From 6 Superior Automatic Transcribers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-speech-to-mp3-conversion-tool-windows-mac-android-and-ios-compatibility/"><u>New Speech-to-MP3 Conversion Tool Windows, Mac, Android & iOS Compatibility</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionizing-security-strategies-in-contemporary-large-scale-network-designs-techrepublic/"><u>Revolutionizing Security Strategies in Contemporary Large-Scale Network Designs | TechRepublic</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-exodus-of-followers-instagrams-new-map-for-2024/"><u>The Exodus of Followers Instagram's New Map for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-s-best-video-editing-software-for-hd-videos-for-2024/"><u>Updated S Best Video Editing Software for HD Videos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-create-a-lifestyle-video-to-inspire-your-audience/"><u>[Updated] 2024 Approved How to Create a Lifestyle Video to Inspire Your Audience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ios-the-ultimate-list-of-ps2-emulators/"><u>[Updated] 2024 Approved IOS The Ultimate List of PS2 Emulators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-spark-joy-with-these-14-playful-text-animations/"><u>[Updated] Spark Joy with These 14 Playful Text Animations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-electronics-through-toms-hardware-lens/"><u>Exploring Electronics Through Tom’s Hardware Lens</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-driver-updates-for-your-msi-b350-motherboard-optimize-on-windows-11-and-7/"><u>Get the Newest Driver Updates for Your MSI B350 Motherboard: Optimize on Windows 11 & 7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-adobe-cloud-essentials-and-top-alternatives-for-2024/"><u>Mastering Adobe Cloud Essentials & Top Alternatives for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/rmvb-file-conversion-a-comprehensive-guide-to-uploading-and-transforming-without-cost-movavis-method/"><u>RMVB File Conversion: A Comprehensive Guide to Uploading and Transforming Without Cost - Movavi's Method</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-strategies-for-high-quality-pitch-transformation-within-audacity/"><u>Updated In 2024, Strategies for High-Quality Pitch Transformation Within Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-synergy-of-sound-the-8-premier-soundscape-titles-for-new-video-entrants/"><u>Updated In 2024, Synergy of Sound The 8 Premier Soundscape Titles for New Video Entrants</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-guide-to-converting-mp4-to-mp3-best-converters/"><u>Updated In 2024, The Ultimate Guide to Converting MP4 to MP3 Best Converters</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/xbox-one-x-reigning-supreme-in-todays-video-game-arena/"><u>Xbox One X - Reigning Supreme in Today's Video Game Arena</u></a></li>
 </ul></div>
 

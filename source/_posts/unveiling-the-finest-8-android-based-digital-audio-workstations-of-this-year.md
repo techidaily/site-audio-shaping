@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Finest 8 Android-Based Digital Audio Workstations of This Year
-date: 2024-11-12T19:43:28.890Z
-updated: 2024-11-13T16:48:55.960Z
+date: 2024-11-07T22:30:25.500Z
+updated: 2024-11-13T21:50:12.074Z
 tags: 
   - audio editing software
   - audio editing
@@ -49,17 +49,10 @@ Among the category of best DAW for Android, FL Studio Mobile is one of them. For
 ![FL Studio Mobile](https://images.wondershare.com/filmora/filmorapro/fl-studio-mobile.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. [Metronome Beats](https://play.google.com/store/apps/details?id=com.andymstone.metronome&hl=en%5FUS)
@@ -79,10 +72,17 @@ Want to enjoy a music-making experience using a portable app? For this purpose, 
 ![n-Track Studio](https://images.wondershare.com/filmora/filmorapro/n-track-studio.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. [Caustic 3](https://play.google.com/store/apps/details?id=com.singlecellsoftware.caustic)
@@ -92,6 +92,13 @@ Want to enjoy a music-making experience using a portable app? For this purpose, 
 If you’re searching for music-creation apps, then Caustic three is available in a free version to serve you with the best experience. With the exciting song sequence feature, it becomes a popular app among all. For the effects rack feature, it supports two effects per machine. In the master section, you get limiter and parametric EQ features. It comes with a mixer desk supporting reverb or global delay effects. For most of the controls, this app supports an automation feature. It comes with powerful music track editors to modify recorded curves.
 
 ![Caustic](https://images.wondershare.com/filmora/filmorapro/caustic.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. [FM Synthesizer](https://play.google.com/store/apps/details?id=com.synprez.fm)
 
@@ -109,6 +116,60 @@ If you’re looking for a powerful multitrack app to record audio or MIDI, this 
 
 ![Audio Evolution Mobile Studio](https://images.wondershare.com/filmora/filmorapro/audio-evolution-mobile-studio.JPG)
 
+### 7\. [KORG Kaossilator for Android](https://play.google.com/store/apps/details?id=jp.co.korg.kaossilator.android&hl=en%5FUS)
+
+**Price**: 18.53 USD
+
+All Android users can enjoy the best music-making experience using this synthesizer app. If you want to enjoy instrumental music performance, you can use this app. With just a single click, you get hands over an exciting range of audio sounds, including drums, electronic sounds, acoustic instruments, and so on. For ensuring ease in tracking or live concerts, it comes with a loop sequencer. If you want to remove the wrong notes, do it with the help of scale and key features available in this app. To use this application, you need an Android 5.0 or later version.
+
+![KORG Kaossilator for Android](https://images.wondershare.com/filmora/filmorapro/korg-kaossilator.JPG)
+
+### 8\. [Saucillator](https://play.google.com/store/apps/details?id=com.mattfeury.saucillator.android&hl=en%5FUS)
+
+**Price**: Free
+
+If you want to switch your Android device into a synthesizer platform, then Saucillator is available as the best free DAW Android app. For manipulating effects or oscillators, you can do it using the touchscreen feature. Want to know what's more in the app? For the music-makers, you get an option for recording and live-looping. Sounds exciting? Not only this, some other thrilling features include grid size control, SD card recording, toggle visualization, scale selection, and so on.
+
+![Saucillator](https://images.wondershare.com/filmora/filmorapro/saucillator.JPG)
+
+## FAQ About Best DAW for Android
+
+### 1\. What DAW does Kanye use?
+
+Willing to know the DAW which Kanye West uses to produce beats? It's not something that can't be figured out. Often, he relies on samples to add in his beats. For this purpose, it is assumed that he uses some drum machines. Kanye uses a lot of drum machines for his music. One of the frequent ones is Akai MPC 2000\. For his music beats, he uses pro tools for synths and drums. After this, he imports all of them into a single DAW to master, mix, or arrange the beats.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. What is the best music production app for Android?
+
+If you want to select the best app for music production on Android, you need to find the DAW, which is most comfortable for you. Check whether you're comfortable with the DAW workflow or not. Some of the best DAWs for Android users are mentioned above in the article.
+
+For the best music-making app, you can consider taking a free version and knowing about the app. Herein, you can look at some application available for free. You can even look for the best applications for a pleasant music-making experience by selecting the app based on your genre requirement.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3\. What is the best free DAW for Android?
+
+The answer to this question depends upon the user requirement. If someone wants any specific feature in the app, he or she can check the above-discussed free options. For instance, all the live-looping requirements can be covered by using the Saucillator application. Or, if you want a MIDI interface supporter, then Audio Evolution Mobile Studio is a suitable app.
+
+Seeing the diverse range of requirements for musicians, there exist ample options for using the free DAW apps available for Android users. For the analog-style pad requirement, one can select the FM synthesizer. If you want a speed trainer or visual beat indicator feature, then Metronome Beats is a perfect application.
+
 <!-- affiliate ads begin -->
 <span id="2127886">
 					<video width="576" height="1024" style="cursor:pointer"
@@ -122,73 +183,18 @@ If you’re looking for a powerful multitrack app to record audio or MIDI, this 
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-### 7\. [KORG Kaossilator for Android](https://play.google.com/store/apps/details?id=jp.co.korg.kaossilator.android&hl=en%5FUS)
-
-**Price**: 18.53 USD
-
-All Android users can enjoy the best music-making experience using this synthesizer app. If you want to enjoy instrumental music performance, you can use this app. With just a single click, you get hands over an exciting range of audio sounds, including drums, electronic sounds, acoustic instruments, and so on. For ensuring ease in tracking or live concerts, it comes with a loop sequencer. If you want to remove the wrong notes, do it with the help of scale and key features available in this app. To use this application, you need an Android 5.0 or later version.
-
-![KORG Kaossilator for Android](https://images.wondershare.com/filmora/filmorapro/korg-kaossilator.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 8\. [Saucillator](https://play.google.com/store/apps/details?id=com.mattfeury.saucillator.android&hl=en%5FUS)
-
-**Price**: Free
-
-If you want to switch your Android device into a synthesizer platform, then Saucillator is available as the best free DAW Android app. For manipulating effects or oscillators, you can do it using the touchscreen feature. Want to know what's more in the app? For the music-makers, you get an option for recording and live-looping. Sounds exciting? Not only this, some other thrilling features include grid size control, SD card recording, toggle visualization, scale selection, and so on.
-
-![Saucillator](https://images.wondershare.com/filmora/filmorapro/saucillator.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## FAQ About Best DAW for Android
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 1\. What DAW does Kanye use?
-
-Willing to know the DAW which Kanye West uses to produce beats? It's not something that can't be figured out. Often, he relies on samples to add in his beats. For this purpose, it is assumed that he uses some drum machines. Kanye uses a lot of drum machines for his music. One of the frequent ones is Akai MPC 2000\. For his music beats, he uses pro tools for synths and drums. After this, he imports all of them into a single DAW to master, mix, or arrange the beats.
-
-### 2\. What is the best music production app for Android?
-
-If you want to select the best app for music production on Android, you need to find the DAW, which is most comfortable for you. Check whether you're comfortable with the DAW workflow or not. Some of the best DAWs for Android users are mentioned above in the article.
-
-For the best music-making app, you can consider taking a free version and knowing about the app. Herein, you can look at some application available for free. You can even look for the best applications for a pleasant music-making experience by selecting the app based on your genre requirement.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 3\. What is the best free DAW for Android?
-
-The answer to this question depends upon the user requirement. If someone wants any specific feature in the app, he or she can check the above-discussed free options. For instance, all the live-looping requirements can be covered by using the Saucillator application. Or, if you want a MIDI interface supporter, then Audio Evolution Mobile Studio is a suitable app.
-
-Seeing the diverse range of requirements for musicians, there exist ample options for using the free DAW apps available for Android users. For the analog-style pad requirement, one can select the FM synthesizer. If you want a speed trainer or visual beat indicator feature, then Metronome Beats is a perfect application.
-
 ## Conclusion
 
 Before leaving, it is a must for an Android user to understand what DAW features are in your requirement list. After reading the above description about some best DAW for Android users, you can get an idea to find the DAW partner for you. Genuinely speaking, all the above-discussed apps are available with the best features and high-class functionality. So, you can choose from them easily!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -207,21 +213,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-efficiently-transforming-tiktok-videos-into-gif-format/"><u>[Updated] 2024 Approved Efficiently Transforming TikTok Videos Into GIF Format</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-boost-creativity-how-to-use-movie-maker-on-windows-8/"><u>[Updated] In 2024, Boost Creativity How to Use Movie Maker on Windows 8</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-rated-sony-a7s-ii-memory-accessory/"><u>[Updated] In 2024, Top-Rated Sony A7S II Memory Accessory</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-best-practice-manual-for-text-on-picture-edits/"><u>In 2024, The Best Practice Manual for Text-on-Picture Edits</u></a></li>
-<li><a href="https://fox-http.techidaily.com/journey-to-visual-vigor-a-beginners-guidebook/"><u>Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-resolve-crashing-microsoft-teams-windows-1110/"><u>Methods to Resolve Crashing Microsoft Teams Windows 11/10</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-navigating-iphone-audio-modification-first-time-users-introduction-to-voice-changer-plus/"><u>New 2024 Approved Navigating iPhone Audio Modification First-Time Users Introduction to Voice Changer Plus</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elite-audio-synchronized-cinematic-crafting-applications-of-the-year/"><u>New In 2024, Elite Audio-Synchronized Cinematic Crafting Applications of the Year</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-methods-to-decrease-media-content-volume/"><u>New In 2024, Methods to Decrease Media Content Volume</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-sonic-filmmaking-embellishing-video-narratives-through-filmoras-music-features/"><u>New In 2024, Sonic Filmmaking Embellishing Video Narratives Through Filmoras Music Features</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-streamlining-sound-integration-a-fast-fix-manual-for-premiere-pro/"><u>New In 2024, Streamlining Sound Integration A Fast Fix Manual for Premiere Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-sculpt-your-media-techniques-for-excising-audio-in-iphones-and-mac-videos-for-2024/"><u>New Sculpt Your Media Techniques for Excising Audio in iPhones & Mac Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-resolving-google-hangouts-microphone-issues-instantly/"><u>Troubleshooting Guide: Resolving Google Hangouts Microphone Issues Instantly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-decoding-vimeo-where-creative-videos-meet-for-2024/"><u>[New] Decoding Vimeo Where Creative Videos Meet for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-10-high-quality-screen-recorders-for-teaching-professionals/"><u>[Updated] 2024 Approved Top 10 High-Quality Screen Recorders for Teaching Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-photography-and-videography-prime-lens-excellence-in-4k/"><u>2024 Approved Precision Photography & Videography Prime Lens Excellence in 4K</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamline-your-slide-show-secrets-to-excellent-ppt-recording/"><u>2024 Approved Streamline Your Slide Show Secrets to Excellent PPT Recording</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728489795728-onedrive/"><u>一項全面指南：從OneDrive中重新複製並復原已移除的文件 - 四大技巧</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/p-by-step-approach-to-generating-income-with-trailers/"><u>A Step-by-Step Approach to Generating Income with Trailers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/inside-look-at-high-performance-devices-by-toms-hardware-experts/"><u>Inside Look at High-Performance Devices by Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/superior-applications-for-creating-visual-content-in-video-form/"><u>Superior Applications for Creating Visual Content in Video Form</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-quick-fix-updated-asus-monitor-drivers-at-your-fingertsip/"><u>The Quick Fix: Updated ASUS Monitor Drivers at Your Fingertsip</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-v27e-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo V27e FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-ps4-controller-why-it-might-not-be-charging/"><u>Troubleshooting Your PS4 Controller: Why It Might Not Be Charging</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-elevating-windows-speaker-output-three-effective-costless-strategies/"><u>Updated In 2024, Elevating Windows Speaker Output Three Effective, Costless Strategies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-volume-transitions-audio-panning-techniques-in-imovie/"><u>Updated In 2024, Mastering Volume Transitions Audio Panning Techniques in iMovie</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-10-omegle-alternative-videochat-websites/"><u>Updated In 2024, Top 10 Omegle Alternative Videochat Websites</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-optimizing-audio-levels-a-guide-to-dynamic-ducking-in-windows-edition-of-adobe-premiere-pro-for-2024/"><u>Updated Optimizing Audio Levels A Guide to Dynamic Ducking in Windows Edition of Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-7-voice-silencers-seamless-clip-editing-online-and-offline/"><u>Updated Premier 7 Voice Silencers Seamless Clip Editing Online & Offline</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-collection-11-complimentary-mobile-audio-modification-tools-for-both-ios-and-android-for-2024/"><u>Updated Premier Collection 11 Complimentary Mobile Audio Modification Tools for Both iOS and Android for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-compilation-best-volume-boosting-software-for-windows-users-seeking-immediate-results-for-2024/"><u>Updated The Ultimate Compilation Best Volume Boosting Software for Windows Users Seeking Immediate Results for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-voice-easy-a-curated-list-of-software-for-simplified-vocal-recordings-for-2024/"><u>Updated Voice Easy A Curated List of Software for Simplified Vocal Recordings for 2024</u></a></li>
 </ul></div>
 

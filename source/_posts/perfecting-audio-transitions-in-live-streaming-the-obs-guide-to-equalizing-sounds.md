@@ -1,7 +1,7 @@
 ---
 title: Perfecting Audio Transitions in Live Streaming The OBS Guide to Equalizing Sounds
-date: 2024-11-09T18:28:23.947Z
-updated: 2024-11-13T20:02:27.026Z
+date: 2024-11-11T23:44:10.660Z
+updated: 2024-11-13T16:10:44.101Z
 tags: 
   - audio editing software
   - audio editing
@@ -55,10 +55,10 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: The Best Audio Ducking Alternative to OBS
@@ -73,28 +73,15 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to use the audio ducking feature in Wondershare Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
 
@@ -115,10 +102,16 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -126,6 +119,13 @@ On the following audio editing window, tick the "**Lower the volume of other cli
 I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,24 +142,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-top-ten-webcam-enhancers-master-stream-quality/"><u>[New] In 2024, The Top-Ten Webcam Enhancers Master Stream Quality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-proven-youtube-tactics-for-maximum-impact-heres-what-you-need-to-know/"><u>[New] Proven YouTube Tactics for Maximum Impact – Here's What You Need to Know</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-3-step-guide-to-exceptional-gopro-videos/"><u>[New] The 3-Step Guide to Exceptional GoPro Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-bcm20702a0-driver-is-unavailable-error/"><u>[SOLVED] BCM20702A0 Driver Is Unavailable Error</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-enhance-your-videos-with-dynamic-camera-movements-camtasa-guide/"><u>[Updated] In 2024, Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unite-chords-and-visuals-on-powerpoint/"><u>2024 Approved Unite Chords and Visuals on PowerPoint</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-watch-the-star-trek-movies-in-order/"><u>How to Watch the Star Trek Movies in Order</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-calculating-storage-needs-for-all-day-videography/"><u>In 2024, Calculating Storage Needs for All-Day Videography</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-crafting-an-impressive-visual-saga-your-in-depth-tutorial-on-podcast-cover-artistry/"><u>In 2024, Crafting an Impressive Visual Saga Your In-Depth Tutorial on Podcast Cover Artistry</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-precision-sound-engineering-harnessing-the-power-of-keyframes-for-audio-fade-insouts-in-filmora-mac/"><u>New 2024 Approved Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-best-choices-8-leading-audio-production-tools-transforming-todays-hip-hop-genre-for-2024/"><u>New Best Choices 8 Leading Audio Production Tools Transforming Todays Hip-Hop Genre for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-essential-no-cost-android-microphone-recorders-reviewed/"><u>New Essential No-Cost Android Microphone Recorders Reviewed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-cutting-out-digital-clutter-a-guide-for-silencing-unwanted-audio/"><u>New In 2024, Cutting Out Digital Clutter A Guide for Silencing Unwanted Audio</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-digital-venues-for-encountering-and-bonding-with-unknown-individuals-responsibly/"><u>New In 2024, Digital Venues for Encountering and Bonding with Unknown Individuals Responsibly</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-pluraleyes-the-best-plug-in-to-sync-audio-in-premiere-pro-for-2024/"><u>New PluralEyes The Best Plug in to Sync Audio in Premiere Pro for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-10-ios-and-android-music-editing-tools-of-the-year-2024/"><u>New Top 10 iOS & Android Music Editing Tools of the Year 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-transforming-video-into-melody-cutting-edge-audio-retrieval-in-multimedia-for-2024/"><u>New Transforming Video Into Melody Cutting-Edge Audio Retrieval in Multimedia for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-10-biometric-lock-screen-applications-for-your-android-device/"><u>Top 10 Biometric Lock Screen Applications for Your Android Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-impact-of-instant-subscribing-on-online-viewing-habits/"><u>[New] The Impact of Instant Subscribing on Online Viewing Habits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-emulators-for-budget-switch-games/"><u>[Updated] 2024 Approved Elite Emulators for Budget Switch Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-correcting-failed-video-delivery-on-mobile-platforms-social-network-apps/"><u>[Updated] Correcting Failed Video Delivery on Mobile Platform's Social Network Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-choosing-youtube-premium-what-makes-it-worth-the-price/"><u>2024 Approved Choosing YouTube Premium What Makes It Worth the Price?</u></a></li>
+<li><a href="https://howto.techidaily.com/fitbit-versa-3-how-its-built-in-gps-and-comprehensive-health-apps-boost-motivation-for-exercise-enthusiasts/"><u>Fitbit Versa 3: How Its Built-In GPS and Comprehensive Health Apps Boost Motivation for Exercise Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-easier-than-ever-2023s-fire-browser-addons-for-capturing-your-fb-videos/"><u>In 2024, Easier Than Ever 2023'S Fire-Browser Addons for Capturing Your FB Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-c55-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco C55 Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-animated-arena-androids-top-12-game-lineup/"><u>The Animated Arena Android's Top 12 Game Lineup</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-explore-8-essential-rainfall-audio-libraries-available-to-download/"><u>Updated In 2024, Explore 8 Essential Rainfall Audio Libraries Available to Download</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-the-art-of-guitar-production-a-compilation-of-the-best-7-digital-audio-workstations/"><u>Updated In 2024, Mastering the Art of Guitar Production A Compilation of the Best 7 Digital Audio Workstations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-art-of-a-louder-sharper-speech-filmmakers-guide-to-voice-projection-using-filmora/"><u>Updated In 2024, The Art of a Louder, Sharper Speech Filmmakers Guide to Voice Projection Using Filmora</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-no-cost-voice-shaping-secrets-revealed-comprehensive-guide-to-professional-video-voice-edits-using-filmora/"><u>Updated No-Cost Voice Shaping Secrets Revealed Comprehensive Guide to Professional Video Voice Edits Using Filmora</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-singing-simplified-accessible-audio-enhancers-for-every-musicians-toolkit/"><u>Updated Singing Simplified Accessible Audio Enhancers for Every Musicians Toolkit</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-audio-splitter-on-mac-2024-update/"><u>Updated Top Audio Splitter on Mac - 2024 Update</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-vimeo-content-specifications-aspect-ratios-disclosed/"><u>Updated Vimeo Content Specifications Aspect Ratios Disclosed</u></a></li>
 </ul></div>
 
