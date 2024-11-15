@@ -1,7 +1,7 @@
 ---
 title: Updated Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction
-date: 2024-11-07T23:04:29.244Z
-updated: 2024-11-13T23:06:16.855Z
+date: 2024-11-13T16:10:48.228Z
+updated: 2024-11-14T20:02:10.602Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,16 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -74,13 +80,6 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
 
@@ -105,16 +104,10 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,19 +118,20 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -154,22 +148,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/torytelling-steps-for-youtube-ascension-for-2024/"><u>[New] Storytelling Steps for YouTube Ascension for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-journey-into-whatsapps-call-ecosystem/"><u>[Updated] 2024 Approved Journey Into WhatsApp's Call Ecosystem</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers-for-2024/"><u>Become an Expert Tutorial for Making GIFs Into Desirable WhatsApp & Telegram Stickers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convert-your-dvds-to-mp4-using-simple-methods-on-windows-11-and-macos/"><u>Convert Your DVDs to MP4 Using Simple Methods on Windows 11 and macOS</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-instagrammable-vs-trendy-will-likebeat-tiktok/"><u>In 2024, Instagrammable Vs. Trendy Will LikeBeat TikTok?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/manufacture-memorable-visuals-on-giphy/"><u>Manufacture Memorable Visuals on Giphy</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-adsense-on-youtube-a-beginners-guide-for-2024/"><u>Mastering AdSense on YouTube A Beginner's Guide for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-video-rankings-on-youtube-essential-seo-techniques-unveiled-for-2024/"><u>Mastering Video Rankings on YouTube Essential SEO Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/social-networking-site-policies-what-about-posting-videos/"><u>Social Networking Site Policies What About Posting Videos?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/step-by-step-eliminating-sound-from-modern-avi-format-avi-2023-for-2024/"><u>Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023) for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-affordable-internet-based-auditory-refinement-platforms-ranked/"><u>The Ultimate List of Affordable, Internet-Based Auditory Refinement Platforms – Ranked</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/ultimate-tutorial-transforming-whatsapp-sound-files-into-mp3-quickly/"><u>Ultimate Tutorial Transforming WhatsApp Sound Files Into MP3 Quickly</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmony-and-code-the-elite-circle-s-digital-compositional-geniuses/"><u>Updated 2024 Approved Harmony and Code The Elite Circle S Digital Compositional Geniuses</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-step-by-step-techniques-for-audio-retrieval-in-multimedia-content-windows-mac-iosandroid/"><u>Updated 2024 Approved Step-by-Step Techniques for Audio Retrieval in Multimedia Content (Windows, Mac, iOS/Android)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-efficient-ways-to-extract-and-save-audio-tracks-from-video-files-across-multiple-devices-for-2024/"><u>Updated Efficient Ways to Extract and Save Audio Tracks From Video Files Across Multiple Devices for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-convert-aiff-to-mp3-with-the-best-aiff-to-mp3-converters/"><u>Updated How to Convert AIFF to MP3 with the Best AIFF to MP3 Converters</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-add-and-edit-background-music-to-video-with-filmora/"><u>Updated In 2024, Add & Edit Background Music to Video with Filmora</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-recommendations-for-maximum-data-keep/"><u>[Updated] Essential Recommendations for Maximum Data Keep</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>[Updated] Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-essential-platforms-for-purchasing-professional-game-noise-files/"><u>2024 Approved Essential Platforms for Purchasing Professional Game Noise Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-square-it-up-your-complete-guide-to-instagram-ready-videos-in-imovie/"><u>2024 Approved Square It Up! Your Complete Guide to Instagram-Ready Videos in iMovie</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-strategies-for-minimizing-large-scale-video-and-audio-data/"><u>2024 Approved Strategies for Minimizing Large-Scale Video and Audio Data</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-curate-christian-chimes-for-devotion/"><u>How to Curate Christian Chimes for Devotion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-engage-audiences-with-these-inspiring-free-templates-for-slideshows/"><u>In 2024, Engage Audiences with These Inspiring, Free Templates for Slideshows</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-davinci-resolve-audio-processing-101-a-comprehensive-guide-to-normalization-for-2024/"><u>New DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-finding-high-quality-monstrous-soundscapes/"><u>New Finding High-Quality Monstrous Soundscapes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-seek-out-artistic-strokes-audio-illusion-for-2024/"><u>New Seek Out Artistic Strokes Audio Illusion for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-modern-guide-to-implementing-decay-in-sound-tracks-for-2024/"><u>New The Modern Guide to Implementing Decay in Sound Tracks for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-infinix-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Infinix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restored-interaction-capabilities-on-non-compliant-screen/"><u>Restored Interaction Capabilities on Non-Compliant Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-strategy-to-identify-and-choose-a-matching-phone-protector/"><u>Step-by-Step Strategy to Identify and Choose a Matching Phone Protector</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-slow-motion-music-methods-keeping-rhythmic-patterns-consistent-in-volume-and-hertz/"><u>Updated In 2024, Slow-Motion Music Methods Keeping Rhythmic Patterns Consistent in Volume and Hertz</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-sculpting-the-silence-an-in-depth-look-at-modifying-audio-keyframes-for-immersive-experiences-in-final-cut-pro-x/"><u>Updated Sculpting the Silence An In-Depth Look at Modifying Audio Keyframes for Immersive Experiences in Final Cut Pro X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/vdq-video-snatcher-assessment-comprehensive-analysis-for-2024/"><u>VDQ Video Snatcher Assessment Comprehensive Analysis for 2024</u></a></li>
 </ul></div>
 

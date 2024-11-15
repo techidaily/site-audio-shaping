@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Dynamic Duo How to Automatically Manage Volume Levels Using Audio Ducking in Adobe Premiere Pro for macOS
-date: 2024-11-11T09:49:01.425Z
-updated: 2024-11-13T23:23:48.068Z
+date: 2024-11-07T16:02:39.922Z
+updated: 2024-11-14T23:18:22.561Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,19 +124,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-a-seamless-transition-sharing-tiktok-videos-with-twitter-for-2024/"><u>[New] A Seamless Transition Sharing TikTok Videos with Twitter for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-art-of-tweaking-soundtracks-in-youtube-videos/"><u>[New] The Art of Tweaking Soundtracks in YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-fb-music-videos-best-performances-listed/"><u>2024 Approved Mastering FB Music Videos Best Performances Listed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digital-delight-dive-from-snapshots-to-sprites-easy-and-fast/"><u>Digital Delight Dive From Snapshots to Sprites, Easy & Fast</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/master-list-of-prime-audio-time-reverse-software-ranked-for-desktop-laptop-and-smartphone-use-for-2024/"><u>Master List of Prime Audio Time-Reverse Software Ranked for Desktop, Laptop, and Smartphone Use for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/metodo-facile-per-eliminare-i-vincoli-disco-disney-e-godere-del-contenuto-originale/"><u>Metodo Facile per Eliminare I Vincoli Disco Disney E Godere Del Contenuto Originale</u></a></li>
-<li><a href="https://article-files.techidaily.com/navigating-the-world-of-drone-video-manipulation/"><u>Navigating the World of Drone Video Manipulation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-best-podcast-recording-software/"><u>New 2024 Approved 10 Best Podcast Recording Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-expert-tips-on-muting-audios-from-visual-sources-for-enhanced-focus/"><u>New 2024 Approved Expert Tips on Muting Audios From Visual Sources for Enhanced Focus</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-8-daw-compatible-with-chromebooks-for-music-creation/"><u>New Top 8 DAW Compatible with Chromebooks for Music Creation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-podcast-hosting-services-a-comprehensive-ranking-for-2024/"><u>New Top Podcast Hosting Services A Comprehensive Ranking for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/removing-the-empty-folder-error-message-on-win-11/"><u>Removing the 'Empty Folder' Error Message on Win 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-securing-optimal-performance-of-amd-gpus-for-ethereum-and-bitcoin-mining-on-windows-systems/"><u>Step-by-Step Tutorial: Securing Optimal Performance of AMD GPUs for Ethereum and Bitcoin Mining on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-demise-of-samsung-messages-implications-for-the-future-of-android/"><u>The Demise of Samsung Messages: Implications for the Future of Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-expert-tips-for-radial-blur-techniques-in-photoshop-for-2024/"><u>[New] Expert Tips for Radial Blur Techniques in Photoshop for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laugh-ledger-pinpointing-prime-meme-generators/"><u>[New] Laugh Ledger Pinpointing Prime Meme Generators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-alternative-solutions-to-game-bar-recording/"><u>[Updated] 2024 Approved Alternative Solutions to Game Bar Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>[Updated] In 2024, Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts/"><u>In 2024, Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>In 2024, The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-your-first-steps-in-podcast-editing-a-comprehensive-beginners-guide-for-2024/"><u>New Your First Steps in Podcast Editing A Comprehensive Beginners Guide for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-exploring-audio-enhancements-utilizing-free-plugins-for-audacitys-autotune-effect/"><u>Updated 2024 Approved Exploring Audio Enhancements Utilizing Free Plugins for Audacitys AutoTune Effect</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-10-digital-audio-workstation-tools-free-vs-paid-options/"><u>Updated 2024 Approved Top 10 Digital Audio Workstation Tools Free vs Paid Options</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-essential-free-tools-for-every-freelancers-audio-editing-needs-on-windowsmac-platforms/"><u>Updated Essential Free Tools for Every Freelancers Audio Editing Needs on Windows/Mac Platforms</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-a-dive-into-digital-audio-recording-alternatives-to-vocaroo-explored/"><u>Updated In 2024, A Dive Into Digital Audio Recording Alternatives to Vocaroo Explored</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects for 2024
-date: 2024-11-07T21:22:53.364Z
-updated: 2024-11-14T05:34:42.257Z
+date: 2024-11-13T22:01:48.983Z
+updated: 2024-11-14T21:10:11.041Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,6 +32,13 @@ However, you will need to have at least basic video and sound editing skills to 
 
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Check audio waveform in After Effects
 
 Once you've created a new project in AE and you've imported the audio files you'd like to include in the soundtrack of the video you're making, you should place that audio file on the timeline. Click on the arrow located next to the audio file, then click on the Audio arrow that will be displayed under the file, and finally click on the Waveform arrow. This will enable you to see the waveform of the audio file you'd like to edit on the timeline and allow you to add Fade in and fade out effects with more precision. The file you added to your composition will be displayed as a layer in the Composition tab located in the lower-left region of the software's interface.
@@ -39,17 +46,10 @@ Once you've created a new project in AE and you've imported the audio files you'
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
@@ -57,6 +57,13 @@ Once you've created a new project in AE and you've imported the audio files you'
 The next thing you will have to do is place the playhead at the exact location where you want the Fade In effect to start. In most cases, Fade effects are added at the starting point of the audio file, so you should position the playhead at the beginning of the timeline or zero seconds. You will be able to see a stopwatch next to the Audio Levels option located in the Composition tab. Click on it to add the first keyframe and assign a negative value to the Audio Level setting. -100db or -50db values will make the audio file silent, and you can pick either based on how long you want the Fade in effect to last. If you don't know how to use keyframes in After Effects, [this article will give you some info](https://www.schoolofmotion.com/blog/how-to-set-keyframes-after-effects).
 
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -66,29 +73,22 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
 
 A high pitch sound at the very begging of a new sequence can ruin your soundtrack and ultimately the entire video, so in case you've cut an audio file at the location where the sound peaks, you can apply a fade in effect to make the transition between two audio files softer.
 
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
 
@@ -121,24 +121,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-proven-hashtags-for-youtube-audience-surge/"><u>[New] Proven #Hashtags for YouTube Audience Surge</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-pc-speeds-choosing-the-right-extension-software/"><u>[Updated] Top PC Speeds Choosing the Right Extension Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-understanding-and-leveraging-snapchat-spotlight/"><u>2024 Approved Understanding and Leveraging Snapchat Spotlight</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/a-comprehensive-overview-of-changing-speech-and-music-levels-in-files-for-2024/"><u>A Comprehensive Overview of Changing Speech and Music Levels in Files for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audio-implementation-in-avi-2023-formats-a-step-by-step-manual-for-2024/"><u>Audio Implementation in AVI-2023 Formats A Step-by-Step Manual for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723007308347-difficulties-initializing-diablo-ii-resurrected-heres-what-you-need-to-know/"><u>Difficulties Initializing Diablo II: Resurrected? Here’s What You Need to Know!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/how-to-add-audio-fade-out-effect-in-2024/"><u>How to Add Audio Fade Out Effect, In 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-mini-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 mini?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-top-vocal-remover-software-for-karaoke-music-production-and-more/"><u>New 2024 Approved 10 Top Vocal Remover Software for Karaoke, Music Production, and More</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-film-set-harmony-exploring-every-members-critical-function-in-movie-making/"><u>New 2024 Approved Film Set Harmony Exploring Every Members Critical Function in Movie-Making</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a05-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy A05 won’t play MKV movies</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-google-pixel-8-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Google Pixel 8 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/ultimate-guide-to-kioxia-clone-top-tier-security-and-zero-costs/"><u>Ultimate Guide to KIOXIA Clone: Top-Tier Security and Zero Costs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-curated-list-of-top-10-song-tracks-for-enhancing-visual-narratives/"><u>Updated 2024 Approved Curated List of Top 10 Song Tracks for Enhancing Visual Narratives</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-find-clapping-sound-effect/"><u>Updated 2024 Approved Find Clapping Sound Effect</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-sonic-modifications-the-5-most-popular-tools/"><u>Updated In 2024, Mastering Sonic Modifications The 5 Most Popular Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-instantaneous-techniques-for-cutting-down-residual-hum-in-recordings/"><u>Updated Instantaneous Techniques for Cutting Down Residual Hum in Recordings</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-unveiling-the-most-accessible-and-affordable-browser-based-daw-tools-for-2024/"><u>Updated Unveiling the Most Accessible and Affordable Browser-Based DAW Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-discover-the-undiscovered-top-social-media-memes-for-2024/"><u>[New] Discover the Undiscovered Top Social Media Memes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-video-chat-tools-on-windows-6-1-leaders-for-2024/"><u>[Updated] Top Video Chat Tools on Windows #6-#1 Leaders for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-memes-made-simple-the-most-effective-8-tools-for-gif-makers/"><u>Creative Memes Made Simple The Most Effective 8 Tools for GIF Makers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-xr-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone XR iCloud Bypass</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-perfecting-ps3-recorded-content-expert-insights/"><u>In 2024, Perfecting PS3 Recorded Content Expert Insights</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-ultimate-how-to-syncing-audio-with-newly-updated-avi-content/"><u>In 2024, The Ultimate How-To Syncing Audio with Newly Updated AVI Content</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-streamlining-sound-integration-a-fast-fix-manual-for-premiere-pro/"><u>New In 2024, Streamlining Sound Integration A Fast Fix Manual for Premiere Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-innovative-approaches-to-minimize-audio-and-video-file-size-for-2024/"><u>New Innovative Approaches to Minimize Audio and Video File Size for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-pinnacle-voice-technology-winmacs-siri-simulator/"><u>New Pinnacle Voice Technology Win/Macs Siri Simulator</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/kle-some-joy-incorporating-emojis-into-youtube-discussions-for-2024/"><u>Sprinkle Some Joy Incorporating Emojis Into Youtube Discussions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
 

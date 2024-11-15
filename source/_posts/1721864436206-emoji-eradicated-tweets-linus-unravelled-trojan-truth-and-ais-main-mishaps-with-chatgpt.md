@@ -1,7 +1,7 @@
 ---
 title: Emoji Eradicated Tweets, Linus Unravelled, Trojan Truth, and AI's Main Mishaps with ChatGPT
-date: 2024-11-11T07:51:23.891Z
-updated: 2024-11-14T13:10:10.629Z
+date: 2024-11-13T22:52:39.110Z
+updated: 2024-11-14T21:45:29.514Z
 tags:
   - chatgpt
   - open-ai
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -110,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -151,17 +151,16 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-leveraging-youtube-studio-across-devices/"><u>[New] 2024 Approved Leveraging Youtube Studio Across Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-standing-out-on-tiktok-masterful-pfp-techniques-and-concepts/"><u>[Updated] Standing Out on TikTok Masterful PFP Techniques and Concepts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-streamlining-your-video-sequence-on-youtube/"><u>[Updated] Streamlining Your Video Sequence on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-basics-straightforward-insights/"><u>AI Basics: Straightforward Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/striking-the-perfect-balance-in-profile-videos/"><u>Striking the Perfect Balance in Profile Videos</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012434291-troubleshooting-tips-fixing-your-hp-monitor-issues-solutions-inside/"><u>Troubleshooting Tips: Fixing Your HP Monitor Issues - Solutions Inside</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-6s-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 6s</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-complete-guide-to-transforming-aiff-files-into-mp3-format/"><u>Updated In 2024, The Complete Guide to Transforming AIFF Files Into MP3 Format</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-200-free-video-soundtrack-collections/"><u>Updated In 2024, Top 200 Free Video Soundtrack Collections</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-strip-singing-a-complete-breakdown-of-removing-vocals-from-music-pieces-for-2024/"><u>Updated The Art of Strip-Singing A Complete Breakdown of Removing Vocals From Music Pieces for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-list-of-sources-for-professional-whoosh-effects-for-2024/"><u>Updated The Ultimate List of Sources for Professional Whoosh Effects for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cutting-edge-design-aids-no-cost-premier-prestige-for-2024/"><u>[New] Cutting-Edge Design Aids No-Cost Premier Prestige for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoid-these-potential-pitfalls-why-you-might-reconsider-adding-chatgpt-to-your-mac-app-collection/"><u>Avoid These Potential Pitfalls: Why You Might Reconsider Adding ChatGPT to Your Mac App Collection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-gemini-the-powerhouse-behind-googles-artificial-intelligence-advancements-what-tasks-is-it-tackling-now/"><u>Decoding Gemini: The Powerhouse Behind Google’s Artificial Intelligence Advancements – What Tasks Is It Tackling Now?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-no-safe-gpt-windows-version-exists/"><u>Fact: No Safe GPT Windows Version Exists</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-clearing-up-wind-interference-on-smartphone-and-tablet-video-recording-for-2024/"><u>New Clearing Up Wind Interference on Smartphone and Tablet Video Recording for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-best-song-identifiers-online/"><u>New In 2024, Best Song Identifiers Online</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-what-you-can-do-roles-of-every-crew-member-in-filming/"><u>New In 2024, What You Can Do Roles of Every Crew Member in Filming</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/perfect-pitches-made-simple-installing-and-utilizing-autotune-with-audacity-for-2024/"><u>Perfect Pitches Made Simple Installing and Utilizing Autotune with Audacity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-apple-m1-a-computing-revolution-for-2024/"><u>Unveiling the Apple M1 A Computing Revolution for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/flv-mp4/"><u>무료 웹 시청기: FLV 파일에서 MP4 파일로 쉽게 전환 - 열정적인 사용자가 찾고 있다!</u></a></li>
 </ul></div>
 

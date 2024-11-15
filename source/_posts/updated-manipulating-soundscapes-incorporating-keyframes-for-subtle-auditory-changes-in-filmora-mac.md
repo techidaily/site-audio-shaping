@@ -1,7 +1,7 @@
 ---
 title: Updated Manipulating Soundscapes Incorporating Keyframes for Subtle Auditory Changes in Filmora (Mac)
-date: 2024-11-07T07:20:55.080Z
-updated: 2024-11-14T00:09:33.973Z
+date: 2024-11-07T19:29:32.539Z
+updated: 2024-11-14T22:22:19.996Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,10 @@ Now, click on the keyframe icon on the left side panel, make the volume adjustme
 To add the second **audio keyframe**, move the playhead to the desired spot, and once done, perform step 3 again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Modify Audio Keyframes in Filmora for Mac?
@@ -86,10 +86,10 @@ If you want to lower the volume of other clips in the video, you can use the “
 It’s not just one, but Filmora offers five attractive choices to modify the created **audio keyframe**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Fade In/Out Audio with Keyframes in Filmora for Mac?
@@ -110,10 +110,10 @@ Now that you are familiar with the method to add **Filmora keyframes** for audio
 * Dragging the **fade audio in the** handle at the beginning of the clip will impose the effect and set its duration automatically. Pulling the **fade audio out** handle at the end of the clip will impose the fade-out effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -123,10 +123,10 @@ No doubt, Wondershare Filmora is the best choice to carry over your **audio keyf
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -144,22 +144,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-techniques-for-uploading-youtubes-on-dailymotion/"><u>[New] In 2024, Expert Techniques for Uploading YouTubes on Dailymotion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4-for-2024/"><u>Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4 for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-15-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 15 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y100t-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y100t to PC? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-elite-ios-music-editing-tools-the-top-4-apps/"><u>In 2024, Elite iOS Music Editing Tools The Top 4 Apps</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-expertly-curated-list-of-premier-audio-trimming-software-websites/"><u>In 2024, Expertly Curated List of Premier Audio Trimming Software Websites</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-x50iplus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor X50i+ Phones? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-anthology-of-gargantuan-groans-and-howls/"><u>New 2024 Approved Anthology of Gargantuan Groans and Howls</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-comprehensive-methods-for-adding-sound-to-modernized-avi-videos/"><u>New Comprehensive Methods for Adding Sound to Modernized AVI Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-complete-users-manual-to-expertly-navigate-twistedwaves-audio-workflow/"><u>New The Complete Users Manual to Expertly Navigate TwistedWaves Audio Workflow</u></a></li>
-<li><a href="https://win-superb.techidaily.com/seamless-file-transfer-techniques-upgrading-to-windows-11-from-windows-cuarto-81/"><u>Seamless File Transfer Techniques: Upgrading to Windows 11 From Windows Cuarto 8.1</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/superior-image-recovery-suites-top-5-applications-for-mending-torn-photographs/"><u>Superior Image Recovery Suites – Top 5 Applications for Mending Torn Photographs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210505210-9782019464769-un-monde-de-merveilles/"><u>Un monde de merveilles | Free Book</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-fine-tuning-your-films-rhythm-synchronizing-soundtracks-with-video-in-final-cut-pro-x/"><u>Updated 2024 Approved Fine-Tuning Your Films Rhythm Synchronizing Soundtracks with Video in Final Cut Pro X</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-artisans-approach-to-integrating-fade-out-effects-in-audio-design-updated-for-today/"><u>Updated 2024 Approved The Artisans Approach to Integrating Fade-Out Effects in Audio Design, Updated for Today</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/vintage-vs-modern-ranking-radio-sound-effects/"><u>Vintage Vs. Modern Ranking Radio Sound Effects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/visual-storytelling-crafting-impressive-imovie-video-intros-for-2024/"><u>Visual Storytelling Crafting Impressive iMovie Video Intros for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sculpt-visual-jokes-for-giphy-space/"><u>[New] In 2024, Sculpt Visual Jokes for Giphy Space</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-9-iphone-tools-expertly-watermarking-your-pics-for-2024/"><u>[New] Top 9 iPhone Tools Expertly Watermarking Your Pics for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-designing-your-musical-journey-youtube-playlist-construction-tips-webapp/"><u>[Updated] In 2024, Designing Your Musical Journey YouTube Playlist Construction Tips Web/App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/22-in-depth-metaverse-illustrations-for-enlightenment/"><u>22 In-Depth Metaverse Illustrations for Enlightenment</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003879892-fix-your-quick-fixes-how-to-stop-titanfall-2-from-crashing-instantly/"><u>Fix Your [Quick Fixes]: How To Stop Titanfall 2 From Crashing Instantly</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-cutting-edge-mp3-editing-solutions-for-mac-a-comprehensive-review-of-leading-cutter-tools/"><u>In 2024, Cutting-Edge MP3 Editing Solutions for Mac A Comprehensive Review of Leading Cutter Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-to-transform-your-footage-in-gopro-studio/"><u>In 2024, Innovative Techniques to Transform Your Footage in GoPro Studio</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-essential-list-identifying-the-top-8-ios-daw-apps-for-tablets-and-phones/"><u>In 2024, The Essential List Identifying the Top 8 iOS DAW Apps for Tablets & Phones</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/leading-7-solutions-to-swiftly-extract-voices-from-recordings/"><u>Leading 7 Solutions to Swiftly Extract Voices From Recordings</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-achieve-balanced-soundscape-with-rapid-audio-regulation-strategies/"><u>New 2024 Approved Achieve Balanced Soundscape with Rapid Audio Regulation Strategies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-elevating-your-music-collection-advanced-mp3-file-editing-tips-and-tricks/"><u>New Elevating Your Music Collection Advanced MP3 File Editing Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-and-stop-black-desert-online-from-crashing-effective-tips-for-gamers/"><u>Solve and Stop Black Desert Online From Crashing: Effective Tips for Gamers</u></a></li>
 </ul></div>
 

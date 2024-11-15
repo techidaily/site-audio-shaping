@@ -1,7 +1,7 @@
 ---
 title: Updated Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac
-date: 2024-11-13T01:35:07.347Z
-updated: 2024-11-14T06:56:48.054Z
+date: 2024-11-12T19:22:06.373Z
+updated: 2024-11-14T16:18:57.828Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,16 +124,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-iphone-guide-to-breathtaking-shadow-images/"><u>[New] The Ultimate iPhone Guide to Breathtaking Shadow Images</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-setting-up-seamless-auto-play-for-fb-content-for-2024/"><u>[Updated] Setting Up Seamless Auto-Play for FB Content for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/code-strategies-for-effective-gpt-3-usage/"><u>Code Strategies for Effective GPT-3 Usage</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-pop-8-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Pop 8 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets/"><u>In 2024, Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-record-voice-on-mac-easy-to-use-guide/"><u>New 2024 Approved How to Record Voice on Mac? Easy-to-Use Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-starting-your-sound-journey-right-2023s-top-6-affordable-daw-tools-for-beginners-for-2024/"><u>New Starting Your Sound Journey Right 2023S Top 6 Affordable DAW Tools for Beginners for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-art-of-synchronizing-video-to-music-techniques/"><u>New The Art of Synchronizing Video to Music Techniques</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1726027159690-pc/"><u>PC画面、音声を記録して保存するための総合ガイド</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-academic-potential-effective-note-taking-and-chatgpt/"><u>Unlock Academic Potential: Effective Note Taking & ChatGPT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-kinemaster-guidance-for-flawless-green-screen-techniques/"><u>[Updated] Step-by-Step Kinemaster Guidance for Flawless Green Screen Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-the-marvel-universe-firsthand-with-apple-vision-pro-discover-more-on-may-30-zdnet/"><u>Experience the Marvel Universe Firsthand with Apple Vision Pro: Discover More on May 30 | ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-a60-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel A60 Phones? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-15-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 15 Lock Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-motorola-moto-g-stylus-5g-2023-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Motorola Moto G Stylus 5G (2023) Without PUK Codes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-effortlessly/"><u>New In 2024, Cutting Large Videos on Mac? Heres How to Do It Quickly and Effortlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sequencing-your-way-through-the-classic-superman-movie-series/"><u>Sequencing Your Way Through the Classic 'Superman' Movie Series</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-sound-editors-companion-reducing-lengthy-audios-in-imovie-for-ios-users-for-2024/"><u>The Sound Editors Companion Reducing Lengthy Audios in iMovie for iOS Users for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-mp3-to-mp4-file-format-transition/"><u>The Ultimate Guide to MP3-to-MP4 File Format Transition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-and-free-films-on-youtube-july-update/"><u>Top Picks: The Best & Free Films on YouTube – July Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hd-audio-issues-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting Realtek HD Audio Issues: Why It Won't Launch and How to Fix It</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-advanced-window-media-editing-techniques-audio-purge-edition/"><u>Updated 2024 Approved Advanced Window Media Editing Techniques Audio Purge Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-audio-liberation-in-visual-media-innovative-approaches-to-extracting-sound-from-films-and-videos/"><u>Updated 2024 Approved Audio Liberation in Visual Media Innovative Approaches to Extracting Sound From Films and Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-decoding-the-best-software-to-perform-audio-time-reversal-a-curated-selection-for-desktop-phone-and-tablet-users/"><u>Updated 2024 Approved Decoding the Best Software to Perform Audio Time-Reversal A Curated Selection for Desktop, Phone, and Tablet Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-seamlessly-combining-music-and-movement-in-windows-gif-files/"><u>Updated 2024 Approved Seamlessly Combining Music and Movement in Windows Gif Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>Updated Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-10-best-online-music-makers-freeandpaid/"><u>Updated In 2024, 10 Best Online Music Makers Free&Paid</u></a></li>
 </ul></div>
 

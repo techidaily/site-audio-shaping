@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac)
-date: 2024-11-12T00:25:56.111Z
-updated: 2024-11-14T12:54:44.447Z
+date: 2024-11-10T23:32:47.811Z
+updated: 2024-11-14T20:39:47.006Z
 tags: 
   - audio editing software
   - audio editing
@@ -68,10 +68,10 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
@@ -87,10 +87,10 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Apply Fade-in or Out options**
@@ -101,6 +101,19 @@ Now, go to the audio segment from the timeline and simply place the audio level 
 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
 
 With keyframes in Premiere Pro, you can certainly customize the fade in/out options. Though, if you are running short on time, then you can use its inbuilt features for audio adjustments.
@@ -109,19 +122,6 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
 
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
@@ -129,16 +129,10 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -156,24 +150,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-your-feed-with-new-instagram-filters-for-2024/"><u>[Updated] Enhancing Your Feed with New Instagram Filters for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-directing-dialogues-art-of-screenwriting/"><u>[Updated] In 2024, Directing Dialogues Art of Screenwriting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-transition-into-the-world-of-zoom-meetings-for-your-android-device/"><u>2024 Approved Seamless Transition Into the World of Zoom Meetings for Your Android Device</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/boost-your-game-top-tips-for-enhancing-pc-gaming-in-windows-11/"><u>Boost Your Game: Top Tips for Enhancing PC Gaming in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-pcx-images-to-png-format-free-fast-and-simple-solution-by-movavi/"><u>Convert PCX Images to PNG Format Free - Fast & Simple Solution by Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-do-user-discussions-influence-the-advancement-of-chatgpts-cognition/"><u>How Do User Discussions Influence the Advancement of ChatGPT's Cognition?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-the-seamless-transition-from-obs-to-facebook-live-for-2024/"><u>Mastering the Seamless Transition From OBS to Facebook Live for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/perfect-pacing-strategies-for-cutting-extra-audio-in-your-imovie-projects-across-apple-ecosystems/"><u>Perfect Pacing Strategies for Cutting Extra Audio in Your iMovie Projects Across Apple Ecosystems</u></a></li>
-<li><a href="https://win-special.techidaily.com/say-goodbye-to-costly-antivirus-subscriptions-discover-proven-alternatives-on-zdnet/"><u>Say Goodbye to Costly Antivirus Subscriptions: Discover Proven Alternatives on ZDNet</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-elite-lineup-of-audio-reverse-applications-discovering-your-ideal-choices-for-mobile-and-computing/"><u>The Elite Lineup of Audio Reverse Applications Discovering Your Ideal Choices for Mobile & Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/186036-9781595470669-the-golden-chain-of-homer/"><u>The Golden Chain of Homer | Free Book</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-compendium-for-utilizing-vocaroo-as-a-voice-archive-tool/"><u>The Ultimate Compendium for Utilizing Vocaroo as a Voice Archive Tool</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-acoustic-aesthetics-mastering-speed-and-pitch-variations-in-adobe-rush/"><u>Updated 2024 Approved Acoustic Aesthetics Mastering Speed and Pitch Variations in Adobe Rush</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-composing-for-cinema-adding-musical-layers-to-video-content/"><u>Updated Composing for Cinema Adding Musical Layers to Video Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-converting-mp3-soundtracks-effortless-switch-to-mp4-formats/"><u>Updated Converting MP3 Soundtracks Effortless Switch to MP4 Formats</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-echo-free-editing-five-approaches-for-audio-cleansing-in-video-content-for-2024/"><u>Updated Echo-Free Editing Five Approaches for Audio Cleansing in Video Content for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-explore-the-8-premier-ios-daw-apps-recommended-for-ipad-and-iphone-users-this-year/"><u>Updated Explore the 8 Premier iOS DAW Apps Recommended for iPad and iPhone Users This Year</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-slow-down-music-without-changing-pitch-in-2024/"><u>Updated How to Slow Down Music without Changing Pitch, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-ai-to-generate-prime-video-titles/"><u>[New] Harness AI to Generate Prime Video Titles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-ground-to-sky-discovering-mavic-pro-wonders-for-2024/"><u>[Updated] From Ground to Sky - Discovering Mavic Pro Wonders for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-identifying-and-nurturing-your-brands-character/"><u>[Updated] Identifying and Nurturing Your Brand's Character</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-essential-laptop-cooling-gadget-every-tech-enthusiast-must-have-stay-chill-while-you-work/"><u>1. Essential Laptop Cooling Gadget Every Tech Enthusiast Must Have - Stay Chill While You Work!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/harmonizing-soundscape-a-comprehensive-guide-to-eq-adjustments/"><u>Harmonizing Soundscape A Comprehensive Guide to EQ Adjustments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-from-data-to-drama-utilizing-google-trends-in-video-planning/"><u>In 2024, From Data to Drama Utilizing Google Trends in Video Planning</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-pluraleyes-the-best-plug-in-to-sync-audio-in-premiere-pro/"><u>In 2024, PluralEyes The Best Plug in to Sync Audio in Premiere Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-volume-transitions-audio-panning-techniques-in-imovie/"><u>Mastering Volume Transitions Audio Panning Techniques in iMovie</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>New 2024 Approved Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-15-non-copyrighted-music-for-montages/"><u>New Top 15 Non Copyrighted Music for Montages</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/streamlining-audio-dynamics-a-comprehensive-approach-to-volume-normalization-with-vlc-for-2024/"><u>Streamlining Audio Dynamics A Comprehensive Approach to Volume Normalization with VLC for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719145362026-tailoring-facebook-view-more-simplified-now/"><u>Tailoring Facebook View More Simplified Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-youtube-hashtag-strategies-for-boosting-your-contents-visibility-for-2024/"><u>Top Youtube Hashtag Strategies for Boosting Your Content's Visibility for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-antivirus-solutions-reviewed-the-ultimate-guide-techradar/"><u>Top-Ranked Antivirus Solutions Reviewed: The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unravel-the-mystery-of-tempo-control-in-instagram-stories-for-2024/"><u>Unravel the Mystery of Tempo Control in Instagram Stories for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-essential-listings-for-authentic-copyright-free-comic-audio-music-streams/"><u>Updated 2024 Approved Essential Listings for Authentic Copyright-Free Comic Audio Music Streams</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-step-by-step-process-to-fuse-several-audio-tracks-into-one-cohesive-piece/"><u>Updated In 2024, Step-by-Step Process to Fuse Several Audio Tracks Into One Cohesive Piece</u></a></li>
 </ul></div>
 
