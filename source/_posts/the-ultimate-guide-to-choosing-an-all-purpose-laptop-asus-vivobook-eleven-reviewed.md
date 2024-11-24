@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed"
-date: 2024-11-08T20:44:49.174Z
-updated: 2024-11-14T21:14:23.647Z
+date: 2024-11-16T17:26:41.059Z
+updated: 2024-11-24T07:52:04.759Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed"
@@ -42,28 +42,12 @@ Lifewire / Erika Rawes
 4.2
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -87,6 +71,10 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -95,13 +83,6 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 ## **Comfort: You’ll forget you’re wearing it**
@@ -109,6 +90,10 @@ Lifewire / Erika Rawes
  The Vivosmart 4 is one of the more comfortable fitness trackers I’ve tested. Most of the time, I’d forget I was even wearing the tracker until it vibrated. The band’s side edges are rounded off, making it feel more comfortable against the skin.
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
 
@@ -128,6 +113,10 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Software: Garmin Connect App**
@@ -139,13 +128,6 @@ Lifewire / Erika Rawes
  The Garmin Connect app allows you to dive as deep into your fitness tracking as you want. If you’re a runner, it can track everything from your cadence to your max pace. It provides charts and graphs of your long term activity level, heart rate, stress, body battery, and more. You can also use insights to compare that data with the averages in your age and gender category.
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -170,10 +152,7 @@ Lifewire / Erika Rawes
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -216,22 +195,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/a-simple-tutorial-starting-screen-recording-on-mac/"><u>A Simple Tutorial Starting Screen Recording on Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/advanced-techniques-beyond-svd-in-video-smoothing-unveiling-prime-alternatives/"><u>Advanced Techniques Beyond SVD in Video Smoothing: Unveiling Prime Alternatives</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/archive-all-highlights-no-limit-savers-available/"><u>Archive All Highlights No Limit Savers Available</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-resolving-the-windows-11-update-error-code-0x800f0-problem-solving-crafting-an-argumentative-essay-a-step-by-step-guide-to-analytical-w97/"><u>Effective Strategies: Resolving the Windows 11 Update Error Code 0X800f0 [Problem-Solving]: Crafting an Argumentative Essay - A Step-by-Step Guide to Analytical Writing.</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-13-mini-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 13 mini Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-vidas-capabilities-in-digital-film-production/"><u>In 2024, Exploring Vida's Capabilities in Digital Film Production</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-adjust-audio-volume-in-videos-4-ways/"><u>In 2024, How to Adjust Audio Volume in Videos 4 Ways</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/melody-in-reverse-top-5-nonlinear-audio-visuals-from-this-year/"><u>Melody in Reverse Top 5 Nonlinear Audio Visuals From This Year</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/most-trending-free-digital-repositories-for-guitar-mood-melodies-and-images/"><u>Most Trending Free Digital Repositories for Guitar Mood Melodies and Images</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-remove-audio-from-video/"><u>New 2024 Approved How to Remove Audio From Video</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-no-loudness-left-behind-a-comprehensive-guide-to-audio-cutting-in-imovie/"><u>New 2024 Approved No Loudness Left Behind A Comprehensive Guide to Audio Cutting in iMovie</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-auditory-transformation-online-selecting-the-best-tts-services-for-2024/"><u>New Auditory Transformation Online Selecting the Best TTS Services for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-transformative-soundscape-design-proven-strategies-for-smooth-volume-fading-and-elevating-with-adobe-after-effects-for-2024/"><u>New Transformative Soundscape Design Proven Strategies for Smooth Volume Fading and Elevating with Adobe After Effects for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-advantages-and-disadvantages-of-using-chatgpt-for-crafting-written-art/"><u>The Advantages and Disadvantages of Using ChatGPT for Crafting Written Art</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-digital-boutiques-unique-personalized-present-boxes-for-2024/"><u>Ultimate Digital Boutiques Unique, Personalized Present Boxes for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-laymans-land-easy-to-construct-mc-homes-unlocked-for-2024/"><u>[New] Layman's Land Easy-to-Construct MC Homes Unlocked for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-new-horizons-a-look-at-movavi-video-editor-plus-2024/"><u>[New] New Horizons A Look at Movavi Video Editor Plus 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-best-extras-to-maximize-your-yi-4k-shooting-for-2024/"><u>[New] The Best Extras to Maximize Your YI 4K Shooting for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-fast-forward-memories-samsung-timelapse-basics/"><u>2024 Approved Fast-Forward Memories Samsung Timelapse Basics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-premier-screen-capture-device-essential-for-video-sharers/"><u>In 2024, Premier Screen Capture Device Essential for Video Sharers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unboxing-premium-game-devices-youtube-edition/"><u>In 2024, Unboxing Premium Game Devices YouTube Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-solve-error-0x800f0831-easily-via-windows-update-tool/"><u>Step-by-Step Guide: Solve Error 0X800f0831 Easily via Windows Update Tool</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-noise-free-zone-step-by-step-guide-to-refining-audio-quality-with-audacity-and-filmorapro/"><u>The Noise-Free Zone Step-by-Step Guide to Refining Audio Quality with Audacity and FilmoraPro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-insiders-guide-to-preserving-your-spotify-collection-in-local-formats/"><u>Updated 2024 Approved The Insiders Guide to Preserving Your Spotify Collection in Local Formats</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-efficient-auditory-import-techniques-for-adobe-premiere-pro-users/"><u>Updated Efficient Auditory Import Techniques for Adobe Premiere Pro Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-essential-pop-tunes-assortment-for-enhancing-video-narratives-with-dynamic-soundscapes/"><u>Updated Essential Pop Tunes Assortment for Enhancing Video Narratives with Dynamic Soundscapes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-10plus-best-podcast-player-apps-for-iphone-and-android/"><u>Updated In 2024, 10+ Best Podcast Player Apps for iPhone and Android</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-composing-accompaniment-for-film-scenes/"><u>Updated In 2024, Composing Accompaniment for Film Scenes</u></a></li>
 </ul></div>
 

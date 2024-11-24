@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Discounted Quad-Core Snapdragon X Elite PC: Exclusive Preorder of the Compact Gaming Desktop Device!"
-date: 2024-11-12T23:46:28.280Z
-updated: 2024-11-14T17:54:25.772Z
+date: 2024-11-23T00:18:22.169Z
+updated: 2024-11-24T00:22:37.818Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -37,10 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,21 +67,22 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-become-an-audio-trailblazer-exclusive-vocal-change-techniques-in-free-fire-free/"><u>[New] Become an Audio Trailblazer – Exclusive Vocal Change Techniques in Free Fire (Free)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-40-gro-request-timeouts-and-strategies-for-effective-remediation/"><u>Decoding 40 Gro Request Timeouts and Strategies for Effective Remediation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-the-newest-audio-driver-for-asus-xonar-dgx-card-online/"><u>How to Find & Install the Newest Audio Driver for ASUS Xonar DGX Card Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-busting-the-daw-fallacies-insights-into-digital-audio-production/"><u>In 2024, Busting the DAW Fallacies Insights Into Digital Audio Production</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-laying-the-groundwork-15-basic-shots-every-director-needs/"><u>In 2024, Laying the Groundwork 15 Basic Shots Every Director Needs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-meizu-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Meizu Device</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-ultimate-compilation-of-instrumental-scores-for-cinematic-projects/"><u>In 2024, The Ultimate Compilation of Instrumental Scores for Cinematic Projects</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-twinkling-typefaces-the-essence-of-bouncy-text/"><u>In 2024, Twinkling Typefaces The Essence of Bouncy Text</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/intro-to-photo-editing-mastering-lunapic-basics/"><u>Intro to Photo Editing Mastering LunaPic Basics</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-best-vocal-trackers-essential-software-for-seamless-sound-capture/"><u>New 2024 Approved Best Vocal Trackers Essential Software for Seamless Sound Capture</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discovering-the-top-six-no-cost-daw-programs-for-novice-producers/"><u>New 2024 Approved Discovering the Top Six No-Cost DAW Programs for Novice Producers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-guiding-principles-for-altering-tone-without-sacrificing-sound-quality-using-audacity/"><u>New 2024 Approved Guiding Principles for Altering Tone Without Sacrificing Sound Quality Using Audacity</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-sound-detectives-handbook-extracting-silence-from-video-files-in-iosos-x-systems/"><u>New 2024 Approved The Sound Detectives Handbook Extracting Silence From Video Files in iOS/OS X Systems</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-best-free-online-transcribers-convert-your-audio-files-with-ease-for-2024/"><u>New Best Free Online Transcribers Convert Your Audio Files with Ease for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unlocking-advanced-screen-captures-on-android/"><u>Unlocking Advanced Screen Captures on Android</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-turning-pre-recorded-videos-into-a-captivating-live-experience-on-fb-for-2024/"><u>[New] Turning Pre-Recorded Videos Into a Captivating Live Experience on FB for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capturing-breathtaking-photos-with-iphone-hdr/"><u>[Updated] Capturing Breathtaking Photos with iPhone HDR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-the-world-of-ifunnys-meme-application/"><u>2024 Approved Simplifying the World of iFunny's Meme Application</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/bigo-live-intro-video-details-area-px-format-run-for-2024/"><u>Bigo Live Intro Video Details Area (Px²), Format, Run for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-composition-ideal-apps-for-ios-and-android/"><u>Creative Composition Ideal Apps for iOS and Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/implementing-photography-snippets-from-videos/"><u>Implementing Photography Snippets From Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-a-go-to-source/"><u>Navigating the World of Gadgets with Tom's Hardware – A Go-To Source</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-zoom-screen-sharpness-users-handbook-for-2024/"><u>Perfecting Zoom Screen Sharpness User's Handbook for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-excellent-selection-the-best-no-cost-music-visualization-tools-for-modern-smartphones-ios-and-android/"><u>Updated In 2024, Excellent Selection The Best No-Cost Music Visualization Tools for Modern Smartphones (iOS & Android)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-expert-choices-premier-cutting-edge-programs-for-noise-reduction-in-singing-and-recording/"><u>Updated In 2024, Expert Choices Premier Cutting-Edge Programs for Noise Reduction in Singing and Recording</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-in-depth-guide-to-iphone-for-excellent-quality-audio-capture/"><u>Updated In 2024, In-Depth Guide to iPhone for Excellent Quality Audio Capture</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-modern-guide-to-integrating-visuals-with-sound-audio-enhancement/"><u>Updated In 2024, The Modern Guide to Integrating Visuals with Sound Audio Enhancement</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-depth-analysis-of-the-wave-editor-signature-capabilities-evaluations-and-practical-lessons-for-2024/"><u>Updated In-Depth Analysis of the Wave Editor Signature Capabilities, Evaluations, and Practical Lessons for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-leading-sites-for-accessing-true-nature-audio-archives/"><u>Updated Leading Sites for Accessing True Nature Audio Archives</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-pluraleyes-the-best-plug-in-to-sync-audio-in-premiere-pro-for-2024/"><u>Updated PluralEyes The Best Plug in to Sync Audio in Premiere Pro for 2024</u></a></li>
 </ul></div>
 

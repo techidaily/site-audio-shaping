@@ -1,7 +1,7 @@
 ---
 title: Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
-date: 2024-11-09T21:51:09.856Z
-updated: 2024-11-15T00:08:15.334Z
+date: 2024-11-18T10:01:58.667Z
+updated: 2024-11-24T00:37:43.458Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,22 +56,18 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-building-a-professional-youtube-presence-via-smartphone-for-2024/"><u>[Updated] Building a Professional YouTube Presence via Smartphone for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-techniques-for-engaging-google-meet-audiences-with-laptop-based-ppt/"><u>[Updated] In 2024, Techniques for Engaging Google Meet Audiences with Laptop-Based PPT</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-glare-free-guide-to-stellar-gopro-videos-for-2024/"><u>[Updated] The Glare-Free Guide to Stellar GoPro Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-guide-to-crafting-an-instagram-enterprise-profile/"><u>2024 Approved Step-by-Step Guide to Crafting an Instagram Enterprise Profile</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-smoothly-sync-and-unite-videos-the-android-specialists-guide/"><u>In 2024, Smoothly Sync and Unite Videos The Android Specialist's Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-when-your-logitech-camera-and-microphone-fails/"><u>Solution Steps When Your Logitech Camera & Microphone Fails</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-audiobook-creation-simplified-your-comprehensive-step-by-step-tutorial/"><u>Updated 2024 Approved Audiobook Creation Simplified Your Comprehensive Step-by-Step Tutorial</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-art-of-merging-sound-and-visuals-audio-addition-in-gifs-on-a-mac-system/"><u>Updated 2024 Approved The Art of Merging Sound and Visuals Audio Addition in GIFs on a Mac System</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-elevating-windows-speaker-output-three-effective-costless-strategies-for-2024/"><u>Updated Elevating Windows Speaker Output Three Effective, Costless Strategies for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-edit-mp3-files/"><u>Updated How To Edit MP3 Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-clear-screening-for-focused-online-participation-for-2024/"><u>[New] Clear Screening for Focused Online Participation for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-professional-tiktok-videos-with-strategic-zoom-use/"><u>[New] Professional TikTok Videos with Strategic Zoom Use</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-strategic-use-of-slug-lines-in-blogging/"><u>2024 Approved Strategic Use of Slug Lines in Blogging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-every-detail-tactics-for-streamlined-meet-recordings/"><u>In 2024, Capturing Every Detail Tactics for Streamlined Meet Recordings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-cultivating-an-audience-naturally-youtubes-way/"><u>In 2024, Cultivating an Audience Naturally - YouTube's Way</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-xr-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone XR or iPad?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-zero-noise-videos-how-to-extract-audio-free-mp4mkvavimov-files/"><u>New 2024 Approved Zero-Noise Videos How to Extract Audio-Free MP4/MKV/AVI/MOV Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-advanced-audio-configuration-tips-for-devices/"><u>New In 2024, Advanced Audio Configuration Tips for Devices</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-innovating-sound-design-the-impact-and-prowess-of-magix-samplitude/"><u>New In 2024, Innovating Sound Design The Impact and Prowess of MAGIX Samplitude</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-google-pixel-7a-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Google Pixel 7a Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-instructions-hp-printer-model-4630/"><u>Update Instructions: HP Printer Model 4630</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-achieving-profound-pronunciation-in-filmora-videos/"><u>Updated Achieving Profound Pronunciation in Filmora Videos</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "The Rise of ARM Architecture: Alibaba's Yitian Nokia 710 Crowned Fastest CPU for Cloud Servers"
-date: 2024-11-10T19:12:11.669Z
-updated: 2024-11-14T17:54:35.160Z
+date: 2024-11-20T00:40:31.187Z
+updated: 2024-11-23T19:19:42.449Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,34 +56,19 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-fixing-windows-11-photo-app-glitches-quickly/"><u>[New] 2024 Approved Fixing Windows 11 Photo App Glitches Quickly</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-web-enhancer-facebook-story-keeper-for-2024/"><u>[New] Web Enhancer Facebook Story Keeper for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-the-directory-name-is-invalid-error/"><u>[SOLVED] The Directory Name Is Invalid Error</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-novices-route-to-rapidly-play-videos-on-snapchat/"><u>[Updated] 2024 Approved The Novice's Route to Rapidly Play Videos on Snapchat</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-ephemeral-echoes-of-facebook/"><u>[Updated] Ephemeral Echoes of Facebook</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-or-install-amd-radeon-hd-7870-drivers-for-windows-10-step-by-step-guide/"><u>How to Update or Install AMD Radeon HD 7870 Drivers for Windows 10 - Step by Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-moto-g73-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Moto G73 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-tweet-control-15-premier-unfollow-utilities/"><u>In 2024, Maximizing Tweet Control 15 Premier Unfollow Utilities</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-top-10-free-audio-to-text-transformers-for-effortless-file-editing-wondershare-videomaker/"><u>In 2024, Top 10 Free Audio-to-Text Transformers for Effortless File Editing - Wondershare VideoMaker</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-exploring-the-top-audio-distortion-software-of-today/"><u>New Exploring the Top Audio Distortion Software of Today</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-fade-in-and-fade-out-audio-in-imovie/"><u>New How to Fade in and Fade Out Audio in iMovie?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-deciphering-the-world-of-clubhouse-a-thorough-analysis-of-its-purpose-mechanisms-and-evolving-landscape/"><u>New In 2024, Deciphering the World of Clubhouse A Thorough Analysis of Its Purpose, Mechanisms, and Evolving Landscape</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-premier-11-auditory-editing-utilities-on-android-devices-for-2024/"><u>New Premier 11 Auditory Editing Utilities on Android Devices for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-list-of-affordable-and-premium-online-recording-studios-2023-edition/"><u>New The Ultimate List of Affordable and Premium Online Recording Studios 2023 Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-pc-malfunctions-during-sons-of-the-forest-a-step-by-nstep-fix/"><u>Overcoming PC Malfunctions During 'Sons of the Forest': A Step-by-nStep Fix</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-playbook-for-fine-tuning-video-soundtracks-including-tips-for-modern-platforms-for-2024/"><u>Updated The Ultimate Playbook for Fine-Tuning Video Soundtracks Including Tips for Modern Platforms for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leverage-these-10-devices-for-crystal-clear-zooms/"><u>[New] Leverage These 10 Devices for Crystal Clear Zooms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-recovering-lost-linkages-restore-facebook-video-suggestions/"><u>[Updated] In 2024, Recovering Lost Linkages Restore Facebook Video Suggestions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-5-innovative-mac-capturing-solutions-moving-past-bandicam/"><u>[Updated] Top 5 Innovative Mac Capturing Solutions, Moving Past Bandicam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-rtx-4070-and-amd-cpu-powered-gaming-notebook-at-unbeatable-price-1129/"><u>Acer RTX 4070 & AMD CPU Powered Gaming Notebook at Unbeatable Price: $1,129</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-academic-success-what-every-student-should-steer-clear-of/"><u>ChatGPT and Academic Success: What Every Student Should Steer Clear Of</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-s17-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo S17 FRP</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-elevate-your-music-listening-with-these-top-ranked-cost-free-visualization-apps-on-iphone-and-android-platforms/"><u>In 2024, Elevate Your Music Listening with These Top-Ranked, Cost-Free Visualization Apps on iPhone and Android Platforms</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-beginners-blueprint-to-creating-an-audio-book-with-ease-a-compreranly-updated-manual/"><u>In 2024, The Beginners Blueprint to Creating an Audio Book with Ease A Compreranly Updated Manual</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-top-8-ambiance-sounds-to-enhance-youtube-beginnings/"><u>In 2024, Top 8 Ambiance Sounds to Enhance YouTube Beginnings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-productivity-with-a-versatile-10-in-1-dock-now-just-35-cheaper-exclusive-review-on-zdnet/"><u>Maximize Productivity with a Versatile 10-in-1 Dock, Now Just 35% Cheaper | Exclusive Review on ZDNET</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-immerse-yourself-with-natures-chorus-best-soundscape-apps-on-mobile-devices-for-2024/"><u>New Immerse Yourself with Natures Chorus Best Soundscape Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>New Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tailoring-your-timeline-a-step-by-step-guide-to-editing-lengthy-audios-in-imovie-on-ios-devices/"><u>New Tailoring Your Timeline A Step-by-Step Guide to Editing Lengthy Audios in iMovie on iOS Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-failed-initialization-issues-in-call-of-duty-black-ops-4-expert-advice/"><u>Resolving Failed Initialization Issues in Call of Duty: Black Ops 4 - Expert Advice</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: The Inside Scoop on Electronics with Tom's Device Review
-date: 2024-11-11T18:57:07.681Z
-updated: 2024-11-14T23:44:04.318Z
+date: 2024-11-19T04:42:28.387Z
+updated: 2024-11-23T20:38:32.644Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,27 +78,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-signal-profileshots-guide-dimensions-file-type-minutes/"><u>[New] Signal Profileshots Guide Dimensions, File Type, Minutes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>2024 Approved Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-editors-handbook-to-dynamic-ducking-implementing-complex-auditory-effects-with-windows-adobe-premiere-pro/"><u>2024 Approved The Editors Handbook to Dynamic Ducking Implementing Complex Auditory Effects with Windows Adobe Premiere Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-ultimate-compendium-selecting-your-best-software-to-record-guitars/"><u>2024 Approved The Ultimate Compendium Selecting Your Best Software to Record Guitars</u></a></li>
-<li><a href="https://network-issues.techidaily.com/battle-tested-fixes-for-nvidia-rtx-3080-game-errors/"><u>Battle-Tested Fixes for NVIDIA RTX 3080 Game Errors</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/enhancing-editing-precision-with-final-cut-pro-techniques-for-displaying-audio-graphs-and-animating-sound-tracks/"><u>Enhancing Editing Precision with Final Cut Pro Techniques for Displaying Audio Graphs & Animating Sound Tracks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fujitsu-scansnap-ix1400-unveiled-a-detailed-look-at-the-perfect-scanner-for-small-offices-and-home-businesses/"><u>Fujitsu ScanSnap iX1400 Unveiled - A Detailed Look at the Perfect Scanner for Small Offices and Home Businesses</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-academic-avenue-leading-educators-on-youtube/"><u>In 2024, Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/make-stunning-tiktok-videos-using-these-templates/"><u>Make Stunning TikTok Videos Using These Templates</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/maximizing-call-recording-20plus-techniques-for-windowsmac-users/"><u>Maximizing Call Recording 20+ Techniques for Windows/Mac Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-premiere-mixer-expert-for-windows-10-ecosystems/"><u>New 2024 Approved Premiere Mixer Expert for Windows 10 Ecosystems</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-thunderous-echoes-the-soundscape-of-immense-entities/"><u>New Thunderous Echoes The Soundscape of Immense Entities</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-techniques-to-place-your-ps4-camera-effectively/"><u>The Best Techniques to Place Your PS4 Camera Effectively</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-essential-tips-for-efficiently-gathering-podcast-files-onto-personal-computers/"><u>Updated In 2024, Essential Tips for Efficiently Gathering Podcast Files Onto Personal Computers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-accompaniment-crafting-a-harmonious-blend-between-video-and-music-for-2024/"><u>Updated The Art of Accompaniment Crafting a Harmonious Blend Between Video and Music for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ranking-the-top-8-apps-to-increase-popularity-on-facebook/"><u>[Updated] 2024 Approved Ranking the Top 8 Apps to Increase Popularity on Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-external-light-for-cozy-interior-spaces/"><u>[Updated] Harnessing External Light for Cozy Interior Spaces</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-legends-awakened-a-library-of-mythical-creatures-sounds/"><u>2024 Approved Legends Awakened A Library of Mythical Creatures Sounds</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians/"><u>In 2024, Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-photo-background-removal-techniques/"><u>In 2024, Mastering Photo Background Removal Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-8-best-cinematic-sound-effects-pack-included/"><u>New 2024 Approved 8 Best Cinematic Sound Effects Pack Included</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-pathway-to-pristine-recordings-removing-unwanted-noises-for-crystal-clear-sound/"><u>New 2024 Approved The Pathway to Pristine Recordings Removing Unwanted Noises for Crystal-Clear Sound</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-guideline-for-beginners-about-lexis-audio-editor/"><u>New Guideline for Beginners About Lexis Audio Editor</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-perfect-your-sound-mix-expert-strategies-for-utilizing-audio-ducking-in-adobe-premiere-pro-macos-edition-for-2024/"><u>New Perfect Your Sound Mix Expert Strategies for Utilizing Audio Ducking in Adobe Premiere Pro (macOS Edition) for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-moto-g-5g-2023-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Moto G 5G (2023) Phone Pattern Lock</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-why-wont-my-new-ssd-appear-on-windows-discover-solutions/"><u>Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-innovations-with-toms-hardware-your-guide-to-cutting-edge-pc-components/"><u>Unveiling Innovations with Tom's Hardware - Your Guide to Cutting-Edge PC Components</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Hot 40i | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Dynamic Duo How to Automatically Manage Volume Levels Using Audio Ducking in Adobe Premiere Pro for macOS
-date: 2024-11-07T16:02:39.922Z
-updated: 2024-11-14T23:18:22.561Z
+date: 2024-11-20T21:37:00.545Z
+updated: 2024-11-24T06:27:37.208Z
 tags: 
   - audio editing software
   - audio editing
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
@@ -57,10 +61,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +71,7 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +101,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,16 +119,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-expert-tips-for-radial-blur-techniques-in-photoshop-for-2024/"><u>[New] Expert Tips for Radial Blur Techniques in Photoshop for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-laugh-ledger-pinpointing-prime-meme-generators/"><u>[New] Laugh Ledger Pinpointing Prime Meme Generators</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-alternative-solutions-to-game-bar-recording/"><u>[Updated] 2024 Approved Alternative Solutions to Game Bar Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>[Updated] In 2024, Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts/"><u>In 2024, Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>In 2024, The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-your-first-steps-in-podcast-editing-a-comprehensive-beginners-guide-for-2024/"><u>New Your First Steps in Podcast Editing A Comprehensive Beginners Guide for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-exploring-audio-enhancements-utilizing-free-plugins-for-audacitys-autotune-effect/"><u>Updated 2024 Approved Exploring Audio Enhancements Utilizing Free Plugins for Audacitys AutoTune Effect</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-10-digital-audio-workstation-tools-free-vs-paid-options/"><u>Updated 2024 Approved Top 10 Digital Audio Workstation Tools Free vs Paid Options</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-essential-free-tools-for-every-freelancers-audio-editing-needs-on-windowsmac-platforms/"><u>Updated Essential Free Tools for Every Freelancers Audio Editing Needs on Windows/Mac Platforms</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-a-dive-into-digital-audio-recording-alternatives-to-vocaroo-explored/"><u>Updated In 2024, A Dive Into Digital Audio Recording Alternatives to Vocaroo Explored</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-grasping-the-fundamentals-of-animated-communication/"><u>[Updated] 2024 Approved Grasping the Fundamentals of Animated Communication</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[Updated] 2024 Approved Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-methods-for-extracting-vimeo-sound-tracks-for-2024/"><u>[Updated] Efficient Methods for Extracting Vimeo Sound Tracks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-definitive-guide-to-googles-podcast-submission/"><u>[Updated] The Definitive Guide to Google’s Podcast Submission</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dropping-drama-the-best-podcast-beginnings/"><u>Dropping Drama The Best Podcast Beginnings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/economical-vr-headsets-from-the-east-for-2024/"><u>Economical VR Headsets From the East for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/1723262386691-get-gaming-on-a-budget-asus-rog-nuc-begins-at-affordable-1629-with-core-ultra-cpu-and-rtx-gpu/"><u>Get Gaming On a Budget: Asus ROG NUC Begins at Affordable $1,629 with Core Ultra CPU and RTX GPU!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-explore-leading-websites-for-text-embellishments/"><u>In 2024, Explore Leading Websites for Text Embellishments</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-art-of-audio-integration-in-online-journals/"><u>In 2024, The Art of Audio Integration in Online Journals</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-errors-validating-windows-11-temporary-folder/"><u>Preventing Errors: Validating Windows 11 Temporary Folder</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-choosing-an-all-purpose-laptop-asus-vivobook-eleven-reviewed/"><u>The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-silent-streams-cutting-the-chatter-of-video-audio-tracks/"><u>Updated In 2024, Silent Streams Cutting the Chatter of Video Audio Tracks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-the-art-of-isolating-rhythms-a-guide-to-online-beat-extraction-for-2024/"><u>Updated Mastering the Art of Isolating Rhythms A Guide to Online Beat Extraction for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-sync-it-up-expert-tips-for-aligning-video-with-a-soundtrack-in-fcpx-for-2024/"><u>Updated Sync It Up! Expert Tips for Aligning Video with a Soundtrack in FCPX for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-silent-song-methods-to-extract-and-remove-vocal-tracks-from-audio-sequences-in-audacity/"><u>Updated The Silent Song Methods to Extract and Remove Vocal Tracks From Audio Sequences in Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
 </ul></div>
 

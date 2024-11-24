@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-11-08T19:51:25.538Z
-updated: 2024-11-14T21:03:46.634Z
+date: 2024-11-23T08:28:15.187Z
+updated: 2024-11-24T01:54:34.555Z
 tags:
   - desktop
 categories:
@@ -49,6 +49,10 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -72,31 +76,22 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-tailored-titles-for-your-youtube-success/"><u>[New] 2024 Approved Tailored Titles for Your YouTube Success</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-audireview-listening-and-recording-evaluation-for-2024/"><u>[New] Audireview Listening & Recording Evaluation for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-essential-steps-for-embedding-facebook-streams-online/"><u>[New] Essential Steps for Embedding Facebook Streams Online</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-advanced-tips-for-effective-chroma-keying-in-kinemaster/"><u>[Updated] 2024 Approved Advanced Tips for Effective Chroma Keying in KineMaster</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96489639-9781578594658-alien-mysteries-conspiracies-and-cover-ups/"><u>Alien Mysteries, Conspiracies and Cover-Ups | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-nubia-red-magic-8s-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nubia Red Magic 8S Pro? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/efficiently-change-your-facebook-videos-into-mp3-songs/"><u>Efficiently Change Your Facebook Videos Into MP3 Songs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus with IMEI Code?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-linguistic-strategies-in-film-scriptwriting/"><u>In 2024, Linguistic Strategies in Film Scriptwriting</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-multi-platform-speech-to-mp3-technology-for-everyday-use/"><u>In 2024, Multi-Platform Speech-to-MP3 Technology for Everyday Use</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-podcast-editing-101-how-to-edit-a-podcasta-beginners-guide/"><u>In 2024, Podcast Editing 101 How to Edit a Podcasta Beginners Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-10-best-podcast-hosting-platforms/"><u>New 10 Best Podcast Hosting Platforms</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-comprehensive-guide-advanced-avs-sound-editing-tools-and-comparative-analysis/"><u>New 2024 Approved Comprehensive Guide Advanced AVS Sound Editing Tools and Comparative Analysis</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-from-raw-tape-to-polished-production-advanced-techniques-using-sony-vegas-pro/"><u>New 2024 Approved From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-busting-the-daw-fallacies-insights-into-digital-audio-production-for-2024/"><u>New Busting the DAW Fallacies Insights Into Digital Audio Production for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-best-omegle-alternatives-meet-new-people-online/"><u>New In 2024, 10 Best Omegle Alternatives Meet New People Online</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-essential-collection-selecting-from-6-superior-automatic-transcribers/"><u>New In 2024, The Essential Collection Selecting From 6 Superior Automatic Transcribers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-speech-to-mp3-conversion-tool-windows-mac-android-and-ios-compatibility/"><u>New Speech-to-MP3 Conversion Tool Windows, Mac, Android & iOS Compatibility</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-record-with-chrome-os-native-screen-recorder-for-2024/"><u>[Updated] Record with Chrome OS Native Screen Recorder for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-ultimate-guide-high-quality-mp4-compression-techniques-without-sacrificing-clarity/"><u>1. Ultimate Guide: High-Quality MP4 Compression Techniques Without Sacrificing Clarity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-logitech-rx250-software-compatible-with-windows-7-8-and-10/"><u>Download the Latest Logitech RX250 Software Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-guide-yakuza-like-a-dragon-the-ultimate-rpg-experience/"><u>Essential Guide: Yakuza: Like a Dragon - The Ultimate RPG Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-professional-livestream-selector-pick-between-virusmix-and-castpro/"><u>In 2024, Professional Livestream Selector Pick Between VirusMix and CastPro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-usb-30-drivers-on-your-windows-computer/"><u>Install the Latest USB 3.0 Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/success-with-amd-on-windows-driver-load-now-functioning-properly/"><u>Success with AMD on Windows, Driver Load Now Functioning Properly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-youtube-success-with-tubebuddy/"><u>The Ultimate Guide to YouTube Success with TubeBuddy</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oneplus-12-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your OnePlus 12 Phone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-audio-blending-techniques-creating-a-unified-soundtrack-for-videos/"><u>Updated 2024 Approved Audio Blending Techniques Creating a Unified Soundtrack for Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-exploring-the-best-macdaws-an-extensive-review-of-the-top-8-software/"><u>Updated 2024 Approved Exploring the Best MacDAWs An Extensive Review of the Top 8 Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-step-by-step-on-incorporating-sound-into-videos-using-magix/"><u>Updated 2024 Approved The Ultimate Step-by-Step on Incorporating Sound Into Videos Using Magix</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-applications-for-adding-audio-to-video-in-android/"><u>Updated Applications for Adding Audio to Video in Android</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-canticle-cleanse-software-generate-artisanal-harmony-tracks-for-2024/"><u>Updated Canticle Cleanse Software Generate Artisanal Harmony Tracks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-add-audio-to-mp4-mpeg-mpg-video/"><u>Updated How to Add Audio to MP4 (MPEG, MPG) Video</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-syncing-simplified-2023s-innovative-methods-for-perfectly-timed-video-content/"><u>Updated In 2024, Audio Syncing Simplified 2023S Innovative Methods for Perfectly Timed Video Content</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

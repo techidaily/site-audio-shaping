@@ -1,7 +1,7 @@
 ---
 title: "Reliability Meets Portability: In-Depth Review of the Audew Air Pump for Versatile Use"
-date: 2024-11-08T23:41:36.852Z
-updated: 2024-11-15T00:02:08.809Z
+date: 2024-11-22T09:39:15.006Z
+updated: 2024-11-24T09:31:28.053Z
 categories:
   - BestProducts
 description: "This Article Describes Reliability Meets Portability: In-Depth Review of the Audew Air Pump for Versatile Use"
@@ -71,7 +71,15 @@ Lifewire / Jeremy Laukkonen
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/lFGiT6009F_OKGOJ-sLcNKNylt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-2-9a3217b3ee154a3ebcb38e61aac3be52.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Slick all-black appearance that’s dulled a bit by soft-touch rubber**
 
@@ -86,10 +94,7 @@ Lifewire / Jeremy Laukkonen
  For a premium device with a premium price like the Omni 20+, I’d like to see a different material used for the case.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Initial Setup: Frustrating due to a lack of documentation**
@@ -110,11 +115,19 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Display: Crisp and easy to read, but confusing**
 
  The display is small, but it’s quite bright and easy to read. The only issue is that it isn’t particularly easy to figure out what the individual icons mean, or how to use the display to change input and output settings, without referring to an instruction manual that isn’t included in the box.
 
  I’ve already covered the issue with the manual in the previous section, so suffice it to say I recommend avoiding frustration and just downloading the manual from the Omnicharge website rather than trying to figure out the display and controls on your own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Sockets and Ports: Excellent array, including wireless**
 
@@ -132,13 +145,6 @@ Lifewire / Jeremy Laukkonen
 
  On the front of the power bank, next to the display, you’ll find two USB-A ports. These ports are capable of charging all your standard USB devices. One is a Qualcomm 3.0 compatible quick charge port, and the other is a standard USB port that’s capable of putting out up to 3A.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery: Decent battery capacity for the size**
 
  The Omni 20+ includes a 20,000 mAh battery, which is a decent capacity for the size of this power bank. I’d like to see a larger capacity based on the price of this unit, but it’s clear that you’re paying for extra features like fast USB-Charging and[wireless charging](https://www.lifewire.com/qi-wireless-charging-4151894) instead of a big battery.
@@ -153,20 +159,11 @@ Lifewire / Jeremy Laukkonen
 
 ![Omnicharge Omni 20 Portable Power Bank](https://www.lifewire.com/thmb/aZDfINCcUg9uIHRuhVr2k3wmX94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Omni-portable-power-bank-1-815fe3c777eb4f46a77cb00127bd88c2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Charging Speed: True fast charging available for some USB-C devices**
 
@@ -181,13 +178,6 @@ Lifewire / Jeremy Laukkonen
  By plugging the Omni 20+ into power when available, I found it to be a fantastic replacement for an otherwise bulky assortment of power adapters for my laptop, phone, and other devices.
 
  The built-in Qi charger is capable of putting out 10 watts, and I found it to work just as well as other 10 watt Qi chargers I’ve used. It is a bit touchy in terms of positioning, but I was able to get the hang of it pretty fast.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: High end**
 
@@ -208,13 +198,6 @@ Lifewire / Jeremy Laukkonen
  **Fantastic functionality, decent battery capacity, and frustrating setup experience.**
 
  The Omnicharge Omni 20+ is one of the best power banks out there, and it had better be for the price they’re asking. This is the power bank you need if you count a high wattage USB-C port, barrel connector input and output, wireless charging, and a standard power outlet among your needs. You can find cheaper power banks that provide more juice, but you won’t find one with this same feature set.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -242,16 +225,24 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-gps-companions-top-10-drones-that-stay-close/"><u>[New] GPS Companions Top 10 Drones That Stay Close</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>[New] The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fresh-approaches-to-instagram-collages-made-simple/"><u>Fresh Approaches to Instagram Collages Made Simple</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-m34-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy M34 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-past-facebook-feed-exploration-for-laptops-and-phones-for-2024/"><u>Mastering Past Facebook Feed Exploration for Laptops and Phones for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-vintage-vs-modern-ranking-radio-sound-effects-for-2024/"><u>New Vintage Vs. Modern Ranking Radio Sound Effects for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/portable-performance-exploring-the-features-of-the-raspberry-pi-400-mini-pc/"><u>Portable Performance: Exploring the Features of the Raspberry Pi 400 Mini PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/recognizing-ebooks-with-protective-encryption-measures-drm/"><u>Recognizing eBooks with Protective Encryption Measures (DRM)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/syncing-audio-visual-elements-modern-approaches-to-creating-unified-media-experiences/"><u>Syncing Audio-Visual Elements Modern Approaches to Creating Unified Media Experiences</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/unlock-the-power-of-seamless-movement-with-these-7-trendy-transition-audio-files-no-cost-for-2024/"><u>Unlock the Power of Seamless Movement with These 7 Trendy Transition Audio Files (No Cost) for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-simplified-soundscape-a-modern-approach-to-adding-sound-effects-in-videos/"><u>Updated 2024 Approved Simplified Soundscape A Modern Approach to Adding Sound Effects in Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-reel-it-in-techs-video-harvest/"><u>[New] 2024 Approved Reel It In Tech's Video Harvest</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-getting-started-in-vlogging-gear-and-software-guide/"><u>[New] Getting Started in Vlogging Gear and Software Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tailoring-content-creating-ideal-instagram-video-experiences-for-2024/"><u>[New] Tailoring Content Creating Ideal Instagram Video Experiences for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-funnels-catchy-recipe-channels-that-work/"><u>[Updated] 2024 Approved Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-the-financial-frontier-of-youtube-creators/"><u>[Updated] Navigating the Financial Frontier of YouTube Creators</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-essential-platforms-for-purchasing-professional-game-noise-files/"><u>2024 Approved Essential Platforms for Purchasing Professional Game Noise Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-strategies-for-minimizing-large-scale-video-and-audio-data/"><u>2024 Approved Strategies for Minimizing Large-Scale Video and Audio Data</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-official-fix-free-wireless-adapter-model-1535-driver/"><u>Download the Official Fix: Free Wireless Adapter Model 1535 Driver</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-date-counting-tools-for-android-and-ios-users/"><u>Essential Date-Counting Tools for Android and iOS Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-maze-of-gmail-archives-to-find-your-lost-emails-tips-inside/"><u>Navigate the Maze of Gmail Archives to Find Your Lost Emails - Tips Inside</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-davinci-resolve-audio-processing-101-a-comprehensive-guide-to-normalization-for-2024/"><u>New DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-finding-high-quality-monstrous-soundscapes/"><u>New Finding High-Quality Monstrous Soundscapes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-seek-out-artistic-strokes-audio-illusion-for-2024/"><u>New Seek Out Artistic Strokes Audio Illusion for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-modern-guide-to-implementing-decay-in-sound-tracks-for-2024/"><u>New The Modern Guide to Implementing Decay in Sound Tracks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ai-challenge-gpt-vs-microsoft-and-google-rivalries/"><u>The Ultimate AI Challenge: GPT Vs. Microsoft & Google Rivalries</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-5-windows-10-sound-engineers-optimal-audio-blending-experience/"><u>Updated 2024 Approved Top 5 Windows 10 Sound Engineers Optimal Audio Blending Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-slow-motion-music-methods-keeping-rhythmic-patterns-consistent-in-volume-and-hertz/"><u>Updated In 2024, Slow-Motion Music Methods Keeping Rhythmic Patterns Consistent in Volume and Hertz</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-sculpting-the-silence-an-in-depth-look-at-modifying-audio-keyframes-for-immersive-experiences-in-final-cut-pro-x/"><u>Updated Sculpting the Silence An In-Depth Look at Modifying Audio Keyframes for Immersive Experiences in Final Cut Pro X</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-note-12-pro-4g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi Note 12 Pro 4G Device</u></a></li>
 </ul></div>
 
