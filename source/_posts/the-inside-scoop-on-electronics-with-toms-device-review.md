@@ -1,7 +1,7 @@
 ---
 title: The Inside Scoop on Electronics with Tom's Device Review
-date: 2024-11-19T04:42:28.387Z
-updated: 2024-11-23T20:38:32.644Z
+date: 2024-11-28T04:25:01.219Z
+updated: 2024-12-02T05:24:07.694Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,18 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ranking-the-top-8-apps-to-increase-popularity-on-facebook/"><u>[Updated] 2024 Approved Ranking the Top 8 Apps to Increase Popularity on Facebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-external-light-for-cozy-interior-spaces/"><u>[Updated] Harnessing External Light for Cozy Interior Spaces</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-legends-awakened-a-library-of-mythical-creatures-sounds/"><u>2024 Approved Legends Awakened A Library of Mythical Creatures Sounds</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians/"><u>In 2024, Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-photo-background-removal-techniques/"><u>In 2024, Mastering Photo Background Removal Techniques</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-8-best-cinematic-sound-effects-pack-included/"><u>New 2024 Approved 8 Best Cinematic Sound Effects Pack Included</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-pathway-to-pristine-recordings-removing-unwanted-noises-for-crystal-clear-sound/"><u>New 2024 Approved The Pathway to Pristine Recordings Removing Unwanted Noises for Crystal-Clear Sound</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-guideline-for-beginners-about-lexis-audio-editor/"><u>New Guideline for Beginners About Lexis Audio Editor</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-perfect-your-sound-mix-expert-strategies-for-utilizing-audio-ducking-in-adobe-premiere-pro-macos-edition-for-2024/"><u>New Perfect Your Sound Mix Expert Strategies for Utilizing Audio Ducking in Adobe Premiere Pro (macOS Edition) for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-moto-g-5g-2023-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Moto G 5G (2023) Phone Pattern Lock</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-why-wont-my-new-ssd-appear-on-windows-discover-solutions/"><u>Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-innovations-with-toms-hardware-your-guide-to-cutting-edge-pc-components/"><u>Unveiling Innovations with Tom's Hardware - Your Guide to Cutting-Edge PC Components</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlocking-youtubes-hidden-view-tracking-method/"><u>[Updated] 2024 Approved Unlocking YouTube’s Hidden View Tracking Method</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-cultivating-a-sustainable-advertising-ecosystem-famebits-strategies/"><u>[Updated] In 2024, Cultivating a Sustainable Advertising Ecosystem FameBit’s Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimize-obs-encoding-quick-solutions/"><u>2024 Approved Optimize OBS Encoding Quick Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-ultimate-list-of-royalty-free-beats-for-dynamic-videography/"><u>2024 Approved The Ultimate List of Royalty-Free Beats for Dynamic Videography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-viewers-toolkit-assistant/"><u>2024 Approved Viewer's Toolkit Assistant</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-10-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 10 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-evaluation-report-on-sound-forges-audio-editing-tools/"><u>In 2024, Evaluation Report on Sound Forges Audio Editing Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-c55-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco C55 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlocking-youtubes-full-potential-with-top-video-formats/"><u>In 2024, Unlocking YouTube's Full Potential with Top Video Formats</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-peak-happiness-uprising-in-crowds/"><u>New 2024 Approved Peak Happiness Uprising in Crowds</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-assessing-whether-magix-samplitude-truly-dominates-music-production-tools/"><u>New Assessing Whether MAGIX Samplitude Truly Dominates Music Production Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/selective-access-microsoft-unveils-cross-platform-windowed-experience-on-chromebooks-and-macs/"><u>Selective Access: Microsoft Unveils Cross-Platform Windowed Experience on Chromebooks and Macs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-online-acoustic-magic-the-ultimate-guide-to-implementing-effective-echo-in-windows-based-audio-workspaces/"><u>Updated 2024 Approved Online Acoustic Magic The Ultimate Guide to Implementing Effective Echo in Windows-Based Audio Workspaces</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-from-default-dial-tones-to-signature-sounds-the-ringtone-artisans-manual-for-2024/"><u>Updated From Default Dial-Tones to Signature Sounds The Ringtone Artisans Manual for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-sound-integration-adding-audio-to-your-ae-projects/"><u>Updated In 2024, Mastering Sound Integration Adding Audio to Your AE Projects</u></a></li>
 </ul></div>
 

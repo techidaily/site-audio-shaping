@@ -1,7 +1,7 @@
 ---
 title: Updated The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects for 2024
-date: 2024-11-19T16:59:12.081Z
-updated: 2024-11-24T07:05:36.149Z
+date: 2024-11-29T07:53:45.728Z
+updated: 2024-12-02T02:03:47.871Z
 tags: 
   - audio editing software
   - audio editing
@@ -31,7 +31,7 @@ However, you will need to have at least basic video and sound editing skills to 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
@@ -41,6 +41,14 @@ However, you will need to have at least basic video and sound editing skills to 
 Once you've created a new project in AE and you've imported the audio files you'd like to include in the soundtrack of the video you're making, you should place that audio file on the timeline. Click on the arrow located next to the audio file, then click on the Audio arrow that will be displayed under the file, and finally click on the Waveform arrow. This will enable you to see the waveform of the audio file you'd like to edit on the timeline and allow you to add Fade in and fade out effects with more precision. The file you added to your composition will be displayed as a layer in the Composition tab located in the lower-left region of the software's interface.
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
 
@@ -60,10 +68,6 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Avoid Hard Cuts
 
 A high pitch sound at the very begging of a new sequence can ruin your soundtrack and ultimately the entire video, so in case you've cut an audio file at the location where the sound peaks, you can apply a fade in effect to make the transition between two audio files softer.
@@ -71,20 +75,20 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -93,10 +97,6 @@ Fading in or fading out audio files in Adobe After Effects doesn't require much 
 If you want to fade in/out audio easily, we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is designed for people who wish to edit professional videos with simple-to-use features. Besides Fade in/out audio in Filmora, you can automatically sync audio to video. Download it now to have a try (free)!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -113,20 +113,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevating-your-images-with-words-step-by-step-guide-for-adding-text-on-pcmac/"><u>[New] 2024 Approved Elevating Your Images with Words Step-by-Step Guide for Adding Text on PC/Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-easy-way-to-change-and-upgrade-iphones-ringtones/"><u>[New] The Easy Way to Change and Upgrade iPhone's Ringtones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-instagrams-rule-on-posted-videos-for-2024/"><u>[Updated] Unveiling Instagram’s Rule on Posted Videos for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/channel-upgrade-the-beginners-roadmap-to-video-mastery/"><u>Channel Upgrade The Beginner's Roadmap to Video Mastery</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>In 2024, From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/llama-two-unlocking-its-potential-and-applications/"><u>Llama ˈTwo: Unlocking Its Potential and Applications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-seamless-gaming-in-v-rising-solving-stutter-issues-on-your-pc/"><u>Mastering the Art of Seamless Gaming in V Rising: Solving Stutter Issues on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-scanning-condensed-viewing-for-file-finder/"><u>Simplified Scanning: Condensed Viewing for File Finder</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/omprequad-video-captioning-techniques-for-youtube-for-2024/"><u>The Comprequad Video Captioning Techniques for YouTube for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-premier-solution-for-crossing-over-content-on-ios-and-android-pcs-discover-the-ease-of-using-winx-mediatrans-to-transfer-images-audio-and-video-with-fin123/"><u>The Premier Solution for Crossing Over Content on iOS & Android PCs: Discover the Ease of Using WinX MediaTrans to Transfer Images, Audio, and Video with Finesse</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/unveiling-8-crucial-video-game-auditory-elements-all-free/"><u>Unveiling 8 Crucial Video Game Auditory Elements - All Free</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-comprehensive-guide-to-top-music-editing-applications-for-smartphone-users-ios-and-android-updated/"><u>Updated 2024 Approved Comprehensive Guide to Top Music Editing Applications for Smartphone Users (iOS & Android) - Updated</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step/"><u>Updated 2024 Approved The Art of Auditory Transformation Replacing Audio in Videos Step by Step</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-dawn-and-dusk-in-audio-production-navigating-the-best-windows-daws-on-offer-for-free-and-with-investment-for-2024/"><u>Updated Dawn & Dusk in Audio Production Navigating the Best Windows DAWs on Offer, For Free & With Investment for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-explore-8-essential-rainfall-audio-libraries-available-to-download/"><u>Updated Explore 8 Essential Rainfall Audio Libraries Available to Download</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-commanders-quest-the-ultimate-list-of-total-war-classics-for-2024/"><u>[New] Commanders’ Quest The Ultimate List of Total War Classics for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-down-the-process-of-checking-blocked-users/"><u>Breaking Down the Process of Checking Blocked Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-siri-with-apples-ai-anticipate-major-revamps-by-2025-says-zdnet/"><u>Enhancing Siri with Apple's AI: Anticipate Major Revamps by 2025, Says ZDNet</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/exporting-data-from-pdfs-top-3-strategies-explained/"><u>Exporting Data From PDFs: Top 3 Strategies Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/filmudtrykk-konvert-i-mp4-format-gratis-online-beromte-movavi-konverter-til-windows-og-mac/"><u>Filmudtrykk Konvert I MP4 Format Gratis Online: Berømte Movavi-Konverter Til Windows Og Mac</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-deciphering-the-unheard-advanced-audio-separation-techniques-for-digital-videos/"><u>In 2024, Deciphering the Unheard Advanced Audio Separation Techniques for Digital Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-top-picks-for-zero-price-mp3-fusion-technology/"><u>In 2024, Top Picks for Zero-Price MP3 Fusion Technology</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-rhythm-rulers-the-ultimate-list-of-hit-identification-tools-revised/"><u>New 2024 Approved Rhythm Rulers The Ultimate List of Hit Identification Tools, Revised</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-vocal-visions-utilizing-your-iphone-as-an-audio-identifier-tool/"><u>New 2024 Approved Vocal Visions Utilizing Your iPhone as an Audio Identifier Tool</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-5-top-ranked-social-media-series-for-crafting-effective-marketing-tactics/"><u>New In 2024, 5 Top-Ranked Social Media Series for Crafting Effective Marketing Tactics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/strategies-to-ensure-iphone-camera-focus/"><u>Strategies to Ensure iPhone Camera Focus</u></a></li>
 </ul></div>
 

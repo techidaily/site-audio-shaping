@@ -1,7 +1,7 @@
 ---
 title: Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
-date: 2024-11-18T10:01:58.667Z
-updated: 2024-11-24T00:37:43.458Z
+date: 2024-11-29T07:33:23.235Z
+updated: 2024-12-01T18:53:05.249Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,21 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-clear-screening-for-focused-online-participation-for-2024/"><u>[New] Clear Screening for Focused Online Participation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-tiktok-videos-with-strategic-zoom-use/"><u>[New] Professional TikTok Videos with Strategic Zoom Use</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-strategic-use-of-slug-lines-in-blogging/"><u>2024 Approved Strategic Use of Slug Lines in Blogging</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-every-detail-tactics-for-streamlined-meet-recordings/"><u>In 2024, Capturing Every Detail Tactics for Streamlined Meet Recordings</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-cultivating-an-audience-naturally-youtubes-way/"><u>In 2024, Cultivating an Audience Naturally - YouTube's Way</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-xr-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone XR or iPad?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-zero-noise-videos-how-to-extract-audio-free-mp4mkvavimov-files/"><u>New 2024 Approved Zero-Noise Videos How to Extract Audio-Free MP4/MKV/AVI/MOV Files</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-advanced-audio-configuration-tips-for-devices/"><u>New In 2024, Advanced Audio Configuration Tips for Devices</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-innovating-sound-design-the-impact-and-prowess-of-magix-samplitude/"><u>New In 2024, Innovating Sound Design The Impact and Prowess of MAGIX Samplitude</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-google-pixel-7a-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Google Pixel 7a Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-instructions-hp-printer-model-4630/"><u>Update Instructions: HP Printer Model 4630</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-achieving-profound-pronunciation-in-filmora-videos/"><u>Updated Achieving Profound Pronunciation in Filmora Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-premiere-sneak-peeks-cinema-edition/"><u>[New] Premiere Sneak Peeks - Cinema Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-video-storage-hours-to-gb-estimation/"><u>[Updated] 2024 Approved Video Storage Hours to GB Estimation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-preparing-your-environment-zoom-room-configuration-tips/"><u>[Updated] Preparing Your Environment Zoom Room Configuration Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-fujitsn-scansnap-ix1600-evaluation-the-ultimate-workstation-document-scanner/"><u>Comprehensive Fujitsn ScanSnap iX1600 Evaluation: The Ultimate Workstation Document Scanner</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/effortlessly-transform-ape-audio-into-wma-use-movavis-no-cost-web-service/"><u>Effortlessly Transform APE Audio Into WMA - Use Movavi's No-Cost Web Service</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-12-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme 12 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-a60ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Itel A60ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-device-not-migrated-problems-on-windows-11/"><u>Step-by-Step Guide: Overcoming 'Device Not Migrated' Problems on Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-audio-length-reduction-in-apples-imovie-app-for-2024/"><u>The Ultimate Guide to Audio Length Reduction in Apples iMovie App for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unraveling-virtual-realitys-interactive-gear-for-2024/"><u>Unraveling Virtual Reality's Interactive Gear for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-free-8-best-daw-for-chromebook-to-make-music/"><u>Updated 2024 Approved FREE 8 Best DAW for Chromebook to Make Music</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmonious-humans-cutting-out-clamor-from-your-compiled-charts-digitally/"><u>Updated 2024 Approved Harmonious Humans Cutting Out Clamor From Your Compiled Charts Digitally</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-navigating-the-best-no-cost-podcast-software-a-comprehensive-list-for-mobile-users/"><u>Updated 2024 Approved Navigating the Best No-Cost Podcast Software A Comprehensive List for Mobile Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-aiff-to-mp3-an-experts-methodology-for-audio-conversion/"><u>Updated AIFF to MP3 An Experts Methodology for Audio Conversion</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-championing-quiet-calls-how-to-silence-zoom-audio-quickly-and-easily-for-2024/"><u>Updated Championing Quiet Calls How to Silence Zoom Audio Quickly and Easily for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-to-text-made-simple-top-free-apps-for-android-and-ios-users/"><u>Updated In 2024, Audio to Text Made Simple Top Free Apps for Android and iOS Users</u></a></li>
 </ul></div>
 

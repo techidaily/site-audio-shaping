@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed"
-date: 2024-11-16T17:26:41.059Z
-updated: 2024-11-24T07:52:04.759Z
+date: 2024-11-29T21:09:12.195Z
+updated: 2024-12-01T19:12:14.283Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide to Choosing an All-Purpose Laptop: Asus VivoBook Eleven Reviewed"
@@ -41,10 +41,6 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
@@ -71,10 +67,6 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -90,10 +82,6 @@ Lifewire / Erika Rawes
  The Vivosmart 4 is one of the more comfortable fitness trackers I’ve tested. Most of the time, I’d forget I was even wearing the tracker until it vibrated. The band’s side edges are rounded off, making it feel more comfortable against the skin.
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
 
@@ -114,10 +102,14 @@ Lifewire / Erika Rawes
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Garmin Connect App**
 
@@ -131,6 +123,10 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Battery: May last a full seven days**
 
  The battery is supposed to last for up to seven days, but the battery life depends largely on the features you use and how frequently you use the tracker. If you’re only passively tracking a few metrics, your battery might last a full week. If you’re constantly checking your heart rate, pulse ox, stress levels, sleep, and counting reps several times a day, your battery will not last that long. I got three and a half days of battery life when taking full advantage of the fitness tracker’s features.
@@ -140,6 +136,10 @@ Lifewire / Erika Rawes
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
@@ -152,7 +152,7 @@ Lifewire / Erika Rawes
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -195,18 +195,15 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-laymans-land-easy-to-construct-mc-homes-unlocked-for-2024/"><u>[New] Layman's Land Easy-to-Construct MC Homes Unlocked for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-new-horizons-a-look-at-movavi-video-editor-plus-2024/"><u>[New] New Horizons A Look at Movavi Video Editor Plus 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-best-extras-to-maximize-your-yi-4k-shooting-for-2024/"><u>[New] The Best Extras to Maximize Your YI 4K Shooting for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-fast-forward-memories-samsung-timelapse-basics/"><u>2024 Approved Fast-Forward Memories Samsung Timelapse Basics</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-premier-screen-capture-device-essential-for-video-sharers/"><u>In 2024, Premier Screen Capture Device Essential for Video Sharers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unboxing-premium-game-devices-youtube-edition/"><u>In 2024, Unboxing Premium Game Devices YouTube Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-solve-error-0x800f0831-easily-via-windows-update-tool/"><u>Step-by-Step Guide: Solve Error 0X800f0831 Easily via Windows Update Tool</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-noise-free-zone-step-by-step-guide-to-refining-audio-quality-with-audacity-and-filmorapro/"><u>The Noise-Free Zone Step-by-Step Guide to Refining Audio Quality with Audacity and FilmoraPro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-insiders-guide-to-preserving-your-spotify-collection-in-local-formats/"><u>Updated 2024 Approved The Insiders Guide to Preserving Your Spotify Collection in Local Formats</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-efficient-auditory-import-techniques-for-adobe-premiere-pro-users/"><u>Updated Efficient Auditory Import Techniques for Adobe Premiere Pro Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-essential-pop-tunes-assortment-for-enhancing-video-narratives-with-dynamic-soundscapes/"><u>Updated Essential Pop Tunes Assortment for Enhancing Video Narratives with Dynamic Soundscapes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-10plus-best-podcast-player-apps-for-iphone-and-android/"><u>Updated In 2024, 10+ Best Podcast Player Apps for iPhone and Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-composing-accompaniment-for-film-scenes/"><u>Updated In 2024, Composing Accompaniment for Film Scenes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-seamless-playlist-transfer-migrating-from-spotify-to-youtube-music-service-for-2024/"><u>[Updated] Seamless Playlist Transfer Migrating From Spotify to YouTube Music Service for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hubsan-h501s-exploration-the-ultimate-fpv-experience/"><u>Hubsan H501S Exploration The Ultimate FPV Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-15-best-rock-songs-that-you-should-know/"><u>In 2024, 15 Best Rock Songs That You Should Know</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pros-secret-windows-11-gems-uncovered/"><u>In 2024, Pro's Secret Windows 11 Gems Uncovered</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-efficient-mp3-dividing-techniques-mastering-audio-splitting-speedily/"><u>New Efficient MP3 Dividing Techniques Mastering Audio Splitting Speedily</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-creating-a-diminuendo-effect-in-imovie-audio-tracks/"><u>New In 2024, Creating a Diminuendo Effect in iMovie Audio Tracks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-innovative-music-creation-with-ipads-the-8-leading-ios-daws-you-must-try/"><u>New Innovative Music Creation with iPads The 8 Leading iOS DAWs You Must Try</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-essence-of-great-edu-videos-a-compreenasion-guide-to-youtube-excellence-for-2024/"><u>The Essence of Great Edu-Videos A Compreenasion Guide to YouTube Excellence for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-top-5-non-windows-solutions-to-the-windows-snipping-tool-limitation/"><u>The Top 5 Non-Windows Solutions to the Window’s Snipping Tool Limitation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-the-power-of-persuasion-perfecting-your-shorts-visual-hook-for-2024/"><u>Unlock the Power of Persuasion Perfecting Your Shorts' Visual Hook for 2024</u></a></li>
 </ul></div>
 

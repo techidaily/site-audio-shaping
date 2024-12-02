@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2024-11-16T20:43:15.284Z
-updated: 2024-11-24T06:23:09.458Z
+date: 2024-11-28T08:47:50.208Z
+updated: 2024-12-01T23:35:03.817Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _"Can you explain to us the simple method to execute **audio ducking**?”_
 I hope you're already aware of **the audio ducking** feature if you're into video editing or any music industry. The audio ducking is commonly to balance two audios. You can see the very typical application while balancing the background music with the person speaking there. So, the different voices would pop up and needs an adjustment according to the scenario. However, selecting the most straightforward process and genuine video editor is the user's responsibility to get the task done effectively. So, here, we would like to discuss the audio ducking function of **CyberLink PowerDirector** along with a suitable alternative - **Wondershare Filmora**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Fade Out Music in PowerDirector?
@@ -57,7 +57,7 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -75,6 +75,10 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
 
@@ -99,7 +103,7 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -110,14 +114,10 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,21 +134,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pioneering-non-udemy-virtual-classrooms-for-learning/"><u>[New] 2024 Approved Pioneering Non-Udemy Virtual Classrooms for Learning</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-top-10-destinations-for-high-end-vectors/"><u>[New] Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-in-depth-look-at-razers-hd-webcam-experience/"><u>2024 Approved In-Depth Look at Razer's HD Webcam Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-techniques-for-correcting-motion-blur-from-drones/"><u>2024 Approved Techniques for Correcting Motion Blur From Drones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-damaged-windows-store-caches-solved/"><u>Expert Tips for Fixing Damaged Windows Store Caches - SOLVED!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-reset-your-computer-despite-errors/"><u>How to Successfully Reset Your Computer Despite Errors</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-free-web-based-daws-that-are-changing-music-production-the-top-10/"><u>In 2024, Free, Web-Based DAWs That Are Changing Music Production The Top 10</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-purity-of-music-step-by-step-processes-for-eliminating-vocal-elements-from-songs/"><u>In 2024, Purity of Music Step-by-Step Processes for Eliminating Vocal Elements From Songs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-upgrades-tips-and-tricks-from-the-experts-at-toms-hardware/"><u>Master Your PC Upgrades: Tips & Tricks From the Experts at Tom's Hardware</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-exploring-options-beyond-apowersoft-a-complete-guide-to-audio-recording-tools/"><u>New In 2024, Exploring Options Beyond Apowersoft A Complete Guide to Audio Recording Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-complete-tutorial-adding-soundtracks-to-gif-files-using-macos-tools/"><u>New In 2024, The Complete Tutorial Adding Soundtracks to GIF Files Using macOS Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-5-online-text-to-speech-websites/"><u>New In 2024, Top 5 Online Text to Speech Websites</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-tier-tempo-tune-videography-tools/"><u>New In 2024, Top-Tier Tempo Tune Videography Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-superior-mpeg-4-to-mp3-transformer-flawless-gratuitous-migration-from-mpa-files-to-mp3-clips-2023-version/"><u>New Superior MPEG-4 to MP3 Transformer Flawless, Gratuitous Migration From MPA Files to MP3 Clips (2023 Version)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-latest-wireless-device-drivers-on-win11win10-systems/"><u>Step-by-Step Guide: Installing Latest Wireless Device Drivers on Win11/Win10 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-bavarder-chatgpt-for-linux-users/"><u>Streamline Bavarder ChatGPT for Linux Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-acquire-version-6-of-windows-movie-maker/"><u>[New] 2024 Approved How to Acquire Version 6 of Windows Movie Maker</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-video-captioning-on-youtube/"><u>[New] Mastering Video Captioning on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-polishing-profile-vids-tips-and-tricks-for-2024/"><u>[New] Polishing Profile Vids Tips and Tricks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-platforms-to-download-and-listen-to-dj-music/"><u>2024 Approved Platforms to Download and Listen to DJ Music</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-today-qualcomms-top-notch-atheros-ar3011-bluetooth-30-support-software/"><u>Install Today: Qualcomm's Top-Notch Atheros AR3011 Bluetooth 3.0 Support Software</u></a></li>
+<li><a href="https://win11.techidaily.com/is-a-drive-missing-on-windows-heres-how-to-fix-it/"><u>Is a Drive Missing on Windows? Here's How to Fix It</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-audio-sampling-tips-and-techniques-to-adjust-sample-rates-for-superior-playback-experience/"><u>Mastering Audio Sampling: Tips & Techniques to Adjust Sample Rates for Superior Playback Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-sonic-landscape-a-study-on-sound-forgeutility/"><u>New The Sonic Landscape A Study on Sound Forgeutility</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tracking-down-enhanced-alien-voices-effects-for-2024/"><u>New Tracking Down Enhanced Alien Voices Effects for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/what-is-omegle-is-omegle-safe/"><u>What Is Omegle, Is Omegle Safe？</u></a></li>
 </ul></div>
 

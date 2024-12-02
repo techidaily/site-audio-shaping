@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking
-date: 2024-11-20T00:19:50.932Z
-updated: 2024-11-24T06:31:30.021Z
+date: 2024-11-25T03:20:48.316Z
+updated: 2024-12-02T08:25:25.525Z
 tags: 
   - audio editing software
   - audio editing
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fb
 Video making or filmmaking has now come to the level where the history of imperfections faded away a long time ago. Yes, while the animation is still ruling the floor, an inevitable back-end process might look off-screen and a little complicated. One such job is **ducking sound** that is the process of balancing voiceover and the background audio. If you aren't a tech-savvy person, I hope to go in-depth isn't needed, and hence we stop here. To depict how you need to work out this **ducking music** process, we have this post.
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
 
@@ -55,7 +59,7 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: The Best Audio Ducking Alternative to OBS
@@ -70,7 +74,7 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to use the audio ducking feature in Wondershare Filmora?
@@ -78,7 +82,7 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
@@ -99,10 +103,6 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
@@ -110,7 +110,7 @@ I hope you have now come to know why **ducking sound** is a must and how well **
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -128,24 +128,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-wallet-friendly-microphones-for-social-media-stars/"><u>[New] 2024 Approved Wallet-Friendly Microphones for Social Media Stars</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-interactive-narratives-basics-and-beyond-for-2024/"><u>[New] Interactive Narratives Basics and Beyond for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-moviemaker-masterwin8/"><u>[New] MovieMaker MasterWin8</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-screencapture-unveiled-the-ultimate-review-of-camstudio/"><u>[New] ScreenCapture Unveiled The Ultimate Review of CamStudio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fast-and-easy-photovideo-exchange-between-ios-gear/"><u>[Updated] Fast & Easy Photo/Video Exchange Between iOS Gear</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-zoom-transcription-apps-finding-value-in-freepaid/"><u>[Updated] In 2024, Essential Zoom Transcription Apps Finding Value in Free/Paid</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones/"><u>[Updated] In 2024, Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-caption-12/"><u>2024 무료 맥 Caption 톱 12: 가장 신선한 사진 기록 소품으로 독자를 위해!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-world-the-ultimate-guide-to-installing-asus-970-pro-gpus/"><u>Enhance Your Gaming World: The Ultimate Guide to Installing Asus 970 Pro GPUs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-unveiling-the-premier-10-windows-and-apple-devices-compatible-daws-of-today/"><u>New Unveiling the Premier 10 Windows & Apple Devices-Compatible DAWs of Today</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/reentry-guide-regaining-access-on-omegle-after-a-ban-for-2024/"><u>Reentry Guide Regaining Access on Omegle After a Ban for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-breakdown-of-ea-plays-monetary-requirements/"><u>The Breakdown of EA Play's Monetary Requirements</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-smartest-spots-to-download-trendy-whoosh-sounds-online/"><u>The Smartest Spots to Download Trendy Whoosh Sounds Online</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/top-3-budget-friendly-methods-to-transcribe-sound-into-words-detailed-processes-2023-for-2024/"><u>Top 3 Budget-Friendly Methods to Transcribe Sound Into Words Detailed Processes - 2023 for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-essential-techniques-for-striking-podcast-cover-designs-your-step-by-step-guide-for-2024/"><u>Updated Essential Techniques for Striking Podcast Cover Designs Your Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-add-audio-to-video-in-android-for-2024/"><u>Updated How to Add Audio to Video in Android for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-change-volume-in-media-files-with-filmora/"><u>Updated How to Change Volume in Media Files with Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-remove-audio-from-avi-for-2024/"><u>Updated How to Remove Audio From AVI for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-identifying-premium-options-for-customizing-mac-audio-files-for-2024/"><u>Updated Identifying Premium Options for Customizing Mac Audio Files for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-making-a-splash-how-to-improve-your-videos-with-instagram-edits/"><u>[Updated] In 2024, Making a Splash How to Improve Your Videos with Instagram Edits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-notable-creators-superior-insta-highlight-craftsmen-for-2024/"><u>[Updated] Notable Creators Superior Insta Highlight Craftsmen for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475625941-apple-declines-your-card-here-are-6-ways-to-fix-it-quickly/"><u>Apple Declines Your Card? Here Are 6 Ways To Fix It Quickly.</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-erratic-printer-spooler-behavior-win-11-and-older/"><u>Fixing Erratic Printer Spooler Behavior (Win 11 & Older)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-t2x-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo T2x 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-best-voice-recording-apps-for-android-free-options-included/"><u>In 2024, Best Voice Recording Apps for Android Free Options Included</u></a></li>
+<li><a href="https://games-able.techidaily.com/insider-advice-on-digital-xbox-seriess-returns/"><u>Insider Advice on Digital Xbox Series/S Returns</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-auditory-cuts-and-segments-convenient-methods-to-divide-your-music-files/"><u>New 2024 Approved Auditory Cuts and Segments Convenient Methods to Divide Your Music Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audiophiles-toolkit-implementing-smooth-audio-transitions-with-ducking-in-adobe-premiere-pro-mac/"><u>New Audiophiles Toolkit Implementing Smooth Audio Transitions with Ducking in Adobe Premiere Pro (Mac)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-revolutionize-your-soundtracks-a-comprehensive-guide-to-the-most-effective-voice-suppressing-technology-in-music-and-karaoke-production/"><u>New In 2024, Revolutionize Your Soundtracks A Comprehensive Guide to the Most Effective Voice-Suppressing Technology in Music and Karaoke Production.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-modern-methods-of-mixing-media-the-latest-on-adding-sound-to-ae-projects-2023s-insights-and-tips/"><u>New Modern Methods of Mixing Media The Latest on Adding Sound to AE Projects (2023S Insights and Tips)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear-for-2024/"><u>Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unified-video-ventures-selecting-an-mcn-for-2024/"><u>Unified Video Ventures Selecting an MCN for 2024</u></a></li>
 </ul></div>
 

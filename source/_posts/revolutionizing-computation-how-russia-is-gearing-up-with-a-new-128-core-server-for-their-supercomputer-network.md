@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-11-23T08:28:15.187Z
-updated: 2024-11-24T01:54:34.555Z
+date: 2024-11-30T21:48:53.953Z
+updated: 2024-12-02T08:56:21.691Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,22 +76,16 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-record-with-chrome-os-native-screen-recorder-for-2024/"><u>[Updated] Record with Chrome OS Native Screen Recorder for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-ultimate-guide-high-quality-mp4-compression-techniques-without-sacrificing-clarity/"><u>1. Ultimate Guide: High-Quality MP4 Compression Techniques Without Sacrificing Clarity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-logitech-rx250-software-compatible-with-windows-7-8-and-10/"><u>Download the Latest Logitech RX250 Software Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-yakuza-like-a-dragon-the-ultimate-rpg-experience/"><u>Essential Guide: Yakuza: Like a Dragon - The Ultimate RPG Experience</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-professional-livestream-selector-pick-between-virusmix-and-castpro/"><u>In 2024, Professional Livestream Selector Pick Between VirusMix and CastPro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-latest-usb-30-drivers-on-your-windows-computer/"><u>Install the Latest USB 3.0 Drivers on Your Windows Computer</u></a></li>
-<li><a href="https://network-issues.techidaily.com/success-with-amd-on-windows-driver-load-now-functioning-properly/"><u>Success with AMD on Windows, Driver Load Now Functioning Properly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-youtube-success-with-tubebuddy/"><u>The Ultimate Guide to YouTube Success with TubeBuddy</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oneplus-12-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your OnePlus 12 Phone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-audio-blending-techniques-creating-a-unified-soundtrack-for-videos/"><u>Updated 2024 Approved Audio Blending Techniques Creating a Unified Soundtrack for Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-exploring-the-best-macdaws-an-extensive-review-of-the-top-8-software/"><u>Updated 2024 Approved Exploring the Best MacDAWs An Extensive Review of the Top 8 Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-step-by-step-on-incorporating-sound-into-videos-using-magix/"><u>Updated 2024 Approved The Ultimate Step-by-Step on Incorporating Sound Into Videos Using Magix</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-applications-for-adding-audio-to-video-in-android/"><u>Updated Applications for Adding Audio to Video in Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-canticle-cleanse-software-generate-artisanal-harmony-tracks-for-2024/"><u>Updated Canticle Cleanse Software Generate Artisanal Harmony Tracks for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-add-audio-to-mp4-mpeg-mpg-video/"><u>Updated How to Add Audio to MP4 (MPEG, MPG) Video</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-syncing-simplified-2023s-innovative-methods-for-perfectly-timed-video-content/"><u>Updated In 2024, Audio Syncing Simplified 2023S Innovative Methods for Perfectly Timed Video Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uick-ways-to-randomize-youtube-playlist-on-pcphonestvs/"><u>[New] Quick Ways to Randomize YouTube Playlist On PC/Phones/TVs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-sounds-for-video-creators-royalty-free-options/"><u>[Updated] 2024 Approved Top Sounds for Video Creators Royalty-Free Options</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-elevate-your-social-media-game-post-tiktoks-on-twitter/"><u>2024 Approved Elevate Your Social Media Game Post TikToks on Twitter</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-100-secure-and-ethical-actions-for-tiktok-success/"><u>In 2024, 100% Secure & Ethical Actions for TikTok Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-best-grids-built-by-the-top-tools-compiled-here/"><u>Instagram's Best Grids Built by the Top Tools Compiled Here</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-enhancing-vocal-quality-post-pitch-correction-using-audacity/"><u>New 2024 Approved Enhancing Vocal Quality Post-Pitch Correction Using Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>New Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-complete-tutorial-on-augmenting-android-video-projects-with-essential-audioscapes/"><u>New In 2024, The Complete Tutorial on Augmenting Android Video Projects with Essential Audioscapes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-melodies-in-motion-curating-a-list-of-audiovisual-wonders-for-music-lovers-free-and-paid/"><u>New Melodies in Motion Curating a List of Audiovisual Wonders for Music Lovers (Free and Paid)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-data-recovery-solutions-protect-your-memories-now/"><u>Ultimate iPhone Data Recovery Solutions - Protect Your Memories Now</u></a></li>
 </ul></div>
 
