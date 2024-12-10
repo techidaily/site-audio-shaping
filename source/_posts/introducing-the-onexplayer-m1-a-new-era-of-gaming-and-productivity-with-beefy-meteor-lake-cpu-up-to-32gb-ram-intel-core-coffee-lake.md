@@ -1,7 +1,7 @@
 ---
 title: Introducing the OneXPlayer M1 - A New Era of Gaming & Productivity with Beefy Meteor Lake CPU, Up to 32GB RAM, Intel Core Coffee Lake
-date: 2024-11-11T20:17:01.858Z
-updated: 2024-11-14T23:08:34.401Z
+date: 2024-12-05T03:10:30.909Z
+updated: 2024-12-10T01:59:47.922Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -60,31 +64,20 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-skip-past-fb-video-ads-effectively/"><u>[New] 2024 Approved Skip Past FB Video Ads Effectively</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-becoming-a-pro-at-iphone-hdr-imaging/"><u>[New] In 2024, Becoming a Pro at iPhone HDR Imaging</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-livestream-guide-decide-between-pmix-and-wirecast-for-2024/"><u>[Updated] Ultimate Livestream Guide Decide Between PMix & Wirecast for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximizing-reach-tweeting-on-facebook/"><u>2024 Approved Maximizing Reach Tweeting on Facebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/behind-the-lens-mastery-5-essential-cinematographic-insights/"><u>Behind the Lens Mastery 5 Essential Cinematographic Insights</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-se-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone SE</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/secure-your-discounted-quad-core-snapdragon-x-elite-pc-exclusive-preorder-of-the-compact-gaming-desktop-device/"><u>Secure Your Discounted Quad-Core Snapdragon X Elite PC: Exclusive Preorder of the Compact Gaming Desktop Device!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-distinctions-between-ipad-pro-and-macbook-air/"><u>Understanding the Distinctions Between iPad Pro and MacBook Air</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unleashing-funimate-joy-comprehensive-tutorials-for-2024/"><u>Unleashing Funimate Joy - Comprehensive Tutorials for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/unveiling-high-performance-pcs-at-toms-digital-workshop/"><u>Unveiling High-Performance PCs at Tom's Digital Workshop</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>Updated No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-revolutionizing-music-production-a-look-at-the-leading-audio-editing-suites/"><u>Updated Revolutionizing Music Production A Look at the Leading Audio Editing Suites</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-speech-to-text-software-showdown-discover-the-top-8-options-for-pcs-macs-and-online-accessibility-for-2024/"><u>Updated Speech-to-Text Software Showdown Discover the Top 8 Options for PCs, Macs and Online Accessibility for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-10-free-browser-based-daws-for-creatives/"><u>Updated Top 10 Free Browser-Based DAWs for Creatives</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-7-audio-de-singer-tools-for-effective-vocal-elimination-for-2024/"><u>Updated Top 7 Audio De-Singer Tools for Effective Vocal Elimination for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-unlock-your-creative-potential-best-free-software-to-produce-music-on-pc-and-mac-2023-edition-for-2024/"><u>Updated Unlock Your Creative Potential Best Free Software to Produce Music on PC & Mac, 2023 Edition for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-what-is-omegle-is-omegle-safe-for-2024/"><u>Updated What Is Omegle, Is Omegle Safe？ for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-headset-not-working-on-windows-11-solved/"><u>USB Headset Not Working on Windows 11 [Solved]</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-5-prime-fb-video-extractor-guide/"><u>[New] 2024 Approved 5 Prime FB Video Extractor Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-secure-snap-savings-androidmac-apps-guide/"><u>[New] 2024 Approved Secure Snap Savings Android/Mac Apps Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elevate-your-content-instagram-stories-with-podcasts/"><u>[Updated] In 2024, Elevate Your Content Instagram Stories with Podcasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-quintessential-play-by-radio-stories/"><u>[Updated] In 2024, Quintessential Play-by-Radio Stories</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-find-angry-dog-bark-effect/"><u>2024 Approved Find Angry Dog Bark Effect</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>2024 Approved The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-link-building-101-a-content-marketers-guide/"><u>2024 Approved YouTube Link-Building 101 A Content Marketer's Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discovering-the-best-vocal-enhancement-tools-an-examination-and-comparison/"><u>New 2024 Approved Discovering the Best Vocal Enhancement Tools An Examination & Comparison</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-methods-to-manipulate-amplitude-in-mp3-wav-and-mpeg-files/"><u>New 2024 Approved Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-unlock-the-potential-of-amr-waves-detailed-guide-to-their-conversion-and-manipulation/"><u>New 2024 Approved Unlock the Potential of AMR WAVES Detailed Guide to Their Conversion and Manipulation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elevating-your-video-projects-with-audio-synchronization-in-magix-pro/"><u>New In 2024, Elevating Your Video Projects with Audio Synchronization in Magix Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-premier-free-mp3-harmonizer-software/"><u>New In 2024, Premier Free MP3 Harmonizer Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-turning-the-tables-on-sound-innovations-in-audio-reversal-technology/"><u>New In 2024, Turning the Tables on Sound Innovations in Audio Reversal Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/prioritize-your-videography-with-top-12-players/"><u>Prioritize Your Videography with Top 12 Players</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-process-for-transitioning-your-server-from-windows-server-2019-to-2022-edition/"><u>Step-by-Step Process for Transitioning Your Server From Windows Server 2019 to 2022 Edition</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

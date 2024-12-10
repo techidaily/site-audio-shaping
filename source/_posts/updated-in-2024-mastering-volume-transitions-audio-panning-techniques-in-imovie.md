@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering Volume Transitions Audio Panning Techniques in iMovie
-date: 2024-11-26T07:51:01.570Z
-updated: 2024-12-02T04:04:12.524Z
+date: 2024-12-07T01:22:51.144Z
+updated: 2024-12-09T19:52:05.862Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,10 +51,6 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -66,7 +62,7 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
@@ -78,7 +74,7 @@ Move the pointer over a waveform, and drag the small gray fade handle at the lef
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3. Playback to Check
@@ -87,11 +83,11 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
-**Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
@@ -102,6 +98,10 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -147,13 +147,13 @@ Click the "Export" button to select one of the export methods. You can choose yo
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -170,22 +170,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-mastery-the-top-10-steps-to-optimize-engagement-for-2024/"><u>[New] Instagram Mastery The Top 10 Steps to Optimize Engagement for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/creative-composition-concepts-fostering-joyful-spaces/"><u>Creative Composition Concepts Fostering Joyful Spaces</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-no-video-input-monitor-error-step-by-step/"><u>Fix No Video Input Monitor Error (Step by Step)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-your-laptops-trackpad-when-it-fails-to-work-with-windows-os/"><u>How to Repair Your Laptop's Trackpad When It Fails to Work with Windows OS</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-x-flip-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo X Flip FRP?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/try-insiders-reveal-their-favorite-gif-makers-for-2024/"><u>Industry Insiders Reveal Their Favorite GIF Makers for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-unveiling-the-best-8-sonic-wave-patterns-to-improve-your-video-soundtracks-in-2-habits/"><u>New Unveiling the Best 8 Sonic Wave Patterns to Improve Your Video Soundtracks in 2 Habits</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/pinnacle-voice-technology-winmacs-siri-simulator-for-2024/"><u>Pinnacle Voice Technology Win/Macs Siri Simulator for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/seamless-audio-isolation-from-videos-on-different-platforms-a-comprehensive-guide-windows-and-macos-iphoneipad-and-android-devices-new-edition/"><u>Seamless Audio Isolation From Videos on Different Platforms A Comprehensive Guide (Windows & macOS, iPhone/iPad & Android Devices - New Edition)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/sound-design-excellence-applying-audio-ducking-methods-in-powerdirector-for-non-intrusive-volume-reduction-for-2024/"><u>Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/transform-your-accounting-workflow-with-smart-ai-financial-document-processing-solutions/"><u>Transform Your Accounting Workflow with Smart AI Financial Document Processing Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-randomly-pressed-buttons-fixes-for-keyboard-errors/"><u>Troubleshooting Randomly Pressed Buttons: Fixes for Keyboard Errors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-leading-cordless-telephones/"><u>Ultimate Guide: Leading Cordless Telephones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-10-best-podcast-hosting-platforms/"><u>Updated 2024 Approved 10 Best Podcast Hosting Platforms</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-to-achieve-pristine-sound-quality-tactics-to-reduce-echo/"><u>Updated 2024 Approved How to Achieve Pristine Sound Quality Tactics to Reduce Echo</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-to-recognize-songs-on-iphone/"><u>Updated 2024 Approved How to Recognize Songs on iPhone?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-elevate-your-video-storytelling-with-professional-voiceovers-for-2024/"><u>Updated Elevate Your Video Storytelling with Professional Voiceovers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-vrecorder-integration-from-download-to-deployment/"><u>2024 Approved VRecorder Integration From Download to Deployment</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-exploring-screen-recording-with-zdsoft/"><u>In 2024, Exploring Screen Recording with ZDSoft</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-meizu-21-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-gionee-f3-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Gionee F3 Pro Through Google Earth?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-ultimate-tutorial-transforming-whatsapp-sound-files-into-mp3-quickly/"><u>In 2024, Ultimate Tutorial Transforming WhatsApp Sound Files Into MP3 Quickly</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-blending-audio-sources-for-professional-video-production-for-2024/"><u>New Blending Audio Sources for Professional Video Production for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-discovering-secure-online-spaces-to-connect-with-others/"><u>New Discovering Secure Online Spaces to Connect with Others</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-leading-7-solutions-to-swiftly-extract-voices-from-recordings/"><u>New In 2024, Leading 7 Solutions to Swiftly Extract Voices From Recordings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/your-guide-to-favorite-tiktok-backgrounds/"><u>Your Guide to Favorite TikTok Backgrounds</u></a></li>
 </ul></div>
 

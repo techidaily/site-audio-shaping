@@ -1,7 +1,7 @@
 ---
 title: "Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)"
-date: 2024-11-08T17:02:17.605Z
-updated: 2024-11-14T21:23:33.423Z
+date: 2024-12-08T17:03:14.247Z
+updated: 2024-12-09T22:59:55.910Z
 tags:
   - desktop
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 ## HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S
 
 [Hewlett Packard](https://www.tomshardware.com/tag/hewlett-packard) [Enterprise](https://www.tomshardware.com/tag/enterprise) (HPE), one of the world's largest makers of servers, has initiated a legal battle against Inspur Group, China's largest server maker, and its affiliates, alleging server patent infringements. HPE accuses Inspur of engaging in deceptive practices and renaming its subsidiaries in the U.S. to continue its business with American companies despite being included into the Entity List.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## HPE: Inspur infringes our patents
 
@@ -24,10 +28,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Despite being on the Entity List, Inspur continues operations in the U.S
@@ -37,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  The complaint claims that Inspur that inspur continues its operations in the United States under Aivres Systems and Betapex. Inspur allegedly removed its branding from products sold in the U.S. and continues to sell them. For example, Inspur's IR5280M6 server is Aivres's 5280M6 machine, it has the same specification and design, according to HPE's complaint. Meanwhile, Inspur has also worked as a contract maker of servers, according to The Register. Yet, if a U.S. entity plans to work with Inspur (or any other party from the Entity List), it has to get a special license from the U.S. government.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,16 +64,15 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-photography-rookies-digest-prime-cams/"><u>[Updated] Photography Rookies Digest Prime Cams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-10-must-watch-historical-channels-for-students/"><u>2024 Approved 10 Must-Watch Historical Channels for Students</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-x8b-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor X8b Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcome-compatibility-issues-installing-the-right-drivers-for-ralink-rt3290-on-modern-windows-os/"><u>Overcome Compatibility Issues: Installing the Right Drivers for Ralink RT3290 on Modern Windows OS</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/reliability-meets-portability-in-depth-review-of-the-audew-air-pump-for-versatile-use/"><u>Reliability Meets Portability: In-Depth Review of the Audew Air Pump for Versatile Use</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unmatched-5-ios-backdrop-change-solutions-iphone-x87-for-2024/"><u>Unmatched 5 iOS Backdrop Change Solutions (iPhone X/8/7) for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-analyzing-auditory-excellence-the-revised-assessment-of-the-cambridge-cxu-equipment-2023-edition/"><u>Updated In 2024, Analyzing Auditory Excellence The Revised Assessment of the Cambridge CXU Equipment, 2023 Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-six-easy-steps-to-enhance-your-videos-with-music-without-expense/"><u>Updated In 2024, Six Easy Steps to Enhance Your Videos with Music Without Expense</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-techniques-for-reducing-digital-audio-file-sizes/"><u>Updated In 2024, Techniques for Reducing Digital Audio File Sizes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-sustaining-sonic-excellence-while-changing-octave-levels-in-audacity-for-2024/"><u>Updated Sustaining Sonic Excellence While Changing Octave Levels in Audacity for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-translating-music-into-words-easy-online-techniques-for-mp3-to-text-conversion-updated-guide-for-2024/"><u>Updated Translating Music Into Words Easy Online Techniques for MP3 to Text Conversion Updated Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-cloud-storage-top-picks-revealed/"><u>[Updated] 2024 Approved Mastering Cloud Storage – Top Picks Revealed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-writers-guide-embedding-images-in-articles-without-spending/"><u>[Updated] In 2024, Writers' Guide Embedding Images in Articles Without Spending</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-revolutionize-game-recording-in-windows-11-with-these-top-strategies-for-2024/"><u>[Updated] Revolutionize Game Recording in Windows 11 with These Top Strategies for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/auditory-hunt-locating-authentic-cricket-sfx/"><u>Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enter-the-vr-zone-with-our-top-10-mobile-gear/"><u>Enter the VR Zone with Our Top 10 Mobile Gear</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guida-passo-passo-alla-risoluzione-dellerrore-nome-directory-non-valido-su-windows-10-e-11/"><u>Guida Passo-Passo Alla Risoluzione Dell'errore 'Nome Directory Non Valido' Su Windows 10 E 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audio-visual-coalescence-techniques-for-cohesive-media-creation-for-2024/"><u>New Audio-Visual Coalescence Techniques for Cohesive Media Creation for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-essential-strategies-for-identifying-top-audio-craftsmanship-expertise-for-2024/"><u>New Essential Strategies for Identifying Top Audio Craftsmanship Expertise for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-echo-to-audio-online-and-on-windows/"><u>New How to Add Echo to Audio Online and on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722888183785-the-quadratic-factor-can-be-rewritten-as-splus2kplus2splus2k-20-giving-us-two-more-roots-s-2k-2-and-s-2kplus2-these-are-distinct-real-roots-if-k-neq-1/"><u>The Quadratic Factor Can Be Rewritten as ((S+2K+2)(S+2K-2)=0 ), Giving Us Two More Roots: (S=-2K-2 ) and (S=-2K+2 ). These Are Distinct Real Roots if (K Neq 1 ).</u></a></li>
 </ul></div>
 

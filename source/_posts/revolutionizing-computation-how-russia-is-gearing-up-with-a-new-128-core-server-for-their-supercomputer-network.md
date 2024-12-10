@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-11-30T21:48:53.953Z
-updated: 2024-12-02T08:56:21.691Z
+date: 2024-12-03T04:37:01.354Z
+updated: 2024-12-09T18:52:51.447Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,16 +76,19 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/uick-ways-to-randomize-youtube-playlist-on-pcphonestvs/"><u>[New] Quick Ways to Randomize YouTube Playlist On PC/Phones/TVs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-sounds-for-video-creators-royalty-free-options/"><u>[Updated] 2024 Approved Top Sounds for Video Creators Royalty-Free Options</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-elevate-your-social-media-game-post-tiktoks-on-twitter/"><u>2024 Approved Elevate Your Social Media Game Post TikToks on Twitter</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-100-secure-and-ethical-actions-for-tiktok-success/"><u>In 2024, 100% Secure & Ethical Actions for TikTok Success</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-best-grids-built-by-the-top-tools-compiled-here/"><u>Instagram's Best Grids Built by the Top Tools Compiled Here</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-enhancing-vocal-quality-post-pitch-correction-using-audacity/"><u>New 2024 Approved Enhancing Vocal Quality Post-Pitch Correction Using Audacity</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>New Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-complete-tutorial-on-augmenting-android-video-projects-with-essential-audioscapes/"><u>New In 2024, The Complete Tutorial on Augmenting Android Video Projects with Essential Audioscapes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-melodies-in-motion-curating-a-list-of-audiovisual-wonders-for-music-lovers-free-and-paid/"><u>New Melodies in Motion Curating a List of Audiovisual Wonders for Music Lovers (Free and Paid)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-data-recovery-solutions-protect-your-memories-now/"><u>Ultimate iPhone Data Recovery Solutions - Protect Your Memories Now</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-joyful-sign-uplogout-flowchart-for-2024/"><u>[New] Joyful Sign-Up/Logout Flowchart for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-quick-content-in-a-facebook-frame/"><u>[Updated] Quick Content in a Facebook Frame</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-x9a-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor X9a Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-shielded-seeker-of-social-snapshots/"><u>2024 Approved Shielded Seeker of Social Snapshots</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/chill-out-playlists-for-non-profit-video-arrangements-for-2024/"><u>Chill-Out Playlists for Non-Profit Video Arrangements for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/former-samsung-staff-detained-after-accusations-of-stealing-18b-from-chip-giants-memories-for-chinese-competitor/"><u>Former Samsung Staff Detained After Accusations of Stealing $1.8B From Chip Giant's Memories for Chinese Competitor</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/fuhrer-kostenloser-mkv-player-ideal-zum-streaming-und-anschauen-von-mkv-dateien/"><u>Führer Kostenloser MKV Player - Ideal Zum Streaming Und Anschauen Von MKV Dateien</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-poco-m6-pro-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco M6 Pro 4G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/learn-how-to-mute-video-audio-on-windows-10-naturally-and-economically-for-2024/"><u>Learn How to Mute Video Audio on Windows 10 Naturally and Economically for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-two-screen-viewing-step-by-step-guide-for-netflix-users/"><u>Mastering Two Screen Viewing - Step By Step Guide For Netflix Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-essential-process-of-adding-sound-to-mkv-updated-videographies-for-2024/"><u>New The Essential Process of Adding Sound to MKV-Updated Videographies for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-charting-the-top-melodic-havens-s-downloadable-bgm-scores-for-2024/"><u>Updated Charting the Top Melodic Havens S Downloadable BGM Scores for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-locating-high-quality-brush-stroke-reverb-tones/"><u>Updated Locating High-Quality Brush Stroke Reverb Tones</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-web-based-music-slicer-and-combiner-application/"><u>Updated Web-Based Music Slicer & Combiner Application</u></a></li>
 </ul></div>
 

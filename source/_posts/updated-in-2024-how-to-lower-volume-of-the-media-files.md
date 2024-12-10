@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Lower Volume of the Media Files
-date: 2024-11-09T19:02:19.751Z
-updated: 2024-11-14T18:59:44.374Z
+date: 2024-12-03T17:48:11.141Z
+updated: 2024-12-09T19:44:48.355Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,20 +30,21 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lower Volume of the Media Files Step by Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1 Add media files you want to lower volume
 
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2 Lower volume of the media files
 
@@ -54,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -67,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
@@ -82,16 +77,7 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -111,20 +97,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-xsplit-download-and-review/"><u>[New] 2024 Approved XSplit Download and Review</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-filmora-for-windows-10-and-other-top-video-editors-recommendation-for-2024/"><u>[New] Filmora for Windows 10 and Other Top Video Editors Recommendation for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-definitive-guide-to-crafting-videos-on-youtube/"><u>[New] The Definitive Guide to Crafting Videos on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-mastering-mobile-media-the-art-of-filming-with-a-smartphone-for-2024/"><u>[Updated] Mastering Mobile Media The Art of Filming with a Smartphone for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-effortlessly-record-high-quality-mac-audio-using-audacity/"><u>2024 Approved Effortlessly Record High-Quality Mac Audio Using Audacity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-on-correcting-missing-or-lost-wpcapdll-errors/"><u>Comprehensive Guide on Correcting Missing or Lost Wpcap.dll Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-dolby-atmos-in-windows-1111-systems/"><u>Configuring Dolby Atmos in Windows 11/11 Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-innovative-methods-for-detaching-rhythmic-elements-in-music-files-online/"><u>In 2024, Innovative Methods for Detaching Rhythmic Elements in Music Files Online</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audiobook-authoring-made-accessible-your-ultimate-guide-to-production-in-the-year-2023-for-2024/"><u>New Audiobook Authoring Made Accessible Your Ultimate Guide to Production in the Year 2023 for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-quieting-the-cinematic-chaos-techniques-for-audio-trimming-in-imovie-videos/"><u>New In 2024, Quieting the Cinematic Chaos Techniques for Audio Trimming in iMovie Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project-for-2024/"><u>New Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-wet-adventure-with-insta360-one-x2/"><u>The Ultimate Wet Adventure with Insta360 One X2</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-animation-enthusiasts-choice-top-8-downloaded-sound-effects-for-your-projects/"><u>Updated 2024 Approved Animation Enthusiasts Choice Top 8 Downloaded Sound Effects for Your Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity/"><u>Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-your-adventures-with-top-6-head-mounted-cameras-by-gopro/"><u>[New] 2024 Approved Mastering Your Adventures with Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-video-screen-grabbers/"><u>[Updated] In 2024, Best Video Screen Grabbers</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-accessories-for-yi-4k-action-camera-for-2024/"><u>Best Accessories for YI 4K Action Camera for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-replacements-for-chatgpt-now/"><u>Discover the Leading Replacements for ChatGPT Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-techniques-for-snapping-shots-of-your-computer-screen/"><u>Effortless Techniques for Snapping Shots of Your Computer Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-9-steps-to-combat-chromes-video-blackout/"><u>In 2024, 9 Steps to Combat Chrome's Video Blackout</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-prime-5-replacements-for-twitter-users/"><u>In 2024, Prime 5 Replacements for Twitter Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/mastering-tech-choices-in-depth-gear-reviews-from-tomgadgetexperts/"><u>Mastering Tech Choices: In-Depth Gear Reviews From TomGadgetExperts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-unveiling-the-premier-10-audio-reversal-tools-for-personal-computers-and-mobile-devices/"><u>New Unveiling the Premier 10 Audio Reversal Tools for Personal Computers & Mobile Devices</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/singing-simplified-accessible-audio-enhancers-for-every-musicians-toolkit-for-2024/"><u>Singing Simplified Accessible Audio Enhancers for Every Musicians Toolkit for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-hidden-harmonics-techniques-for-non-invasively-stripping-voices-from-audio-tracks-using-audacitys-features/"><u>The Hidden Harmonics Techniques for Non-Invasively Stripping Voices From Audio Tracks Using Audacitys Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-proven-method-for-stepsigning-in-steam-titles/"><u>The Proven Method for Stepsigning in Steam Titles</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-a-deep-dive-into-voice-recordings-via-vocaroo-steps-and-similar-solutions/"><u>Updated 2024 Approved A Deep Dive Into Voice Recordings via Vocaroo Steps & Similar Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-complete-guide-to-audio-manipulation-in-avidemux/"><u>Updated 2024 Approved The Complete Guide to Audio Manipulation in Avidemux</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-advanced-audio-synchronization-a-step-by-step-guide-to-keyframe-adjustments-in-final-cut-pro-x/"><u>Updated Advanced Audio Synchronization A Step-by-Step Guide to Keyframe Adjustments in Final Cut Pro X</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-demystifying-omegle-an-insight-into-free-chat-networks-and-their-protective-features-for-2024/"><u>Updated Demystifying Omegle An Insight Into Free Chat Networks and Their Protective Features for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-enriching-avi-images-with-auditory-elements-in-the-2023-version/"><u>Updated Enriching AVI Images with Auditory Elements in the 2023 Version</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-add-background-melody-to-imovie-sequence/"><u>Updated In 2024, Add Background Melody to iMovie Sequence</u></a></li>
 </ul></div>
 
