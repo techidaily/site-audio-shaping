@@ -1,7 +1,7 @@
 ---
 title: Updated The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects for 2024
-date: 2024-12-08T01:20:15.237Z
-updated: 2024-12-10T01:30:47.536Z
+date: 2024-12-09T16:37:00.229Z
+updated: 2024-12-16T03:05:52.282Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,14 +30,10 @@ However, you will need to have at least basic video and sound editing skills to 
 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Check audio waveform in After Effects
@@ -45,10 +41,6 @@ However, you will need to have at least basic video and sound editing skills to 
 Once you've created a new project in AE and you've imported the audio files you'd like to include in the soundtrack of the video you're making, you should place that audio file on the timeline. Click on the arrow located next to the audio file, then click on the Audio arrow that will be displayed under the file, and finally click on the Waveform arrow. This will enable you to see the waveform of the audio file you'd like to edit on the timeline and allow you to add Fade in and fade out effects with more precision. The file you added to your composition will be displayed as a layer in the Composition tab located in the lower-left region of the software's interface.
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
 
@@ -64,13 +56,17 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
 
@@ -79,7 +75,7 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
@@ -89,6 +85,10 @@ You may also like: [How to Cut Video in After Effects](https://tools.techidaily.
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -113,17 +113,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-trusted-picks-best-5-videographer-software-tools/"><u>[New] 2024 Approved Trusted Picks Best 5 Videographer Software Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-time-management-for-those-balancing-careers-and-youtubing/"><u>2024 Approved Time Management for Those Balancing Careers and YouTubing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>2024 Approved Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/deciphering-epson-inkjet-trouble-codes/"><u>Deciphering Epson Inkjet Trouble Codes</u></a></li>
-<li><a href="https://win-trending.techidaily.com/elevate-your-tech-space-with-yl-softwares-exquisite-honda-design-images-and-graphics/"><u>Elevate Your Tech Space with YL Software's Exquisite Honda Design Images and Graphics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-overlooked-marvels-free-transcription-tools-for-macos/"><u>In 2024, Overlooked Marvels Free Transcription Tools for macOS</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-multimedia-fusion-adding-videos-to-audio-projects/"><u>Mastering Multimedia Fusion Adding Videos to Audio Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discover-hilarious-audio-cues/"><u>New 2024 Approved Discover Hilarious Audio Cues</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-advanced-techniques-for-rendering-audio-waveform-graphs-and-incorporating-animation-into-video-projects-using-premiere-pro-for-2024/"><u>New Advanced Techniques for Rendering Audio Waveform Graphs and Incorporating Animation Into Video Projects Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audiobook-authoring-made-accessible-your-ultimate-guide-to-production-in-the-year-2023-for-2024/"><u>New Audiobook Authoring Made Accessible Your Ultimate Guide to Production in the Year 2023 for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audiovisual-transition-incorporating-a-subtle-decline-into-your-soundscapes-updated/"><u>Updated Audiovisual Transition Incorporating a Subtle Decline Into Your Soundscapes (Updated)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-ghostly-3-encounter-spectre-4s-appearance/"><u>[Updated] In 2024, Ghostly 3 Encounter Spectre 4'S Appearance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-altered-text-aesthetics-in-visual-media/"><u>[Updated] Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-virtual-spaces-for-3d-graffiti-fonts/"><u>[Updated] Top 8 Virtual Spaces for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-no-cost-mp3-creation-10-youtube-transformers-explained/"><u>2024 Approved No-Cost MP3 Creation 10 YouTube Transformers Explained</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-reno-10-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Reno 10 5G Fingerprint Lock</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-artists-guide-to-vivid-vsco-imagery/"><u>In 2024, The Artist's Guide to Vivid VSCO Imagery</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-best-free-web-integrated-daw-software-ranked-your-guide/"><u>In 2024, The Best Free, Web-Integrated DAW Software Ranked - Your Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-top-7-digital-tools-for-seamless-audio-cutting-and-editing/"><u>In 2024, Top 7 Digital Tools for Seamless Audio Cutting and Editing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-ultimate-siri-tone-enhancer-windows-and-mac-edition/"><u>New 2024 Approved Ultimate Siri Tone Enhancer Windows & Mac Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-digital-disruptions-a-comprehensive-collection-of-online-sound-effects/"><u>New Digital Disruptions A Comprehensive Collection of Online Sound Effects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-global-dj-mixes-library-access-for-2024/"><u>New Global DJ Mixes Library Access for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mastering-the-art-of-free-music-integration-into-video-media/"><u>New In 2024, Mastering the Art of Free Music Integration Into Video Media</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-6-premier-automatic-transcription-programs-for-2024/"><u>New The Ultimate Guide 6 Premier Automatic Transcription Programs for 2024</u></a></li>
+<li><a href="https://techidaily.com/sign-rtf-file-online-add-signature-to-rtf-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .rtf file Online - Add Signature to .rtf file for Free</u></a></li>
+<li><a href="https://win-web.techidaily.com/troubleshooting-steps-for-itunes-home-sharing-problems-on-various-versions-of-windows-os/"><u>Troubleshooting Steps for iTunes Home Sharing Problems on Various Versions of Windows OS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/uncovering-images-the-art-of-backdrop-removal-in-picsart/"><u>Uncovering Images The Art of Backdrop Removal in Picsart</u></a></li>
 </ul></div>
 

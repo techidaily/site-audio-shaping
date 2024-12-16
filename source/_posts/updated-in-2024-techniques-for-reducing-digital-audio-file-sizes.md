@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Techniques for Reducing Digital Audio File Sizes
-date: 2024-12-04T02:52:37.960Z
-updated: 2024-12-10T03:09:10.409Z
+date: 2024-12-10T16:27:10.565Z
+updated: 2024-12-16T00:46:45.387Z
 tags: 
   - audio editing software
   - audio editing
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lower Volume of the Media Files Step by Step Guide
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2 Lower volume of the media files
 
  Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
@@ -51,7 +55,11 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -61,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
@@ -72,15 +80,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -97,21 +97,14 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-facebook-viewability-with-ideal-verticalhorizontal-videos-for-2024/"><u>[New] Maximizing Facebook Viewability with Ideal Vertical/Horizontal Videos for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-social-media-roadmap-for-business-growth/"><u>[New] The Social Media Roadmap for Business Growth</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-twitters-promotional-features/"><u>[Updated] Navigating Twitter's Promotional Features</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-pova-6-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Pova 6 Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audio-removal-guide-for-mp4-files-for-2024/"><u>Audio Removal Guide for MP4 Files for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/procrastination-with-instant-access-to-your-youtube-favorites-for-2024/"><u>Beat Procrastination with Instant Access to Your Youtube Favorites for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-oppo-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Oppo ?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-s17e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo S17e to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-at-facebook-tracing-back-to-the-beginning-understanding-why-its-loved-and-key-traits/"><u>Inside Look at Facebook: Tracing Back to the Beginning, Understanding Why It's Loved & Key Traits</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/navigating-through-this-years-top-ten-budget-friendly-browser-based-daw-solutions/"><u>Navigating Through This Years Top Ten Budget-Friendly Browser-Based DAW Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-converging-sound-and-vision-top-tier-tips-for-effortless-audio-video-alignment-automatically-for-2024/"><u>New Converging Sound and Vision Top-Tier Tips for Effortless Audio-Video Alignment Automatically for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users/"><u>New In 2024, Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-perfecting-production-quality-utilizing-real-time-ducking-features-in-windows-adobe-premiere-pro-edition/"><u>New In 2024, Perfecting Production Quality Utilizing Real-Time Ducking Features in Windows Adobe Premiere Pro Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-auto-transcription-experts-choice-top-6-software-picks/"><u>New The Auto-Transcription Experts Choice – Top 6 Software Picks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-elite-lineup-of-audio-reverse-applications-discovering-your-ideal-choices-for-mobile-and-computing/"><u>New The Elite Lineup of Audio Reverse Applications Discovering Your Ideal Choices for Mobile & Computing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-on-utilizing-blackberrys-factory-pro-for-seamless-video-editing/"><u>Ultimate Tutorial on Utilizing BlackBerry's Factory Pro for Seamless Video Editing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-full-analysis-of-t5-eyes-exceptional-action-recording/"><u>[New] 2024 Approved Full Analysis of T5 Eye's Exceptional Action Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-rescue-absent-watch-thumbnail-icon/"><u>[New] 2024 Approved Rescue Absent Watch Thumbnail Icon</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/expert-ff-video-extractor-kit-efficient-file-grabbing-firefox-compatibility/"><u>Expert FF Video Extractor Kit Efficient File Grabbing, Firefox Compatibility</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-options-for-mp3-download-cat-noises-and-more/"><u>Exploring Options for MP3 Download Cat Noises and More</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-omegle-uncovered-delving-into-internet-based-social-sessions-security-landscape/"><u>New 2024 Approved Omegle Uncovered Delving Into Internet-Based Social Sessions Security Landscape</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings-for-2024/"><u>New Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-art-of-soundless-storytelling-removing-audio-from-videos-with-imovie/"><u>New The Art of Soundless Storytelling Removing Audio From Videos with iMovie</u></a></li>
+<li><a href="https://program-issues.techidaily.com/silence-no-more-comprehensive-solutions-to-evil-genius-2-audio-failure/"><u>Silence No More! Comprehensive Solutions to 'Evil Genius 2' Audio Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-blizzards-battlenet-launcher-issues-on-windows-pc/"><u>Troubleshooting Guide: Fixing Blizzard's Battle.net Launcher Issues on Windows PC</u></a></li>
 </ul></div>
 

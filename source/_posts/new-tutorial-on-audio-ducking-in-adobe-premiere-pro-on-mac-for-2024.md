@@ -1,7 +1,7 @@
 ---
 title: New Tutorial on Audio Ducking in Adobe Premiere Pro on Mac for 2024
-date: 2024-11-11T21:32:31.265Z
-updated: 2024-11-14T17:32:04.879Z
+date: 2024-12-11T01:10:02.964Z
+updated: 2024-12-15T17:26:07.505Z
 tags: 
   - audio editing software
   - audio editing
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
@@ -57,10 +61,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +71,7 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +101,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,24 +119,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[New] Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-models-like-be/"><u>[New] Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model? Is It Free to Use?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-drone-selections-on-a-budget-affordable-options-above-for-2024/"><u>[Updated] Drone Selections on a Budget Affordable Options Above for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos/"><u>[Updated] In 2024, Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/accelerate-your-minecraft-experience-expert-tricks-revealed/"><u>Accelerate Your Minecraft Experience: Expert Tricks Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-fixes-for-a-broken-macbook-pro-keyboard-what-you-need-to-know/"><u>Essential Fixes for a Broken MacBook Pro Keyboard – What You Need to Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/multimedia-educational-show-key-insights-demystified/"><u>Multimedia Educational Show Key Insights Demystified</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-cut-trim-and-tailor-audio-files-in-seconds-using-these-top-7-web-based-tools/"><u>New 2024 Approved Cut, Trim, and Tailor Audio Files in Seconds Using These Top 7 Web-Based Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-expanding-your-communication-horizons-top-10-android-apps-to-consider-in-place-of-facetime/"><u>New 2024 Approved Expanding Your Communication Horizons Top 10 Android Apps to Consider in Place of FaceTime</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audiophiles-dream-upgrading-your-recording-space-sound-for-2024/"><u>New Audiophiles Dream Upgrading Your Recording Space Sound for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-advanced-strategies-to-convert-your-spotify-playlist-into-a-local-library/"><u>New In 2024, Advanced Strategies to Convert Your Spotify Playlist Into a Local Library</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elevating-your-show-top-podcast-hosting-services-unveiled/"><u>New In 2024, Elevating Your Show Top Podcast Hosting Services Unveiled</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-premium-platforms-for-acquiring-wildlife-and-nature-sounds/"><u>New Premium Platforms for Acquiring Wildlife and Nature Sounds</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-8-android-tools-elevating-your-studio-sound-for-2024/"><u>New Top 8 Android Tools Elevating Your Studio Sound for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-ranked-windows-edition-for-silentizing-videography-for-2024/"><u>New Top-Ranked Windows Edition for Silentizing Videography for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/prime-mp4-fb-file-enhancer/"><u>Prime MP4-FB File Enhancer</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/struggling-to-upload-mp4-files-on-itunes-unlock-expert-troubleshooting-tips-now/"><u>Struggling to Upload MP4 Files on iTunes? Unlock Expert Troubleshooting Tips Now!</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/wiederherstellung-von-beschadigten-datentragern-unter-windows-11-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Beschädigten Datenträgern Unter Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-prominence-in-online-gaming-content/"><u>[New] 2024 Approved Achieving Prominence in Online Gaming Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-concurrent-capture-masterclass-webcam-and-desktop-for-2024/"><u>[New] Concurrent Capture Masterclass Webcam & Desktop for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-journey-to-digital-reach-the-complete-process-of-starting-a-youtube-channel/"><u>[New] In 2024, Journey to Digital Reach The Complete Process of Starting a YouTube Channel</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-palette-proficiency-expertise-through-experience/"><u>[Updated] Palette Proficiency Expertise Through Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enlarge-facebook-videos-to-full-screen-for-impact/"><u>2024 Approved Enlarge Facebook Videos to Full Screen for Impact</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/advanced-audio-editing-techniques-with-avidemux-for-2024/"><u>Advanced Audio Editing Techniques with Avidemux for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-drone-buyers-checklist-top-factors-to-ponder/"><u>Essential Drone Buyer's Checklist Top Factors to Ponder</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/essential-online-tools-to-refine-your-music-with-superior-mp3-processing-for-2024/"><u>Essential Online Tools to Refine Your Music with Superior MP3 Processing for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-m6-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco M6 5G Face Lock?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-demystifying-pexelscom-the-ultimate-resource-for-photographers-and-designers/"><u>New Demystifying Pexels.com The Ultimate Resource for Photographers and Designers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-free-open-source-audio-editing-wonders-of-windows-top-picks-for-2024/"><u>New Free, Open-Source Audio Editing Wonders of Windows - Top Picks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-solo-silence-learning-to-delete-audible-elements-from-mov-footage-on-different-desktops-for-2024/"><u>New Solo Silence Learning to Delete Audible Elements From MOV Footage on Different Desktops for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-truth-about-a-disc-drive-on-xbox-series-s/"><u>The Truth About a Disc Drive on Xbox Series S?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-votre-video-flv-au-format-mp4-sans-frais-tutoriel-avant-premiere-avec-movavi/"><u>Transformez Votre Vidéo FLV Au Format MP4 Sans Frais - Tutoriel Avant-Première Avec Movavi</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/uncover-the-wolfs-distant-bellowing-effect-for-2024/"><u>Uncover the Wolfs Distant Bellowing Effect for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-discover-the-best-5-mp3-harmonizers-for-your-macs-audiophile-experience/"><u>Updated 2024 Approved Discover the Best 5 MP3 Harmonizers for Your Macs Audiophile Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-enhancing-visuals-the-guide-to-blending-photos-with-music-for-2024/"><u>Updated Enhancing Visuals The Guide to Blending Photos with Music for 2024</u></a></li>
 </ul></div>
 

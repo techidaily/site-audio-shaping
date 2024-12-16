@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-12-03T04:37:01.354Z
-updated: 2024-12-09T18:52:51.447Z
+date: 2024-12-08T17:17:57.180Z
+updated: 2024-12-15T19:50:45.837Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,19 +76,17 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-joyful-sign-uplogout-flowchart-for-2024/"><u>[New] Joyful Sign-Up/Logout Flowchart for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-quick-content-in-a-facebook-frame/"><u>[Updated] Quick Content in a Facebook Frame</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-x9a-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor X9a Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-shielded-seeker-of-social-snapshots/"><u>2024 Approved Shielded Seeker of Social Snapshots</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/chill-out-playlists-for-non-profit-video-arrangements-for-2024/"><u>Chill-Out Playlists for Non-Profit Video Arrangements for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/former-samsung-staff-detained-after-accusations-of-stealing-18b-from-chip-giants-memories-for-chinese-competitor/"><u>Former Samsung Staff Detained After Accusations of Stealing $1.8B From Chip Giant's Memories for Chinese Competitor</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/fuhrer-kostenloser-mkv-player-ideal-zum-streaming-und-anschauen-von-mkv-dateien/"><u>Führer Kostenloser MKV Player - Ideal Zum Streaming Und Anschauen Von MKV Dateien</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-poco-m6-pro-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco M6 Pro 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/learn-how-to-mute-video-audio-on-windows-10-naturally-and-economically-for-2024/"><u>Learn How to Mute Video Audio on Windows 10 Naturally and Economically for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-two-screen-viewing-step-by-step-guide-for-netflix-users/"><u>Mastering Two Screen Viewing - Step By Step Guide For Netflix Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-essential-process-of-adding-sound-to-mkv-updated-videographies-for-2024/"><u>New The Essential Process of Adding Sound to MKV-Updated Videographies for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-charting-the-top-melodic-havens-s-downloadable-bgm-scores-for-2024/"><u>Updated Charting the Top Melodic Havens S Downloadable BGM Scores for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-locating-high-quality-brush-stroke-reverb-tones/"><u>Updated Locating High-Quality Brush Stroke Reverb Tones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-web-based-music-slicer-and-combiner-application/"><u>Updated Web-Based Music Slicer & Combiner Application</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-supreme-storytelling-spanning-eight-movie-types/"><u>[Updated] 2024 Approved Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-filmmaking-with-ease-decoding-common-video-editing-hurdles-in-filmora/"><u>[Updated] Filmmaking with Ease Decoding Common Video Editing Hurdles in Filmora</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-beat-goes-on-integrating-songs-into-your-snapchats/"><u>[Updated] In 2024, The Beat Goes On Integrating Songs Into Your Snapchats</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-how-to-add-audio-fade-in-effect/"><u>2024 Approved How to Add Audio Fade In Effect</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-voice-recording-on-your-mac-a-simple-step-by-step-tutorial/"><u>In 2024, Mastering Voice Recording on Your Mac A Simple Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-android-video-brilliance-simple-steps/"><u>In 2024, Maximizing Android Video Brilliance Simple Steps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-effortless-audio-conversion-leading-free-apps-for-textualizing-voice-input-on-smartphones-and-tablets/"><u>New Effortless Audio Conversion Leading Free Apps for Textualizing Voice Input on Smartphones & Tablets</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-fusing-cinematics-with-soundtracks-innovations-and-tips/"><u>New In 2024, Fusing Cinematics with Soundtracks Innovations and Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/novice-writers-best-enhancements-for-gopro-for-2024/"><u>Novice’ Writers Best Enhancements for GoPro for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-visuals-vault-assembling-your-artistic-facebook-display/"><u>Online Visuals Vault: Assembling Your Artistic Facebook Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-dvds-en-mp4-gratuitement-grace-a-movavi-conversateur-video/"><u>Transformez Vos DVDs en MP4 Gratuitement Grâce À Movavi Conversateur Vidéo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/zerogpts-limits-uncovered-a-look-at-four-scenarios-where-ai-detection-falls-short/"><u>ZeroGPT's Limits Uncovered: A Look at Four Scenarios Where AI Detection Falls Short</u></a></li>
 </ul></div>
 

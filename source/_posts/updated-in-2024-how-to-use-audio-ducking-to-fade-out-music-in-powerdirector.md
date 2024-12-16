@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2024-12-03T16:15:27.695Z
-updated: 2024-12-09T19:58:18.894Z
+date: 2024-12-12T07:45:54.560Z
+updated: 2024-12-16T04:15:17.795Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _"Can you explain to us the simple method to execute **audio ducking**?”_
 I hope you're already aware of **the audio ducking** feature if you're into video editing or any music industry. The audio ducking is commonly to balance two audios. You can see the very typical application while balancing the background music with the person speaking there. So, the different voices would pop up and needs an adjustment according to the scenario. However, selecting the most straightforward process and genuine video editor is the user's responsibility to get the task done effectively. So, here, we would like to discuss the audio ducking function of **CyberLink PowerDirector** along with a suitable alternative - **Wondershare Filmora**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Fade Out Music in PowerDirector?
@@ -57,7 +57,7 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -75,10 +75,6 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
 
@@ -103,7 +99,7 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -114,10 +110,14 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,18 +134,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2022s-top-figure-skating-performances-for-2024/"><u>[New] 2022'S Top Figure Skating Performances for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-securing-virtual-triumphs-mastering-screen-captures-in-pc-games/"><u>[New] In 2024, Securing Virtual Triumphs - Mastering Screen Captures in PC Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-mac-masterpiece-studio-audio-guide/"><u>[New] In 2024, The Mac Masterpiece Studio Audio Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-guide-turning-insta-vids-to-mp3-tracks/"><u>[Updated] Guide Turning Insta Vids to MP3 Tracks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[Updated] Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-ultimate-htpcs-of-2024-for-unmatched-cinema-experience-at-home/"><u>Exploring the Ultimate HTPCs of 2024 for Unmatched Cinema Experience at Home</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-sound-editors-companion-reducing-lengthy-audios-in-imovie-for-ios-users-for-2024/"><u>The Sound Editors Companion Reducing Lengthy Audios in iMovie for iOS Users for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-your-device-how-to-update-your-screen-time-code-for-iphoneipadmac/"><u>Unlocking Your Device: How to Update Your Screen Time Code for iPhone/iPad/Mac</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-seamlessly-combining-music-and-movement-in-windows-gif-files/"><u>Updated 2024 Approved Seamlessly Combining Music and Movement in Windows Gif Files</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024s-ultimate-list-of-audio-editing-apps-for-iphones-and-android-devices/"><u>Updated 2024S Ultimate List of Audio Editing Apps for iPhones and Android Devices</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-advanced-audacity-editing-adjusting-pitch-without-audio-degradation-for-2024/"><u>Updated Advanced Audacity Editing Adjusting Pitch Without Audio Degradation for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-from-full-blast-to-quietude-implementing-audio-volume-transitions-in-imovie-for-2024/"><u>Updated From Full Blast to Quietude Implementing Audio Volume Transitions in iMovie for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>Updated Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oosting-channels-growth-strategies-for-effective-trailers-for-2024/"><u>[New] Boosting Channels' Growth Strategies for Effective Trailers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-easy-guide-online-tools-to-save-your-youtube-videos/"><u>[Updated] 2024 Approved Easy Guide Online Tools to Save Your YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lumapro-the-budget-friendly-lightroom-pairings/"><u>2024 Approved LumaPro The Budget-Friendly Lightroom Pairings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/banish-buffering-repair-facebook-videos-on-phonestablets/"><u>Banish Buffering – Repair Facebook Videos on Phones/Tablets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/les-8-principaux-logiciels-de-preparation-de-diapositives-pour-les-professionnels-top-picks/"><u>Les 8 Principaux Logiciels De Préparation De Diapositives Pour Les Professionnels - Top Picks</u></a></li>
+<li><a href="https://techidaily.com/remove-htc-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove HTC unlock screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-fixing-random-browser-activity-in-iphone-screen-time-monitoring/"><u>Understanding and Fixing Random Browser Activity in iPhone Screen Time Monitoring</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-mastering-the-art-of-guitar-production-a-compilation-of-the-best-7-digital-audio-workstations/"><u>Updated In 2024, Mastering the Art of Guitar Production A Compilation of the Best 7 Digital Audio Workstations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-art-of-unifying-diverse-sound-files-in-final-projects/"><u>Updated In 2024, The Art of Unifying Diverse Sound Files in Final Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-lyric-locators-discovering-hit-songs-of-the-year-updated/"><u>Updated Lyric Locators Discovering Hit Songs of the Year, Updated</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premium-voice-communication-apps-revolutionizing-online-gaming/"><u>Updated Premium Voice Communication Apps Revolutionizing Online Gaming</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-silent-movie-revolution-procedures-for-deleting-sound-elements-in-mov-files-across-computers-and-devices/"><u>Updated The Silent Movie Revolution Procedures for Deleting Sound Elements in MOV Files Across Computers and Devices</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-audio-splitter-on-mac-2024-update/"><u>Updated Top Audio Splitter on Mac - 2024 Update</u></a></li>
 </ul></div>
 

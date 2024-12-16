@@ -1,7 +1,7 @@
 ---
 title: Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
-date: 2024-12-05T01:55:08.829Z
-updated: 2024-12-10T01:12:47.899Z
+date: 2024-12-11T03:02:31.142Z
+updated: 2024-12-16T05:57:36.800Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,20 +56,15 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-real-time-view-count-detectors/"><u>[Updated] 2024 Approved Real-Time View Count Detectors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-24-hour-film-size-gb-measurement-guide/"><u>[Updated] In 2024, 24-Hour Film Size GB Measurement Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/amplify-your-video-launch-with-these-top-8-audio-effects-for-content-creators/"><u>Amplify Your Video Launch with These Top 8 Audio Effects for Content Creators</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audio-dial-achieving-smooth-volume-ramp-ups/"><u>Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effortless-downloads-with-alavsoft-your-go-to-solution-for-macoswindows-beyond-traditional-youtube-dl/"><u>Effortless Downloads with Alavsoft: Your Go-To Solution for macOS/Windows, Beyond Traditional YouTube-Dl!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/epic-dragon-ball-saga-viewing-strategy-enjoy-the-full-story-chronologically/"><u>Epic Dragon Ball Saga Viewing Strategy: Enjoy the Full Story, Chronologically</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/exploring-audio-representation-displaying-sound-waves-and-adding-animated-elements-to-your-projects-in-final-cut-pro/"><u>Exploring Audio Representation Displaying Sound Waves & Adding Animated Elements to Your Projects in Final Cut Pro</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-copy-dellhplenovo-factory-image-partitions-onto-a-solid-state-drive-in-windows-versions-7-10/"><u>How to Copy Dell/HP/Lenovo Factory Image Partitions Onto a Solid State Drive in Windows Versions 7-10</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-5-top-sites-to-download-royalty-free-comedy-background-music-for-2024/"><u>New 5 Top Sites to Download Royalty Free Comedy Background Music for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-expert-techniques-for-isolating-singers-from-visual-media-for-2024/"><u>New Expert Techniques for Isolating Singers From Visual Media for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pros-and-cons-of-using-minecraft-realms-for-serverless-gaming-experience/"><u>Pros and Cons of Using Minecraft Realms for Serverless Gaming Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premier-collection-of-popular-mobile-alert-melodies-for-2024/"><u>Updated Premier Collection of Popular Mobile Alert Melodies for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-revival-hack-top-3-restart-strategies/"><u>Windows Revival Hack: Top 3 Restart Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-optimizing-facebook-search-efficiency-101/"><u>[New] 2024 Approved Optimizing Facebook Search Efficiency 101</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>[New] In 2024, Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-boost-your-visual-impact-essential-tricks-for-pixlr-pros/"><u>[Updated] 2024 Approved Boost Your Visual Impact Essential Tricks for Pixlr Pros</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/express-originality-craft-professional-logos-from-template-designs-free/"><u>Express Originality Craft Professional Logos From Template Designs (Free)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-mini-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-sunlit-scenes-android-brighten-tips/"><u>In 2024, Sunlit Scenes Android Brighten Tips</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-harmonizing-multiple-recordings-achieving-an-exclusive-one-file-mix/"><u>New 2024 Approved Harmonizing Multiple Recordings Achieving an Exclusive One-File Mix</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-essential-tips-for-aspiring-music-video-editors-for-2024/"><u>New Essential Tips for Aspiring Music Video Editors for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-harmonyvoices-mastering-cross-platform-audio-synchronization-in-adobe-premiere-pro-for-2024/"><u>New HarmonyVoices Mastering Cross-Platform Audio Synchronization in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals-for-2024/"><u>New Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals for 2024</u></a></li>
 </ul></div>
 

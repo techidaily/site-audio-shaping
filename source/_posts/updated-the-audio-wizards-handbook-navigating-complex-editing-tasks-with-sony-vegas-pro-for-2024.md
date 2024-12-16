@@ -1,7 +1,7 @@
 ---
 title: Updated The Audio Wizards Handbook Navigating Complex Editing Tasks with Sony Vegas Pro for 2024
-date: 2024-12-02T18:59:24.547Z
-updated: 2024-12-10T00:43:19.199Z
+date: 2024-12-11T00:31:20.961Z
+updated: 2024-12-15T19:55:38.372Z
 tags: 
   - audio editing software
   - audio editing
@@ -45,13 +45,13 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Mute the Audio Track: Press M
 
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
 * Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
@@ -73,7 +73,7 @@ Those who want to control volume separately for different portions of audio file
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
@@ -93,10 +93,6 @@ Hover your cursor on the audio event in timeline, you will find the fade in/out 
 If you want to change the speed of specific portions of your audio project then hold CTRL button and then start moving your curser over Trim Event handle. If you drag it to right side then it will directly speed up your audio clip and dragging to left side will automatically reduce speed.
 
 ![Speed up or down video](https://images.wondershare.com/edit-audio-in-vegas-pro-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Section 4: Reverse audio clip
 
@@ -122,32 +118,36 @@ If you want to add specific effects to your audio files then use two simple meth
 
 ![To portion](https://images.wondershare.com/edit-audio-in-vegas-pro-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For additional personalization you need to use plug-in chain button from right corner.
 
 ![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
 ![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Recommendation
@@ -175,18 +175,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-potential-innovative-strategies-for-better-insta-content/"><u>[New] 2024 Approved Unlocking Potential Innovative Strategies for Better Insta Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-personalizing-video-images/"><u>[New] In 2024, A Comprehensive Guide to Personalizing Video Images</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-insiders-guide-to-capturing-crisp-vr-games/"><u>[Updated] In 2024, The Insider's Guide to Capturing Crisp VR Games</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-silencing-audio-in-updated-mkv-files-a-comprehensive-guide-mkv-2023/"><u>2024 Approved Silencing Audio in Updated MKV Files - A Comprehensive Guide (MKV-2023)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-simplifying-slide-creations-with-youtube-content/"><u>2024 Approved Simplifying Slide Creations with YouTube Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/giftiff-movavi/"><u>網路直接免費GIF到TIFF格式自動轉換 - 利用Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lava-blaze-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lava Blaze Pro 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-guide-to-achieving-soundless-visual-content/"><u>In 2024, Guide to Achieving Soundless Visual Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-top-8-digital-audio-workstations-daws-on-pc-compatible-with-windows-10-and-7-free-and-paid-options/"><u>In 2024, Top 8 Digital Audio Workstations (DAWs) on PC Compatible with Windows 10 & 7, Free and Paid Options</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-cutting-edge-mac-sound-slicer-enhanced-and-refined-features/"><u>New 2024 Approved Cutting-Edge Mac Sound Slicer Enhanced & Refined Features</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-fade-in-and-fade-out-audio-in-adobe-after-effects/"><u>New 2024 Approved How to Fade In and Fade Out Audio in Adobe After Effects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-art-of-leveraging-tension-evoking-soundtracks-in-cinematic-compositions/"><u>New 2024 Approved The Art of Leveraging Tension-Evoking Soundtracks in Cinematic Compositions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-expertly-curated-gpt-powered-addons-for-visual-studio-developers/"><u>Ultimate List of eXpertly Curated GPT-Powered Addons for Visual Studio Developers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamlined-strategies-for-joining-your-youtube-videos/"><u>[Updated] 2024 Approved Streamlined Strategies for Joining Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-avoid-and-reverse-strikes-on-your-youtube-channel/"><u>[Updated] How to Avoid and Reverse Strikes on Your YouTube Channel</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-dimming-the-spotlight-in-pre-production-pro/"><u>[Updated] In 2024, Dimming the Spotlight In Pre-Production Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/ogg-and/"><u>音楽データをOGGと他の形式に切り替える方法 - 変換 & 逆変�</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-find-x7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Find X7 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-navigating-iphone-audio-modification-first-time-users-introduction-to-voice-changer-plus/"><u>New 2024 Approved Navigating iPhone Audio Modification First-Time Users Introduction to Voice Changer Plus</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elite-audio-synchronized-cinematic-crafting-applications-of-the-year/"><u>New In 2024, Elite Audio-Synchronized Cinematic Crafting Applications of the Year</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-sonic-filmmaking-embellishing-video-narratives-through-filmoras-music-features/"><u>New In 2024, Sonic Filmmaking Embellishing Video Narratives Through Filmoras Music Features</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-incorporating-sound-effects-into-presentations-with-powerpoint-strategies-for-both-windows-and-apple-systems/"><u>New Incorporating Sound Effects Into Presentations with PowerPoint Strategies for Both Windows and Apple Systems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-sculpt-your-media-techniques-for-excising-audio-in-iphones-and-mac-videos-for-2024/"><u>New Sculpt Your Media Techniques for Excising Audio in iPhones & Mac Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/scelta-dei-5-migliori-programmi-mac-per-la-playback-di-formati-video-wmv-una-guida-completa/"><u>Scelta Dei 5 Migliori Programmi Mac per La Playback Di Formati Video WMV: Una Guida Completa</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-10-windows-and-pc-tiktok-video-mashup-tools-for-2024/"><u>Top 10 Windows & PC TikTok Video Mashup Tools for 2024</u></a></li>
 </ul></div>
 
