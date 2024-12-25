@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-12-08T17:17:57.180Z
-updated: 2024-12-15T19:50:45.837Z
+date: 2024-12-21T22:42:06.062Z
+updated: 2024-12-25T04:44:28.023Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,17 +76,21 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-supreme-storytelling-spanning-eight-movie-types/"><u>[Updated] 2024 Approved Supreme Storytelling Spanning Eight Movie Types</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-filmmaking-with-ease-decoding-common-video-editing-hurdles-in-filmora/"><u>[Updated] Filmmaking with Ease Decoding Common Video Editing Hurdles in Filmora</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-beat-goes-on-integrating-songs-into-your-snapchats/"><u>[Updated] In 2024, The Beat Goes On Integrating Songs Into Your Snapchats</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-how-to-add-audio-fade-in-effect/"><u>2024 Approved How to Add Audio Fade In Effect</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-voice-recording-on-your-mac-a-simple-step-by-step-tutorial/"><u>In 2024, Mastering Voice Recording on Your Mac A Simple Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-android-video-brilliance-simple-steps/"><u>In 2024, Maximizing Android Video Brilliance Simple Steps</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-effortless-audio-conversion-leading-free-apps-for-textualizing-voice-input-on-smartphones-and-tablets/"><u>New Effortless Audio Conversion Leading Free Apps for Textualizing Voice Input on Smartphones & Tablets</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-fusing-cinematics-with-soundtracks-innovations-and-tips/"><u>New In 2024, Fusing Cinematics with Soundtracks Innovations and Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/novice-writers-best-enhancements-for-gopro-for-2024/"><u>Novice’ Writers Best Enhancements for GoPro for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/online-visuals-vault-assembling-your-artistic-facebook-display/"><u>Online Visuals Vault: Assembling Your Artistic Facebook Display</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-dvds-en-mp4-gratuitement-grace-a-movavi-conversateur-video/"><u>Transformez Vos DVDs en MP4 Gratuitement Grâce À Movavi Conversateur Vidéo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zerogpts-limits-uncovered-a-look-at-four-scenarios-where-ai-detection-falls-short/"><u>ZeroGPT's Limits Uncovered: A Look at Four Scenarios Where AI Detection Falls Short</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-streamlining-creation-youtube-video-editor-insights/"><u>[New] 2024 Approved Streamlining Creation YouTube Video Editor Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unleash-potential-precision-zooming-for-professional-videoleap-footage/"><u>[Updated] 2024 Approved Unleash Potential Precision Zooming for Professional VideoLeap Footage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-affordable-space-heaters-for-your-home-this-winter-featured-on-zdnet/"><u>Discover the Most Affordable Space Heaters for Your Home This Winter, Featured on ZDNet!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y200-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y200</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-ps4-troubleshooting-a-detailed-guide-on-how-to-stop-frequent-system-lockups/"><u>Mastering PS4 Troubleshooting: A Detailed Guide on How to Stop Frequent System Lockups</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-auditory-excellence-pinpointing-the-best-songs-to-accompany-your-montage-narrative-for-2024/"><u>New Auditory Excellence Pinpointing the Best Songs to Accompany Your Montage Narrative for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-favorite-free-online-sites-featuring-a-variety-of-guitar-music-and-designs-for-2024/"><u>New Favorite Free Online Sites Featuring a Variety of Guitar Music and Designs for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-crafting-solo-beats-methods-to-distill-music-into-single-element-projects/"><u>New In 2024, Crafting Solo Beats Methods to Distill Music Into Single Element Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-essential-techniques-for-striking-podcast-cover-designs-your-step-by-step-guide/"><u>New In 2024, Essential Techniques for Striking Podcast Cover Designs Your Step-by-Step Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-definitive-list-of-8-superior-video-game-sound-effects-no-cost-this-year/"><u>New In 2024, The Definitive List of 8 Superior Video Game Sound Effects - No Cost This Year</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-premier-7-voice-silencers-seamless-clip-editing-online-and-offline-for-2024/"><u>New Premier 7 Voice Silencers Seamless Clip Editing Online & Offline for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-5-text-to-speech-websites-for-2024/"><u>New Top 5 Text to Speech Websites for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamlessslide-visual-harmony-on-macsierra/"><u>SeamlessSlide Visual Harmony on MacSierra</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-fix-your-steelseries-arctis-pro-microphone-problems-a-comprehensive-guide/"><u>Steps to Fix Your SteelSeries Arctis Pro Microphone Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-screen-capture-utility-quickly/"><u>Windows 11: Accessing Screen Capture Utility Quickly</u></a></li>
 </ul></div>
 

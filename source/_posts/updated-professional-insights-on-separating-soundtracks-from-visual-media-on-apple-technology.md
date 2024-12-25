@@ -1,7 +1,7 @@
 ---
 title: Updated Professional Insights on Separating Soundtracks From Visual Media on Apple Technology
-date: 2024-12-11T04:32:21.345Z
-updated: 2024-12-15T20:46:17.836Z
+date: 2024-12-21T18:59:24.375Z
+updated: 2024-12-25T03:55:56.052Z
 tags: 
   - audio editing software
   - audio editing
@@ -35,7 +35,7 @@ Section2\. [Requirements to extract the music of the video and save](#how-to-ext
 ![advanced%20video%20cutter](https://images.wondershare.com/filmora/Mac-articles/advanced%20video%20cutter.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Section 1. How to mute the audio on the video
@@ -43,6 +43,10 @@ Section2\. [Requirements to extract the music of the video and save](#how-to-ext
 Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
 
 Part2\. [Steps to cut the audio from videos on iPhone](#cut-audio-on-iphone)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to cut the audio from videos on Mac
 
@@ -53,10 +57,6 @@ Step 1: Import Video to Filmora
 Import the video to your Filmora. You can also directly drag the video into the Filmora interface.
 
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Mute the audio
 
@@ -78,10 +78,6 @@ If you want to do the mute on an iPhone, you will need to also follow some steps
 
 Opening the iMovie app goes beyond just clicking it to open, you also have to follow up this process by clicking the continue button that pops up. If the app has opened and you can see an inviting interface, move to the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Select a video you want
 
 There are different pages on the interface but your concern is on the project page. On that page, click on the plus sign button as it directs you to start or input a new video. After clicking on the plus sign, it will bring up movies that you would further select.
@@ -90,6 +86,10 @@ There are different pages on the interface but your concern is on the project pa
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Mute the audio
 
 Muting the audio becomes straightforward when you have moved it to the interface. In this step, click on the video clip button as seen in the picture then mute it by selecting the mute option (the picture below shows the mute sign at the lower-left corner) from the audio button. When this is done, your video has been silenced.
@@ -97,7 +97,7 @@ Muting the audio becomes straightforward when you have moved it to the interface
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
@@ -116,10 +116,6 @@ Step 2 Next, right-click the video and choose "Audio Detach." After some time, t
 
  ![mac audio detach1](https://images.wondershare.com/filmora/guide/mac-audio-detach1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can choose to delete the video or keep it. If you want to delete it, simply right-click and choose delete. This will remove the video entirely.
 
 Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the audio editing tools would be displayed. You can adjust the music volume, change voice, and do other edits.
@@ -131,6 +127,10 @@ Step 4\. If the audio has some sounds you would like to take out, place your cur
 Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music, click the export button. You will be provided with different options to save the audio. Click on the one you prefer.
 
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
 
@@ -144,11 +144,11 @@ Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidail
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
 
@@ -165,17 +165,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ce-your-video-masterful-use-of-hash-tags-in-games/"><u>[New] Ace Your Video Masterful Use of Hash Tags in Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>[Updated] Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/descargar-el-avi-player-para-windows-10-sin-costo-guia-completa-de-instalacion-y-uso/"><u>Descargar El AVI Player Para Windows 10 Sin Costo: Guía Completa De Instalación Y Uso</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-13-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 13</u></a></li>
-<li><a href="https://fox-that.techidaily.com/non-responsive-wireless-charger-on-iphone-here-are-7-quick-fixes-to-try-out-now/"><u>Non-Responsive Wireless Charger on iPhone? Here Are 7 Quick Fixes to Try Out Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/speedy-data-transfer-at-its-finest-secure-your-lexar-usb-driver-here/"><u>Speedy Data Transfer at Its Finest: Secure Your Lexar USB Driver Here</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-free-audio-magic-at-your-fingertips-the-essential-top-10-sound-blending-software/"><u>Updated In 2024, Free Audio Magic at Your Fingertips The Essential Top 10 Sound Blending Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-linuxs-leading-picks-for-sound-recording-an-in-depth-look-at-top-tools-and-proven-techniques/"><u>Updated In 2024, Linuxs Leading Picks for Sound Recording An In-Depth Look at Top Tools & Proven Techniques</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-8-digital-audio-workstations-daws-revolutionizing-contemporary-rap-and-randb-creation/"><u>Updated In 2024, Top 8 Digital Audio Workstations (DAWs) Revolutionizing Contemporary Rap and R&B Creation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premier-8-voice-recognition-tools-windows-macos-and-cloud-solutions-roundup-for-2024/"><u>Updated Premier 8 Voice Recognition Tools Windows, macOS & Cloud Solutions Roundup for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-step-by-step-eliminating-rhythm-units-from-your-songs-digitally/"><u>Updated Step-by-Step Eliminating Rhythm Units From Your Songs Digitally</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-innovating-your-videos-first-impression-on-youtube/"><u>[New] 2024 Approved Innovating Your Video's First Impression on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-dynamic-panzoid-assembly-resources/"><u>[Updated] In 2024, Dynamic Panzoid Assembly Resources</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-comprehensive-kinetic-study-2023/"><u>2024 Approved Comprehensive Kinetic Study 2023</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-adventure-to-audience-transforming-gopro-footage-with-social-media/"><u>2024 Approved From Adventure to Audience Transforming Gopro Footage with Social Media</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-platforms-to-download-and-listen-to-dj-music/"><u>2024 Approved Platforms to Download and Listen to DJ Music</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generating-new-ways-with-kids-and-parents/"><u>Generating New Ways with Kids & Parents</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-ultimate-hdtv-reception-with-1byones-amplified-indoor-antenna-a-bargain-for-your-broadcast-needs/"><u>Get Ultimate HDTV Reception with 1Byone's Amplified Indoor Antenna - A Bargain for Your Broadcast Needs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-set-a-viral-song-as-your-phones-personal-melody/"><u>How To Set a Viral Song as Your Phone's Personal Melody</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-brother-hl-2280dw-printing-drivers-for-windows-1087-users-free-downloads/"><u>Latest Brother HL-2280DW Printing Drivers for Windows 10/8/7 Users - Free Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resetting-windows-pins/"><u>Mastering the Art of Resetting Windows PINs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-sonic-landscape-a-study-on-sound-forgeutility/"><u>New The Sonic Landscape A Study on Sound Forgeutility</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tracking-down-enhanced-alien-voices-effects-for-2024/"><u>New Tracking Down Enhanced Alien Voices Effects for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-cinematographer-secrets-for-exceptional-visuals/"><u>Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-blending-motion-picture-with-soundtracks-a-modern-approach/"><u>Updated Blending Motion Picture with Soundtracks A Modern Approach</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration-for-2024/"><u>Updated Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-imovie-manual-a-detailed-method-for-including-audio-files/"><u>Updated IMovie Manual A Detailed Method for Including Audio Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-innovative-audio-editing-solutions-unveiling-the-top-10-tools-for-windowsmac-enthusiasts/"><u>Updated Innovative Audio Editing Solutions Unveiling the Top 10 Tools for Windows/Mac Enthusiasts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-understanding-the-significance-of-team-collaboration-in-cinematic-projects/"><u>Updated Understanding the Significance of Team Collaboration in Cinematic Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/what-is-omegle-is-omegle-safe/"><u>What Is Omegle, Is Omegle Safe？</u></a></li>
 </ul></div>
 

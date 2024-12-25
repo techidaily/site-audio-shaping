@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
-date: 2024-12-12T06:38:00.387Z
-updated: 2024-12-16T02:02:03.638Z
+date: 2024-12-19T02:54:49.565Z
+updated: 2024-12-24T20:27:17.067Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/UBWVgDMY_2jwPREuMsZw9yednD8=/400x300/fi
 ## LG Gram 15.6-inch (2018)
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/UTcUqy8dPDWlsYUZPdsu5EVj8HU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_hero-Square-f2b4744360d644a1b93b7541af7eb182.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -45,7 +49,7 @@ Lifewire / Andrew Hayward
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/R_aYhYLFGT6--hIRDTNUJTlIVn8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_hero-Square-f2b4744360d644a1b93b7541af7eb182.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -80,7 +84,7 @@ Lifewire / Andrew Hayward
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Amazingly light, but not wholly convincing**
@@ -105,10 +109,6 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/1qu1WvdEgTzjUQ8QH_Lssx79xF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Trackpad_05-f0d9dc63b03e4650a92e30747090889a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 ## **Setup Process: Just follow the directions**
@@ -116,7 +116,7 @@ Lifewire / Andrew Hayward
  There's little reason to worry about getting the LG Gram 15.6-inch laptop up and running quickly. It has Windows 10 pre-installed, so you'll simply follow the onscreen prompts to enter your Wi-Fi info, check for updates, select a few options, and ultimately find yourself ready to roll on the desktop. It shouldn't take more than a handful of minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Display: Large and capable enough**
@@ -129,15 +129,7 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/TFbt9G36hk5JyrBL8cIdIuYQ66E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Keyboard_03-fd7e355ac5944f12a8107746d0afbf24.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Solid power for everyday tasks**
 
@@ -151,13 +143,13 @@ Lifewire / Andrew Hayward
 
  As an aside, while the LG Gram often runs near-silently, there are extended periods of time in which there's an audible hum coming from the back. It's not the typical, very loud fan noise that pops up while gaming or heavy multitasking from some computers, but it can be a bit grating. We noticed it while charging the computer, but also while running on the battery—with no consistency on that front. It's a mild annoyance, but it's one we noticed whenever it emerged.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Audio: It makes an impression**
 
  You won't see the speakers when the LG Gram is standing up as normal, but you'll hear them loud and clear. The stereo speakers are tucked underneath the laptop at the left and right edges near where your wrists rest, and thanks to the slight elevation from the rubbery feet on the bottom of the laptop, they're given enough space for the output to shine. Audio playback sounds robust and clear—not quite to the level of Apple's current MacBook Air and MacBook Pro, but very close. We were pleased with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Network: Connects as expected**
 
@@ -166,6 +158,10 @@ Lifewire / Andrew Hayward
  Interestingly, the LG Gram also has an Ethernet-to-USB-C dongle included in the box. That'll be handy if the Wi-Fi is on the fritz, or you're at a hotel or conference center that somehow doesn't have Wi-Fi in the year 2019\.
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/AhDZOG33ttJ8LfKQnzvHO7K-S8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Closed_02-d40445064b4945729278aeae3d8ae1c0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -176,6 +172,10 @@ Lifewire / Andrew Hayward
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100 percent brightness. That means it's built for a full-on workday, which makes it a great option for productivity. In our video rundown test, in which we constantly stream a Netflix movie at 100 percent brightness, the LG Gram 15.6-inch lasted for 9 hours, 14 minutes. With locally-stored video, you're sure to get a whole lot more out of it.
 
  With our typical workflow of browsing the web, chatting on Slack, typing up documents, and streaming a little bit of media, we typically saw 8-9 hours of uptime at 100% brightness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Hello, Windows (but no Windows Hello)**
 
@@ -239,24 +239,17 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-4-simplified-ways-to-screen-record-lenovo-for-2024/"><u>[New] 4 Simplified Ways to Screen Record Lenovo for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unparalleled-speech-conversion-via-google-platform/"><u>[New] Unparalleled Speech Conversion via Google Platform</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-compelling-narratives-the-top-8-educational-hubs/"><u>[Updated] Crafting Compelling Narratives The Top 8 Educational Hubs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>[Updated] Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-screenplays-a-cinematic-legacy/"><u>2024 Approved Iconic Screenplays A Cinematic Legacy</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-learn-the-free-techniques-to-mute-audio-in-windows-10-videos/"><u>2024 Approved Learn the Free Techniques to Mute Audio in Windows 10 Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-huawei-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Huawei ?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-revolutionizing-the-market-the-leading-7-tools-to-create-digital-tokens/"><u>In 2024, Revolutionizing the Market - The Leading 7 Tools to Create Digital Tokens</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/starting-with-imovie-step-by-step-guide-to-incorporating-soundtracks-for-2024/"><u>Starting with iMovie Step-by-Step Guide to Incorporating Soundtracks for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726029412503-step-by-step-tutorial-effortless-transformation-of-dvd-content-to-avi-format/"><u>Step-by-Step Tutorial: Effortless Transformation of DVD Content to AVI Format</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/strategizing-gamers-speech-modification-unveiling-the-superior-choices-for-2024/"><u>Strategizing Gamers Speech Modification Unveiling the Superior Choices for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-moto-g-power-unveiled-an-in-depth-analysis-of-its-extended-battery-longevity-combined-with-sleek-presentation/"><u>The Moto G Power Unveiled - An In-Depth Analysis of Its Extended Battery Longevity Combined with Sleek Presentation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-updated-guide-to-video-audio-integration-for-filmmakers-for-2024/"><u>The Updated Guide to Video-Audio Integration for Filmmakers for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/transforming-music-production-in-logic-pro-x-with-these-essential-plugin-tools-freepaid-for-2024/"><u>Transforming Music Production in Logic Pro X with These Essential Plugin Tools (Free/Paid) for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-achieving-smooth-transitions-utilizing-audio-ducking-for-elegant-music-fades-in-powerdirector/"><u>Updated 2024 Approved Achieving Smooth Transitions Utilizing Audio Ducking for Elegant Music Fades in PowerDirector</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-bugged-upbeat-sounds-pack-free-2023-digital-audio-library/"><u>Updated 2024 Approved Bugged Upbeat Sounds Pack – FREE 2023 Digital Audio Library</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-detailed-vimeo-video-overview-featuring-aspect-ratio/"><u>Updated 2024 Approved Detailed Vimeo Video Overview Featuring Aspect Ratio</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-sound-engineers-playbook-techniques-for-distilling-song-beats-through-technology/"><u>Updated 2024 Approved The Sound Engineers Playbook Techniques for Distilling Song Beats Through Technology</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-twinsoundlink-bridging-gaps-between-auditory-elements-in-premiere-pro-projects-2023-overhaul/"><u>Updated 2024 Approved TwinSoundLink Bridging Gaps Between Auditory Elements in Premiere Pro Projects 2023 Overhaul</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-seamless-integration-12-stream-app-experience/"><u>[New] In 2024, Seamless Integration 12 Stream App Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-beyond-capture-understanding-mycams-advanced-features/"><u>[Updated] 2024 Approved Beyond Capture – Understanding MyCam's Advanced Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-face-id-14-fixes-to-restore-your-iphones-facial-authentication-feature/"><u>Can't Use Face ID? 14 Fixes to Restore Your iPhone's Facial Authentication Feature</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-14-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 14 When You Forget the Passcode?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/husqvarna-h501s-drone-unboxed-review-essentials/"><u>Husqvarna H501S Drone Unboxed - Review Essentials</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-when-your-hamachi-session-ends-unexpectedly/"><u>Mastering the Fix for When Your Hamachi Session Ends Unexpectedly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/metaverse-joke-ology-building-your-own-hilarious-memes-for-2024/"><u>Metaverse Joke-Ology Building Your Own Hilarious Memes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-difficulties-with-valheim-expert-tips-and-tricks/"><u>Overcoming Startup Difficulties with Valheim : Expert Tips & Tricks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-high-quality-voip-games-chat-tools-to-elevate-your-experience-2023-update/"><u>Updated In 2024, High-Quality VOIP Games Chat Tools to Elevate Your Experience - 2023 Update</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-manipulating-soundscapes-incorporating-keyframes-for-subtle-auditory-changes-in-filmora-mac/"><u>Updated Manipulating Soundscapes Incorporating Keyframes for Subtle Auditory Changes in Filmora (Mac)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-comprehensive-blueprint-for-music-manipulation-and-incorporation-into-videos-via-filmora/"><u>Updated The Comprehensive Blueprint for Music Manipulation and Incorporation Into Videos via Filmora</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-guide-to-mp3-to-mp4-file-format-transition/"><u>Updated The Ultimate Guide to MP3-to-MP4 File Format Transition</u></a></li>
 </ul></div>
 

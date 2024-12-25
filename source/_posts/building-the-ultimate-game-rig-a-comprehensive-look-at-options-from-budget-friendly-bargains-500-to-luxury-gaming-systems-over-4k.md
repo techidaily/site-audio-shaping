@@ -1,7 +1,7 @@
 ---
 title: "Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)"
-date: 2024-12-09T21:46:28.669Z
-updated: 2024-12-15T21:31:37.103Z
+date: 2024-12-22T21:56:39.257Z
+updated: 2024-12-24T22:25:55.259Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 [Hewlett Packard](https://www.tomshardware.com/tag/hewlett-packard) [Enterprise](https://www.tomshardware.com/tag/enterprise) (HPE), one of the world's largest makers of servers, has initiated a legal battle against Inspur Group, China's largest server maker, and its affiliates, alleging server patent infringements. HPE accuses Inspur of engaging in deceptive practices and renaming its subsidiaries in the U.S. to continue its business with American companies despite being included into the Entity List.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HPE: Inspur infringes our patents
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Despite being on the Entity List, Inspur continues operations in the U.S
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  The complaint claims that Inspur that inspur continues its operations in the United States under Aivres Systems and Betapex. Inspur allegedly removed its branding from products sold in the U.S. and continues to sell them. For example, Inspur's IR5280M6 server is Aivres's 5280M6 machine, it has the same specification and design, according to HPE's complaint. Meanwhile, Inspur has also worked as a contract maker of servers, according to The Register. Yet, if a U.S. entity plans to work with Inspur (or any other party from the Entity List), it has to get a special license from the U.S. government.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,24 +64,20 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-taking-flight-in-depth-review-of-the-x4-fpv-quadcopter/"><u>[New] 2024 Approved Taking Flight In-Depth Review of the X4 FPV Quadcopter</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>[New] In 2024, PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unraveling-the-purpose-behind-facebooks-blue-icon/"><u>[New] In 2024, Unraveling the Purpose Behind Facebook's Blue Icon</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-approach-wearable-unlocks-your-mac/"><u>[New] Innovative Approach Wearable Unlocks Your Mac</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-swift-playback-in-tiktok-enhancing-performance/"><u>2024 Approved Swift Playback in TikTok Enhancing Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-ryzen-user-friendly-tutorial-fresh-drivers-enhanced-stability-and-speed/"><u>AMD Ryzen User-Friendly Tutorial: Fresh Drivers, Enhanced Stability & Speed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-k70e-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-scroll-captures-a-step-by-step-guide-to-screenshots-in-windows-11/"><u>Mastering Scroll Captures: A Step-by-Step Guide to Screenshots in Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/streamlining-editing-how-to-excise-audio-from-video-tracks-using-premiere-pro-for-2024/"><u>Streamlining Editing How to Excise Audio From Video Tracks Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-art-of-frequency-shifting-without-compromising-clarity-in-audacity/"><u>The Art of Frequency Shifting Without Compromising Clarity in Audacity</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-podcast-recording-playbook-a-seamless-process-for-2024/"><u>The Ultimate Podcast Recording Playbook A Seamless Process for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-meizu-21-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Meizu 21 Pro Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-audio-enhancement-in-your-windows-environment-maximizing-sound-on-budget/"><u>Updated 2024 Approved Audio Enhancement in Your Windows Environment - Maximizing Sound on Budget</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-in-depth-analysis-of-the-wave-editor-signature-capabilities-evaluations-and-practical-lessons/"><u>Updated 2024 Approved In-Depth Analysis of the Wave Editor Signature Capabilities, Evaluations, and Practical Lessons</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-adding-effective-audio-to-your-quicktime-projects-2023-edition/"><u>Updated Adding Effective Audio to Your QuickTime Projects 2023 Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-essential-list-of-cost-free-audio-to-transcription-tools-for-the-modern-user-for-2024/"><u>Updated Essential List of Cost-Free Audio to Transcription Tools for the Modern User for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-15-awesome-collection-of-news-background-music/"><u>Updated In 2024, 15 Awesome Collection of News Background Music</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-wizardry-in-imovie-expert-advice-on-editing-and-enhancing-soundtracks/"><u>Updated In 2024, Audio Wizardry in iMovie Expert Advice on Editing and Enhancing Soundtracks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-loop-a-video-on-iphone/"><u>[New] 2024 Approved How to Loop A Video on iPhone?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tandardized-youtube-images-made-accessible-3-easy-ways-to-download-for-2024/"><u>[New] Standardized YouTube Images Made Accessible 3 Easy Ways to Download for 2024</u></a></li>
+<li><a href="https://techidaily.com/easy-mac-vpn-setup-guide-secure-your-connection-with-simple-steps/"><u>Easy Mac VPN Setup Guide: Secure Your Connection with Simple Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-olympic-sprint-spotlight-year-2022/"><u>In 2024, Olympic Sprint Spotlight Year 2022</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-prime-setup-the-finest-4k-dslr-shoulder-rigs-reviewed/"><u>In 2024, Prime Setup The Finest 4K DSLR Shoulder Rigs Reviewed</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-error-code-0xc0000221-comprehensive-fix-guide-for-windows-n/"><u>Solving Error Code 0xC0000221 – Comprehensive Fix Guide for Windows N</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-chromebook-freezing-issue-a-step-by-step-guide/"><u>Solving the Chromebook Freezing Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/speed-up-minecraft-now-with-these-simple-tips/"><u>Speed Up Minecraft Now with These Simple Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-non-updating-email-issues-on-your-iphone/"><u>Troubleshooting Tips: Resolving Non-Updating Email Issues on Your iPhone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-premium-apps-for-enhancing-and-modifying-your-digital-vocal-presence/"><u>Updated In 2024, Premium Apps for Enhancing and Modifying Your Digital Vocal Presence</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>Updated No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-speech-to-text-software-showdown-discover-the-top-8-options-for-pcs-macs-and-online-accessibility-for-2024/"><u>Updated Speech-to-Text Software Showdown Discover the Top 8 Options for PCs, Macs and Online Accessibility for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-free-browser-based-daws-for-creatives/"><u>Updated Top 10 Free Browser-Based DAWs for Creatives</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-7-audio-de-singer-tools-for-effective-vocal-elimination-for-2024/"><u>Updated Top 7 Audio De-Singer Tools for Effective Vocal Elimination for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-unlock-your-creative-potential-best-free-software-to-produce-music-on-pc-and-mac-2023-edition-for-2024/"><u>Updated Unlock Your Creative Potential Best Free Software to Produce Music on PC & Mac, 2023 Edition for 2024</u></a></li>
 </ul></div>
 

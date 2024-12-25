@@ -1,7 +1,7 @@
 ---
 title: Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
-date: 2024-12-11T03:02:31.142Z
-updated: 2024-12-16T05:57:36.800Z
+date: 2024-12-18T22:00:03.192Z
+updated: 2024-12-24T17:42:22.301Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,15 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-optimizing-facebook-search-efficiency-101/"><u>[New] 2024 Approved Optimizing Facebook Search Efficiency 101</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>[New] In 2024, Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-boost-your-visual-impact-essential-tricks-for-pixlr-pros/"><u>[Updated] 2024 Approved Boost Your Visual Impact Essential Tricks for Pixlr Pros</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/express-originality-craft-professional-logos-from-template-designs-free/"><u>Express Originality Craft Professional Logos From Template Designs (Free)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-mini-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-sunlit-scenes-android-brighten-tips/"><u>In 2024, Sunlit Scenes Android Brighten Tips</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-harmonizing-multiple-recordings-achieving-an-exclusive-one-file-mix/"><u>New 2024 Approved Harmonizing Multiple Recordings Achieving an Exclusive One-File Mix</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-essential-tips-for-aspiring-music-video-editors-for-2024/"><u>New Essential Tips for Aspiring Music Video Editors for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-harmonyvoices-mastering-cross-platform-audio-synchronization-in-adobe-premiere-pro-for-2024/"><u>New HarmonyVoices Mastering Cross-Platform Audio Synchronization in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals-for-2024/"><u>New Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-workflow-with-aiseesoft-recording-tools/"><u>[New] 2024 Approved Streamline Your Workflow with Aiseesoft Recording Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-auditory-aesthetics-choosing-the-right-soundtracks-for-boxings/"><u>[New] In 2024, Auditory Aesthetics Choosing the Right Soundtracks for Boxings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-divergence-in-dungeons-classic-and-hybrid-games-for-2024/"><u>[Updated] Divergence in Dungeons Classic and Hybrid Games for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ultimate-seo-guide-elevating-your-video-rankings-in-a-digital-age/"><u>[Updated] In 2024, Ultimate SEO Guide Elevating Your Video Rankings in a Digital Age</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimizing-footage-variety-in-your-video-production-for-2024/"><u>[Updated] Optimizing Footage Variety in Your Video Production for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-comparisons-and-reviews-of-leading-portable-flac-players-the-fiio-experience/"><u>Comprehensive Comparisons & Reviews of Leading Portable FLAC Players - The FiiO Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/expert-tips-for-srt-to-xml-ssa-and-ttml-transformations-for-2024/"><u>Expert Tips for SRT-to-XML, SSA, and TTML Transformations for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/interpreting-the-lack-of-communication-a-block-indicator/"><u>Interpreting the Lack of Communication A Block Indicator</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210559576-9781952692369-radical-love/"><u>Radical Love | Free Book</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/silent-capture-effective-strategies-to-remove-noise-from-iphone-videos-for-2024/"><u>Silent Capture Effective Strategies to Remove Noise From iPhone Videos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/skype-voice-changer-5-useful-tools-to-change-voice-for-skype-for-2024/"><u>Skype Voice Changer 5 Useful Tools to Change Voice for Skype for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/step-onto-the-court-with-nba-2k19-leading-basketball-emulator/"><u>Step Onto the Court with NBA 2K19: Leading Basketball Emulator</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/streamlining-production-workflow-extracting-audio-separately-on-a-mac-with-imovie-for-2024/"><u>Streamlining Production Workflow Extracting Audio Separately on a Mac with iMovie for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-8-powerful-daw-options-revolutionize-your-music-production-process-for-2024/"><u>The Ultimate List of 8 Powerful DAW Options Revolutionize Your Music Production Process for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-10plus-best-free-podcast-player-apps-for-ios-and-android/"><u>Updated 10+ Best FREE Podcast Player Apps for iOS and Android</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-pixel-percussion-finding-sound-cues-from-button-presses/"><u>Updated 2024 Approved Pixel Percussion Finding Sound Cues From Button Presses</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-8-best-rain-sound-effect-resources-to-download-for-2024/"><u>Updated 8 Best Rain Sound Effect Resources to Download for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-audio-eradication-on-ios-devices-a-complete-guide-to-clearer-videos-for-2024/"><u>Updated Audio Eradication on iOS Devices A Complete Guide to Clearer Videos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-disable-incoming-audio-cues-and-import-fresh-audiovisual-components-via-windows-moviemaker-software/"><u>Updated Disable Incoming Audio Cues & Import Fresh Audiovisual Components via Windows Moviemaker Software</u></a></li>
 </ul></div>
 

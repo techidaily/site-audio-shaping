@@ -1,7 +1,7 @@
 ---
 title: "Tom's Gadget Gallery: A Journey Through Modern Computing Hardware"
-date: 2024-12-13T03:50:14.871Z
-updated: 2024-12-15T21:11:04.172Z
+date: 2024-12-17T17:23:28.962Z
+updated: 2024-12-25T04:35:11.356Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,19 +66,20 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-frame-tools-and-websites-image-editors/"><u>[New] Innovative Frame Tools and Websites Image Editors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-master-clearer-photos-unveiling-the-top-10-web-edits/"><u>[New] Master Clearer Photos Unveiling the Top 10 Web Edits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-backupbreeze-professionals-opinion/"><u>[Updated] 2024 Approved BackupBreeze Professionals Opinion</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-navigating-discords-broadcast-settings-for-easy-streaming-for-2024/"><u>[Updated] Navigating Discord's Broadcast Settings for Easy Streaming for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-best-mp3-tag-editor-for-windows-and-mac/"><u>2024 Approved Best MP3 Tag Editor for Windows and Mac</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-uploading-subtitles-a-compreenas-guide-for-all-social-media-users/"><u>2024 Approved Uploading Subtitles A Compreenas Guide for All Social Media Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connect-microsofts-dp-adapter-solutions-for-windows-11-compatibility-issues-resolved/"><u>Connect Microsoft's DP Adapter: Solutions for Windows 11 Compatibility Issues [Resolved]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-methods-to-cancel-and-delete-your-chatgpt-profile/"><u>Easy Methods to Cancel and Delete Your ChatGPT Profile</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/full-spectrum-on-morphvox-technology-for-voice-conversion-for-2024/"><u>Full Spectrum on MorphVOX Technology for Voice Conversion for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-charting-the-best-affordable-virtual-studio-technology-enhancers-for-todays-producers/"><u>In 2024, Charting the Best Affordable Virtual Studio Technology Enhancers for Todays Producers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-your-pcs-potential-with-these-7-optimized-speed-hacks/"><u>Maximize Your PC's Potential with These 7 Optimized Speed Hacks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-harmonizing-technology-with-taste-your-guide-to-mastering-audio-format-selection/"><u>New 2024 Approved Harmonizing Technology with Taste Your Guide to Mastering Audio Format Selection</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-2023s-guide-to-android-nine-essential-digital-audio-workstations-for-creative-beats/"><u>New In 2024, 2023S Guide to Android Nine Essential Digital Audio Workstations for Creative Beats</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-ultimate-list-of-8-powerful-daw-options-revolutionize-your-music-production-process/"><u>New In 2024, The Ultimate List of 8 Powerful DAW Options Revolutionize Your Music Production Process</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earning-potential-for-creators-in-youtube-ads/"><u>[Updated] 2024 Approved Earning Potential for Creators in YouTube Ads?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-screen-record-instagram-story/"><u>[Updated] How to Screen Record Instagram Story</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-premier-comedy-photo-stylist-tool/"><u>[Updated] Premier Comedy Photo Stylist Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-get-steam-titles-running-again-in-windows-11/"><u>Fixes & Solutions: How to Get Steam Titles Running Again in Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-androidios-resolve-youtube-freezing/"><u>In 2024, Android/iOS Resolve YouTube Freezing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prepare-for-prime-time-savings-lenovo-business-laptops-slashed-by-900plus-ahead-of-octobers-prime-day-revealed/"><u>Prepare for Prime Time Savings: Lenovo Business Laptops Slashed by $900+ Ahead of October's Prime Day, Revealed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/simple-vocal-transformation-facilities-analysis-of-capabilities-guidelines-for-usage-and-multiple-approaches-for-2024/"><u>Simple Vocal Transformation Facilities Analysis of Capabilities, Guidelines for Usage, and Multiple Approaches for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-distinctive-traits-of-iphone-15-pro-max-and-samsung-s24-ultra-smartphones/"><u>Unveiling the Distinctive Traits of iPhone 15 Pro Max and Samsung S24 Ultra Smartphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unwrapping-utopia-creating-magical-unboxing-moments-for-2024/"><u>Unwrapping Utopia Creating Magical Unboxing Moments for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-11-no-cost-audio-production-tools-for-pcs-and-macs/"><u>Updated 2024 Approved Top 11 No-Cost Audio Production Tools for PCs & Macs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elevate-your-video-storytelling-with-professional-voiceovers/"><u>Updated Elevate Your Video Storytelling with Professional Voiceovers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-harnessing-the-power-of-tension-building-melodies-in-cinematic-storytelling-for-2024/"><u>Updated Harnessing the Power of Tension-Building Melodies in Cinematic Storytelling for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ideas-to-find-the-best-instrumental-background-music-for-videos/"><u>Updated Ideas to Find The Best Instrumental Background Music for Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-crafting-the-ultimate-strum-a-comprehensive-look-at-the-top-7-daws-designed-for-guitar-recordings/"><u>Updated In 2024, Crafting the Ultimate Strum A Comprehensive Look at the Top 7 DAWs Designed for Guitar Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voice-interaction-now-possible-chatgpt-enhanced-by-openai-technology/"><u>Voice Interaction Now Possible: ChatGPT Enhanced by OpenAI Technology</u></a></li>
 </ul></div>
 
