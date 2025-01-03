@@ -1,7 +1,7 @@
 ---
 title: Exploring Electronics Through Tom’s Hardware Lens
-date: 2024-12-18T03:14:56.512Z
-updated: 2024-12-24T20:44:52.429Z
+date: 2024-12-31T05:05:07.368Z
+updated: 2025-01-03T06:38:25.155Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
  For now, this little mini PC is a China-exclusive that requires some shipping costs to bring elsewhere in the world, but Tianbao may very well end up bringing it stateside via the Aoostar branding, depending on its reception.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,16 +58,16 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-the-best-mac-video-editing-apps-1-5-for-2024/"><u>[New] Cutting Edge The Best Mac Video Editing Apps #1-#5 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unveiling-the-strengths-and-weaknesses-of-presenter-8/"><u>[New] In 2024, Unveiling the Strengths and Weaknesses of Presenter 8</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-can-i-respond-when-it-appears-my-hard-disk-is-malfunctioning-insights-from-yl-computings-expertise/"><u>How Can I Respond When It Appears My Hard Disk Is Malfunctioning? Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-export-ppt-as-animated-film/"><u>In 2024, Export PPT as Animated Film</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-zte-nubia-z60-ultra-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your ZTE Nubia Z60 Ultra FRP Locks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>[New] In 2024, Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-techniques-to-decrease-film-duration-on-macos-for-insta/"><u>[New] In 2024, Techniques to Decrease Film Duration on macOS for Insta</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-fast-tracking-visual-storytelling-with-google-collages/"><u>[Updated] 2024 Approved Fast-Tracking Visual Storytelling with Google Collages</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210547609-9781637109472-bahkruune/"><u>BAHKRUUNE | Free Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-webcams-for-zoom-for-2024/"><u>Best Webcams for Zoom for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/does-reduced-shakiness-improve-creative-editing-in-adobe-photos/"><u>Does Reduced Shakiness Improve Creative Editing in Adobe Photos?</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/in-2024-top-10-best-sites-to-download-free-hd-video-backgrounds/"><u>In 2024, Top 10 Best Sites to Download Free HD Video Backgrounds</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/mastering-safe-screen-time-expert-advice-on-video-call-etiquette-and-protection/"><u>Mastering Safe Screen Time Expert Advice on Video Call Etiquette and Protection</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-2024-approved-audio-free-video-guide-five-steps-to-remove-unwanted-sounds-online/"><u>New 2024 Approved Audio-Free Video Guide Five Steps to Remove Unwanted Sounds Online</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-amr-audio-transformation-a-step-by-step-manual-for-complete-amr-files-conversion/"><u>New AMR Audio Transformation A Step-by-Step Manual for Complete AMR Files Conversion</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-leading-audio-time-reverse-programs-a-comprehensive-list-for-desktop-and-smartphone-users/"><u>New In 2024, Leading Audio Time-Reverse Programs A Comprehensive List for Desktop and Smartphone Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-movie-magic-on-the-go-top-ios-apps-for-trailers/"><u>Updated In 2024, Movie Magic on the Go Top iOS Apps for Trailers</u></a></li>
 </ul></div>
 

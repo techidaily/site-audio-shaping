@@ -1,7 +1,7 @@
 ---
 title: "Tom's Gadget Gallery: A Journey Through Modern Computing Hardware"
-date: 2024-12-17T17:23:28.962Z
-updated: 2024-12-25T04:35:11.356Z
+date: 2024-12-27T16:07:23.157Z
+updated: 2025-01-03T00:50:06.266Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,20 +66,20 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earning-potential-for-creators-in-youtube-ads/"><u>[Updated] 2024 Approved Earning Potential for Creators in YouTube Ads?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-screen-record-instagram-story/"><u>[Updated] How to Screen Record Instagram Story</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-premier-comedy-photo-stylist-tool/"><u>[Updated] Premier Comedy Photo Stylist Tool</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-get-steam-titles-running-again-in-windows-11/"><u>Fixes & Solutions: How to Get Steam Titles Running Again in Windows 11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-androidios-resolve-youtube-freezing/"><u>In 2024, Android/iOS Resolve YouTube Freezing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prepare-for-prime-time-savings-lenovo-business-laptops-slashed-by-900plus-ahead-of-octobers-prime-day-revealed/"><u>Prepare for Prime Time Savings: Lenovo Business Laptops Slashed by $900+ Ahead of October's Prime Day, Revealed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/simple-vocal-transformation-facilities-analysis-of-capabilities-guidelines-for-usage-and-multiple-approaches-for-2024/"><u>Simple Vocal Transformation Facilities Analysis of Capabilities, Guidelines for Usage, and Multiple Approaches for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-distinctive-traits-of-iphone-15-pro-max-and-samsung-s24-ultra-smartphones/"><u>Unveiling the Distinctive Traits of iPhone 15 Pro Max and Samsung S24 Ultra Smartphones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unwrapping-utopia-creating-magical-unboxing-moments-for-2024/"><u>Unwrapping Utopia Creating Magical Unboxing Moments for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-11-no-cost-audio-production-tools-for-pcs-and-macs/"><u>Updated 2024 Approved Top 11 No-Cost Audio Production Tools for PCs & Macs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-elevate-your-video-storytelling-with-professional-voiceovers/"><u>Updated Elevate Your Video Storytelling with Professional Voiceovers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-harnessing-the-power-of-tension-building-melodies-in-cinematic-storytelling-for-2024/"><u>Updated Harnessing the Power of Tension-Building Melodies in Cinematic Storytelling for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-ideas-to-find-the-best-instrumental-background-music-for-videos/"><u>Updated Ideas to Find The Best Instrumental Background Music for Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-crafting-the-ultimate-strum-a-comprehensive-look-at-the-top-7-daws-designed-for-guitar-recordings/"><u>Updated In 2024, Crafting the Ultimate Strum A Comprehensive Look at the Top 7 DAWs Designed for Guitar Recordings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voice-interaction-now-possible-chatgpt-enhanced-by-openai-technology/"><u>Voice Interaction Now Possible: ChatGPT Enhanced by OpenAI Technology</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-video-direction-whats-the-right-angle-in-2024/"><u>[New] FB Video Direction What's the Right Angle, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tailor-made-video-hosting-on-vimeo-pick-your-perfect-level/"><u>[New] Tailor-Made Video Hosting on Vimeo Pick Your Perfect Level</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-inside-the-2023-samsung-bd-j5900-innovations/"><u>[Updated] In 2024, Inside the 2023 Samsung BD-J5900 Innovations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-inshot-video-editing-powerhouse/"><u>[Updated] In-Depth Look at InShot Video Editing Powerhouse?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-idevice-screen-recording-techniques-for-youtube-for-2024/"><u>[Updated] Mastering iDevice Screen Recording Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-year-in-review-the-best-of-figure-skating22-for-2024/"><u>[Updated] Year in Review The Best of Figure Skating'22 For 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/dicas-para-configurar-subtitulos-fiables-no-vlc-um-guia-atualizado-e-detalhado/"><u>Dicas Para Configurar Subtítulos Fiables No VLC: Um Guia Atualizado E Detalhado</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lg-k92-smartphone-reviewed-the-impact-of-5g-on-its-value-proposition/"><u>LG K92 Smartphone Reviewed: The Impact of 5G on Its Value Proposition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated In 2024, Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-pop-song-selections-for-film-and-media-production-for-2024/"><u>Updated Premier Pop Song Selections for Film and Media Production for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premiere-pairing-programs-ultimate-beat-match-video-editor-companion-2023/"><u>Updated Premiere Pairing Programs Ultimate Beat Match Video Editor Companion, 2023</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors-for-2024/"><u>Updated Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-streamlined-techniques-for-audio-excision-in-mobile-and-desktop-video-files/"><u>Updated Streamlined Techniques for Audio Excision in Mobile and Desktop Video Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-vocal-transformation-utilizing-morphvox-for-competitive-gaming-advantage-for-2024/"><u>Updated The Art of Vocal Transformation Utilizing Morphvox for Competitive Gaming Advantage for 2024</u></a></li>
 </ul></div>
 

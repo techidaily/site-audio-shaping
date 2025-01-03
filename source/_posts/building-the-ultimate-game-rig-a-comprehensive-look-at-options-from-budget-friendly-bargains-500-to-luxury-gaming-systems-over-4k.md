@@ -1,7 +1,7 @@
 ---
 title: "Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)"
-date: 2024-12-22T21:56:39.257Z
-updated: 2024-12-24T22:25:55.259Z
+date: 2024-12-31T16:57:58.410Z
+updated: 2025-01-03T04:54:26.369Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 [Hewlett Packard](https://www.tomshardware.com/tag/hewlett-packard) [Enterprise](https://www.tomshardware.com/tag/enterprise) (HPE), one of the world's largest makers of servers, has initiated a legal battle against Inspur Group, China's largest server maker, and its affiliates, alleging server patent infringements. HPE accuses Inspur of engaging in deceptive practices and renaming its subsidiaries in the U.S. to continue its business with American companies despite being included into the Entity List.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HPE: Inspur infringes our patents
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Despite being on the Entity List, Inspur continues operations in the U.S
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  The complaint claims that Inspur that inspur continues its operations in the United States under Aivres Systems and Betapex. Inspur allegedly removed its branding from products sold in the U.S. and continues to sell them. For example, Inspur's IR5280M6 server is Aivres's 5280M6 machine, it has the same specification and design, according to HPE's complaint. Meanwhile, Inspur has also worked as a contract maker of servers, according to The Register. Yet, if a U.S. entity plans to work with Inspur (or any other party from the Entity List), it has to get a special license from the U.S. government.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,20 +64,19 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-loop-a-video-on-iphone/"><u>[New] 2024 Approved How to Loop A Video on iPhone?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tandardized-youtube-images-made-accessible-3-easy-ways-to-download-for-2024/"><u>[New] Standardized YouTube Images Made Accessible 3 Easy Ways to Download for 2024</u></a></li>
-<li><a href="https://techidaily.com/easy-mac-vpn-setup-guide-secure-your-connection-with-simple-steps/"><u>Easy Mac VPN Setup Guide: Secure Your Connection with Simple Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-olympic-sprint-spotlight-year-2022/"><u>In 2024, Olympic Sprint Spotlight Year 2022</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-prime-setup-the-finest-4k-dslr-shoulder-rigs-reviewed/"><u>In 2024, Prime Setup The Finest 4K DSLR Shoulder Rigs Reviewed</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/solving-error-code-0xc0000221-comprehensive-fix-guide-for-windows-n/"><u>Solving Error Code 0xC0000221 – Comprehensive Fix Guide for Windows N</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-chromebook-freezing-issue-a-step-by-step-guide/"><u>Solving the Chromebook Freezing Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/speed-up-minecraft-now-with-these-simple-tips/"><u>Speed Up Minecraft Now with These Simple Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-non-updating-email-issues-on-your-iphone/"><u>Troubleshooting Tips: Resolving Non-Updating Email Issues on Your iPhone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-premium-apps-for-enhancing-and-modifying-your-digital-vocal-presence/"><u>Updated In 2024, Premium Apps for Enhancing and Modifying Your Digital Vocal Presence</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>Updated No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-speech-to-text-software-showdown-discover-the-top-8-options-for-pcs-macs-and-online-accessibility-for-2024/"><u>Updated Speech-to-Text Software Showdown Discover the Top 8 Options for PCs, Macs and Online Accessibility for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-10-free-browser-based-daws-for-creatives/"><u>Updated Top 10 Free Browser-Based DAWs for Creatives</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-7-audio-de-singer-tools-for-effective-vocal-elimination-for-2024/"><u>Updated Top 7 Audio De-Singer Tools for Effective Vocal Elimination for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-unlock-your-creative-potential-best-free-software-to-produce-music-on-pc-and-mac-2023-edition-for-2024/"><u>Updated Unlock Your Creative Potential Best Free Software to Produce Music on PC & Mac, 2023 Edition for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-5-budget-friendly-chromebook-recorders/"><u>[Updated] In 2024, Top 5 Budget-Friendly Chromebook Recorders</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-advanced-techniques-in-final-cut-pro-embedding-waveform-diagrams-with-live-audio-animation/"><u>2024 Approved Advanced Techniques in Final Cut Pro Embedding Waveform Diagrams with Live Audio Animation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-use-social-blade-for-youtube-analytics-stats-and-how-to-use-them/"><u>2024 Approved Use Social Blade for YouTube Analytics - Stats & How to Use Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-bluetooth-speaker-delivers-rich-immersive-audio-experience-tiny-size-with-full-bodied-sounds/"><u>Compact Bluetooth Speaker Delivers Rich, Immersive Audio Experience - Tiny Size with Full-Bodied Sounds</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-virtual-realities-shortcomings/"><u>Exploring Virtual Realities' Shortcomings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-youtube-foundations-building-a-brand-and-generating-income-for-novices/"><u>In 2024, Youtube Foundations Building a Brand & Generating Income for Novices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sketching-success-a-guide-to-industrys-best-10-vector-apps-for-2024/"><u>Sketching Success A Guide to Industry's Best 10 Vector Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-foundational-steps-to-your-distinctive-marketing-voice-for-2024/"><u>The Foundational Steps to Your Distinctive Marketing Voice for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-silent-streams-cutting-the-chatter-of-video-audio-tracks/"><u>Updated In 2024, Silent Streams Cutting the Chatter of Video Audio Tracks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-the-art-of-isolating-rhythms-a-guide-to-online-beat-extraction-for-2024/"><u>Updated Mastering the Art of Isolating Rhythms A Guide to Online Beat Extraction for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-sync-it-up-expert-tips-for-aligning-video-with-a-soundtrack-in-fcpx-for-2024/"><u>Updated Sync It Up! Expert Tips for Aligning Video with a Soundtrack in FCPX for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-silent-song-methods-to-extract-and-remove-vocal-tracks-from-audio-sequences-in-audacity/"><u>Updated The Silent Song Methods to Extract and Remove Vocal Tracks From Audio Sequences in Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
 </ul></div>
 

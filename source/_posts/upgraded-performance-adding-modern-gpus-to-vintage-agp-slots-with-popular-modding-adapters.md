@@ -1,7 +1,7 @@
 ---
 title: "Upgraded Performance: Adding Modern GPUs to Vintage AGP Slots with Popular Modding Adapters"
-date: 2024-12-18T23:35:21.768Z
-updated: 2024-12-24T19:14:34.593Z
+date: 2024-12-30T01:30:03.166Z
+updated: 2025-01-02T20:46:38.613Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,24 +64,20 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-elite-editions-unbiased-blu-ray-player-titles-for-pcmac/"><u>[New] Elite Editions Unbiased Blu-Ray Player Titles for PC/Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ultimate-offline-voice-processor/"><u>[New] Ultimate Offline Voice Processor</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-enhancing-viewers-staying-power-top-6-strategies-for-youtube-success/"><u>[Updated] 2024 Approved Enhancing Viewers' Staying Power Top 6 Strategies for YouTube Success</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-yuneec-typhoon-h-exposed-drone-review-in-detail/"><u>[Updated] 2024 Approved Yuneec Typhoon H Exposed Drone Review in Detail</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-breaking-down-mp4s-removing-sound-tracks-and-silence/"><u>2024 Approved Breaking Down MP4s Removing Sound Tracks and Silence</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/comparing-titans-in-digital-audio-workstations-is-magix-samplitude-at-the-pinnacle/"><u>Comparing Titans in Digital Audio Workstations Is MAGIX Samplitude at the Pinnacle?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-google-pixel-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Google Pixel 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-audio-files-with-lame-in-audacity-a-detailed-walkthrough-for-2024/"><u>Mastering Audio Files with Lame in Audacity – A Detailed Walkthrough for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-identifying-venues-with-vibrant-loud-cheers/"><u>New 2024 Approved Identifying Venues with Vibrant Loud Cheers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-amr-format-processing-and-conversion/"><u>New The Ultimate Guide to AMR Format Processing and Conversion</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/neweggs-ultimate-holiday-deals-list-save-big-on-electronics-and-more-discover-the-best-offers/"><u>Newegg's Ultimate Holiday Deals List : Save Big on Electronics and More – Discover the Best Offers!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-reviews-top-picks-and-expert-advice/"><u>Tom's Hardware Reviews - Top Picks & Expert Advice</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-a-comprehensive-tutorial-on-audio-standardization-in-davinci-resolve/"><u>Updated 2024 Approved A Comprehensive Tutorial on Audio Standardization in DaVinci Resolve</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-ultimate-guide-to-selecting-mobile-speech-to-text-software/"><u>Updated 2024 Approved Ultimate Guide to Selecting Mobile Speech-to-Text Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-auditory-alchemy-top-15-montage-soundtracks-adapting-to-varying-visual-media-for-2024/"><u>Updated Auditory Alchemy Top 15 Montage Soundtracks Adapting to Varying Visual Media for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-mastering-sound-with-these-top-10-audio-editors-compatible-with-windows-and-mac-for-2024/"><u>Updated Mastering Sound with These Top 10 Audio Editors Compatible with Windows and Mac for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/yi-cameras-edge-in-cinematic-quality-4k-capture-for-2024/"><u>Yi Camera's Edge in Cinematic Quality 4K Capture for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-android-latest-tips-for-immersive-360-content/"><u>[New] Navigating Android Latest Tips for Immersive 360 Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-adjusting-stream-velocity-in-netflix/"><u>[Updated] Adjusting Stream Velocity in Netflix</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-new-tech-horizon-with-microsofts-hololens-review/"><u>[Updated] In 2024, The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-pivot-and-post-mastering-video-orientation/"><u>[Updated] Pivot and Post Mastering Video Orientation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977762731-amd-vega-driver-update-made-simple-perfect-for-gamers-seeking-optimal-graphics-performance/"><u>AMD Vega Driver Update Made Simple: Perfect for Gamers Seeking Optimal Graphics Performance!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-clearing-data-with-cmd-on-your-windows-10-system/"><u>Efficiently Clearing Data with CMD on Your Windows 10 System</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-smoothly-view-youtube-videos-without-borders-for-2024/"><u>How to Smoothly View YouTube Videos without Borders for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-audio-to-quicktime-video-files/"><u>New How to Add Audio to QuickTime Video Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharpen-your-photos-pro-tips-for-lunapic-users/"><u>Sharpen Your Photos Pro Tips for LunaPic Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-hymn-heads-remover-plugin-build-unique-supporting-soundscape/"><u>Updated 2024 Approved Hymn Heads Remover Plugin Build Unique Supporting Soundscape</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-discover-the-best-fee-free-musical-backdrops-for-chuckle-filled-projects/"><u>Updated Discover the Best Fee-Free Musical Backdrops for Chuckle-Filled Projects</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-davinci-resolve-audio-processing-101-a-comprehensive-guide-to-normalization/"><u>Updated In 2024, DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-methods-for-diminishing-delay-effects-in-audio-production/"><u>Updated In 2024, Methods for Diminishing Delay Effects in Audio Production</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-silencing-the-score-advanced-noise-reduction-in-imovie-videos/"><u>Updated In 2024, Silencing the Score Advanced Noise Reduction in iMovie Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-tracking-down-simulated-acoustics-from-steel-percussion-devices-for-2024/"><u>Updated Tracking Down Simulated Acoustics From Steel Percussion Devices for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2024-12-21T22:42:06.062Z
-updated: 2024-12-25T04:44:28.023Z
+date: 2024-12-28T18:21:10.986Z
+updated: 2025-01-03T02:37:35.426Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,21 +76,19 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-streamlining-creation-youtube-video-editor-insights/"><u>[New] 2024 Approved Streamlining Creation YouTube Video Editor Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unleash-potential-precision-zooming-for-professional-videoleap-footage/"><u>[Updated] 2024 Approved Unleash Potential Precision Zooming for Professional VideoLeap Footage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-most-affordable-space-heaters-for-your-home-this-winter-featured-on-zdnet/"><u>Discover the Most Affordable Space Heaters for Your Home This Winter, Featured on ZDNet!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y200-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y200</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-ps4-troubleshooting-a-detailed-guide-on-how-to-stop-frequent-system-lockups/"><u>Mastering PS4 Troubleshooting: A Detailed Guide on How to Stop Frequent System Lockups</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-escape-challenges-top-ten-must-play-rooms/"><u>[New] Best Escape Challenges Top Ten Must-Play Rooms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-academic-avenue-leading-educators-on-youtube/"><u>[Updated] 2024 Approved Academic Avenue Leading Educators on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-easy-youtube-animation-subscribe-bars-in-filmora-for-2024/"><u>[Updated] Crafting Easy YouTube Animation Subscribe Bars in Filmora for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-tailor-made-video-cuts-macs-top-mp4-slicers-revealed/"><u>[Updated] Tailor-Made Video Cuts Mac's Top MP4 Slicers Revealed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-mishaps-fixes-for-rtx-3080-game-crashes/"><u>Mastering Mishaps: Fixes for RTX 3080 Game Crashes</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-auditory-excellence-pinpointing-the-best-songs-to-accompany-your-montage-narrative-for-2024/"><u>New Auditory Excellence Pinpointing the Best Songs to Accompany Your Montage Narrative for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-favorite-free-online-sites-featuring-a-variety-of-guitar-music-and-designs-for-2024/"><u>New Favorite Free Online Sites Featuring a Variety of Guitar Music and Designs for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-crafting-solo-beats-methods-to-distill-music-into-single-element-projects/"><u>New In 2024, Crafting Solo Beats Methods to Distill Music Into Single Element Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-essential-techniques-for-striking-podcast-cover-designs-your-step-by-step-guide/"><u>New In 2024, Essential Techniques for Striking Podcast Cover Designs Your Step-by-Step Guide</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-definitive-list-of-8-superior-video-game-sound-effects-no-cost-this-year/"><u>New In 2024, The Definitive List of 8 Superior Video Game Sound Effects - No Cost This Year</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-premier-7-voice-silencers-seamless-clip-editing-online-and-offline-for-2024/"><u>New Premier 7 Voice Silencers Seamless Clip Editing Online & Offline for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-top-5-text-to-speech-websites-for-2024/"><u>New Top 5 Text to Speech Websites for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamlessslide-visual-harmony-on-macsierra/"><u>SeamlessSlide Visual Harmony on MacSierra</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-fix-your-steelseries-arctis-pro-microphone-problems-a-comprehensive-guide/"><u>Steps to Fix Your SteelSeries Arctis Pro Microphone Problems – A Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-accessing-screen-capture-utility-quickly/"><u>Windows 11: Accessing Screen Capture Utility Quickly</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/techniques-pour-assembler-et-fusionner-des-fichier-videos-mp4-efficientement/"><u>Techniques Pour Assembler Et Fusionner Des Fichier Vidéos MP4 Efficientement</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated In 2024, Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to update drivers on Windows 7</u></a></li>
 </ul></div>
 

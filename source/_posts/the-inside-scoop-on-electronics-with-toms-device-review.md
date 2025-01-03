@@ -1,7 +1,7 @@
 ---
 title: The Inside Scoop on Electronics with Tom's Device Review
-date: 2024-12-22T03:59:18.366Z
-updated: 2024-12-25T00:58:43.910Z
+date: 2024-12-26T19:23:37.042Z
+updated: 2025-01-02T23:18:05.613Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-unseen-factors-in-determining-a-videos-view-count-on-youtube/"><u>[New] 2024 Approved The Unseen Factors in Determining a Video’s View Count on YouTube</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/building-a-successful-livestream-empire-youtube-edition-for-2024/"><u>Building a Successful Livestream Empire YouTube Edition for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-mastering-waves-with-top-surf-cams/"><u>In 2024, Mastering Waves with Top Surf Cams</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-apples-vision-pro-out-of-your-budget-exciting-news-on-a-potential-iphone-powered-alternative/"><u>Is Apple's Vision Pro Out of Your Budget? Exciting News on a Potential iPhone-Powered Alternative!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-identifying-sources-for-authentic-canine-symphony-sounds/"><u>New 2024 Approved Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-lip-sync-magic-advanced-strategies-for-real-time-audio-video-sync/"><u>New 2024 Approved Mastering Lip-Sync Magic Advanced Strategies for Real-Time Audio-Video Sync</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-harmonizing-visuals-and-sounds-displaying-audio-waves-and-adding-expressive-animation-in-magix-movie-edit-pro/"><u>New In 2024, Harmonizing Visuals & Sounds Displaying Audio Waves & Adding Expressive Animation in Magix Movie Edit Pro</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premier-manual-leveraging-mobizens-full-potential-for-mobile-capture/"><u>Premier Manual Leveraging Mobizen's Full Potential for Mobile Capture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-home-interaction-how-apples-latest-ai-technology-enhances-siri-on-your-device/"><u>Revolutionizing Home Interaction: How Apple’s Latest AI Technology Enhances Siri on Your Device</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ai-music-forerunners-crafting-harmonies-for-a-new-era/"><u>The AI Music Forerunners Crafting Harmonies for a New Era</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-the-secrets-of-altering-voice-sounds-on-ps5ps4/"><u>Unlock the Secrets of Altering Voice Sounds on PS5/PS4</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-sound-intervals-techniques-for-manipulating-audio-timestamps-in-final-cut-pro-x/"><u>Updated 2024 Approved Mastering Sound Intervals Techniques for Manipulating Audio Timestamps in Final Cut Pro X</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-tips-for-synchronizing-volumes-across-tracks-using-the-vlc-media-player/"><u>Updated In 2024, Tips for Synchronizing Volumes Across Tracks Using the VLC Media Player</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-generate-memes-for-free-meme-creator-kit/"><u>2024 Approved Generate Memes for Free - Meme Creator Kit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hear-and-heed-free-recognition-and-response-platform/"><u>Hear and Heed Free Recognition & Response Platform</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-melodic-monarchs-an-exclusive-array-of-free-royalty-free-piano-music-for-the-art-of-filmmaking-and-editing/"><u>In 2024, Melodic Monarchs An Exclusive Array of Free Royalty-Free Piano Music for the Art of Filmmaking and Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-trendsetters-in-virtual-reality-headsets/"><u>In 2024, Trendsetters in Virtual Reality Headsets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-mobile-satisfaction-rankings-apple-maintains-edge-over-competitors-with-samsung-catching-up-reveals-latest-zdnet-survey/"><u>Leading Mobile Satisfaction Rankings: Apple Maintains Edge Over Competitors with Samsung Catching Up, Reveals Latest ZDNet Survey</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mp3-partitioning-made-simple-fast-and-effective-audio-file-division-tips-for-2024/"><u>MP3 Partitioning Made Simple Fast and Effective Audio File Division Tips for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-dont-reveal-the-best-video-editing-tools-for-anonymity/"><u>New Blur, Dont Reveal The Best Video Editing Tools for Anonymity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-exploring-cricket-auditory-signatures/"><u>New Exploring Cricket Auditory Signatures</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-free-guide-to-silencing-movie-trailers-in-windows-10-videos/"><u>New In 2024, The Free Guide to Silencing Movie Trailers in Windows 10 Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-selection-of-windows-10-audio-mixing-tools-for-2024/"><u>The Ultimate Selection of Windows 10 Audio Mixing Tools for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014424163-troubleshooting-hyperx-cloud-speaker-and-mic-solved/"><u>Troubleshooting HyperX Cloud Speaker and Mic: Solved!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-ranked-female-impersonator-platform-2024-edition/"><u>Updated Top-Ranked Female Impersonator Platform, 2024 Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-se-2020-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone SE (2020)</u></a></li>
 </ul></div>
 
