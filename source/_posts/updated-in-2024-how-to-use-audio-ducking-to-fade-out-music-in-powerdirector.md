@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2025-01-01T20:58:20.637Z
-updated: 2025-01-03T06:57:08.989Z
+date: 2025-01-06T18:45:01.378Z
+updated: 2025-01-09T17:15:12.919Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,7 +53,7 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -73,7 +73,7 @@ All in all, the Wondershare Filmora is a remarkable video editor fulfilling the 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
@@ -99,7 +99,7 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -110,13 +110,13 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,19 +134,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ecoding-the-art-of-asmr-filmmaking-techniques/"><u>[New] Decoding the Art of ASMR Filmmaking Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-gimmicks-to-giants-navigating-popular-short-hashtags/"><u>[New] From Gimmicks to Giants Navigating Popular Short Hashtags</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-prime-audio-pads-for-the-web/"><u>[Updated] Prime Audio Pads for the Web</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/capture-your-moments-virtually-discover-manycam-the-ultimate-live-broadcast-and-online-webcam-solution/"><u>Capture Your Moments Virtually - Discover ManyCam, the Ultimate Live Broadcast and Online Webcam Solution</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/efficient-laptop-recording-with-top-screenrec-tools/"><u>Efficient Laptop Recording with Top ScreenRec Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-essential-list-of-best-no-price-tag-open-source-audio-cutters-for-pc-users/"><u>New 2024 Approved Essential List of Best No-Price-Tag Open-Source Audio Cutters for PC Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-uncover-belching-sound-simulation/"><u>New 2024 Approved Uncover Belching Sound Simulation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-where-can-i-find-brush-sound-effect/"><u>New 2024 Approved Where Can I Find Brush Sound Effect?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-comprehensive-guide-to-nero-waveaudio-editor/"><u>New Comprehensive Guide to Nero WaveAudio Editor</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-m54-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy M54 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/retrieve-humming-noise-impressions/"><u>Retrieve Humming Noise Impressions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-live-audio-capture-techniques-for-todays-streaming-platforms/"><u>Updated Live Audio Capture Techniques for Todays Streaming Platforms</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-no-loudness-left-behind-a-comprehensive-guide-to-audio-cutting-in-imovie/"><u>Updated No Loudness Left Behind A Comprehensive Guide to Audio Cutting in iMovie</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-laughing-skits-building-a-parody-film/"><u>[Updated] Laughing Skits Building a Parody Film</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[Updated] Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-cinematography-on-the-go-top-smartphones-with-ois/"><u>2024 Approved Perfecting Cinematography on the Go Top Smartphones with OIS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-micro-video-revolution-insights-into-2023-landscape-for-2024/"><u>Facebook's Micro-Video Revolution Insights Into 2023 Landscape for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-gionee-f3-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Gionee F3 Pro Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/navigating-the-world-of-amr-wmas-an-in-depth-guide-to-file-conversion-techniques-2023/"><u>Navigating the World of AMR WMAs An In-Depth Guide to File Conversion Techniques 2023</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-audacitys-magic-wand-techniques-for-effortless-removal-of-singers-from-soundscapes/"><u>New 2024 Approved Audacitys Magic Wand Techniques for Effortless Removal of Singers From Soundscapes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-complete-starters-kit-for-podcast-edits-your-pathway-to-audio-excellence/"><u>New 2024 Approved The Complete Starters Kit for Podcast Edits Your Pathway to Audio Excellence</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-ultimate-compendium-of-selecting-premium-audio-formats/"><u>New 2024 Approved The Ultimate Compendium of Selecting Premium Audio Formats</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-navigating-post-omegle-ban-a-pathway-back-into-conversation/"><u>New In 2024, Navigating Post-Omegle Ban A Pathway Back Into Conversation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-navigating-the-world-of-clubhouse-a-detailed-breakdown-for-aspiring-members/"><u>New Navigating the World of Clubhouse A Detailed Breakdown for Aspiring Members</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-itel-a70-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Itel A70? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

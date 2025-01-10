@@ -1,7 +1,7 @@
 ---
 title: The Inside Scoop on Electronics with Tom's Device Review
-date: 2024-12-26T19:23:37.042Z
-updated: 2025-01-02T23:18:05.613Z
+date: 2025-01-08T17:58:21.847Z
+updated: 2025-01-10T00:58:09.232Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,18 +78,16 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-generate-memes-for-free-meme-creator-kit/"><u>2024 Approved Generate Memes for Free - Meme Creator Kit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hear-and-heed-free-recognition-and-response-platform/"><u>Hear and Heed Free Recognition & Response Platform</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-melodic-monarchs-an-exclusive-array-of-free-royalty-free-piano-music-for-the-art-of-filmmaking-and-editing/"><u>In 2024, Melodic Monarchs An Exclusive Array of Free Royalty-Free Piano Music for the Art of Filmmaking and Editing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-trendsetters-in-virtual-reality-headsets/"><u>In 2024, Trendsetters in Virtual Reality Headsets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/leading-mobile-satisfaction-rankings-apple-maintains-edge-over-competitors-with-samsung-catching-up-reveals-latest-zdnet-survey/"><u>Leading Mobile Satisfaction Rankings: Apple Maintains Edge Over Competitors with Samsung Catching Up, Reveals Latest ZDNet Survey</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mp3-partitioning-made-simple-fast-and-effective-audio-file-division-tips-for-2024/"><u>MP3 Partitioning Made Simple Fast and Effective Audio File Division Tips for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-blur-dont-reveal-the-best-video-editing-tools-for-anonymity/"><u>New Blur, Dont Reveal The Best Video Editing Tools for Anonymity</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-exploring-cricket-auditory-signatures/"><u>New Exploring Cricket Auditory Signatures</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-free-guide-to-silencing-movie-trailers-in-windows-10-videos/"><u>New In 2024, The Free Guide to Silencing Movie Trailers in Windows 10 Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-selection-of-windows-10-audio-mixing-tools-for-2024/"><u>The Ultimate Selection of Windows 10 Audio Mixing Tools for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014424163-troubleshooting-hyperx-cloud-speaker-and-mic-solved/"><u>Troubleshooting HyperX Cloud Speaker and Mic: Solved!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-ranked-female-impersonator-platform-2024-edition/"><u>Updated Top-Ranked Female Impersonator Platform, 2024 Edition</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-se-2020-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-nextgen-videotron-app-evaluation/"><u>[New] NextGen Videotron App Evaluation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-transforming-tech-talks-the-ezvide-screen-recording-guide/"><u>[Updated] In 2024, Transforming Tech Talks The Ezvide Screen Recording Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>2024 Approved How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/a-beginners-guide-to-jujutsu-kaisen-on-tiktok/"><u>A Beginner’s Guide to Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/audio-removal-guide-for-mp4-files-for-2024/"><u>Audio Removal Guide for MP4 Files for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/capture-and-conquer-instagram-photos/"><u>Capture and Conquer Instagram Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-technique-force-start-up-iphone-into-recovery-configuration-modes/"><u>Master the Technique: Force Start-Up iPhone Into Recovery Configuration Modes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/navigating-through-this-years-top-ten-budget-friendly-browser-based-daw-solutions/"><u>Navigating Through This Years Top Ten Budget-Friendly Browser-Based DAW Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users/"><u>New In 2024, Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-perfecting-production-quality-utilizing-real-time-ducking-features-in-windows-adobe-premiere-pro-edition/"><u>New In 2024, Perfecting Production Quality Utilizing Real-Time Ducking Features in Windows Adobe Premiere Pro Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Pova 5 | Dr.fone</u></a></li>
 </ul></div>
 

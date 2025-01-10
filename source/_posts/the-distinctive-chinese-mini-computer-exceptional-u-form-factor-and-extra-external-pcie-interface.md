@@ -1,7 +1,7 @@
 ---
 title: "The Distinctive Chinese Mini Computer: Exceptional U Form Factor & Extra External PCIe Interface"
-date: 2025-01-01T18:53:26.714Z
-updated: 2025-01-03T08:22:47.775Z
+date: 2025-01-06T20:13:48.808Z
+updated: 2025-01-09T23:54:23.954Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best $500 PC Build for Gaming
@@ -123,10 +123,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Phanteks XT Pro](https://cdn.mos.cms.futurecdn.net/AeCzMV4DUqQFiBnV2hPQuf-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Newegg)
 
  Swipe to scroll horizontally
@@ -163,23 +159,19 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're going with the[Phanteks XT Pro](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3971734713525887260%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252F11-854-132) as our case, because it has a quality, mesh design, room for up to a 360mm AIO up top and the ability to support back-connecting motherboards, should you get one in the future. For $20, you can get the[Phanteks XT Pro Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2132366878660750340%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252FN82E16811854133) , which comes with four ARGB fans.
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -205,6 +197,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're also upgrading the CPU to[Intel's Core i5-14600KF](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , an overclockable processor that has 6 performance cores, 8 efficiency cores, 20 threads and a boost clock of 5.3 GHz. That's before you attempt to overclock it.
@@ -217,6 +213,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
@@ -224,7 +224,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best $2000 PC Build for Gaming
@@ -261,6 +261,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  To cool the CPU, we're using an Iceberg Thermal IceFLOE Oasis 360\. When we[tested the IceFLOE](https://www.tomshardware.com/pc-components/liquid-cooling/iceberg-thermal-icefloe-oasis-360mm-240mm-review) , we were impressed with its low noise output and fantastic cooling output that allowed it to disperse up to 237 watts of heat. It has attractive RGB and you get all of that for a measly $89.
@@ -282,7 +286,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -309,10 +313,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our CPU is AMD's Ryzen 9 7950X3D, which offers faster gaming than any Intel CPU on the market, including the Core i9-14900K. It has a whopping 140MB of cache, thanks to AMDs innovative 3D V-Cache and it boasts 16 full-power cores and 32 threads, which is more regular cores than the 13900K's set of 8 (to go with 16 E-Cores).
@@ -322,7 +322,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -335,15 +335,15 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We decided to go with a case that has a unique, premium look in the[Fractal Design North XL.](https://www.tomshardware.com/pc-components/pc-cases/fractal-design-north-xl-review) With its wood paneled front, this chassis looks more like a mid-century modern piece of furniture than a gaming PC, which is a nice subtle touch. However, it also has a tempered glass side panel which you can use to show off all of your RGB components (or you can buy it with a solid panel and no window). It also has fantastic thermal performance and plenty of room for more drives and fans. The XL model can accommodate up to an E-ATX motherboard, giving you plenty of room for future upgrades.
 
  With these high-end components, we don't want to skimp on the power supply, and having something that's fit for a future graphics card upgrade makes sense. We're going with a full 1000-watts of power and the Corsair HX1000\. This power supply is 80+ Platinum certified and fully modular.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Finding Discounts on the Best PC Components
 
@@ -364,15 +364,19 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>[New] The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-react-if-your-live-video-is-quashed-on-facebook/"><u>[Updated] In 2024, How to React if Your Live Video Is Quashed on Facebook</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-examining-the-limitations-of-immersive-tech/"><u>In 2024, Examining the Limitations of Immersive Tech</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-wizardry-in-imovie-expert-advice-on-editing-and-enhancing-soundtracks/"><u>New Audio Wizardry in iMovie Expert Advice on Editing and Enhancing Soundtracks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-imovie-audio-editing-tips-everything-you-need-to-know/"><u>New IMovie Audio Editing Tips - Everything You Need to Know</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-proaudio-professionals-guide-analyzing-and-reviewing-the-top-8-daws-for-mac/"><u>New In 2024, ProAudio Professionals Guide Analyzing and Reviewing the Top 8 DAWs for Mac</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-ranked-sites-for-purchasing-lofi-soundtracks-and-decor-for-2024/"><u>New Top-Ranked Sites for Purchasing Lofi Soundtracks and Decor for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paperclips-computing-and-the-quest-for-maximum-optimization/"><u>Paperclips, Computing, & The Quest for Maximum Optimization</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-redesigns-its-data-salvation-tool-to-prioritize-consumer-usability-and-convenience/"><u>Stellar Redesigns Its Data Salvation Tool to Prioritize Consumer Usability and Convenience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ai-revolution-in-web-search-redefining-how-users-interact-with-online-content/"><u>The AI Revolution in Web Search: Redefining How Users Interact with Online Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-live-streaming-to-perfect-mp3-format-2023-converter-for-2024/"><u>[New] FB Live Streaming to Perfect MP3 Format - 2023 Converter for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-enhancing-your-snapchat-experience-mobile-recordings/"><u>[New] In 2024, Enhancing Your Snapchat Experience Mobile Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-syncing-twitter-and-snapchat-for-sharing-videos/"><u>[Updated] 2024 Approved Syncing Twitter & Snapchat for Sharing Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-android-moba-gems-discovering-the-classics/"><u>[Updated] In 2024, Android MOBA Gems Discovering the Classics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-how-to-fix-livekernelevent-code-144-errors/"><u>Comprehensive Guide: How to Fix LiveKernelEvent Code 144 Errors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-smartphone-accessories-for-making-videos/"><u>In 2024, Smartphone Accessories for Making Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-benefits-of-tubebuddy-manage-your-youtube-channel/"><u>In 2024, The Benefits of TubeBuddy | Manage Your YouTube Channel</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/instant-volume-amplification-solutions-for-windows-users-discover-the-top-10-for-2024/"><u>Instant Volume Amplification Solutions for Windows Users - Discover the Top 10 for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-volume-transitions-audio-panning-techniques-in-imovie-for-2024/"><u>Mastering Volume Transitions Audio Panning Techniques in iMovie for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-sound-on-your-mac-the-top-8-daws-ranked/"><u>New 2024 Approved Mastering Sound on Your Mac The Top 8 DAWs Ranked</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-five-economical-strategies-for-attaching-songs-to-digital-media/"><u>New Five Economical Strategies for Attaching Songs to Digital Media</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-chorus-of-knowledge-empowering-you-to-name-any-song-via-iphone-technology/"><u>New In 2024, Chorus of Knowledge Empowering You to Name Any Song via iPhone Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workouts-explore-the-revolutionary-sports-watch-offering-intelligent-training-sessions-powered-by-ai-technology-similar-to-chatgpt-zdnet-insi206/"><u>Transform Your Workouts: Explore the Revolutionary Sports Watch Offering Intelligent Training Sessions Powered by AI Technology Similar to ChatGPT | ZDNET Insight</u></a></li>
 </ul></div>
 

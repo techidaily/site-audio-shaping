@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro
-date: 2025-01-02T04:30:10.114Z
-updated: 2025-01-02T20:38:42.015Z
+date: 2025-01-07T16:07:14.847Z
+updated: 2025-01-09T19:53:36.960Z
 tags: 
   - audio editing software
   - audio editing
@@ -37,18 +37,10 @@ This can be quite frustrating, even though, in most cases, you won’t use the s
 There are numerous factors that can cause Adobe Premiere Pro to [stop functioning properly](https://forums.adobe.com/thread/2356540), and if the app won’t let you import video files into a project because it has no audio or video streams, there are few things you can do to fix this without having to reinstall the operating system on your computer or the version of Adobe Premiere Pro you’re currently using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Clearing the Media File Cache
 
@@ -57,26 +49,34 @@ If you tried to import a video file into a project and the app notified you that
 ![clear Media File Cache](https://images.wondershare.com/filmora/filmorapro/Clearing-Media-File-Cache-no-sound.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Renaming the Media Cache Folder
 
 The default location of Media Cache Database and Media Cache Files folders is **/Users/Library/Application Support/Adobe/Common** on Mac computers and **\\Users\\\\AppData\\Roaming\\Adobe\\Common** on PC computers. So all you have to do is make sure that all Adobe applications, including the Adobe Premiere Pro, are closed and then go to the location at which these folders are stored and change their names to **Media Cache Files\_OLD** and **Media Cache\_OLD**. Start Adobe Premiere Pro and check if you can import your video files into the editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Moving Media Files to a Different Folder
 
 If renaming the folders didn’t do the trick you can try moving them from their default location. You can move them wherever you want on your computer, but it is best if you pick a location that is easy to remember, just so you can access them quickly in case you need to delete files that are stored in them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Installing the QuickTime Player
 
 Sometimes the simplest solution is also the most effective one. Check if QuickTime is installed on your computer because installing this player can solve the audio importing issues in Adobe Premiere Pro. Furthermore, if you just reinstalled the OS on your computer, you should [download and install QuickTime](https://support.apple.com/quicktime), before launching Adobe Premiere Pro. Once you create a new project go to the **Edit menu**, find the **Preferences submenu and select the Media option**. Clean both the **Media Cache Database and Media Cache Files** folders, restart Adobe Premiere Pro and then import the video files into your project.
 
 ![install QuickTime](https://images.wondershare.com/filmora/filmorapro/QuickTime-Player-no-sound-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An Alternative Way to Import Video Without This Issue
 
@@ -102,21 +102,25 @@ Once a new window opens, three different methods can be used to import audio on 
 
 ![use file tab to import audio](https://static.wondershare.com/images-filmora/images/article/fix-audio-importing-issues-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Import from Import Button**
 
 The second method calls up users to import audio through a button. The user needs to tap on the "Import Media Files Here" button to add audio in Filmora directly.
 
 ![tap on import button](https://static.wondershare.com/images-filmora/images/article/fix-audio-importing-issues-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Import by Drag and Drop**
 
 Users can import audios on Filmora in another way. They can drag and drop the audio files directly on the platform and perform functions using different tools.
 
 ![drag and drop audio file](https://static.wondershare.com/images-filmora/images/article/fix-audio-importing-issues-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ If the methods of fixing the audio importing issues in Adobe Premiere Pro we pre
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -145,24 +145,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>[Updated] 2024 Approved From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photography-elite-line-up-best-6-4k-dslr-options-reviewed/"><u>[Updated] Photography Elite Line-Up Best 6 4K DSLR Options Reviewed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-proven-strategies-for-successful-youtube-shorts/"><u>[Updated] Proven Strategies for Successful YouTube Shorts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/best-free-video-converter-tools-for-mac-users-effortlessly-convert-mkv-files-into-mp4-avi-mov-with-high-quality-results/"><u>Best Free Video Converter Tools for Mac Users: Effortlessly Convert MKV Files Into MP4 AVI MOV with High-Quality Results</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-driver-management-in-windows-get-started-today/"><u>Effortless Driver Management in Windows - Get Started Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computer-components-with-toms-gear-guides/"><u>Exploring Computer Components with Tom's Gear Guides</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-x-flip-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo X Flip to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/navigating-the-legitimacy-of-gogoanime-for-anime-fans-is-it-a-safe-choice/"><u>Navigating the Legitimacy of Gogoanime for Anime Fans - Is It a Safe Choice?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-on-your-windows-7-computer/"><u>Resolving Audio Problems on Your Windows 7 Computer</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/speech-recognition-to-mp3-seamless-integration-across-devices-and-oses-for-2024/"><u>Speech Recognition to MP3 Seamless Integration Across Devices and OSes for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-infinix-hot-40-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Infinix Hot 40 Android SIM Unlock APK</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2023s-top-methods-for-harmonizing-audio-levels-a-trifecta-of-speed-and-efficiency-for-2024/"><u>Updated 2023S Top Methods for Harmonizing Audio Levels A Trifecta of Speed and Efficiency for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-curated-selection-of-platforms-offering-no-cost-ending-music-pieces-no-intellectual-property-rights/"><u>Updated 2024 Approved Curated Selection of Platforms Offering No-Cost Ending Music Pieces No Intellectual Property Rights</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-selecting-prime-android-applications-for-high-quality-voice-recording-free/"><u>Updated 2024 Approved Selecting Prime Android Applications for High-Quality Voice Recording (FREE)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-guide-to-enhancing-logic-pro-x-8-top-ranked-free-and-premium-plugins/"><u>Updated 2024 Approved The Ultimate Guide to Enhancing Logic Pro X - 8 Top-Ranked Free & Premium Plugins</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-list-of-8-powerful-daw-options-revolutionize-your-music-production-process/"><u>Updated 2024 Approved The Ultimate List of 8 Powerful DAW Options Revolutionize Your Music Production Process</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-discovering-the-finest-online-sound-design-tools-with-cost-breakdown/"><u>Updated Discovering the Finest Online Sound Design Tools - With Cost Breakdown</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-elevating-your-viewing-experience-2023-guide-to-audio-volume-adjustment-in-videos-for-2024/"><u>Updated Elevating Your Viewing Experience 2023 Guide to Audio Volume Adjustment in Videos for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-essential-no-cost-android-microphone-recorders-reviewed-for-2024/"><u>Updated Essential No-Cost Android Microphone Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-effective-strategies-for-archiving-vimeo-footage/"><u>[New] 2024 Approved Effective Strategies for Archiving Vimeo Footage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-6-modern-homes-for-minecraft-enthusiasts-for-2024/"><u>[New] Best 6 Modern Homes for Minecraft Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-exclusive-roundup-best-windows-11-video-recording-options-for-2024/"><u>[New] Exclusive Roundup Best Windows 11 Video Recording Options for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-digital-archivists-playbook-preserving-real-time-videos/"><u>2024 Approved The Digital Archivist's Playbook Preserving Real-Time Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-acid-pro-top-alternative-software-for-2024/"><u>Assessing ACID Pro Top Alternative Software for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-opaque-windows-11-themes-via-registry-manipulation/"><u>Enabling Opaque Windows 11 Themes via Registry Manipulation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-xml-sitemaps-for-enhanced-seo-definitions-how-tos-and-optimization-techniques/"><u>Mastering XML Sitemaps for Enhanced SEO: Definitions, How-To's & Optimization Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-sound-off-with-flair-enhancing-high-pitched-vocalization-in-video-content-creation/"><u>Updated 2024 Approved Sound Off with Flair Enhancing High-Pitched Vocalization in Video Content Creation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-6-introduction-level-digital-audio-workstation-applications/"><u>Updated 2024 Approved Top 6 Introduction-Level Digital Audio Workstation Applications</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-cutting-edge-free-vocal-modifications-made-simple-in-depth-tutorials-on-audio-editing-with-filmora-for-2024/"><u>Updated Cutting Edge Free Vocal Modifications Made Simple In-Depth Tutorials on Audio Editing with Filmora for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>Updated Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/guide-to-understanding-youtube-tvs-signature-features-for-2024/"><u>Your Guide to Understanding YouTube TV's Signature Features for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Rise of ARM Architecture: Alibaba's Yitian Nokia 710 Crowned Fastest CPU for Cloud Servers"
-date: 2024-12-30T08:00:24.828Z
-updated: 2025-01-03T06:33:12.772Z
+date: 2025-01-08T19:16:44.425Z
+updated: 2025-01-10T00:03:26.844Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-guide-to-streamlined-ocean-video-capture/"><u>[Updated] 2024 Approved The Ultimate Guide to Streamlined Ocean Video Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-time-travel-photos-on-snapchat-step-by-step-guide/"><u>[Updated] In 2024, Time-Travel Photos on Snapchat Step by Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-video-tech-s-camera-race/"><u>2024 Approved Pioneering Video Tech 'S Camera Race</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/mp4avi-google5/"><u>最適なMP4とAVI形式に簡単変換! - Googleで上位5つのオンラインコンバーター | ソフトウェアダウンロード不要</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-15-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 15 Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726029611796-dvdavi/"><u>DVD再生対応のAVIファイルへの変換手順</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/master-list-of-speech-processing-software-with-top-8-selection-catering-to-desktop-pcs-macintosh-and-web-interface-usage/"><u>Master List of Speech Processing Software with Top 8 Selection, Catering to Desktop PCs, Macintosh and Web Interface Usage</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-13-must-have-gratis-audio-recording-programs-for-windowsmac-users-the-current-selection/"><u>New 2024 Approved 13 Must-Have Gratis Audio Recording Programs for Windows/Mac Users - The Current Selection</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-visually-pleasing-audio-selections-for-digital-content-streaming/"><u>New 2024 Approved Visually Pleasing Audio Selections for Digital Content Streaming</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-elevating-soundtracks-on-mobile-the-top-8-android-apps-redefining-music-production-for-2024/"><u>New Elevating Soundtracks on Mobile The Top 8 Android Apps Redefining Music Production for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-expert-tips-on-isolating-soundtracks-in-adobe-premiere-projects/"><u>New Expert Tips on Isolating Soundtracks in Adobe Premiere Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-discovering-your-ideal-audio-format-a-step-by-step-strategy/"><u>New In 2024, Discovering Your Ideal Audio Format A Step-by-Step Strategy</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-ultimate-guide-to-the-9-most-reliable-podcast-microphones/"><u>New In 2024, Ultimate Guide to the 9 Most Reliable Podcast Microphones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-mastering-the-art-of-optimal-audio-format-selection/"><u>New Mastering the Art of Optimal Audio Format Selection</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-simplified-soundscape-a-modern-approach-to-adding-sound-effects-in-videos/"><u>New Simplified Soundscape A Modern Approach to Adding Sound Effects in Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-mechanics-of-llms-understanding-how-large-language-models-function/"><u>The Mechanics of LLMs: Understanding How Large Language Models Function</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-smart-home-controllers-the-ultimate-list/"><u>Top-Rated Smart Home Controllers: The Ultimate List</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-of-internet-safety-gadgets-router-parental-controls-in-2e24/"><u>Ultimate Selection of Internet Safety Gadgets: Router Parental Controls in 2E24</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vivid-palette-review-best-5-high-definition-displays/"><u>Vivid Palette Review Best 5 High-Definition Displays</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-navigating-google-meets-virtual-whiteboards-across-appleandroid-and-laptops/"><u>2024 Approved Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/endless-screen-time-recorder/"><u>Endless Screen Time Recorder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluating-the-iphone-14-does-it-meet-your-expectations-zdnet-review/"><u>Evaluating the iPhone 14 - Does It Meet Your Expectations? [ZDNet Review]</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-amateur-to-pro-elevating-your-hdr-portrait-skills-for-2024/"><u>From Amateur to Pro Elevating Your HDR Portrait Skills for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/from-sight-to-sound-modern-methods-for-pulling-audio-from-visual-media/"><u>From Sight to Sound Modern Methods for Pulling Audio From Visual Media</u></a></li>
+<li><a href="https://discover-able.techidaily.com/high-quality-axolotl-wallpaper-and-screen-saver-pack-yl-software-solutions/"><u>High-Quality Axolotl Wallpaper & Screen Saver Pack - YL Software Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-audio-blending-techniques-creating-a-unified-soundtrack-for-videos/"><u>In 2024, Audio Blending Techniques Creating a Unified Soundtrack for Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-normalizing-audio-in-3-quick-ways-audio-normalization/"><u>In 2024, Normalizing Audio in 3 Quick Ways-Audio Normalization</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-sweeping-the-audio-board-top-strategies-for-sound-excellence-at-home-film-edition-2023/"><u>In 2024, Sweeping the Audio Board Top Strategies for Sound Excellence at Home (Film Edition, 2023)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-essential-guide-to-adding-soundtracks-to-windows-gifs/"><u>In 2024, The Essential Guide to Adding Soundtracks to Windows GIFs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/infuse-harmonies-into-motion-picture-sequences-using-media-encrypter-for-2024/"><u>Infuse Harmonies Into Motion Picture Sequences Using Media Encrypter for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/meme-magic-iphone-edition/"><u>Meme Magic IPhone Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-amplify-animated-photo-with-acoustic-elements-via-win-1011/"><u>New Amplify Animated Photo with Acoustic Elements via Win 10/11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-crafting-the-perfect-soundtrack-for-your-project-step-by-step-audio-replacement-tactics/"><u>New In 2024, Crafting the Perfect Soundtrack for Your Project Step-by-Step Audio Replacement Tactics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-13-mini-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 13 mini</u></a></li>
 </ul></div>
 
