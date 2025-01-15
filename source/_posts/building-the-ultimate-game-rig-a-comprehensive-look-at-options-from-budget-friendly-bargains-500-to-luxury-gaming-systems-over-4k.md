@@ -1,7 +1,7 @@
 ---
 title: "Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)"
-date: 2024-12-31T16:57:58.410Z
-updated: 2025-01-03T04:54:26.369Z
+date: 2025-01-10T16:05:56.941Z
+updated: 2025-01-15T17:10:17.463Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 [Hewlett Packard](https://www.tomshardware.com/tag/hewlett-packard) [Enterprise](https://www.tomshardware.com/tag/enterprise) (HPE), one of the world's largest makers of servers, has initiated a legal battle against Inspur Group, China's largest server maker, and its affiliates, alleging server patent infringements. HPE accuses Inspur of engaging in deceptive practices and renaming its subsidiaries in the U.S. to continue its business with American companies despite being included into the Entity List.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HPE: Inspur infringes our patents
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Despite being on the Entity List, Inspur continues operations in the U.S
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  The complaint claims that Inspur that inspur continues its operations in the United States under Aivres Systems and Betapex. Inspur allegedly removed its branding from products sold in the U.S. and continues to sell them. For example, Inspur's IR5280M6 server is Aivres's 5280M6 machine, it has the same specification and design, according to HPE's complaint. Meanwhile, Inspur has also worked as a contract maker of servers, according to The Register. Yet, if a U.S. entity plans to work with Inspur (or any other party from the Entity List), it has to get a special license from the U.S. government.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,19 +64,20 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-5-budget-friendly-chromebook-recorders/"><u>[Updated] In 2024, Top 5 Budget-Friendly Chromebook Recorders</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-advanced-techniques-in-final-cut-pro-embedding-waveform-diagrams-with-live-audio-animation/"><u>2024 Approved Advanced Techniques in Final Cut Pro Embedding Waveform Diagrams with Live Audio Animation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-use-social-blade-for-youtube-analytics-stats-and-how-to-use-them/"><u>2024 Approved Use Social Blade for YouTube Analytics - Stats & How to Use Them</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/compact-bluetooth-speaker-delivers-rich-immersive-audio-experience-tiny-size-with-full-bodied-sounds/"><u>Compact Bluetooth Speaker Delivers Rich, Immersive Audio Experience - Tiny Size with Full-Bodied Sounds</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/exploring-virtual-realities-shortcomings/"><u>Exploring Virtual Realities' Shortcomings</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-youtube-foundations-building-a-brand-and-generating-income-for-novices/"><u>In 2024, Youtube Foundations Building a Brand & Generating Income for Novices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sketching-success-a-guide-to-industrys-best-10-vector-apps-for-2024/"><u>Sketching Success A Guide to Industry's Best 10 Vector Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-foundational-steps-to-your-distinctive-marketing-voice-for-2024/"><u>The Foundational Steps to Your Distinctive Marketing Voice for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-silent-streams-cutting-the-chatter-of-video-audio-tracks/"><u>Updated In 2024, Silent Streams Cutting the Chatter of Video Audio Tracks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-mastering-the-art-of-isolating-rhythms-a-guide-to-online-beat-extraction-for-2024/"><u>Updated Mastering the Art of Isolating Rhythms A Guide to Online Beat Extraction for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-sync-it-up-expert-tips-for-aligning-video-with-a-soundtrack-in-fcpx-for-2024/"><u>Updated Sync It Up! Expert Tips for Aligning Video with a Soundtrack in FCPX for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-silent-song-methods-to-extract-and-remove-vocal-tracks-from-audio-sequences-in-audacity/"><u>Updated The Silent Song Methods to Extract and Remove Vocal Tracks From Audio Sequences in Audacity</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-online-video-beats-to-your-phones-ringtones-a-simple-guide/"><u>[New] 2024 Approved From Online Video Beats to Your Phone's Ringtones A Simple Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pinnacle-fix-in-digital-dimensions-for-2024/"><u>[New] Pinnacle Fix in Digital Dimensions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-active-directory-printer-error-on-win-1011/"><u>Eliminating Active Directory Printer Error on WIN 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-in-australie-verwijderen-van-au-naar-gg-webadres-kostenloos-bij-movavi/"><u>Gratuit Gebaseerd in Australië: Verwijderen Van .au Naar .gg Webadres - Kostenloos Bij Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-create-youtube-channel-in-mobile-with-ease-personal-and-business-for-2024/"><u>How to Create YouTube Channel in Mobile with Ease [Personal & Business] for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-narzo-60x-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme Narzo 60x 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-fastest-way-to-rotate-a-video-tips-and-tricks/"><u>New In 2024, The Fastest Way to Rotate a Video Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/spreadsheet-showdown-deciding-between-google-sheets-and-microsoft-excel-for-your-needs/"><u>Spreadsheet Showdown: Deciding Between Google Sheets and Microsoft Excel for Your Needs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/starting-with-imovie-step-by-step-guide-to-incorporating-soundtracks-for-2024/"><u>Starting with iMovie Step-by-Step Guide to Incorporating Soundtracks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/strategizing-gamers-speech-modification-unveiling-the-superior-choices-for-2024/"><u>Strategizing Gamers Speech Modification Unveiling the Superior Choices for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-audio-length-reduction-in-apples-imovie-app-for-2024/"><u>The Ultimate Guide to Audio Length Reduction in Apples iMovie App for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-updated-guide-to-video-audio-integration-for-filmmakers-for-2024/"><u>The Updated Guide to Video-Audio Integration for Filmmakers for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-bugged-upbeat-sounds-pack-free-2023-digital-audio-library/"><u>Updated 2024 Approved Bugged Upbeat Sounds Pack – FREE 2023 Digital Audio Library</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-free-8-best-daw-for-chromebook-to-make-music/"><u>Updated 2024 Approved FREE 8 Best DAW for Chromebook to Make Music</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-pre-purchase-checklist-important-qanda-for-potential-electric-vehicle-buyers/"><u>Your Pre-Purchase Checklist: Important Q&A for Potential Electric Vehicle Buyers</u></a></li>
 </ul></div>
 

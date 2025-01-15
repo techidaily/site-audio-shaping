@@ -1,7 +1,7 @@
 ---
 title: Updated The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects for 2024
-date: 2025-01-05T19:06:11.796Z
-updated: 2025-01-09T19:24:41.280Z
+date: 2025-01-12T18:05:41.848Z
+updated: 2025-01-15T19:37:29.837Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,11 +30,11 @@ However, you will need to have at least basic video and sound editing skills to 
 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Check audio waveform in After Effects
 
@@ -43,7 +43,7 @@ Once you've created a new project in AE and you've imported the audio files you'
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
@@ -53,7 +53,7 @@ The next thing you will have to do is place the playhead at the exact location w
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,6 @@ You may also like: [15 Free After Effects Templates to Power up Your Video](http
 Move the playhead to the location where you want the effect to end and add another keyframe by clicking on the 'Add or remove keyframe at current time' icon. Set the Audio Level value to 0db, and that is it. You've created the Fade in effect. Keep in mind that you can use more than two keyframes to fade in audio, enabling you to increase the audio level gradually. The process of creating the Fade effect requires you to add a keyframe that has a 0db value a few seconds before the clip ends and then add another keyframe at the very end of the audio file that has -50 or -100db audio level value.
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips For Making Better Fade In and Fade Out Effects
 
@@ -79,7 +75,7 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
@@ -89,6 +85,10 @@ You may also like: [How to Cut Video in After Effects](https://tools.techidaily.
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -113,22 +113,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-list-of-free-user-friendly-editing-apps/"><u>[New] 2024 Approved The Ultimate List of Free, User-Friendly Editing Apps</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ensuring-playback-continuity-with-app-video/"><u>Ensuring Playback Continuity with App Video</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-vs-2-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic Vs 2 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-magic-vs-2-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor Magic Vs 2</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-swiftvideo-pro-accelerate-your-android-content/"><u>In 2024, SwiftVideo Pro Accelerate Your Android Content</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/quick-tips-for-creating-and-editing-snapchat-duos/"><u>Quick Tips for Creating and Editing Snapchat Duos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/speedy-conversion-process-transform-large-batches-of-mp4-videos-into-high-quality-mp3-audio/"><u>Speedy Conversion Process: Transform Large Batches of MP4 Videos Into High-Quality MP3 Audio</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/strategizing-gamers-speech-modification-unveiling-the-superior-choices-for-2024/"><u>Strategizing Gamers Speech Modification Unveiling the Superior Choices for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725286656980-successfully-installing-handbrake-on-your-windows-11-pc-a-step-by-step-guide/"><u>Successfully Installing HandBrake on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-audio-length-reduction-in-apples-imovie-app-for-2024/"><u>The Ultimate Guide to Audio Length Reduction in Apples iMovie App for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/understanding-intermittent-wi-fi-issues-insights-from-yl-computing/"><u>Understanding Intermittent Wi-Fi Issues: Insights From YL Computing</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-free-8-best-daw-for-chromebook-to-make-music/"><u>Updated 2024 Approved FREE 8 Best DAW for Chromebook to Make Music</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmonious-humans-cutting-out-clamor-from-your-compiled-charts-digitally/"><u>Updated 2024 Approved Harmonious Humans Cutting Out Clamor From Your Compiled Charts Digitally</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-navigating-the-best-no-cost-podcast-software-a-comprehensive-list-for-mobile-users/"><u>Updated 2024 Approved Navigating the Best No-Cost Podcast Software A Comprehensive List for Mobile Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-aiff-to-mp3-an-experts-methodology-for-audio-conversion/"><u>Updated AIFF to MP3 An Experts Methodology for Audio Conversion</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-championing-quiet-calls-how-to-silence-zoom-audio-quickly-and-easily-for-2024/"><u>Updated Championing Quiet Calls How to Silence Zoom Audio Quickly and Easily for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-to-text-made-simple-top-free-apps-for-android-and-ios-users/"><u>Updated In 2024, Audio to Text Made Simple Top Free Apps for Android and iOS Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>[New] Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-high-definition-recording-mastering-live-footage-using-logitech-cam/"><u>[New] High Definition Recording Mastering Live Footage Using Logitech Cam</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/treaming-your-way-to-animated-gifs-from-youtube-videos/"><u>[New] Streaming Your Way to Animated GIFs From YouTube Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/cross-platform-dlna-streaming-from-smartphones-to-laptopsdesktops-to-hdtvs/"><u>Cross-Platform DLNA Streaming From Smartphones to Laptops/Desktops to HDTVs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721857706079-dont-delay-get-your-hands-on-advanced-open-source-conversational-ai-tools-skip-the-desktop-chatgpt-waitlist/"><u>Don't Delay, Get Your Hands on Advanced Open Source Conversational AI Tools - Skip the Desktop ChatGPT Waitlist</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-itel-a60s-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Itel A60s FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-laserprinter-model-w-driver-installation/"><u>HP LaserPrinter Model W Driver Installation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/inside-out-unpacking-avs-editors-functionality-with-user-testimonials-and-substitute-solutions-for-2024/"><u>Inside Out Unpacking AVS Editors Functionality with User Testimonials & Substitute Solutions for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-banned-from-omegle-how-to-get-unbanned/"><u>New 2024 Approved Banned From Omegle? How to Get Unbanned?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-ultimate-siri-tone-enhancer-windows-and-mac-edition/"><u>New 2024 Approved Ultimate Siri Tone Enhancer Windows & Mac Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-superior-siri-synthesis-software-for-windowsmac-devices/"><u>New In 2024, Superior Siri Synthesis Software for Windows/Mac Devices</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-6-premier-automatic-transcription-programs-for-2024/"><u>New The Ultimate Guide 6 Premier Automatic Transcription Programs for 2024</u></a></li>
 </ul></div>
 

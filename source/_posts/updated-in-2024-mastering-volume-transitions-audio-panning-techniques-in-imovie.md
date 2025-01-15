@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering Volume Transitions Audio Panning Techniques in iMovie
-date: 2025-01-08T01:07:57.054Z
-updated: 2025-01-09T19:45:06.593Z
+date: 2025-01-14T18:05:32.987Z
+updated: 2025-01-15T16:36:41.186Z
 tags: 
   - audio editing software
   - audio editing
@@ -47,10 +47,6 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Music and Audio in iMovie on Mac
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
@@ -73,17 +69,21 @@ Move the pointer over a waveform, and drag the small gray fade handle at the lef
 
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 3. Playback to Check
 
 Move the playhead to the beginning part of the clips with fade effects to check the fade-in and fade-out effects. If everything works OK, uncheck "Show Waveforms" to hide the waveforms.
 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
@@ -94,10 +94,6 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -114,7 +110,7 @@ If you manually adjust the effect, you can have a better effect.
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
@@ -141,6 +137,10 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
@@ -152,7 +152,7 @@ That's all about how to fade music and audio with iMovie and its alternative. If
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -170,21 +170,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-optimal-tools-to-convert-and-tweet-videos-for-2024/"><u>[New] Optimal Tools to Convert and Tweet Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-accelerate-your-streaming-career-utilizing-obs-capabilities-for-2024/"><u>[Updated] Accelerate Your Streaming Career Utilizing OBS Capabilities for 2024</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1-troubleshooting-your-warped-scans-a-guide-by-yl-computings-expert-software-solutions/"><u>1. Troubleshooting Your Warped Scans: A Guide by YL Computing's Expert Software Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-the-power-of-slow-motion-best-video-editing-tools/"><u>New In 2024, Unleash the Power of Slow Motion Best Video Editing Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-past-and-present-emulating-sega-dreamcatcher-games-on-android/"><u>Play Past and Present: Emulating Sega Dreamcatcher Games on Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/reliability-meets-portability-in-depth-review-of-the-audew-air-pump-for-versatile-use/"><u>Reliability Meets Portability: In-Depth Review of the Audew Air Pump for Versatile Use</u></a></li>
-<li><a href="https://discover-data.techidaily.com/remember-when-weighing-objects-especially-liquids-the-scale-should-be-level-and-stable-for-an-accurate-reading/"><u>Remember, when Weighing Objects, Especially Liquids, the Scale Should Be Level and Stable for an Accurate Reading.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-solutions-overcoming-challenges-with-i2c-hid-driver-compatibility/"><u>Seamless Solutions: Overcoming Challenges with I2C HID Driver Compatibility</u></a></li>
-<li><a href="https://win-popular.techidaily.com/ultimate-guide-steps-to-upgrade-your-alienware-m17-r5-ssd/"><u>Ultimate Guide: Steps to Upgrade Your Alienware M17 R5 SSD</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-six-easy-steps-to-enhance-your-videos-with-music-without-expense/"><u>Updated In 2024, Six Easy Steps to Enhance Your Videos with Music Without Expense</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-techniques-for-reducing-digital-audio-file-sizes/"><u>Updated In 2024, Techniques for Reducing Digital Audio File Sizes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-simplify-your-sound-top-7-free-online-audio-editing-tools-revealed/"><u>Updated Simplify Your Sound Top 7 Free Online Audio Editing Tools Revealed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-sustaining-sonic-excellence-while-changing-octave-levels-in-audacity-for-2024/"><u>Updated Sustaining Sonic Excellence While Changing Octave Levels in Audacity for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-translating-music-into-words-easy-online-techniques-for-mp3-to-text-conversion-updated-guide-for-2024/"><u>Updated Translating Music Into Words Easy Online Techniques for MP3 to Text Conversion Updated Guide for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-guide-to-online-and-offline-video-to-audio-conversion-tools/"><u>Updated Ultimate Guide to Online and Offline Video-to-Audio Conversion Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-essential-guide-to-timeless-stop-motion-classics/"><u>[New] 2024 Approved The Essential Guide to Timeless Stop-Motion Classics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flash-frame-filmmakers-plan/"><u>[New] Flash Frame Filmmaker's Plan</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-from-page-to-screen-jujutsu-kaisen-on-tiktok/"><u>[New] From Page to Screen Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unlocking-captivates-potential-for-video-creation/"><u>2024 Approved Unlocking Captivate's Potential for Video Creation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apc-back-ups-be600m1-review-efficient-battery-backup-with-a-built-in-usb-charger/"><u>APC Back-UPS BE600M1 Review: Efficient Battery Backup With a Built-In USB Charger</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-creator-gap-with-ai-help/"><u>Bridging the Creator Gap with AI Help</u></a></li>
+<li><a href="https://win-unique.techidaily.com/configuring-your-printers-options-through-windows-control-panel-a-step-by-step-guide-with-yl-computing/"><u>Configuring Your Printer's Options Through Windows Control Panel: A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians/"><u>In 2024, Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-adobe-after-effects-sound-design-incorporating-audio-into-your-animations/"><u>New 2024 Approved Adobe After Effects Sound Design Incorporating Audio Into Your Animations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-pathway-to-pristine-recordings-removing-unwanted-noises-for-crystal-clear-sound/"><u>New 2024 Approved The Pathway to Pristine Recordings Removing Unwanted Noises for Crystal-Clear Sound</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-achieve-deeper-sound-from-your-windows-system-three-easy-and-free-audio-enhancement-tricks-for-2024/"><u>New Achieve Deeper Sound From Your Windows System – Three Easy and Free Audio Enhancement Tricks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-increase-volume-of-the-media-files-for-2024/"><u>New How to Increase Volume of the Media Files for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-perfect-your-sound-mix-expert-strategies-for-utilizing-audio-ducking-in-adobe-premiere-pro-macos-edition-for-2024/"><u>New Perfect Your Sound Mix Expert Strategies for Utilizing Audio Ducking in Adobe Premiere Pro (macOS Edition) for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-skypepersona-transforming-your-digital-presence-with-customized-vocal-features/"><u>New SkypePersona Transforming Your Digital Presence with Customized Vocal Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/run0-the-emerging-contender-that-could-replace-sudo-on-linux-systems/"><u>Run0: The Emerging Contender That Could Replace Sudo on Linux Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-spark-20-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Spark 20 Pro Device</u></a></li>
 </ul></div>
 

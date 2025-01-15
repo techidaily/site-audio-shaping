@@ -1,7 +1,7 @@
 ---
 title: Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
-date: 2025-01-08T16:35:32.152Z
-updated: 2025-01-09T20:32:01.340Z
+date: 2025-01-14T20:28:51.008Z
+updated: 2025-01-15T20:30:39.650Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,14 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-enhance-ig-visuals-with-our-top-10-grid-making-tools-selection/"><u>[New] Enhance IG Visuals with Our Top 10 Grid Making Tools Selection</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-zoom-meeting-insight-through-grid-view-settings-for-2024/"><u>[New] Maximizing Zoom Meeting Insight Through Grid View Settings for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-harmonyheed-evaluating-audio-artifacts/"><u>[Updated] HarmonyHeed Evaluating Audio Artifacts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-enhancing-footage-in-gopro-studio/"><u>2024 Approved Comprehensive Guide to Enhancing Footage in GoPro Studio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources/"><u>2024 Approved Free Photos for Every Project - An Exclusive List of Top 12 Online Sources</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-s23plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel S23+ Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-lava-yuva-3-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Lava Yuva 3 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-transformative-videography-revolutionary-mac-edits-to-elevate-tiktok-videos/"><u>In 2024, Transformative Videography Revolutionary Mac Edits to Elevate TikTok Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-depth-system-insights-from-toms-computer-resource-hub/"><u>In-Depth System Insights From Tom's Computer Resource Hub</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-tech-choices-with-insights-from-toms-hardware/"><u>Mastering Tech Choices With Insights From Tom's Hardware</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/toms-tech-insights-comprehensive-reviews-and-news/"><u>Tom's Tech Insights: Comprehensive Reviews and News</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-cozy-winter-scenes-for-video-aesthetics/"><u>Top 5 Cozy Winter Scenes for Video Aesthetics</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-ensuring-cyber-wellness-in-remote-relationships-tips-to-shield-against-digital-risks/"><u>Updated In 2024, Ensuring Cyber Wellness in Remote Relationships Tips to Shield Against Digital Risks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-investigating-crickets-sonic-palette-for-effects/"><u>Updated Investigating Crickets Sonic Palette for Effects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-navigating-the-world-of-amr-wmas-an-in-depth-guide-to-file-conversion-techniques-2023-for-2024/"><u>Updated Navigating the World of AMR WMAs An In-Depth Guide to File Conversion Techniques 2023 for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-step-by-step-an-essential-tutorial-on-editing-your-first-podcast-for-2024/"><u>Updated Step-by-Step An Essential Tutorial on Editing Your First Podcast for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-a-louder-sharper-speech-filmmakers-guide-to-voice-projection-using-filmora/"><u>Updated The Art of a Louder, Sharper Speech Filmmakers Guide to Voice Projection Using Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-safe-speakers-guide-to-video-conferencing-top-tips-and-trusted-platforms-for-2024/"><u>Updated The Safe Speakers Guide to Video Conferencing Top Tips and Trusted Platforms for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-todays-vr-hardware-review/"><u>[New] 2024 Approved Today's VR Hardware Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/reaking-down-the-fastest-green-screen-methods-for-2024/"><u>[New] Breaking Down the Fastest Green Screen Methods for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-find-angry-dog-bark-effect/"><u>2024 Approved Find Angry Dog Bark Effect</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-anti-shake-gimblers-reviewed-by-vloggers/"><u>2024 Approved The Best Anti-Shake Gimblers Reviewed by Vloggers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-hoist-your-words-like-a-flag/"><u>How to Hoist Your Words Like a Flag</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-honor-play-8t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Honor Play 8T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discovering-the-best-vocal-enhancement-tools-an-examination-and-comparison/"><u>New 2024 Approved Discovering the Best Vocal Enhancement Tools An Examination & Comparison</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-unlock-the-potential-of-amr-waves-detailed-guide-to-their-conversion-and-manipulation/"><u>New 2024 Approved Unlock the Potential of AMR WAVES Detailed Guide to Their Conversion and Manipulation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-premier-free-mp3-harmonizer-software/"><u>New In 2024, Premier Free MP3 Harmonizer Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Streamlined Techniques for Audio Excision in Mobile and Desktop Video Files
-date: 2024-12-26T22:05:12.454Z
-updated: 2025-01-03T02:43:48.403Z
+date: 2025-01-12T16:35:19.364Z
+updated: 2025-01-15T16:05:48.155Z
 tags: 
   - audio editing software
   - audio editing
@@ -50,19 +50,11 @@ Import the video to your Filmora. You can also directly drag the video into the 
 
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Mute the audio
 
 After dragging the video to the timeline, right-click the stand-alone video, choose "mute".
 
 ![](https://images.wondershare.com/filmora/guide/edit-audios-mute.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Save your edit
 
@@ -74,13 +66,13 @@ Click the "export" button on the interface and select the desired video format
 
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Open the iMovie
 
 Opening the iMovie app goes beyond just clicking it to open, you also have to follow up this process by clicking the continue button that pops up. If the app has opened and you can see an inviting interface, move to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Select a video you want
 
@@ -90,20 +82,20 @@ There are different pages on the interface but your concern is on the project pa
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Mute the audio
 
 Muting the audio becomes straightforward when you have moved it to the interface. In this step, click on the video clip button as seen in the picture then mute it by selecting the mute option (the picture below shows the mute sign at the lower-left corner) from the audio button. When this is done, your video has been silenced.
 
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Section 2. Requirements to extract the music of the video and save
@@ -114,15 +106,15 @@ Step1\. import the video into the Filmora
 
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Another way to import a video is to drag and drop the video into the program. Using any of these two steps allows your video to be listed in the media library
 
 Step 2 Next, right-click the video and choose "Audio Detach." After some time, the video and audio will load as two separate files.
 
  ![mac audio detach1](https://images.wondershare.com/filmora/guide/mac-audio-detach1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can choose to delete the video or keep it. If you want to delete it, simply right-click and choose delete. This will remove the video entirely.
 
@@ -136,6 +128,10 @@ Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music
 
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
 
 #### Conclusion
@@ -147,6 +143,10 @@ For iPhone users, a good video editing software that can be used to successfully
 Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -165,14 +165,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-toontime-insightful-review-and-tutorials-2024/"><u>[Updated] ToonTime Insightful Review & Tutorials 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-strategies-for-minimizing-large-scale-video-and-audio-data/"><u>2024 Approved Strategies for Minimizing Large-Scale Video and Audio Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-recording-of-the-2020-fifa-world-cup-matches-for-on-demand-viewing-on-mobile-devices/"><u>Effortless Recording of the 2020 FIFA World Cup Matches for On-Demand Viewing on Mobile Devices</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-finding-high-quality-monstrous-soundscapes/"><u>New Finding High-Quality Monstrous Soundscapes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-modern-guide-to-implementing-decay-in-sound-tracks-for-2024/"><u>New The Modern Guide to Implementing Decay in Sound Tracks for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/obs-or-streamlabs-experts-take-on-best-live-broadcast-software/"><u>OBS or Streamlabs? Expert's Take on Best Live Broadcast Software</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/premium-free-excellence-analyzing-and-sharing-best-free-luts-for-2024/"><u>Premium-Free Excellence Analyzing and Sharing Best Free LUTs for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-choice-for-steady-hd-footage-capture/"><u>Top Choice for Steady HD Footage Capture</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-slow-motion-music-methods-keeping-rhythmic-patterns-consistent-in-volume-and-hertz/"><u>Updated In 2024, Slow-Motion Music Methods Keeping Rhythmic Patterns Consistent in Volume and Hertz</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-myface-illusion-sketch-your-whimsical-profile-icon/"><u>[New] MyFace Illusion Sketch Your Whimsical Profile Icon</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-the-mystery-understanding-and-using-slug-lines/"><u>[Updated] Unraveling the Mystery Understanding & Using Slug Lines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guiding-audio-dimming-in-fl-studio/"><u>Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-can-i-fix-problems-with-my-scanner-expert-advice-from-yl-computings-software-solutions/"><u>How Can I Fix Problems with My Scanner? - Expert Advice From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/re-establishing-sound-on-an-hdmi-cable-from-laptop-to-television-and-display/"><u>Re-Establishing Sound on an HDMI Cable From Laptop to Television and Display</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/synching-visuals-and-audio-step-by-step-process/"><u>Synching Visuals and Audio Step-by-Step Process</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-titans-clash-an-in-depth-look-at-apple-airpods-pro-and-samsung-galaxy-buds-pro/"><u>Tech Titans Clash: An In-Depth Look at Apple AirPods Pro & Samsung Galaxy Buds Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-ingenious-ae-techniques-for-headline-hype/"><u>Top 10 Ingenious AE Techniques for Headline Hype</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-gaming-the-8-best-sound-effects-available-without-a-price-tag/"><u>Updated 2024 Approved Mastering Gaming The 8 Best Sound Effects Available Without a Price Tag</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-navigating-through-various-audio-recorders-from-apowersoft-alternatives-to-best-practices/"><u>Updated 2024 Approved Navigating Through Various Audio Recorders From Apowersoft Alternatives to Best Practices</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-11-no-cost-audio-production-tools-for-pcs-and-macs/"><u>Updated 2024 Approved Top 11 No-Cost Audio Production Tools for PCs & Macs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ideas-to-find-the-best-instrumental-background-music-for-videos/"><u>Updated Ideas to Find The Best Instrumental Background Music for Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-artistry-the-step-by-step-process-of-mixing-sounds-for-movie-scenes/"><u>Updated In 2024, Audio Artistry The Step-by-Step Process of Mixing Sounds for Movie Scenes</u></a></li>
 </ul></div>
 

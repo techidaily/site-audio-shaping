@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2025-01-03T21:28:44.317Z
-updated: 2025-01-09T22:34:18.260Z
+date: 2025-01-11T16:38:40.634Z
+updated: 2025-01-15T18:16:25.197Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,16 +76,21 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-game-to-video-magic-full-obs-guide-for-ps4-recording/"><u>[New] 2024 Approved Game-to-Video Magic Full OBS Guide for PS4 Recording</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unintended-tiktok-reset-regain-lost-posts-in-2024/"><u>[New] Unintended TikTok Reset – Regain Lost Posts, In 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-mobilizing-money-a-complete-guide-to-youtubes-revenue-features/"><u>[Updated] Mobilizing Money A Complete Guide to YouTube's Revenue Features</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-app-gone-uncover-effective-strategies-for-tracking-and-reinstating-lost-software/"><u>IPhone App Gone? Uncover Effective Strategies for Tracking and Reinstating Lost Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/revolutionize-your-soundtracks-a-comprehensive-guide-to-the-most-effective-voice-suppressing-technology-in-music-and-karaoke-production-for-2024/"><u>Revolutionize Your Soundtracks A Comprehensive Guide to the Most Effective Voice-Suppressing Technology in Music and Karaoke Production. For 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/strategies-for-eliminating-reverb-from-studio-recorded-sounds/"><u>Strategies for Eliminating Reverb From Studio-Recorded Sounds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-swift-periscope-broadcasting-for-2024/"><u>The Ultimate Guide to Swift Periscope Broadcasting for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-upgraded-audio-methods-for-video-enhancement-the-current-state-of-practice/"><u>Updated 2024 Approved Upgraded Audio Methods for Video Enhancement The Current State of Practice</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-androids-best-face-to-face-apps-the-ultimate-list-for-2024/"><u>Updated Androids Best Face-to-Face Apps The Ultimate List for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-how-to-add-musicaudio-to-a-gif-on-mac/"><u>Updated How to Add Music/Audio to a GIF on Mac?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-deciphering-the-codex-of-meta-and-omni-worlds-for-2024/"><u>[New] Deciphering the Codex of Meta and Omni Worlds for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-backstage-to-center-stage-mastering-twitter-livestreaming-for-2024/"><u>[New] From Backstage to Center Stage Mastering Twitter Livestreaming for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>2024 Approved Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-unsatisfied-system-demands-sign-in-win11/"><u>Avoid Unsatisfied System Demands Sign in Win11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/behind-the-scenes-how-to-log-overwatch-games-for-2024/"><u>Behind the Scenes How to Log Overwatch Games for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expertly-compare-the-strengths-and-weaknesses-of-the-finest-photo-restoration-services-available-in-202aturday/"><u>Expertly Compare the Strengths & Weaknesses of The Finest Photo Restoration Services Available in 202Aturday</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-online-conversion-transforming-mxf-files-into-wmv-format-with-movavi/"><u>Free Online Conversion: Transforming MXF Files Into WMV Format with Movavi</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-chilly-ambiance-ideal-winter-bgs-for-videos/"><u>In 2024, Chilly Ambiance Ideal Winter BGs for Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-perfecting-tone-modulation-keeping-sound-quality-intact-in-audacity/"><u>In 2024, Perfecting Tone Modulation Keeping Sound Quality Intact in Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-virtual-meetup-spaces-the-best-videochat-services-as-alternatives-to-omegle/"><u>New 2024 Approved Virtual Meetup Spaces The Best Videochat Services as Alternatives to Omegle</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-audio-to-video-in-magix-movie-edit-pro-for-2024/"><u>New How to Add Audio to Video in Magix Movie Edit Pro for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-best-podcast-editing-software-products-free-and-paid/"><u>New In 2024, 10 Best Podcast Editing Software Products Free & Paid</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-ultimate-guide-to-background-music-sets-for-video-creators-download/"><u>New In 2024, The Ultimate Guide to Background Music Sets for Video Creators - Download</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-meet-your-voice-in-many-forms-a-deep-dive-into-electronic-sound-transformers-for-2024/"><u>New Meet Your Voice in Many Forms A Deep Dive Into Electronic Sound Transformers for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-streaming-audio-preservation-methods-and-equipment-for-2024/"><u>New Streaming Audio Preservation Methods and Equipment for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-itel-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Itel</u></a></li>
 </ul></div>
 

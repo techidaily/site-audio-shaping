@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevate Your Soundtracks Expert Edits Using Sony Vegas Pro Software
-date: 2024-12-29T01:45:32.723Z
-updated: 2025-01-02T23:14:57.911Z
+date: 2025-01-11T20:09:00.489Z
+updated: 2025-01-15T16:30:53.220Z
 tags: 
   - audio editing software
   - audio editing
@@ -46,12 +46,16 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Mute the Audio Track: Press M
 
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
 * Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
@@ -69,7 +73,7 @@ Those who want to control volume separately for different portions of audio file
 ![Mute audio to selected part](https://images.wondershare.com/edit-audio-in-vegas-pro-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
@@ -81,7 +85,7 @@ Those who want to control volume separately for different portions of audio file
 ![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Section 2: Fade in and Fade Out
@@ -122,10 +126,6 @@ If you want to add specific effects to your audio files then use two simple meth
 
 ![To portion](https://images.wondershare.com/edit-audio-in-vegas-pro-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
@@ -134,20 +134,20 @@ For additional personalization you need to use plug-in chain button from right c
 
 ![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
 ![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Recommendation
@@ -175,18 +175,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-audienranz-with-solo-visual-content/"><u>[Updated] 2024 Approved Engaging Audienranz with Solo Visual Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-high-tech-vr-handhelds-our-top-10-list/"><u>[Updated] High-Tech VR Handhelds Our Top 10 List</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-the-art-of-audio-file-conversion-from-srt-formats/"><u>[Updated] Mastering the Art of Audio File Conversion From SRT Formats</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-download-and-update-nvidias-geforce-rtx-3070-for-windows-users-v11-and-v10/"><u>Ensure Optimal Performance: Download & Update NVIDIA's GeForce RTX 3070 for Windows Users (v11 and V10)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/identifying-and-correcting-issues-preventing-the-launch-of-your-farming-simulator-2022/"><u>Identifying & Correcting Issues Preventing the Launch of Your Farming Simulator 2022</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-a05s-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy A05s Without PUK Codes</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audiobook-authoring-made-accessible-your-ultimate-guide-to-production-in-the-year-2023-for-2024/"><u>New Audiobook Authoring Made Accessible Your Ultimate Guide to Production in the Year 2023 for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project-for-2024/"><u>New Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-s23-fe-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy S23 FE Phone Now with These Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a14-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A14 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-your-cameras-full-potential-with-our-fixed-up-guide/"><u>Unlock Your Camera's Full Potential with Our Fixed-Up Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-animation-enthusiasts-choice-top-8-downloaded-sound-effects-for-your-projects/"><u>Updated 2024 Approved Animation Enthusiasts Choice Top 8 Downloaded Sound Effects for Your Projects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity/"><u>Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-precision-recording-of-skype-calls-via-obs-network/"><u>[New] 2024 Approved Precision Recording of Skype Calls via OBS Network</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elite-list-8-amazing-3d-websites-and-glittering-text/"><u>[New] In 2024, Elite List 8 Amazing 3D Websites & Glittering Text</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dont-miss-out-on-these-key-takeaways-from-our-oneplus-nord-n10/"><u>Don't Miss Out on These Key Takeaways From Our OnePlus Nord N10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-amds-newest-rx-570-driver-for-oses/"><u>Download AMD's Newest RX 570 Driver for OSes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-razr-40-ultra-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Razr 40 Ultra Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/managing-full-storage-removing-duplicate-files-on-windows-11-drives/"><u>Managing Full Storage: Removing Duplicate Files on Windows 11 Drives</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-ultimate-list-of-reaction-video-makers-to-watch/"><u>New In 2024, The Ultimate List of Reaction Video Makers to Watch</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/preserving-audio-integrity-techniques-for-altering-pitch-in-audacity/"><u>Preserving Audio Integrity Techniques for Altering Pitch in Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-affordable-internet-based-auditory-refinement-platforms-ranked-for-2024/"><u>The Ultimate List of Affordable, Internet-Based Auditory Refinement Platforms – Ranked for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-ai-powered-pdf-tools-for-productivity-gains/"><u>Top 10 AI-Powered PDF Tools for Productivity Gains</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-lexar-ssds-a-comprehensive-review-of-the-sl500-and-professional-sl600-series-for-ultra-fast-data-transfer/"><u>Unveiling the Capabilities of Lexar SSDs: A Comprehensive Review of the SL500 & Professional SL600 Series for Ultra-Fast Data Transfer</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmonizing-hues-the-10-best-free-mobile-apps-that-transform-songs-into-vibrant-graphics-for-iphoneandroid/"><u>Updated 2024 Approved Harmonizing Hues The 10 Best Free Mobile Apps That Transform Songs Into Vibrant Graphics for iPhone/Android</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>Updated 2024 Approved Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-a-curated-list-of-8-exceptional-downloads-realistic-and-authentic-rain-audio-samples/"><u>Updated A Curated List of 8 Exceptional Downloads Realistic and Authentic Rain Audio Samples</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-audio-assets-almanac-unveiling-the-best-online-sources-for-video-clip-melodies/"><u>Updated Audio Assets Almanac Unveiling the Best Online Sources for Video Clip Melodies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-best-10-volume-boosters-for-windows-increase-volume-right-now/"><u>Updated Best 10 Volume Boosters for Windows-Increase Volume Right Now</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-discovering-the-top-six-no-cost-daw-programs-for-novice-producers-for-2024/"><u>Updated Discovering the Top Six No-Cost DAW Programs for Novice Producers for 2024</u></a></li>
 </ul></div>
 
