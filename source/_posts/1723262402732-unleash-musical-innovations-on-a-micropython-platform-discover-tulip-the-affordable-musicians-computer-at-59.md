@@ -1,7 +1,7 @@
 ---
 title: Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
-date: 2025-01-14T20:28:51.008Z
-updated: 2025-01-15T20:30:39.650Z
+date: 2025-01-14T23:49:05.223Z
+updated: 2025-01-21T16:01:52.272Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,14 +56,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-todays-vr-hardware-review/"><u>[New] 2024 Approved Today's VR Hardware Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/reaking-down-the-fastest-green-screen-methods-for-2024/"><u>[New] Breaking Down the Fastest Green Screen Methods for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-find-angry-dog-bark-effect/"><u>2024 Approved Find Angry Dog Bark Effect</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-anti-shake-gimblers-reviewed-by-vloggers/"><u>2024 Approved The Best Anti-Shake Gimblers Reviewed by Vloggers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/how-to-hoist-your-words-like-a-flag/"><u>How to Hoist Your Words Like a Flag</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-honor-play-8t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Honor Play 8T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discovering-the-best-vocal-enhancement-tools-an-examination-and-comparison/"><u>New 2024 Approved Discovering the Best Vocal Enhancement Tools An Examination & Comparison</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-unlock-the-potential-of-amr-waves-detailed-guide-to-their-conversion-and-manipulation/"><u>New 2024 Approved Unlock the Potential of AMR WAVES Detailed Guide to Their Conversion and Manipulation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-premier-free-mp3-harmonizer-software/"><u>New In 2024, Premier Free MP3 Harmonizer Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-hardware-for-high-quality-livestreams-for-2024/"><u>[New] Best Hardware for High-Quality Livestreams for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-support-update-refined-communication-protocols-for-advanced-smbus-controllers/"><u>Dell Support Update: Refined Communication Protocols for Advanced SMBus Controllers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/konvertereen-wtv-naar-mpeg-online-zonder-kosten-movavi-videtoools/"><u>Konvertereen WTV Naar MPEG Online Zonder Kosten - Movavi Videtoools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-video-dimensions-for-peak-performance-for-2024/"><u>Mastering Instagram Video Dimensions for Peak Performance for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-development-codegpt-plus-vs-code/"><u>Maximize Your Development: CodeGPT + VS Code</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mov-2024/"><u>MOV 환경에서 효과적인 파일 사용: [2024 기술 가이드]</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/no-charge-audiophiles-choice-premium-conversion-software-for-mpa-to-mp3-transition/"><u>No-Charge Audiophiles Choice Premium Conversion Software for MPA to MP3 Transition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/repeat-this-process-for-your-dvd-drive-by-expanding-the-disk-drives-section-in-device-manager/"><u>Repeat This Process for Your DVD Drive by Expanding the Disk Drives Section in Device Manager.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-buds-pro-cutting-edge-android-headphones/"><u>Samsung Galaxy Buds Pro: Cutting-Edge Android Headphones</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/streamlining-editing-how-to-excise-audio-from-video-tracks-using-premiere-pro-for-2024/"><u>Streamlining Editing How to Excise Audio From Video Tracks Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-podcast-recording-playbook-a-seamless-process-for-2024/"><u>The Ultimate Podcast Recording Playbook A Seamless Process for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-audio-enhancement-in-your-windows-environment-maximizing-sound-on-budget/"><u>Updated 2024 Approved Audio Enhancement in Your Windows Environment - Maximizing Sound on Budget</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-in-depth-analysis-of-the-wave-editor-signature-capabilities-evaluations-and-practical-lessons/"><u>Updated 2024 Approved In-Depth Analysis of the Wave Editor Signature Capabilities, Evaluations, and Practical Lessons</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-adding-effective-audio-to-your-quicktime-projects-2023-edition/"><u>Updated Adding Effective Audio to Your QuickTime Projects 2023 Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-audiovisual-alchemy-expert-tips-for-incorinasiting-and-modifying-audio-timestamps-for-cinematic-effects-in-final-cut-pro-x-for-2024/"><u>Updated Audiovisual Alchemy Expert Tips for Incorinasiting and Modifying Audio Timestamps for Cinematic Effects in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-wizardry-in-imovie-expert-advice-on-editing-and-enhancing-soundtracks/"><u>Updated In 2024, Audio Wizardry in iMovie Expert Advice on Editing and Enhancing Soundtracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-facilitate-engaging-and-efficient-virtual-team-conferences/"><u>Utilizing ChatGPT to Facilitate Engaging and Efficient Virtual Team Conferences</u></a></li>
 </ul></div>
 

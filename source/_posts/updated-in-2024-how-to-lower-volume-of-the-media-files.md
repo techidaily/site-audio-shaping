@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Lower Volume of the Media Files
-date: 2025-01-12T16:08:29.417Z
-updated: 2025-01-15T16:13:14.379Z
+date: 2025-01-18T16:50:42.421Z
+updated: 2025-01-21T18:39:16.795Z
 tags: 
   - audio editing software
   - audio editing
@@ -31,20 +31,20 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lower Volume of the Media Files Step by Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1 Add media files you want to lower volume
 
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2 Lower volume of the media files
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -63,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
  Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
 
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
 
@@ -73,14 +77,10 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -97,18 +97,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-subscriber-glory-the-play-button-and-accolades-for-maker/"><u>[New] In 2024, Subscriber Glory The Play Button & Accolades for Maker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-harvest-hits-the-next-level-of-virtual-farms/"><u>[Updated] 2024 Approved Harvest Hits The Next Level of Virtual Farms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-skyrocketing-revenue-mastering-video-monetization-everywhere/"><u>[Updated] In 2024, Skyrocketing Revenue Mastering Video Monetization Everywhere</u></a></li>
-<li><a href="https://win-trending.techidaily.com/iphone-icloud/"><u>豐富教育：如何重新建立iPhone iCloud疑雲？</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-online-platforms-to-shop-for-cutting-edge-television-technology/"><u>Best Online Platforms to Shop for Cutting-Edge Television Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/experience-next-level-games-with-nvidias-fresh-application/"><u>Experience Next-Level Games with Nvidia’s Fresh Application</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-premiere-pro-masterclass-essential-templates-for-free/"><u>In 2024, Premiere Pro Masterclass - Essential Templates for Free</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/pivot-and-post-mastering-video-orientation-for-2024/"><u>Pivot and Post Mastering Video Orientation for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-navigating-the-world-of-in-game-voice-changing-software/"><u>Updated Navigating the World of In-Game Voice Changing Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-sound-manipulation-creating-engaging-audio-timelines-using-keyframes-in-adobe-premiere-pro-mac/"><u>Updated The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-visual-harmony-integrating-dynamic-beats-into-your-filmic-expressions/"><u>Updated Visual Harmony Integrating Dynamic Beats Into Your Filmic Expressions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-voice-purification-solutions-a-comprehensive-list-for-all-singers-needs-for-2024/"><u>Updated Voice Purification Solutions A Comprehensive List for All Singers Needs for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-zero-distraction-viewing-stripping-down-your-videos-acoustic-layers/"><u>Updated Zero Distraction Viewing Stripping Down Your Videos Acoustic Layers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-entry-level-camera-for-beginners-2024-reviews/"><u>[New] Best Entry-Level Camera for Beginners 2024 | Reviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-battery-life-to-final-cut-a-drone-editors-journey/"><u>2024 Approved From Battery Life to Final Cut A Drone Editor's Journey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ace-the-sky-best-drones-and-their-precision-editing-companions/"><u>Ace the Sky Best Drones & Their Precision Editing Companions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-brands-through-innovative-design-work-for-2024/"><u>Building Brands Through Innovative Design Work for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-troubleshooting-guide-for-windows-updates-fixing-error-0x80070652-easily/"><u>Bypass Troubleshooting Guide for Windows Updates – Fixing Error 0X80070652 Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-precision-capturing-the-art-of-ps4-gaming-recordings-with-obs/"><u>In 2024, Precision Capturing The Art of PS4 Gaming Recordings with OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mechanized-sky-dwellers-classes-for-2024/"><u>Mechanized Sky-Dwellers' Classes for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-role-of-ai-in-achieving-silent-soundscape-denoising-techniques-unveiled/"><u>New 2024 Approved The Role of AI in Achieving Silent Soundscape Denoising Techniques Unveiled</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-best-10-websites-for-obtaining-vintage-and-contemporary-montage-sounds/"><u>New 2024 Approved The Ultimate Guide to the Best 10 Websites for Obtaining Vintage and Contemporary Montage Sounds</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-an-ode-to-open-source-audio-selecting-tunes-for-captivating-montage-videos/"><u>New An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-auditory-excision-handbook-removing-sound-from-mp4-mkv-avi-mov-wmv-videos-for-2024/"><u>New The Auditory Excision Handbook Removing Sound From MP4, MKV, AVI, MOV, WMV Videos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-15-audio-collections-matching-melodies-with-every-type-of-visual-narrative-for-2024/"><u>New Top 15 Audio Collections Matching Melodies with Every Type of Visual Narrative for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/optimizing-your-computers-capacity-advanced-techniques-from-yl-computing/"><u>Optimizing Your Computer's Capacity - Advanced Techniques From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ticking-clock-for-microsoft-the-impending-crisis-of-windows-10-and-the-one-year-solution-marathon/"><u>Ticking Clock for Microsoft: The Impending Crisis of Windows 10 and the One-Year Solution Marathon</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723014046394-troubleshooting-disconnects-in-fallout-76-for-windows-users-get-back-online/"><u>Troubleshooting Disconnects in Fallout 76 for Windows Users – Get Back Online</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-synchronizing-audio-with-visual-media-the-quicktime-method/"><u>Updated 2024 Approved Synchronizing Audio with Visual Media The QuickTime Method</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-best-windows-10-auditory-integration-software-compared-for-2024/"><u>Updated Best Windows 10 Auditory Integration Software Compared for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-15-top-montage-music-for-different-video-types/"><u>Updated In 2024, 15 Top Montage Music for Different Video Types</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-15-groundbreaking-rock-tracks-unveiled/"><u>Updated Top 15 Groundbreaking Rock Tracks Unveiled</u></a></li>
 </ul></div>
 

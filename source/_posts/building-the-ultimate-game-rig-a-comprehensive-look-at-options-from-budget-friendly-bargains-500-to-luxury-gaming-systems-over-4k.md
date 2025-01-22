@@ -1,7 +1,7 @@
 ---
 title: "Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)"
-date: 2025-01-10T16:05:56.941Z
-updated: 2025-01-15T17:10:17.463Z
+date: 2025-01-17T22:07:01.503Z
+updated: 2025-01-21T22:59:31.577Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 [Hewlett Packard](https://www.tomshardware.com/tag/hewlett-packard) [Enterprise](https://www.tomshardware.com/tag/enterprise) (HPE), one of the world's largest makers of servers, has initiated a legal battle against Inspur Group, China's largest server maker, and its affiliates, alleging server patent infringements. HPE accuses Inspur of engaging in deceptive practices and renaming its subsidiaries in the U.S. to continue its business with American companies despite being included into the Entity List.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HPE: Inspur infringes our patents
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Despite being on the Entity List, Inspur continues operations in the U.S
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  The complaint claims that Inspur that inspur continues its operations in the United States under Aivres Systems and Betapex. Inspur allegedly removed its branding from products sold in the U.S. and continues to sell them. For example, Inspur's IR5280M6 server is Aivres's 5280M6 machine, it has the same specification and design, according to HPE's complaint. Meanwhile, Inspur has also worked as a contract maker of servers, according to The Register. Yet, if a U.S. entity plans to work with Inspur (or any other party from the Entity List), it has to get a special license from the U.S. government.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,20 +64,20 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-online-video-beats-to-your-phones-ringtones-a-simple-guide/"><u>[New] 2024 Approved From Online Video Beats to Your Phone's Ringtones A Simple Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-pinnacle-fix-in-digital-dimensions-for-2024/"><u>[New] Pinnacle Fix in Digital Dimensions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-active-directory-printer-error-on-win-1011/"><u>Eliminating Active Directory Printer Error on WIN 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-in-australie-verwijderen-van-au-naar-gg-webadres-kostenloos-bij-movavi/"><u>Gratuit Gebaseerd in Australië: Verwijderen Van .au Naar .gg Webadres - Kostenloos Bij Movavi</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-create-youtube-channel-in-mobile-with-ease-personal-and-business-for-2024/"><u>How to Create YouTube Channel in Mobile with Ease [Personal & Business] for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-narzo-60x-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme Narzo 60x 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-fastest-way-to-rotate-a-video-tips-and-tricks/"><u>New In 2024, The Fastest Way to Rotate a Video Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/spreadsheet-showdown-deciding-between-google-sheets-and-microsoft-excel-for-your-needs/"><u>Spreadsheet Showdown: Deciding Between Google Sheets and Microsoft Excel for Your Needs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/starting-with-imovie-step-by-step-guide-to-incorporating-soundtracks-for-2024/"><u>Starting with iMovie Step-by-Step Guide to Incorporating Soundtracks for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/strategizing-gamers-speech-modification-unveiling-the-superior-choices-for-2024/"><u>Strategizing Gamers Speech Modification Unveiling the Superior Choices for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-audio-length-reduction-in-apples-imovie-app-for-2024/"><u>The Ultimate Guide to Audio Length Reduction in Apples iMovie App for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-updated-guide-to-video-audio-integration-for-filmmakers-for-2024/"><u>The Updated Guide to Video-Audio Integration for Filmmakers for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-bugged-upbeat-sounds-pack-free-2023-digital-audio-library/"><u>Updated 2024 Approved Bugged Upbeat Sounds Pack – FREE 2023 Digital Audio Library</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-free-8-best-daw-for-chromebook-to-make-music/"><u>Updated 2024 Approved FREE 8 Best DAW for Chromebook to Make Music</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-pre-purchase-checklist-important-qanda-for-potential-electric-vehicle-buyers/"><u>Your Pre-Purchase Checklist: Important Q&A for Potential Electric Vehicle Buyers</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/windows-10-version-22h2/"><u>最高效解決 Windows 10 Version 22H2更新失敗方案</u></a></li>
+<li><a href="https://win-lab.techidaily.com/download-your-favorite-aetv-content-in-hd-formats-mp4-mov-and-avi/"><u>Download Your Favorite AETV Content in HD Formats - MP4, MOV & AVI</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577356828-linguistic-leap-forward-our-special-95-off-language-program/"><u>Linguistic Leap Forward: Our Special 95% Off Language Program</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-exploring-2023s-av-voice-modification-tools-reviews-and-alternatives/"><u>New 2024 Approved Exploring 2023S AV Voice Modification Tools Reviews & Alternatives</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/save-big-with-limited-time-acer-specials-your-guide-to-amazon-prime-day-savings/"><u>Save Big with Limited-Time Acer Specials: Your Guide to Amazon Prime Day Savings</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-s18-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo S18 Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-pro-audio-on-your-device-a-comprehensive-review-of-the-top-8-ios-compatible-daw-apps/"><u>Updated In 2024, Pro Audio on Your Device A Comprehensive Review of the Top 8 iOS-Compatible DAW Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated In 2024, Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-pop-song-selections-for-film-and-media-production-for-2024/"><u>Updated Premier Pop Song Selections for Film and Media Production for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premiere-pairing-programs-ultimate-beat-match-video-editor-companion-2023/"><u>Updated Premiere Pairing Programs Ultimate Beat Match Video Editor Companion, 2023</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors-for-2024/"><u>Updated Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-streamlined-techniques-for-audio-excision-in-mobile-and-desktop-video-files/"><u>Updated Streamlined Techniques for Audio Excision in Mobile and Desktop Video Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-gear-review-nine-exceptional-podcast-microphones-for-the-pros/"><u>Updated Ultimate Gear Review Nine Exceptional Podcast Microphones for the Pros</u></a></li>
 </ul></div>
 
