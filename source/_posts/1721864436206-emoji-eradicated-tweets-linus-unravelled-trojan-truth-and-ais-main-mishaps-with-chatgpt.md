@@ -1,7 +1,7 @@
 ---
 title: Emoji Eradicated Tweets, Linus Unravelled, Trojan Truth, and AI's Main Mishaps with ChatGPT
-date: 2025-01-11T18:37:19.838Z
-updated: 2025-01-15T19:36:47.273Z
+date: 2025-01-24T09:19:29.747Z
+updated: 2025-01-28T16:53:51.598Z
 tags:
   - chatgpt
   - open-ai
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -146,22 +146,18 @@ thumbnail: https://thmb.techidaily.com/f7daaa5e7a3a1ec4897e8ae51e5f1c3364a7e01e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-professional-screenrecorder-x2-breakdown/"><u>[Updated] 2024 Approved Professional ScreenRecorder X2 Breakdown</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-tutorial-on-permanently-removing-your-instagram-profile/"><u>[Updated] 2024 Approved The Ultimate Tutorial on Permanently Removing Your Instagram Profile</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-contrasting-copyright-clauses-in-youtube-and-the-freedom-of-cc/"><u>[Updated] Contrasting Copyright Clauses in Youtube & the Freedom of CC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-fb-ad-success-no-cost-for-video-creation-tools/"><u>[Updated] Unlocking FB Ad Success No Cost for Video Creation Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-list-films-must-watch-channel-compilation/"><u>2024 Approved A-List Films Must-Watch Channel Compilation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>2024 Approved The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-uninstallation-block-in-win-11-edition/"><u>Addressing Uninstallation Block in Win 11 Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audiovisual-separation-expertise-removing-voices-to-highlight-song-written-words/"><u>Audiovisual Separation Expertise Removing Voices to Highlight Song Written Words</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-poco-m6-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Poco M6 5G</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/montage-music-the-top-10-online-compilations-and-direct-links-for-2024/"><u>Montage Music The Top 10 Online Compilations and Direct Links for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-achieving-sonic-excellence-incorporating-auto-tune-into-your-audacity-workflow/"><u>New Achieving Sonic Excellence Incorporating Auto-Tune Into Your Audacity Workflow</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-essential-unlicensed-melodies-for-picture-sequences/"><u>New Essential Unlicensed Melodies for Picture Sequences</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/step-by-step-guide-to-eradicating-audios-in-video-projects-using-imovie/"><u>Step-by-Step Guide to Eradicating Audios in Video Projects Using iMovie</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-update-your-computers-sata-ahci-controller-with-the-latest-drivers/"><u>Step-by-Step Process: Update Your Computer's SATA AHCI Controller with the Latest Drivers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-hear-the-pitch-finding-professional-grade-cricket-soundscape/"><u>Updated In 2024, Hear the Pitch Finding Professional-Grade Cricket Soundscape</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-8-free-soundscape-resources-for-audio-enhancement/"><u>Updated Top 8 Free Soundscape Resources for Audio Enhancement</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-unraveling-the-podcast-puzzle-a-step-by-step-approach-to-download-store-and-manage-auditory-media-on-computers-for-2024/"><u>Updated Unraveling the Podcast Puzzle A Step-by-Step Approach to Download, Store, and Manage Auditory Media on Computers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-uav-connoisseurs-guide-to-essential-equipment/"><u>[Updated] 2024 Approved The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-invisible-stories-unveiled-a-complete-snapguide/"><u>[Updated] In 2024, Invisible Stories Unveiled A Complete Snapguide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dimming-down-audio-levels-seamlessly/"><u>Dimming Down Audio Levels Seamlessly</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-achieving-clear-sound-mixes-with-audio-ducking-techniques-in-adobe-premiere-pro-for-windows-users/"><u>In 2024, Achieving Clear Sound Mixes with Audio Ducking Techniques in Adobe Premiere Pro for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-extreme-3d-pro-mouse-driver-updates-and-improvements-unveiled/"><u>Logitech Extreme 3D Pro Mouse: Driver Updates and Improvements Unveiled</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-from-ambient-noises-to-melodies-detailed-audio-recording-on-windows-10/"><u>New In 2024, From Ambient Noises to Melodies Detailed Audio Recording on Windows 10</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/silent-streams-cutting-the-chatter-of-video-audio-tracks/"><u>Silent Streams Cutting the Chatter of Video Audio Tracks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-12-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 12 Pro Max Making It Possible</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-2024-linux-notebooks-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranked 2024 Linux Notebooks - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-streamlined-techniques-for-audio-excision-in-mobile-and-desktop-video-files/"><u>Updated 2024 Approved Streamlined Techniques for Audio Excision in Mobile and Desktop Video Files</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>Updated In 2024, Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/wiederherstellung-von-ubertragenen-pptx-dateien-unter-windows-10-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Übertragenen PPTX-Dateien Unter Windows 10: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bmp-to-png/"><u>もっとも強力なオンラインでの BMP to PNG ファイル変換 - ムーバヴィ</u></a></li>
 </ul></div>
 

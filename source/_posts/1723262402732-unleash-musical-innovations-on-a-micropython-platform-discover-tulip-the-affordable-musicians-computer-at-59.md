@@ -1,7 +1,7 @@
 ---
 title: Unleash Musical Innovations on a MicroPython Platform – Discover Tulip, the Affordable Musicians' Computer at $59
-date: 2025-01-14T23:49:05.223Z
-updated: 2025-01-21T16:01:52.272Z
+date: 2025-01-23T18:20:50.532Z
+updated: 2025-01-28T21:44:10.562Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,22 +56,16 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-best-hardware-for-high-quality-livestreams-for-2024/"><u>[New] Best Hardware for High-Quality Livestreams for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dell-support-update-refined-communication-protocols-for-advanced-smbus-controllers/"><u>Dell Support Update: Refined Communication Protocols for Advanced SMBus Controllers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/konvertereen-wtv-naar-mpeg-online-zonder-kosten-movavi-videtoools/"><u>Konvertereen WTV Naar MPEG Online Zonder Kosten - Movavi Videtoools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-video-dimensions-for-peak-performance-for-2024/"><u>Mastering Instagram Video Dimensions for Peak Performance for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-development-codegpt-plus-vs-code/"><u>Maximize Your Development: CodeGPT + VS Code</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mov-2024/"><u>MOV 환경에서 효과적인 파일 사용: [2024 기술 가이드]</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/no-charge-audiophiles-choice-premium-conversion-software-for-mpa-to-mp3-transition/"><u>No-Charge Audiophiles Choice Premium Conversion Software for MPA to MP3 Transition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/repeat-this-process-for-your-dvd-drive-by-expanding-the-disk-drives-section-in-device-manager/"><u>Repeat This Process for Your DVD Drive by Expanding the Disk Drives Section in Device Manager.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-buds-pro-cutting-edge-android-headphones/"><u>Samsung Galaxy Buds Pro: Cutting-Edge Android Headphones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/streamlining-editing-how-to-excise-audio-from-video-tracks-using-premiere-pro-for-2024/"><u>Streamlining Editing How to Excise Audio From Video Tracks Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-podcast-recording-playbook-a-seamless-process-for-2024/"><u>The Ultimate Podcast Recording Playbook A Seamless Process for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-audio-enhancement-in-your-windows-environment-maximizing-sound-on-budget/"><u>Updated 2024 Approved Audio Enhancement in Your Windows Environment - Maximizing Sound on Budget</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-in-depth-analysis-of-the-wave-editor-signature-capabilities-evaluations-and-practical-lessons/"><u>Updated 2024 Approved In-Depth Analysis of the Wave Editor Signature Capabilities, Evaluations, and Practical Lessons</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-adding-effective-audio-to-your-quicktime-projects-2023-edition/"><u>Updated Adding Effective Audio to Your QuickTime Projects 2023 Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audiovisual-alchemy-expert-tips-for-incorinasiting-and-modifying-audio-timestamps-for-cinematic-effects-in-final-cut-pro-x-for-2024/"><u>Updated Audiovisual Alchemy Expert Tips for Incorinasiting and Modifying Audio Timestamps for Cinematic Effects in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-wizardry-in-imovie-expert-advice-on-editing-and-enhancing-soundtracks/"><u>Updated In 2024, Audio Wizardry in iMovie Expert Advice on Editing and Enhancing Soundtracks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-facilitate-engaging-and-efficient-virtual-team-conferences/"><u>Utilizing ChatGPT to Facilitate Engaging and Efficient Virtual Team Conferences</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xamining-youtubes-mobile-app-for-iosandroid-devices/"><u>[New] Examining YouTube's Mobile App for iOS/Android Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-pc-essential-upgrades-guide/"><u>Boost Your PC: Essential Upgrades Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-fixing-armored-core-6-rubicon-issues-for-smooth-gaming-on-desktops/"><u>Comprehensive Guide to Fixing Armored Core 6 (Rubicon) Issues for Smooth Gaming on Desktops</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-14-pro-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 14 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/prime-10-image-repositories-without-costs-for-2024/"><u>Prime 10 Image Repositories Without Costs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-mechanism-of-winos-gpu-ordering-suspension/"><u>Understanding the Mechanism of WinOS GPU Ordering Suspension</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-10-prime-pages-to-acquire-digital-ding-tone-files-with-hassle-free-downloads/"><u>Updated 10 Prime Pages to Acquire Digital Ding Tone Files with Hassle-Free Downloads</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-three-key-techniques-to-uniform-audio-amplitude/"><u>Updated 2024 Approved The Three Key Techniques to Uniform Audio Amplitude</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-achieving-sonic-clarity-overcoming-hiss-and-other-unwanted-noises-in-audio-tracks/"><u>Updated Achieving Sonic Clarity Overcoming Hiss and Other Unwanted Noises in Audio Tracks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-cut-trim-and-tailor-audio-files-in-seconds-using-these-top-7-web-based-tools-for-2024/"><u>Updated Cut, Trim, and Tailor Audio Files in Seconds Using These Top 7 Web-Based Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-vn-video-editor-review-a-powerful-video-editing-tool-for-android/"><u>Updated In 2024, VN Video Editor Review A Powerful Video Editing Tool for Android?</u></a></li>
 </ul></div>
 

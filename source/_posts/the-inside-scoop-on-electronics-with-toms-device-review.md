@@ -1,7 +1,7 @@
 ---
 title: The Inside Scoop on Electronics with Tom's Device Review
-date: 2025-01-19T00:59:21.085Z
-updated: 2025-01-22T00:16:27.003Z
+date: 2025-01-23T21:32:34.273Z
+updated: 2025-01-28T18:42:26.465Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,17 +78,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-master-the-art-of-recording-lol-discover-3-essential-tips/"><u>[New] 2024 Approved Master the Art of Recording LOL - Discover 3 Essential Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-electrical-upgrades/"><u>[Updated] 2024 Approved Electrical Upgrades</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/977681--an-outline-of-occult-science-2nd-ed/"><u>An Outline of Occult Science (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audio-implementation-in-avi-2023-formats-a-step-by-step-manual-for-2024/"><u>Audio Implementation in AVI-2023 Formats A Step-by-Step Manual for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-top-vocal-remover-software-for-karaoke-music-production-and-more/"><u>New 2024 Approved 10 Top Vocal Remover Software for Karaoke, Music Production, and More</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-aiff-to-mp3-mastery-transforming-your-audio-collection-effortlessly/"><u>New In 2024, AIFF to MP3 Mastery Transforming Your Audio Collection Effortlessly</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-smartest-way-to-improve-phone-voices-on-android-a-list-of-the-best-7-editing-apps-for-2024/"><u>New The Smartest Way to Improve Phone Voices on Android A List of the Best 7 Editing Apps for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-comprehensive-guide-to-crafting-an-authentic-online-persona-on-facebook/"><u>The Comprehensive Guide to Crafting an Authentic Online Persona on Facebook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-a-new-sound-profile-free-guide-to-free-fire-voice-changes-for-2024/"><u>Unlocking a New Sound Profile Free Guide to Free Fire Voice Changes for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-strategy-for-fusing-audio-with-video-content-updated/"><u>Updated 2024 Approved The Ultimate Strategy for Fusing Audio with Video Content (Updated )</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-practices-and-tools-for-taking-screenshots-on-a-laptop/"><u>Best Practices and Tools for Taking Screenshots on a Laptop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-advanced-chatbot-intelligence-on-your-android-device-now/"><u>Experience Advanced Chatbot Intelligence on Your Android Device Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-tecno-phantom-v-flip-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Tecno Phantom V Flip?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-achieving-clear-sound-mixes-with-audio-ducking-techniques-in-adobe-premiere-pro-for-windows-users/"><u>In 2024, Achieving Clear Sound Mixes with Audio Ducking Techniques in Adobe Premiere Pro for Windows Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-from-ambient-noises-to-melodies-detailed-audio-recording-on-windows-10/"><u>New In 2024, From Ambient Noises to Melodies Detailed Audio Recording on Windows 10</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/silent-streams-cutting-the-chatter-of-video-audio-tracks/"><u>Silent Streams Cutting the Chatter of Video Audio Tracks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sonic-immersion-for-static-snapshots-for-2024/"><u>Sonic Immersion for Static Snapshots for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reatest-satirical-serenades/"><u>The Greatest Satirical Serenades</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-youtube-audio-gems-for-daily-listening-for-2024/"><u>Top YouTube Audio Gems for Daily Listening for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/total-capture-trio-setup-for-2024/"><u>Total Capture Trio Setup for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-mp250-printer-drivers-easily-with-our-comprehensive-guide/"><u>Update Your Canon MP250 Printer Drivers Easily with Our Comprehensive Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-streamlined-techniques-for-audio-excision-in-mobile-and-desktop-video-files/"><u>Updated 2024 Approved Streamlined Techniques for Audio Excision in Mobile and Desktop Video Files</u></a></li>
 </ul></div>
 

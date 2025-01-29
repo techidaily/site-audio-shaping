@@ -1,7 +1,7 @@
 ---
 title: "Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)"
-date: 2025-01-17T22:07:01.503Z
-updated: 2025-01-21T22:59:31.577Z
+date: 2025-01-25T00:45:52.407Z
+updated: 2025-01-29T00:09:50.065Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 [Hewlett Packard](https://www.tomshardware.com/tag/hewlett-packard) [Enterprise](https://www.tomshardware.com/tag/enterprise) (HPE), one of the world's largest makers of servers, has initiated a legal battle against Inspur Group, China's largest server maker, and its affiliates, alleging server patent infringements. HPE accuses Inspur of engaging in deceptive practices and renaming its subsidiaries in the U.S. to continue its business with American companies despite being included into the Entity List.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HPE: Inspur infringes our patents
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Despite being on the Entity List, Inspur continues operations in the U.S
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  The complaint claims that Inspur that inspur continues its operations in the United States under Aivres Systems and Betapex. Inspur allegedly removed its branding from products sold in the U.S. and continues to sell them. For example, Inspur's IR5280M6 server is Aivres's 5280M6 machine, it has the same specification and design, according to HPE's complaint. Meanwhile, Inspur has also worked as a contract maker of servers, according to The Register. Yet, if a U.S. entity plans to work with Inspur (or any other party from the Entity List), it has to get a special license from the U.S. government.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,20 +64,15 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/windows-10-version-22h2/"><u>最高效解決 Windows 10 Version 22H2更新失敗方案</u></a></li>
-<li><a href="https://win-lab.techidaily.com/download-your-favorite-aetv-content-in-hd-formats-mp4-mov-and-avi/"><u>Download Your Favorite AETV Content in HD Formats - MP4, MOV & AVI</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577356828-linguistic-leap-forward-our-special-95-off-language-program/"><u>Linguistic Leap Forward: Our Special 95% Off Language Program</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-exploring-2023s-av-voice-modification-tools-reviews-and-alternatives/"><u>New 2024 Approved Exploring 2023S AV Voice Modification Tools Reviews & Alternatives</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/save-big-with-limited-time-acer-specials-your-guide-to-amazon-prime-day-savings/"><u>Save Big with Limited-Time Acer Specials: Your Guide to Amazon Prime Day Savings</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-s18-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo S18 Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-pro-audio-on-your-device-a-comprehensive-review-of-the-top-8-ios-compatible-daw-apps/"><u>Updated In 2024, Pro Audio on Your Device A Comprehensive Review of the Top 8 iOS-Compatible DAW Apps</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated In 2024, Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premier-pop-song-selections-for-film-and-media-production-for-2024/"><u>Updated Premier Pop Song Selections for Film and Media Production for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premiere-pairing-programs-ultimate-beat-match-video-editor-companion-2023/"><u>Updated Premiere Pairing Programs Ultimate Beat Match Video Editor Companion, 2023</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors-for-2024/"><u>Updated Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-streamlined-techniques-for-audio-excision-in-mobile-and-desktop-video-files/"><u>Updated Streamlined Techniques for Audio Excision in Mobile and Desktop Video Files</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-gear-review-nine-exceptional-podcast-microphones-for-the-pros/"><u>Updated Ultimate Gear Review Nine Exceptional Podcast Microphones for the Pros</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-collaborative-listening-made-simple-on-youtube/"><u>[New] Collaborative Listening Made Simple on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-educational-transformation-the-vr-revolution/"><u>[New] In 2024, Educational Transformation The VR Revolution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-building-a-cohesive-setup-synergizing-obs-with-zoom-services/"><u>[Updated] Building a Cohesive Setup Synergizing OBS with Zoom Services</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-expert-tips-to-soften-sound-tracks-in-logic-pro/"><u>[Updated] Expert Tips to Soften Sound Tracks in Logic Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-social-media-turn-off-algorithms-on-twitter-instagram-and-facebook/"><u>Mastering Social Media: Turn Off Algorithms on Twitter, Instagram, & Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-leading-contender-in-business-laptops-unveiled-neither-lenovo-thinkpad-nor-macbook-per-zdnet-insight/"><u>Surprising Leading Contender in Business Laptops Unveiled: Neither Lenovo ThinkPad nor MacBook, Per ZDNET Insight</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-from-visual-to-audible-harness-the-power-of-audio-extraction-tools-for-videos-on-cross-platform-systems-windows-macos-and-mobile-devices-new/"><u>Updated In 2024, From Visual to Audible Harness the Power of Audio Extraction Tools for Videos on Cross-Platform Systems (Windows, macOS & Mobile Devices - New Insights 2023)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-guide-to-choosing-the-ultimate-android-audio-recording-software-with-free-options/"><u>Updated In 2024, Guide to Choosing the Ultimate Android Audio Recording Software (With Free Options)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-the-art-of-sound-recording-via-vocaroo-strategies-and-replacements-for-2024/"><u>Updated Mastering the Art of Sound Recording via Vocaroo Strategies and Replacements for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-play-m4a-audio-files-on-android-devices-for-2024/"><u>Updated Play M4A Audio Files on Android Devices for 2024</u></a></li>
 </ul></div>
 
