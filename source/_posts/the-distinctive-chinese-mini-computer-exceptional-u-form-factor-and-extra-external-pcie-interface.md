@@ -1,7 +1,7 @@
 ---
 title: "The Distinctive Chinese Mini Computer: Exceptional U Form Factor & Extra External PCIe Interface"
-date: 2025-01-24T10:10:24.211Z
-updated: 2025-01-29T03:34:47.237Z
+date: 2025-02-07T16:31:17.739Z
+updated: 2025-02-09T20:59:08.798Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -71,16 +67,12 @@ If you want a computer that meets your exact needs and budget, you need to put i
   
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Amazon)
@@ -112,6 +104,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our graphics card at this price point is the Nvidia RTX 4060, which comes in just under $300\. The 4060 has strong performance at 1080p, ultra settings, having averaged 84.9 fps on our suite of tests. It ranks just above the RTX 2080 and below the Raden RX 6700 on our[GPU benchmarks hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html) .
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -156,7 +152,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Newegg)
@@ -172,7 +168,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -209,6 +205,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're also upgrading the CPU to[Intel's Core i5-14600KF](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , an overclockable processor that has 6 performance cores, 8 efficiency cores, 20 threads and a boost clock of 5.3 GHz. That's before you attempt to overclock it.
@@ -227,16 +227,12 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $2000 PC Build for Gaming
 
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -277,6 +273,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Future)
 
  For the SSD, we're sticking with the WD Black SN850X at 2TB. You really can't do much better without spending a lot more money on a PCIe 5 drive or a 4TB capacity.
@@ -285,13 +285,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  To power all these high-end components, we're using a Corsair RM750e PSU which is 80+ Gold certified and fully modular.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $4000+ PC Build for Gaming
 
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -326,7 +326,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -364,21 +364,19 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-transforming-viewers-experience-obs-strategies-on-youtube-and-twitch/"><u>[New] 2024 Approved Transforming Viewers' Experience OBS Strategies on YouTube & Twitch</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-imovie-skills-producing-engaging-and-profitable-square-video-feeds-for-2024/"><u>[New] IMovie Skills Producing Engaging and Profitable Square Video Feeds for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-resource-on-affordable-webinars-on-youtube/"><u>[New] The Ultimate Resource on Affordable Webinars on Youtube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhancing-obs-on-a-thrifty-computer/"><u>[Updated] Enhancing OBS on a Thrifty Computer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-playtime-perfection-the-kiddo-gamer-guide-for-2024/"><u>[Updated] Playtime Perfection The Kiddo Gamer Guide for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/audio-removal-guide-for-mp4-files-for-2024/"><u>Audio Removal Guide for MP4 Files for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-make-your-periscope-stream-swifter/"><u>In 2024, How to Make Your Periscope Stream Swifter</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-11-proplus-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme 11 Pro+ Android SIM Unlock APK</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mac-enthusiasts-take-on-screenflow-software-review/"><u>Mac Enthusiast's Take on ScreenFlow Software Review</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/navigating-through-this-years-top-ten-budget-friendly-browser-based-daw-solutions/"><u>Navigating Through This Years Top Ten Budget-Friendly Browser-Based DAW Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-proven-7-audio-processors-to-peacefully-remove-populated-sounds-from-media/"><u>New 2024 Approved Proven 7 Audio Processors to Peacefully Remove Populated Sounds From Media</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-converging-sound-and-vision-top-tier-tips-for-effortless-audio-video-alignment-automatically-for-2024/"><u>New Converging Sound and Vision Top-Tier Tips for Effortless Audio-Video Alignment Automatically for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users/"><u>New In 2024, Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-perfecting-production-quality-utilizing-real-time-ducking-features-in-windows-adobe-premiere-pro-edition/"><u>New In 2024, Perfecting Production Quality Utilizing Real-Time Ducking Features in Windows Adobe Premiere Pro Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-auto-transcription-experts-choice-top-6-software-picks/"><u>New The Auto-Transcription Experts Choice – Top 6 Software Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/partner-with-local-organizations-for-community-projects-that-align-with-your-corporate-social-responsibility-goals-and-can-improve-the-lives-of-those-affect25/"><u>Partner with Local Organizations for Community Projects that Align with Your Corporate Social Responsibility Goals and Can Improve the Lives of Those Affected by Environmental Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hannel-success-story-optimal-themes-and-ideas-to-boost-content-for-2024/"><u>[New] Channel Success Story Optimal Themes and Ideas to Boost Content for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquering-video-design-challenges-with-filmora-tips/"><u>[Updated] Conquering Video Design Challenges with Filmora Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-counterview-commentary-review-for-2024/"><u>[Updated] CounterView Commentary Review for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/adopt-cookiebots-solutions-for-improved-digital-marketing-outcomes/"><u>Adopt Cookiebot's Solutions for Improved Digital Marketing Outcomes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-x6-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/auditory-hunt-locating-authentic-cricket-sfx/"><u>Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-echoes-of-the-earth-unveiling-the-10-best-ios-and-android-auditory-journeys-in-nature/"><u>New 2024 Approved Echoes of the Earth Unveiling the 10 Best iOS & Android Auditory Journeys in Nature</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audio-visual-coalescence-techniques-for-cohesive-media-creation-for-2024/"><u>New Audio-Visual Coalescence Techniques for Cohesive Media Creation for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-echo-to-audio-online-and-on-windows/"><u>New How to Add Echo to Audio Online and on Windows</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-editors-toolkit-enhancing-audio-effectiveness-through-keyframe-manipulation-in-final-cut-pro-x-for-2024/"><u>New The Editors Toolkit Enhancing Audio Effectiveness Through Keyframe Manipulation in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/setting-up-your-windows-defender-a-step-by-step-guide-tech-tips-from-yl-computing/"><u>Setting Up Your Windows Defender: A Step-by-Step Guide - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-cs2-latency-issues-tips-to-reduce-ping-and-enhance-gameplay-on-pc/"><u>Solving CS2 Latency Issues: Tips to Reduce Ping & Enhance Gameplay on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-the-issue-when-windows-key-plus-shift-plus-s-is-unresponsive-on-windows-11-or-10/"><u>Troubleshooting Steps: Fixing the Issue When Windows Key + Shift + S Is Unresponsive on Windows 11 or 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-video-makers-with-music-for-android-and-iphone/"><u>Updated The Ultimate Guide to Video Makers with Music for Android & iPhone</u></a></li>
 </ul></div>
 

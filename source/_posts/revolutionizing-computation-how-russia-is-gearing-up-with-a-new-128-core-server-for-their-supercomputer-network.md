@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2025-01-27T17:51:04.015Z
-updated: 2025-01-29T05:26:23.377Z
+date: 2025-02-02T23:24:57.353Z
+updated: 2025-02-09T20:10:01.415Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,17 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/advice-install-supported-drivers-for-amd-video-adapter/"><u>[ADVICE] Install Supported Drivers for AMD Video Adapter</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-note-taking-the-power-of-mematic/"><u>[New] Revolutionizing Note-Taking The Power of Mematic</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-animators-dream-tools-premium-choices-for-3d-mastery-for-2024/"><u>[New] The Animator’s Dream Tools Premium Choices for 3D Mastery for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-voice-customization-made-easy/"><u>[Updated] Instagram Voice Customization Made Easy</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-best-7-vocal-remover-to-get-rid-of-vocals-with-ease-online-and-offline/"><u>In 2024, Best 7 Vocal Remover to Get Rid of Vocals with Ease Online & Offline</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-cutting-edge-mp3-editing-solutions-for-mac-a-comprehensive-review-of-leading-cutter-tools/"><u>In 2024, Cutting-Edge MP3 Editing Solutions for Mac A Comprehensive Review of Leading Cutter Tools</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-achieve-balanced-soundscape-with-rapid-audio-regulation-strategies/"><u>New 2024 Approved Achieve Balanced Soundscape with Rapid Audio Regulation Strategies</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-elevating-your-music-collection-advanced-mp3-file-editing-tips-and-tricks/"><u>New Elevating Your Music Collection Advanced MP3 File Editing Tips and Tricks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-guide-to-address-assassins-creed-valhalla-pc-game-freezes-and-crashes/"><u>Troubleshooting Guide to Address Assassin's Creed Valhalla PC Game Freezes and Crashes</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-voice-over-made-easy-fcp-recording-tips-and-tricks/"><u>Updated 2024 Approved Voice Over Made Easy FCP Recording Tips and Tricks</u></a></li>
-<li><a href="https://facebook.techidaily.com/yearly-summary-the-hottest-podcasts-reviewed-and-rated/"><u>Yearly Summary: The Hottest Podcasts Reviewed & Rated</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-zipping-files-and-folders-on-windows-using-built-in-tools-tips-from-yl-computing/"><u>Easy Steps: Zipping Files and Folders on Windows Using Built-In Tools - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-10-best-free-youtube-channel-art-makers/"><u>In 2024, 10 Best Free YouTube Channel Art Makers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y27s-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y27s</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-eye-opening-experience-selecting-best-for-vr-gaming/"><u>In 2024, Eye-Opening Experience Selecting Best for VR Gaming</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y27-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y27 4G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/intermittent-welding/"><u>Intermittent Welding</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-overcoming-reduced-frames-per-second-in-forza-horizon-5-for-pc-gamers/"><u>Optimizing Performance: Overcoming Reduced Frames Per Second in Forza Horizon 5 for PC Gamers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pros-and-cons-of-hero-series-vs-polaroids-video-editors-for-2024/"><u>Pros & Cons of Hero Series Vs. Polaroid's Video Editors for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/refining-zoom-image-precision-proactive-measures-for-2024/"><u>Refining Zoom Image Precision Proactive Measures for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools-for-2024/"><u>Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-sound-engineers-approach-to-detaching-bass-from-mixed-tracks-for-2024/"><u>The Sound Engineers Approach to Detaching Bass From Mixed Tracks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-8-dictation-software-for-windows-mac-and-online-2023-list/"><u>Top 8 Dictation Software for Windows, Mac and Online-2023 List</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-4-ways-to-sync-audio-to-video-automatically-in/"><u>Updated 2024 Approved 4 Ways to Sync Audio to Video Automatically In</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-enhancing-audio-clarity-in-diy-home-film-production/"><u>Updated 2024 Approved Enhancing Audio Clarity in DIY Home Film Production</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-navigating-video-editing-incorporating-dubbing-techniques-in-filmora/"><u>Updated 2024 Approved Navigating Video Editing Incorporating Dubbing Techniques in Filmora</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>Updated 2024 Approved Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-expert-techniques-for-crafting-complex-audio-edits-with-keyframes-in-premiere-pro-mac-edition-for-2024/"><u>Updated Expert Techniques for Crafting Complex Audio Edits with Keyframes in Premiere Pro, Mac Edition for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-harmonizing-multiple-recordings-achieving-an-exclusive-one-file-mix/"><u>Updated Harmonizing Multiple Recordings Achieving an Exclusive One-File Mix</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Techniques for Reducing Digital Audio File Sizes
-date: 2025-01-27T17:11:10.032Z
-updated: 2025-01-28T22:52:52.765Z
+date: 2025-02-06T16:49:49.999Z
+updated: 2025-02-09T22:53:20.190Z
 tags: 
   - audio editing software
   - audio editing
@@ -31,13 +31,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lower Volume of the Media Files Step by Step Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1 Add media files you want to lower volume
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2 Lower volume of the media files
 
  Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
@@ -57,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
 
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3 Save the files
 
@@ -72,14 +76,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -97,19 +97,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-video-soundtracks-on-digital-platforms-for-2024/"><u>[New] Enhancing Video Soundtracks on Digital Platforms for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pixel-snap-tracker-plus-for-2024/"><u>[New] Pixel Snap Tracker Plus for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-turn-your-iphone-vids-clockwise/"><u>[Updated] Turn Your iPhone Vids Clockwise</u></a></li>
-<li><a href="https://games-able.techidaily.com/five-innovative-text-riddles-for-group-fun-time/"><u>Five Innovative Text Riddles for Group Fun Time</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s17t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S17t without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-windows-10-photo-display/"><u>In 2024, Prime Windows 10 Photo Display</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/preserving-audio-integrity-techniques-for-altering-pitch-in-audacity/"><u>Preserving Audio Integrity Techniques for Altering Pitch in Audacity</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-microsoft-store-failure-code-x800704cf/"><u>Rectifying Microsoft Store Failure Code X800704CF</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamlessly-blend-sound-and-visuals-editing-tips-for-canva-videos/"><u>Seamlessly Blend Sound & Visuals Editing Tips for Canva Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-magsafe-accessories-2024-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Rated MagSafe Accessories 2024: Comprehensive Testing & Reviews by Tech Experts</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-hearing-colors-and-movements-a-comprehensive-list-of-top-notch-music-visualizers-both-free-and-paid/"><u>Updated 2024 Approved Hearing Colors and Movements A Comprehensive List of Top-Notch Music Visualizers (Both Free & Paid)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-a-curated-list-of-8-exceptional-downloads-realistic-and-authentic-rain-audio-samples/"><u>Updated A Curated List of 8 Exceptional Downloads Realistic and Authentic Rain Audio Samples</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audio-assets-almanac-unveiling-the-best-online-sources-for-video-clip-melodies/"><u>Updated Audio Assets Almanac Unveiling the Best Online Sources for Video Clip Melodies</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-discovering-the-top-six-no-cost-daw-programs-for-novice-producers-for-2024/"><u>Updated Discovering the Top Six No-Cost DAW Programs for Novice Producers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-bp550-review-latest-tech-advances/"><u>[New] In 2024, BP550 Review Latest Tech Advances</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-the-past-top-10-educational-history-yt-channels/"><u>[New] In 2024, Exploring the Past Top 10 Educational History YT Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ro-freefire-compiling-premier-gaming-vids-and-hashtags-for-2024/"><u>[New] Pro-FreeFire Compiling Premier Gaming Vids and Hashtags for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-flawless-selfies-with-these-top-iphone-free-tools/"><u>[New] Unlock Flawless Selfies with These Top iPhone Free Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-embark-on-the-facebook-experience-for-2024/"><u>[Updated] How to Embark on the Facebook Experience for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-tips-for-crafting-top-notch-video-hashtags/"><u>[Updated] In 2024, Expert Tips for Crafting Top-Notch Video Hashtags</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1728487498670-ssd/"><u>「SSDでのクローン保存方法：手順とそれがもたらすメリットについて学ぶ」</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-a-modified-legacy-sonos-app-resolved-persistent-audio-glitches-in-my-sound-system/"><u>How a Modified Legacy Sonos App Resolved Persistent Audio Glitches in My Sound System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-12-mini-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 12 mini Device from iCloud</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/reliability-meets-portability-in-depth-review-of-the-audew-air-pump-for-versatile-use/"><u>Reliability Meets Portability: In-Depth Review of the Audew Air Pump for Versatile Use</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/toms-gadget-gallery-a-journey-through-modern-computing-hardware/"><u>Tom's Gadget Gallery: A Journey Through Modern Computing Hardware</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-professional-techniques-for-effective-voice-recording-on-galaxy-s10s9-devices/"><u>Updated In 2024, Professional Techniques for Effective Voice Recording on Galaxy S10/S9 Devices</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-six-easy-steps-to-enhance-your-videos-with-music-without-expense/"><u>Updated In 2024, Six Easy Steps to Enhance Your Videos with Music Without Expense</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-depth-process-changing-the-narrative-voice-of-your-visual-story/"><u>Updated In-Depth Process Changing the Narrative Voice of Your Visual Story</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-sustaining-sonic-excellence-while-changing-octave-levels-in-audacity-for-2024/"><u>Updated Sustaining Sonic Excellence While Changing Octave Levels in Audacity for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-translating-music-into-words-easy-online-techniques-for-mp3-to-text-conversion-updated-guide-for-2024/"><u>Updated Translating Music Into Words Easy Online Techniques for MP3 to Text Conversion Updated Guide for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-guide-to-online-and-offline-video-to-audio-conversion-tools/"><u>Updated Ultimate Guide to Online and Offline Video-to-Audio Conversion Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-rain-sound-collection-top-8-high-fidelity-sounds-to-download/"><u>Updated Ultimate Rain Sound Collection Top 8 High-Fidelity Sounds to Download</u></a></li>
 </ul></div>
 

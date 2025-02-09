@@ -1,7 +1,7 @@
 ---
 title: Updated The Silent Song Methods to Extract and Remove Vocal Tracks From Audio Sequences in Audacity
-date: 2025-01-26T17:21:01.624Z
-updated: 2025-01-28T23:54:09.447Z
+date: 2025-02-03T20:58:44.734Z
+updated: 2025-02-09T22:43:20.748Z
 tags: 
   - audio editing software
   - audio editing
@@ -24,9 +24,17 @@ Removing vocals from audio tracks or songs can be tricky. You may want to create
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Remove Vocals Using Audacity Vocal Reduction Tool**
 
 The first method of removing vocals in [Audacity](https://www.audacityteam.org/) is using the built-in vocal remover. This method is effective in completely removing vocals depending on how much processing is on the vocal. Even if the vocals are not completely removed, the method will reduce the volume significantly to give you great results. Let’s have a look at how to isolate vocal audacity with this method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 1: Open Audacity**
 
@@ -35,7 +43,11 @@ The first thing you need to do is open the Audacity software in preparation for 
 ![open audacity](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-1.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Step 2: Import the Audio Track**
@@ -56,10 +68,6 @@ Backup the file so that you still have the whole song available for use later. G
 
 ![export audio](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-4.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step 5: Import the New Audio File**
 
 Once you have exported the audio file, click “Close “on the original file. Then import the file you exported in the last step.
@@ -73,11 +81,7 @@ Click on Select, then Select All. On the Effect drop-down menu, select Audacity 
 ![apply vocal reduction](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-6.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Step 7: Remove Vocals**
@@ -88,9 +92,17 @@ Click on the Action tab and select Remove Vocals. Wait for Audacity to remove th
 
 This method is a quick and easy way to remove vocals from any song in Audacity. It works best with any kind of song and will produce the edited track in just a matter of minutes. On the drawback, this method does not always wholly remove vocal and you may at times still hear bits of it. It may also remove other elements of the audio in addition to the vocal. Nonetheless, it is an effective approach that will work most of the time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Remove Vocals Using Audacity Splitting Audio Channels**
 
 When working with songs or audio tracks with vocals in one channel and instruments in another, this is the best method to use. The Audacity vocal remover plugin gives you a simple way to separate the vocals and other sounds in an audio file. However, you cannot tell song that has multiple channels simply by looking at or listening to it. Therefore, you can try this method with any of your files and see the quality of the outcome. Here are the steps for this audacity separate vocals method:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 1: Import Your File**
 
@@ -99,7 +111,11 @@ Start by importing your audio track or song file into Audacity.
 ![import file](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-8.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Step 2: Split Stereo to Mono**
@@ -122,10 +138,6 @@ From the results, delete the section that contains the isolated vocal from the A
 
 This alternative method is also effective in extract vocals Audacity. The main benefit is it has fewer steps than the first method. It will also completely remove vocals that are on their own channel. However, the method is limited in that it does not work for the vast majority of audio. It will only work for audio tracks with vols on one channel and instruments on another.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative Way to Remove Vocals from Audio with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Another great option for removing vocals from a song is using Wondershare Filmora. The video editing software comes with some interesting features, including vocal removal. The recently released Filmora Version 13 is more versatile and user-friendly for better edits. With the integration of AI, users can automate vocal removal which would normally require a lot of time and incredible skill to execute. The AI in the software does this in a few minutes. Filmora also has some amazing features that automate video editing, allowing you to do more with less effort.
@@ -133,10 +145,6 @@ Another great option for removing vocals from a song is using Wondershare Filmor
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [**Quick Tutorial on Removing Vocals with Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -150,19 +158,11 @@ Click on the Filmora icon on your desktop to launch the software. Log in to sign
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-12.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### **Step 2: Import Source Files and Add to Timeline**
 
 On the Main Filmora Interface, select Media from the custom toolbar. Then click Files and import the files you want to use to Filmora. Select the imported files, and drag and drop them into the timeline panel.
 
 ![import files](https://images.wondershare.com/filmora/article-images/2023/quick-and-easy-vocal-removal-in-audacity-a-guide-13.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### **Step 3 – Enable AI Vocal Removal**
 
@@ -187,7 +187,7 @@ Removing vocals from a video song or audio file gives you more freedom in your p
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -199,22 +199,20 @@ Removing vocals from a video song or audio file gives you more freedom in your p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-best-practices-in-video-posting-choosing-correct-orientation/"><u>[New] Best Practices in Video Posting – Choosing Correct Orientation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-captureconqueror-a-comprehensive-guide-to-screen-recording/"><u>[Updated] In 2024, CaptureConqueror A Comprehensive Guide to Screen Recording</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-maximizing-hdr-photography-capabilities-on-iphone/"><u>[Updated] In 2024, Maximizing HDR Photography Capabilities on iPhone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-viral-velocity-on-instagram-leveraging-video-and-likes-for-2024/"><u>[Updated] Viral Velocity on Instagram Leveraging Video & Likes for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/auditory-hunt-locating-authentic-cricket-sfx/"><u>Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/hevc-vs-avc-understanding-the-distinctive-advantages-of-h265-over-h264/"><u>HEVC vs AVC: Understanding the Distinctive Advantages of H.265 Over H.264</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-cutting-edge-videography-top-cameras/"><u>In 2024, Cutting-Edge Videography Top Cameras</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-video-tweet-release-avoid-the-rt/"><u>In 2024, Direct Video Tweet Release Avoid the 'RT'</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-how-to-add-music-to-instagram-reel/"><u>In 2024, How to Add Music to Instagram Reel</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-best-video-editing-software-to-remove-audio-from-video-windows/"><u>New 2024 Approved Best Video Editing Software to Remove Audio From Video Windows</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-echoes-of-the-earth-unveiling-the-10-best-ios-and-android-auditory-journeys-in-nature/"><u>New 2024 Approved Echoes of the Earth Unveiling the 10 Best iOS & Android Auditory Journeys in Nature</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-visual-coalescence-techniques-for-cohesive-media-creation-for-2024/"><u>New Audio-Visual Coalescence Techniques for Cohesive Media Creation for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-essential-strategies-for-identifying-top-audio-craftsmanship-expertise-for-2024/"><u>New Essential Strategies for Identifying Top Audio Craftsmanship Expertise for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-echo-to-audio-online-and-on-windows/"><u>New How to Add Echo to Audio Online and on Windows</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-rhythmic-revelation-an-online-journey-to-single-out-the-beat-for-2024/"><u>New Rhythmic Revelation An Online Journey to Single Out the Beat for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-editors-toolkit-enhancing-audio-effectiveness-through-keyframe-manipulation-in-final-cut-pro-x-for-2024/"><u>New The Editors Toolkit Enhancing Audio Effectiveness Through Keyframe Manipulation in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-of-dysfunctional-usb-ports-on-your-windows-device-windows-1011/"><u>Solving the Issue of Dysfunctional USB Ports on Your Windows Device (Windows 10/11)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhancing-your-snapchat-experience-mobile-recordings/"><u>[New] 2024 Approved Enhancing Your Snapchat Experience Mobile Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>[Updated] In 2024, Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-strategy-for-developing-and-managing-youtube-collaborations/"><u>2024 Approved The Ultimate Strategy for Developing & Managing YouTube Collaborations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-microphone-malfunctions-how-to-restore-and-enable-voice-chats/"><u>COD: Vanguard Microphone Malfunctions – How to Restore and Enable Voice Chats</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-organizing-chatgpt-interactions-with-dedicated-folders/"><u>Effective Strategies for Organizing ChatGPT Interactions with Dedicated Folders</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-beyond-the-default-changing-siris-accent-on-apple-gadgets/"><u>In 2024, Beyond the Default Changing Siris Accent on Apple Gadgets</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-adobe-premiere-pro-for-mac-the-ultimate-pro-video-editing-tool/"><u>New 2024 Approved Adobe Premiere Pro for Mac The Ultimate Pro Video Editing Tool</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-navigating-through-the-top-choices-for-mac-mp3-metadata-manipulators/"><u>New 2024 Approved Navigating Through the Top Choices for Mac MP3 Metadata Manipulators</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-debunking-digital-audio-studio-myths-the-truth-behind-daw-for-2024/"><u>New Debunking Digital Audio Studio Myths The Truth Behind DAW for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-change-pitch-without-losing-quality-in-audacity-for-2024/"><u>New How to Change Pitch without Losing Quality in Audacity for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-premier-list-of-8-modern-daws-elevating-hip-hop-and-rap-music-mixing/"><u>New In 2024, The Premier List of 8 Modern DAWs Elevating Hip-Hop and Rap Music Mixing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-10-safe-chat-platforms-for-socializing-digitally/"><u>New In 2024, Top 10 Safe Chat Platforms for Socializing Digitally</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-reveal-flatulent-whispering-waves-compilation/"><u>New Reveal Flatulent Whispering Waves Compilation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/power-boost-for-your-next-weeks-iphone-purchase-discover-essential-anker-accessories/"><u>Power-Boost for Your Next Week's iPhone Purchase? Discover Essential Anker Accessories</u></a></li>
 </ul></div>
 
