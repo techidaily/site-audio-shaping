@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
-date: 2025-02-02T16:59:09.935Z
-updated: 2025-02-09T19:16:17.112Z
+date: 2025-02-13T21:47:45.704Z
+updated: 2025-02-19T16:59:06.091Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Review of the Stunning and Versatile Dell XPS 13 (7390) 2-in-1 Ultrabook
@@ -44,10 +44,6 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/R_aYhYLFGT6--hIRDTNUJTlIVn8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_hero-Square-f2b4744360d644a1b93b7541af7eb182.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Andrew Hayward
 
 [View On Amazon $699](https://www.amazon.com/dp/B078WRSHV4/?tag=lifewire-onsite-prod-20&ascsubtag=4779835%7Cnbd1cf0f7690f4c68a44d26c3ec46a2c410%7CB078WRSHV4)
@@ -77,11 +73,11 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/radDS_2IRuzjTlZxUS5og2a3PIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Top_04-b051e3660efc406ab97f92df654d3762.jpg)
 
- Lifewire / Andrew Hayward
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Andrew Hayward
 
 ## **Design: Amazingly light, but not wholly convincing**
 
@@ -106,13 +102,13 @@ Lifewire / Andrew Hayward
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/1qu1WvdEgTzjUQ8QH_Lssx79xF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Trackpad_05-f0d9dc63b03e4650a92e30747090889a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Just follow the directions**
@@ -129,10 +125,6 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/TFbt9G36hk5JyrBL8cIdIuYQ66E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Keyboard_03-fd7e355ac5944f12a8107746d0afbf24.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 ## **Performance: Solid power for everyday tasks**
@@ -147,16 +139,12 @@ Lifewire / Andrew Hayward
 
  As an aside, while the LG Gram often runs near-silently, there are extended periods of time in which there's an audible hum coming from the back. It's not the typical, very loud fan noise that pops up while gaming or heavy multitasking from some computers, but it can be a bit grating. We noticed it while charging the computer, but also while running on the battery—with no consistency on that front. It's a mild annoyance, but it's one we noticed whenever it emerged.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Audio: It makes an impression**
 
  You won't see the speakers when the LG Gram is standing up as normal, but you'll hear them loud and clear. The stereo speakers are tucked underneath the laptop at the left and right edges near where your wrists rest, and thanks to the slight elevation from the rubbery feet on the bottom of the laptop, they're given enough space for the output to shine. Audio playback sounds robust and clear—not quite to the level of Apple's current MacBook Air and MacBook Pro, but very close. We were pleased with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Network: Connects as expected**
@@ -167,7 +155,15 @@ Lifewire / Andrew Hayward
 
 ![LG Gram 15.6-inch (2018)](https://www.lifewire.com/thmb/AhDZOG33ttJ8LfKQnzvHO7K-S8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram_Closed_02-d40445064b4945729278aeae3d8ae1c0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Battery: Seriously amazing**
 
@@ -182,6 +178,10 @@ Lifewire / Andrew Hayward
  The LG Gram 15.6-inch comes with Windows 10 Home preinstalled, and if you've used Windows over the years, then you should be pretty comfortable here. Windows 10 has lightly evolved the PC operating system with feature enhancements and tweaks without losing the classic, familiar DNA within, and it's the OS of choice for computer gaming and apps of all shapes and sizes. It's easy to use and understand, and runs well with the Intel Core i5 and an SSD onboard.
 
  Unfortunately, this entry-level model of the LG Gram 15.6-inch isn't able to take advantage of Windows Hello biometric security, as the camera above the display doesn't have the needed sensors for scanning your face. We missed the near-instantaneous facial recognition of the Surface Laptop 2, and having to type in a PIN number each time we opened up the lid. Pricier models of the laptop offer a fingerprint scanner, however.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Solidly priced, considering its strengths**
 
@@ -239,22 +239,17 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>[New] In 2024, Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-deep-dive-ultimate-ice-cream-viewer-analysis/"><u>[Updated] Deep Dive Ultimate Ice Cream Viewer Analysis</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-numbers-game-how-much-does-adsense-pay-on-a-thousand-video-glimpses/"><u>2024 Approved The Numbers Game How Much Does AdSense Pay on a Thousand Video Glimpses?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-your-lenovo-legion-n5-pro-16ach6h-with-the-correct-graphics-card-drivers/"><u>How to Update Your Lenovo Legion N5 Pro-16ACH6H with the Correct Graphics Card Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos-for-2024/"><u>How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Videos for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hunt-for-the-best-deals-on-apple-devices-this-prime-day/"><u>Hunt for the Best Deals on Apple Devices This Prime Day</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-the-soundscape-shapers-guide-insights-into-leading-audio-software/"><u>In 2024, The Soundscape Shapers Guide Insights Into Leading Audio Software</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-unleashing-the-power-of-sound-15-undeniable-rock-tunes-from-2023/"><u>In 2024, Unleashing the Power of Sound 15 Undeniable Rock Tunes From 2023</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-innovating-sound-design-the-impact-and-prowess-of-magix-samplitude/"><u>New In 2024, Innovating Sound Design The Impact and Prowess of MAGIX Samplitude</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-comprehensive-tutorial-on-detaching-audible-elements-from-video-clips-for-2024/"><u>New The Comprehensive Tutorial on Detaching Audible Elements From Video Clips for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-ark-software-failures-a-comprehensive-guide/"><u>Resolving ARK Software Failures: A Comprehensive Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/toms-computer-review-in-depth-hardware-insights/"><u>Tom's Computer Review: In-Depth Hardware Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915416578-top-social-networks-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-accessible-vocal-isolation-equipment-for-all-voice-levels-for-2024/"><u>Updated Accessible Vocal Isolation Equipment for All Voice Levels for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-achieving-profound-pronunciation-in-filmora-videos/"><u>Updated Achieving Profound Pronunciation in Filmora Videos</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-vocal-navigator-discovering-premium-online-text-to-speech-providers/"><u>Updated In 2024, The Vocal Navigator Discovering Premium Online Text to Speech Providers</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-microsoft-copilot-how-to-use-copilot-in-windows/"><u>What Is Microsoft Copilot? How to Use Copilot in Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-finest-tech-for-streaming-and-saving-your-video-conferences-for-2024/"><u>[New] The Finest Tech for Streaming and Saving Your Video Conferences for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-vivid-visuals-strategies-for-splendid-screen-illumination/"><u>[New] Vivid Visuals Strategies for Splendid Screen Illumination</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-on-the-samsung-galaxy-fit-perfect-match-for-health-conscious-users/"><u>Comprehensive Guide on the Samsung Galaxy Fit – Perfect Match for Health-Conscious Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-achieving-clear-sound-mixes-with-audio-ducking-techniques-in-adobe-premiere-pro-for-windows-users/"><u>In 2024, Achieving Clear Sound Mixes with Audio Ducking Techniques in Adobe Premiere Pro for Windows Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-boosting-engagement-editing-for-perfect-video-titles-and-descriptions/"><u>In 2024, Boosting Engagement Editing for Perfect Video Titles & Descriptions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-nvidia-display-issue-in-control-panel/"><u>Resolving Nvidia Display Issue in Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-windowed-discord-for-better-search-results/"><u>Revamping Windowed Discord for Better Search Results</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/silent-streams-cutting-the-chatter-of-video-audio-tracks/"><u>Silent Streams Cutting the Chatter of Video Audio Tracks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-youtube-audio-gems-for-daily-listening-for-2024/"><u>Top YouTube Audio Gems for Daily Listening for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-iphone-15-leather-protectors-ultimate-selection/"><u>Top-Rated iPhone 15 Leather Protectors: Ultimate Selection</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-streamlined-techniques-for-audio-excision-in-mobile-and-desktop-video-files/"><u>Updated 2024 Approved Streamlined Techniques for Audio Excision in Mobile and Desktop Video Files</u></a></li>
 </ul></div>
 

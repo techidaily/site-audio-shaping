@@ -1,7 +1,7 @@
 ---
 title: "Building the Ultimate Game Rig : A Comprehensive Look at Options From Budget-Friendly Bargains ($500) To Luxury Gaming Systems (Over $4K!)"
-date: 2025-02-08T20:44:44.498Z
-updated: 2025-02-09T19:09:22.999Z
+date: 2025-02-18T23:27:04.767Z
+updated: 2025-02-19T17:42:27.579Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 [Hewlett Packard](https://www.tomshardware.com/tag/hewlett-packard) [Enterprise](https://www.tomshardware.com/tag/enterprise) (HPE), one of the world's largest makers of servers, has initiated a legal battle against Inspur Group, China's largest server maker, and its affiliates, alleging server patent infringements. HPE accuses Inspur of engaging in deceptive practices and renaming its subsidiaries in the U.S. to continue its business with American companies despite being included into the Entity List.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HPE: Inspur infringes our patents
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Despite being on the Entity List, Inspur continues operations in the U.S
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  The complaint claims that Inspur that inspur continues its operations in the United States under Aivres Systems and Betapex. Inspur allegedly removed its branding from products sold in the U.S. and continues to sell them. For example, Inspur's IR5280M6 server is Aivres's 5280M6 machine, it has the same specification and design, according to HPE's complaint. Meanwhile, Inspur has also worked as a contract maker of servers, according to The Register. Yet, if a U.S. entity plans to work with Inspur (or any other party from the Entity List), it has to get a special license from the U.S. government.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,18 +64,22 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-gaming-income-optimization-tips/"><u>[New] In 2024, Gaming Income Optimization Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-demystifying-screen-record-snapchat-a-beginners-handbook/"><u>[Updated] 2024 Approved Demystifying Screen Record Snapchat A Beginner's Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>2024 Approved The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
-<li><a href="https://discover-best.techidaily.com/best-of-2023-the-ultimate-guide-to-free-video-compression-tools-for-enhanced-discord-streams/"><u>Best of 2023: The Ultimate Guide to Free Video Compression Tools for Enhanced Discord Streams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/immortals-fenyx-rising-release-delay-explained-what-you-need-to-know/"><u>Immortals Fenyx Rising Release Delay Explained: What You Need To Know</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-in-depth-review-of-audfreeplus-software/"><u>In 2024, In-Depth Review of AudFreePlus Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-common-icloud-connectivity-challenges-solutions-for-smooth-syncing/"><u>Overcoming Common iCloud Connectivity Challenges: Solutions for Smooth Syncing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prime-day-preview-exclusive-scoop-on-ultimate-best-buy-offers-curated-by-zdnet/"><u>Prime Day Preview: Exclusive Scoop on Ultimate Best Buy Offers , Curated by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-how-to-restore-erased-texts-in-any-mobile-device/"><u>Step-by-Step Tutorial on How to Restore Erased Texts in Any Mobile Device</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-use-audio-ducking-to-fade-out-music-in-powerdirector/"><u>Updated In 2024, How to Use Audio Ducking to Fade Out Music in PowerDirector?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-synergy-of-sonic-and-visual-artistry-tips-for-producers/"><u>Updated In 2024, The Synergy of Sonic and Visual Artistry Tips for Producers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-mastering-sound-normalization-a-trifecta-of-quick-methods/"><u>Updated Mastering Sound Normalization A Trifecta of Quick Methods</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-7-digital-tools-for-seamless-audio-cutting-and-editing-for-2024/"><u>Updated Top 7 Digital Tools for Seamless Audio Cutting and Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-your-visual-content-mastery-of-image-backdrop-removal-in-canva/"><u>[New] 2024 Approved Elevate Your Visual Content Mastery of Image Backdrop Removal in Canva</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-achieve-higher-interactions-mastering-the-art-of-square-videos/"><u>[Updated] 2024 Approved Achieve Higher Interactions Mastering the Art of Square Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-signal-of-a-block-missed-snaps-and-none-left/"><u>[Updated] 2024 Approved Signal of a Block Missed Snaps and None Left</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-platforms-to-download-and-listen-to-dj-music/"><u>2024 Approved Platforms to Download and Listen to DJ Music</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ver-the-top-7-free-youtube-tag-extractor-vendors-for-2024/"><u>Discover the Top 7 Free YouTube Tag Extractor Vendors for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/finding-the-best-dog-noise-samples-for-audio-creators/"><u>Finding the Best Dog Noise Samples for Audio Creators</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-shoppers-guide-to-modern-360cams/"><u>In 2024, The Essential Shopper's Guide to Modern 360Cams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nahimic-driver-enhancement-made-simple-recent-improvements-revealed/"><u>Nahimic Driver Enhancement Made Simple – Recent Improvements Revealed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-easy-way-to-remove-vocals-from-an-audio-track-in-audacity/"><u>New The Easy Way to Remove Vocals From an Audio Track in Audacity</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-sonic-landscape-a-study-on-sound-forgeutility/"><u>New The Sonic Landscape A Study on Sound Forgeutility</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tracking-down-enhanced-alien-voices-effects-for-2024/"><u>New Tracking Down Enhanced Alien Voices Effects for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-imovie-manual-a-detailed-method-for-including-audio-files/"><u>Updated IMovie Manual A Detailed Method for Including Audio Files</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>Updated In 2024, Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-innovative-audio-editing-solutions-unveiling-the-top-10-tools-for-windowsmac-enthusiasts/"><u>Updated Innovative Audio Editing Solutions Unveiling the Top 10 Tools for Windows/Mac Enthusiasts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/what-is-omegle-is-omegle-safe/"><u>What Is Omegle, Is Omegle Safe？</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Computation: How Russia Is Gearing Up with a New 128-Core Server for Their Supercomputer Network"
-date: 2025-02-02T23:24:57.353Z
-updated: 2025-02-09T20:10:01.415Z
+date: 2025-02-13T19:21:41.661Z
+updated: 2025-02-19T20:43:11.781Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,24 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-exclusive.techidaily.com/easy-steps-zipping-files-and-folders-on-windows-using-built-in-tools-tips-from-yl-computing/"><u>Easy Steps: Zipping Files and Folders on Windows Using Built-In Tools - Tips From YL Computing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-10-best-free-youtube-channel-art-makers/"><u>In 2024, 10 Best Free YouTube Channel Art Makers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y27s-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y27s</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-eye-opening-experience-selecting-best-for-vr-gaming/"><u>In 2024, Eye-Opening Experience Selecting Best for VR Gaming</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y27-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y27 4G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/intermittent-welding/"><u>Intermittent Welding</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-overcoming-reduced-frames-per-second-in-forza-horizon-5-for-pc-gamers/"><u>Optimizing Performance: Overcoming Reduced Frames Per Second in Forza Horizon 5 for PC Gamers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pros-and-cons-of-hero-series-vs-polaroids-video-editors-for-2024/"><u>Pros & Cons of Hero Series Vs. Polaroid's Video Editors for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/refining-zoom-image-precision-proactive-measures-for-2024/"><u>Refining Zoom Image Precision Proactive Measures for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools-for-2024/"><u>Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-sound-engineers-approach-to-detaching-bass-from-mixed-tracks-for-2024/"><u>The Sound Engineers Approach to Detaching Bass From Mixed Tracks for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/top-8-dictation-software-for-windows-mac-and-online-2023-list/"><u>Top 8 Dictation Software for Windows, Mac and Online-2023 List</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-4-ways-to-sync-audio-to-video-automatically-in/"><u>Updated 2024 Approved 4 Ways to Sync Audio to Video Automatically In</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-enhancing-audio-clarity-in-diy-home-film-production/"><u>Updated 2024 Approved Enhancing Audio Clarity in DIY Home Film Production</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-navigating-video-editing-incorporating-dubbing-techniques-in-filmora/"><u>Updated 2024 Approved Navigating Video Editing Incorporating Dubbing Techniques in Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>Updated 2024 Approved Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-expert-techniques-for-crafting-complex-audio-edits-with-keyframes-in-premiere-pro-mac-edition-for-2024/"><u>Updated Expert Techniques for Crafting Complex Audio Edits with Keyframes in Premiere Pro, Mac Edition for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-harmonizing-multiple-recordings-achieving-an-exclusive-one-file-mix/"><u>Updated Harmonizing Multiple Recordings Achieving an Exclusive One-File Mix</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ontent-creation-conundrum-where-to-go-in-2024/"><u>[New] Content Creation Conundrum Where to Go, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-ultimate-guide-to-creating-engaging-facebook-stories/"><u>2024 Approved The Ultimate Guide to Creating Engaging Facebook Stories</u></a></li>
+<li><a href="https://media-tips.techidaily.com/alternative-options-to-apples-airplay-the-ultimate-list-of-5-cross-platform-screen-mirroring-applications-for-windows-and-mac-users/"><u>Alternative Options to Apple's AirPlay: The Ultimate List of 5 Cross-Platform Screen Mirroring Applications for Windows & Mac Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/asus-latest-innovation-the-nuc-14-proplus-superior-processing-power-with-meteor-lake-cpus-for-only-860/"><u>Asus' Latest Innovation - The NUC 14 Pro+: Superior Processing Power with Meteor Lake CPUs for Only $860</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-performance-through-the-power-of-cookiebot/"><u>Enhanced Performance Through the Power of Cookiebot</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-lava-blaze-2-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Lava Blaze 2 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-hues-at-your-fingertips-the-essential-11-tutorial-list/"><u>In 2024, Perfect Hues at Your Fingertips The Essential 11 Tutorial List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/page-unavailable-error-message-seeing-not-found/"><u>Page Unavailable Error Message – Seeing 'Not Found'?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sending-and-receiving-imessages-via-windows-a-comprehensive-guide-zdnet/"><u>Sending & Receiving iMessages via Windows: A Comprehensive Guide (ZDNet)</u></a></li>
+<li><a href="https://win-unique.techidaily.com/speicherung-ihrer-lieblingsseiten-in-microsoft-edge-erneuern-und-wiederherstellen/"><u>Speicherung Ihrer Lieblingsseiten in Microsoft Edge - Erneuern Und Wiederherstellen</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-add-music-background-music-to-video-without-hassle/"><u>Updated In 2024, How to Add Music (Background Music) to Video without Hassle</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-leading-auditory-booster-applications-for-android-and-ios-in-the-new-year/"><u>Updated In 2024, Leading Auditory Booster Applications for Android and iOS in the New Year</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-essential-list-of-top-10-gratis-audio-capture-software-tailored-for-modern-podcasters/"><u>Updated In 2024, The Essential List of Top 10 Gratis Audio Capture Software Tailored for Modern Podcasters</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-the-art-of-integrating-high-quality-audio-into-mp4-films/"><u>Updated Mastering the Art of Integrating High-Quality Audio Into MP4 Films</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-meet-your-voice-in-many-forms-a-deep-dive-into-electronic-sound-transformers-for-2024/"><u>Updated Meet Your Voice in Many Forms A Deep Dive Into Electronic Sound Transformers for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-engineers-selection-identifying-the-best-5-dynamic-ducking-software-updates-2-market-trends-for-2024/"><u>Updated The Engineers Selection Identifying the Best 5 Dynamic Ducking Software Updates (2 Market Trends) for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-windows-and-macos-compatible-daws-the-ultimate-selection/"><u>Updated Top 10 Windows & macOS Compatible DAWs The Ultimate Selection</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-guide-to-protected-and-entertaining-chatting-apps-for-unknown-individuals-for-2024/"><u>Updated Ultimate Guide to Protected and Entertaining Chatting Apps for Unknown Individuals for 2024</u></a></li>
 </ul></div>
 

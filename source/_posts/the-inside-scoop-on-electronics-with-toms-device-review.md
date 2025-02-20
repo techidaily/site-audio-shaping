@@ -1,7 +1,7 @@
 ---
 title: The Inside Scoop on Electronics with Tom's Device Review
-date: 2025-02-04T16:27:28.592Z
-updated: 2025-02-09T17:06:30.720Z
+date: 2025-02-18T17:38:09.797Z
+updated: 2025-02-19T17:21:33.213Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-diving-deeper-into-webcam-possibilities-for-2024/"><u>[New] Diving Deeper Into Webcam Possibilities for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-essential-guide-to-tracking-igtv-viewership-metrics/"><u>[New] The Essential Guide to Tracking IGTV Viewership Metrics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-7-dslr-vlogging-cameras/"><u>[Updated] In 2024, Best 7 DSLR Vlogging Cameras</u></a></li>
-<li><a href="https://win11.techidaily.com/1-mastering-multimedia-a-comprehensive-guide-on-leveraging-the-power-of-video-to-audio-conversion-with-factory-pro/"><u>1. Mastering Multimedia: A Comprehensive Guide on Leveraging the Power of Video-to-Audio Conversion with Factory Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/10-global-ai-connoisseurs-share-outlooks-and-thoughts/"><u>10 Global AI Connoisseurs Share Outlooks and Thoughts</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/crafting-clear-sounds-on-mac-an-analysis-of-the-top-5-audio-mixers/"><u>Crafting Clear Sounds on Mac An Analysis of the Top 5 Audio Mixers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-melody-mavens-exploring-the-best-tunes-an-online-up-to-date-song-identifier/"><u>In 2024, Melody Mavens Exploring the Best Tunes – An Online, Up-to-Date Song Identifier</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-pro-video-editors-choice-10-invaluable-plugins-for-seamless-cutting-and-trimming/"><u>In 2024, Pro Video Editors Choice 10 Invaluable Plugins for Seamless Cutting and Trimming</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mix-magic-how-to-download-top-dj-content/"><u>Mix Magic How to Download Top DJ Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-accelerating-audio-on-windows-the-leading-10-tools-for-immediate-volume-increase-for-2024/"><u>New Accelerating Audio on Windows The Leading 10 Tools for Immediate Volume Increase for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-mastery-for-quicktime-videos-advanced-tips-and-tricks/"><u>New Audio Mastery for QuickTime Videos Advanced Tips & Tricks</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-how-can-you-change-your-voice/"><u>New In 2024, How Can You Change Your Voice?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>New The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-path-to-perfect-ps3-game-footage-a-step-by-step-guide/"><u>The Path to Perfect PS3 Game Footage A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-restrictions-protecting-data-through-updated-safety-protocols/"><u>Understanding the Restrictions: Protecting Data Through Updated Safety Protocols</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-decreasing-obs-stream-quality/"><u>[New] In 2024, Decreasing OBS Stream Quality</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ive-stream-audience-analysis-solutions/"><u>[New] Live Stream Audience Analysis Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-path-of-exile-failed-to-connect-to-instance-2024-guide/"><u>[SOLVED] Path Of Exile Failed To Connect To Instance – 2024 Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-night-avenger-black-vs-day-defender-silver/"><u>[Updated] Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>2024 Approved Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-6-tech-for-subtitle-creation-in-video/"><u>2024 Approved Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-achieve-deeper-sound-from-your-windows-system-three-easy-and-free-audio-enhancement-tricks/"><u>In 2024, Achieve Deeper Sound From Your Windows System – Three Easy and Free Audio Enhancement Tricks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-streamlining-production-workflow-extracting-audio-separately-on-a-mac-with-imovie/"><u>In 2024, Streamlining Production Workflow Extracting Audio Separately on a Mac with iMovie</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-the-ultimate-voice-transformation-handbook-for-gamers/"><u>In 2024, The Ultimate Voice Transformation Handbook for Gamers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-11-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 11 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/melody-cleanse-free-your-content-from-unwanted-musical-elements/"><u>Melody Cleanse Free Your Content From Unwanted Musical Elements</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-a-new-dawn-for-music-creation-a-compilation-of-the-most-promising-ai-composers/"><u>New A New Dawn for Music Creation A Compilation of the Most Promising AI Composers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-creating-synchronized-media-incorporating-video-into-audio-streams/"><u>New Creating Synchronized Media Incorporating Video Into Audio Streams</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-essential-guide-to-recording-dynamic-digital-audio-broadcasts/"><u>New The Essential Guide to Recording Dynamic Digital Audio Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-clipboard-issues-in-windows-11/"><u>Solving Clipboard Issues in Windows 11</u></a></li>
 </ul></div>
 

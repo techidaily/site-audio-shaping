@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2025-02-07T17:13:26.510Z
-updated: 2025-02-09T18:30:08.850Z
+date: 2025-02-17T19:10:32.139Z
+updated: 2025-02-19T21:36:17.046Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,10 +28,6 @@ _"Can you explain to us the simple method to execute **audio ducking**?”_
 
 I hope you're already aware of **the audio ducking** feature if you're into video editing or any music industry. The audio ducking is commonly to balance two audios. You can see the very typical application while balancing the background music with the person speaking there. So, the different voices would pop up and needs an adjustment according to the scenario. However, selecting the most straightforward process and genuine video editor is the user's responsibility to get the task done effectively. So, here, we would like to discuss the audio ducking function of **CyberLink PowerDirector** along with a suitable alternative - **Wondershare Filmora**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
 **CyberLink PowerDirector** is a video editing software with impeccable features, including Motion Tracking, Magic Movie Wizard, Encoding, Action Camera Tools, and so on. The **audio ducking** element in PowerDirector has automated the audio adjustment in terms of keyframes.
@@ -57,7 +53,7 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -77,7 +73,7 @@ All in all, the Wondershare Filmora is a remarkable video editor fulfilling the 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
@@ -103,7 +99,7 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,10 +109,14 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | ![](https://www.google.com/favicon.ico) | ![](https://www.youtube.com/favicon.ico) | ![](https://www.google.com/favicon.ico) | ![](https://www.google.com/images/branding/product/ico/maps_32dp.ico) | ![](https://en.wikipedia.org/favicon.ico) | ![](https://www.amazon.com/favicon.ico) |
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,20 +134,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-premium-webcast-systems-and-applications/"><u>[New] 2024 Approved Premium Webcast Systems & Applications</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-accelerate-keyword-acquisition-the-finest-7-free-taggification-apps-for-youtube-videos-for-2024/"><u>[New] Accelerate Keyword Acquisition The Finest 7 Free Taggification Apps for YouTube Videos for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-elite-choices-top-8-tripods-for-cinematic-4k-experiences/"><u>[Updated] Elite Choices Top 8 Tripods for Cinematic 4K Experiences</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-silencing-audio-in-updated-mkv-files-a-comprehensive-guide-mkv-2023/"><u>2024 Approved Silencing Audio in Updated MKV Files - A Comprehensive Guide (MKV-2023)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/best-radio-technologies-for-law-enforcement/"><u>Best Radio Technologies for Law Enforcement</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-various-blockchain-wallet-options-compatible-with-balance-checker-utilities-a-comprehensive-guide/"><u>Exploring Various Blockchain Wallet Options Compatible with Balance Checker Utilities: A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone SE (2020) Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-exposure-boost-for-your-social-media-visuals/"><u>In 2024, Exposure Boost for Your Social Media Visuals</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-guide-to-achieving-soundless-visual-content/"><u>In 2024, Guide to Achieving Soundless Visual Content</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-cutting-edge-mac-sound-slicer-enhanced-and-refined-features/"><u>New 2024 Approved Cutting-Edge Mac Sound Slicer Enhanced & Refined Features</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-enhancing-virtual-presence-the-ultimate-tutorial-on-using-morphvox-for-gamers-vocal-transformation/"><u>New 2024 Approved Enhancing Virtual Presence The Ultimate Tutorial on Using Morphvox for Gamers Vocal Transformation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-fade-in-and-fade-out-audio-in-adobe-after-effects/"><u>New 2024 Approved How to Fade In and Fade Out Audio in Adobe After Effects</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-art-of-leveraging-tension-evoking-soundtracks-in-cinematic-compositions/"><u>New 2024 Approved The Art of Leveraging Tension-Evoking Soundtracks in Cinematic Compositions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-choices-for-unconventional-peer-to-peer-dialogue-platforms-safety-efficiency-pleasure/"><u>New Top Choices for Unconventional Peer-to-Peer Dialogue Platforms Safety, Efficiency, Pleasure</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-nvidias-rtx-graphic-cards-benefits-functionality-and-more/"><u>The Ultimate Guide to Nvidia's RTX Graphic Cards - Benefits, Functionality, and More</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-examining-gopro-max-and-hero-11-pursuit-of-perfect-footage/"><u>[Updated] 2024 Approved Examining GoPro Max & Hero 11 Pursuit of Perfect Footage</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-effortless-transfer-of-images-to-ios-device/"><u>[Updated] Effortless Transfer of Images to iOS Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-audiovisual-updates-integrating-sounds-with-statuses/"><u>[Updated] In 2024, Audiovisual Updates Integrating Sounds with Statuses</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-dynamic-ocean-waves-interactive-desktop-wallpaper-by-yl-computing/"><u>1. Dynamic Ocean Waves: Interactive Desktop Wallpaper by YL Computing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-s17-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo S17 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-sound-sleuths-exceptional-music-detection-software-to-uncover-your-favorite-tunes-on-android/"><u>In 2024, Sound Sleuths Exceptional Music Detection Software to Uncover Your Favorite Tunes on Android</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-top-8-animated-audio-tracks-for-creatives-free-downloads/"><u>In 2024, Top 8 Animated Audio Tracks for Creatives Free Downloads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-ready-guide-to-cropping-and-exporting-videos-for-2024/"><u>Instagram-Ready Guide to Cropping & Exporting Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-icon-troubles-heres-how-to-restore-all-app-icons-on-your-iphone/"><u>Missing Icon Troubles? Here's How to Restore All App Icons on Your iPhone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-adobe-after-effects-sound-design-incorporating-audio-into-your-animations/"><u>New 2024 Approved Adobe After Effects Sound Design Incorporating Audio Into Your Animations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-pathway-to-pristine-recordings-removing-unwanted-noises-for-crystal-clear-sound/"><u>New 2024 Approved The Pathway to Pristine Recordings Removing Unwanted Noises for Crystal-Clear Sound</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-8-best-daw-for-hip-hop-music-production-for-2024/"><u>New 8 Best DAW for Hip-Hop Music Production for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-achieve-deeper-sound-from-your-windows-system-three-easy-and-free-audio-enhancement-tricks-for-2024/"><u>New Achieve Deeper Sound From Your Windows System – Three Easy and Free Audio Enhancement Tricks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-increase-volume-of-the-media-files-for-2024/"><u>New How to Increase Volume of the Media Files for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-skypepersona-transforming-your-digital-presence-with-customized-vocal-features/"><u>New SkypePersona Transforming Your Digital Presence with Customized Vocal Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985667652-troubleshooting-solutions-for-non-responsive-discord-overlays-instant-fixes/"><u>Troubleshooting Solutions for Non-Responsive Discord Overlays - Instant Fixes!</u></a></li>
 </ul></div>
 
